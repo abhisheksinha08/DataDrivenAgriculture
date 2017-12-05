@@ -1,18 +1,29 @@
-#setwd('./github/DataDrivenAgriculture/WaterTableDataExtracter/water_table_depth_quarterly')
 
 library(dplyr)
 library(tidyr)
 library(readr)
 library(stringr)
 
-# Read dataset that was extracted from PDF
-water_table_depth_quarterly <- read_csv("water_table_depth_quarterly_2014_2015.csv", 
-                                          col_types = cols(
-                                            `March 2014` = col_double(),
-                                            `July 2014` = col_double(),   
-                                            `November 2014` = col_double(),
-                                            `January 2015` = col_double(),
-                                            `Sl. No.` = col_skip()))
+setwd('./WaterTableDataExtracter/DepthQuarterly')
+
+# Describe the input CSV
+raw.input.csv.file.name <- "water_table_depth_quarterly_2014_2015_untidy.csv"
+tidy.output.csv.file.name <- "water_table_depth_quarterly_2014_2015.csv"
+
+quarterly.column.names <- c('District',  'Location', "March 2014", "July 2014", "November 2014" , "January 2015")
+
+input.col_types = cols(
+    `March 2014` = col_double(),
+    `July 2014` = col_double(),   
+    `November 2014` = col_double(),
+    `January 2015` = col_double(),
+    `Sl. No.` = col_skip())
+# End of input CSV description. No more changes should be required in script below.
+
+# START PROCESSING
+
+# Read dataset that was extracted from PDF. TODO: Investigate the warnings due to parsing failures and number of columns mismatch.
+water_table_depth_quarterly <- read_csv(raw.input.csv.file.name, col_types = input.col_types)
 
 
 water.table.df <- as.data.frame(water_table_depth_quarterly)
@@ -58,14 +69,14 @@ for(i in 1:total.rows) {
 }
 
 water.table.df.0 <- cbind(water.table.df, district.name, location.name)
-names(water.table.df.0)[names(water.table.df.0) == 'district.name'] <- 'District'
-names(water.table.df.0)[names(water.table.df.0) == 'location.name'] <- 'Location'
+names(water.table.df.0)[names(water.table.df.0) == 'district.name'] <- quarterly.column.names[1]
+names(water.table.df.0)[names(water.table.df.0) == 'location.name'] <- quarterly.column.names[2]
 # End of district value population for all locations.
 
 
 # There is a column for each quarter dimension i.e. 4 columns. This we need to tidyfy so that there is only one column specifying the quarter
 # - thus normalizing 1 row into 4 rows with each row containing only one fact column.
-water.table.df.1 <-select(water.table.df.0, 'District',  'Location', "March 2014", "July 2014", "November 2014" , "January 2015")
+water.table.df.1 <-select(water.table.df.0, quarterly.column.names)
 head(water.table.df.1, 15)
 
 # Tidy up the multiple columns for each quarter using gather
@@ -75,5 +86,8 @@ head(water.table.df.2, 15)
 # Summary of tidy dataset
 summary(water.table.df.2)
 
+# END PROCESSING
+
 # Write as CSV to output file
-write.csv(water.table.df.2, file = "WaterTableDepthQuarterly_2014_2015_tidy.csv")
+write.csv(water.table.df.2, file = tidy.output.csv.file.name)
+

@@ -1,408 +1,1629 @@
-"Sl. No.","[District:]Location","March 2014","July 2014","November 2014","January 2015"
-1.,AMBALA:Ambala Cantt,-,-,-,-
-2.,Balana,-,-,-,-,
-3.,Dhanaura,-0.99,-0.01,0.68,0.49,
-4.,Kakru,-0.15,-0.12,-0.59,-0.45,
-5.,Khanahmadpur,-1.02,0.29,0.88,1.43,
-6.,Mulana,-,-,0.02,-,
-7.,Naraingarh,-,-,-,-,
-8.,Panjokhra,-,-,-1.60,-0.52,
-9.,Pinjola,-,-,-,-,
-10.,Saha S,-,-,-,-,
-11.,BHIWANI:Badala,-,-,-0.30,-
-12.,Bajina,-0.50,0.10,-0.13,-0.30,
-13.,Bamla,2.82,-,0.10,0.03,
-14.,Baundkalan,-,-1.18,-0.80,-0.48,
-15.,Bhawani khera DW,-,-,-0.17,-0.16,
-16.,Bhawani Khera Pz,-,-,0.00,-,
-17.,Bohal,-,-0.14,0.07,0.06,
-18.,Chirya,-,-0.41,-2.29,-2.68,
-19.,Dadri1,-,-,-,-,
-20.,Dadri-Pz,-,-,0.35,-,
-21.,Dhanana,-,-0.12,0.07,-,
-22.,Gopi,-,-,-0.35,-,
-23.,Gurera,-,-0.05,0.48,-,
-24.,Gurera-pz,-,-,-0.24,-,
-25.,Haluwas,-0.38,0.08,-0.90,-0.97,
-26.,Imlota,-,-,-,-,
-27.,Isharwal,-,-,-0.09,-,
-28.,Jhumpa,1.60,-0.30,1.46,1.21,
-29.,Jhumpa PZM,-,-,-,-,
-30.,Jhumpa Kalan,-,-,-,-,
-31.,Juikalan,-,-,-,-,
-32.,Juikalan Pz,-,-,-0.20,-,
-33.,Lohani,-,-0.15,-0.12,-,
-34.,Manhairu,-,-,-0.10,0.02,
-35.,Mauhala,-,-,-0.02,-0.43,
-36.,Mehrana,-,-,0.10,-,
-37.,Miran,-,-,-0.74,-,
-38.,Miran-Pz,-,-,0.20,-,
-39.,Nayaatela,-2.20,-,-0.40,-0.15,
-40.,Pataudi Khurd,-,-,-,-,
-41.,Sagban,-,-,-,-,
-42.,Sangwan PZM,-,-,-0.03,-,
-43.,Sanwar,-1.20,-,0.95,-,
-44.,Singhani-pz,-,-,-1.15,-,
-45.,Siwani,-0.32,0.17,0.03,0.12,
-46.,Sui,-0.11,0.06,0.00,0.26
-47.,Tosham,-,-1.03,-,-,
-48.,Tosham-Pz,-,-,0.13,0.03,
-49.,FARIDABAD:Achheja,-,-,-1.65,-
-50.,Badraun,-,-,-0.50,-,
-51.,Baghaula,-,-,0.37,0.25,
-52.,Ballabhgarh,--,-,-,-,
-53.,Barauli-Pz,-,-,-1.37,-,
-54.,Bhopani,-,-,-0.05,-,
-55.,Dighaut,-,-,-0.20,-,
-56.,Hathin,-,-,-,-,
-57.,Hasanpur,-,-,-,-,
-58.,Jaindapur,-,-,-1.68,-,
-59.,Jawan- Pz,-,-,-1.05,-,
-60.,Kabulpur,-,-,-2.10,-,
-61.,Khambi,-,-,0.67,-,
-62.,Kot,-,-,-2.63,0.61,
-63.,Lakhnaka,-,-,0.69,-,
-64.,Lalwa,-,-,-,-,
-65.,NH-IV CHQ PZ S,-,-,-3.63,-,
-66.,Pali2,-,-,-2.99,-,
-67.,Palwal,-,--,-0.88,-,
-68.,Palwal-Pz,-,-,-,-,
-69.,Pehladpur-Pz,-,-,-0.68,-,
-70.,Pelak-Pz,-,-,-,-,
-71.,Rasul Pur,-0.50,-0.60,-0.49,-,
-72.,Thekarka,-,-,-,-,
-73.,Tigaon-Pz,-,-,-,-,
-74.,Tumsara,-,-,0.04,-1.30,
-75.,FATEHABAD:Aharwan S,-,-,-0.20,-
-76.,Badopal,-0.21,-,0.21,0.08,
-77.,Jandli Kalan,-,-0.04,-0.62,-,
-78.,Mehu Wala Pz,-,-,0.01,-,
-79.,Nahla,-,-0.28,-1.39,-0.81,
-80.,Ratia- Pz,-,-,-,-,
-81.,Sadalpur,-,-1.85,-0.55,-0.55,
-82.,Samain,-,-,1.64,-,
-83.,Sohu,-,-0.54,-,-0.48,
-84.,Tohana,-,-,-,-,
-85.,Uklana Mandi-Pz,-,-,-,-,
-86.,GURGAON:Akaira,-,-0.40,3.90,-1.30
-87.,Akbarpur,-,0.75,0.38,0.15,
-88.,Basonda Tripati-Pz,-,-,-0.79,-,
-89.,Chandu Tikly,-,-,-,-,
-90.,Firozepur Jhirka,-,0.05,-1.85,-,
-91.,Fazilpur Badli-Pz,-,-,-,-,
-92.,Gulaltha,-,-,-0.52,-,
-93.,Gurgaon,-,-,-,-,
-94.,Gurgaon Pz,-,-,-,-,
-95.,Indri,-,-,-,-,
-96.,Jaraon Pz,-,-,0.18,-,
-97.,Jhanjrola,-,-,1.20,-
-98.,"Khera Khurrampur-Pz",-,-,-,-,
-99.,Kadipur,-,-,-,-,
-100.,Kasan,-,-,0.23,-,
-101.,Kheri1,-,-,-1.49,-,
-102.,Kherla,-,-,-,-,
-103.,Khori kalan,-,-,-,-,
-104.,Lokra – Pz,-,-,-,-,
-105.,Luhingakalan,-,-,-0.48,-,
-106.,Malab,-,-0.89,-1.15,-,
-107.,Meoka-Pz,-,-,-0.71,-,
-108.,Mouzabad,-,-,-,--,
-109.,Nagina,-,-,-1.16,-,
-110.,Naharika-Pz,-,-,0.64,-,
-111.,Nurgarh-Pz,-,-,-,-,
-112.,Nuh1,-,-,-,-,
-113.,Pipaka,-,-,-,-,
-114.,Pipaka-Shashola,-,-,-,-,
-115.,Siwari-Pz,-,0.90,-,-1.20,
-116.,Sikarwa,-,-,-0.77,-,
-117.,Sohna,-,-,-,-,
-118.,Wazirpur-Pz,-,-,-0.49,-,
-119.,HISAR:Adampur-Pz,-0.09,-,-0.90,-0.88
-120.,Agroha-Pz,-,-,0.12,-,
-121.,Balawas1,-0.85,-,0.55,0.90,
-122.,Balsamand,-,-,-1.35,-,
-123.,Balsamand-Pz,0.61,-,-0.58,-,
-124.,Banbhauri-Pz,0.45,-,-0.98,-0.75,
-125.,Barwala abd,-,-,-,-1.69,
-126.,Barwala 1,-,-,-,-,
-127.,Barwala-Pz,0.31,-,-0.16,0.04,
-128.,Bas,-,-,0.05,-,
-129.,Basra,1.03,-,-0.99,1.00,
-130.,Behbalpur-Pz,0.00,-,-0.66,0.31,
-131.,Chanaut,0.43,-,-1.21,-0.85,
-132.,Chawdhariwas,-0.09,-0.05,-0.10,-0.55,
-133.,Dhamundicross,-,-,-,-,
-134.,Dhansu,0.09,-0.11,-0.21,-,
-135.,Ghaibipur,-,-,-,-,
-136.,Ghursal-Pz,0.07,-,-0.22,-0.02,
-137.,Hissar-Pz,-,-0.52,-1.52,-1.61,
-138.,Juglan,-,-,-0.64,-,
-139.,Kanoh-Pz,-,-0.71,-0.40,-0.42,
-140.,Khanda Kheri-Pz,-,-,-0.86,-,
-141.,Kherijalab-Pz,-,1.15,2.15,0.60,
-142.,Khotkalan,-1.15,-,0.55,0.85,
-143.,Kirori,-0.57,-,-0.20,-,
-144.,Kirtan,-0.07,-0.08,1.07,-0.13,
-144.,Mangali-Pz,-0.06,-0.36,-0.31,-0.51,
-145.,Mirka,-,-,-,-,
-146.,Mothmajri,-0.05,-1.95,-0.99,-0.70
-147.,Narnaud S,-,-,-2.14,-,
-148.,Rajli Cross,0.50,-3.22,-1.60,-0.99,
-149.,Rajthal1,-,-,0.59,-,
-150.,Samani,-,0.10,-,-0.30,
-151.,Sorkhi-Pz,-,-,0.49,-,
-152.,Umra,0.42,-,-0.55,-,
-153.,JHAJJAR:Badli,-1.88,-,-,-
-154.,Bagoa,-,1.23,0.03,0.48,
-155.,Chamanpura,-,-1.92,-0.34,-1.25,
-156.,Chhara,-,-0.27,-0.52,-0.62,
-157.,Chuchakwas,-1.03,-1.82,0.08,-0.02,
-158.,Dighal,-,0.11,-1.37,0.11,
-159.,Dubhaldhan,-,-,0.91,-,
-160.,Dulhera,-,-0.13,-1.53,-1.53,
-161.,Hasanpur,-,-,-,-,
-162.,Gabhana,-,-,-,-,
-163.,Jhajjar,-,0.68,-0.09,-0.25,
-164.,Kulasi,-,-,-,0.37,
-165.,Mudsa,-,-,0.82,-,
-166.,Salhawas,-,-,-,-,
-167.,Subnah,-,-,-,-,
-168.,Sankol,-,-,0.17,-,
-169.,Wazirpur,-,-,0.14,-,
-170.,JIND:Alewa Pz,-,-,-,-
-171.,ATI Krishna1(s),-,-,-3.63,-,
-172.,Baroda,-,-,0.21,-,
-173.,Bhuslana-Pz,--,-,-1.72,-,
-174.,Brahmanwas,-,-,1.69,-,
-175.,Chhabri,-,4.58,0.04,-0.43,
-176.,Dhandauli Pz,-,-,-,-,
-177.,Dorana Pz,-,-,-0.81,-,
-178.,Ghaso,-,-,-3.4,-,
-179.,Jhamula,-,-,0.33,-0.17,
-180.,Julana Pz,0.30,-,0.55,-,
-181.,Khatkaran,-,-,1.08,-,
-182.,Korar,-,-,1.35,1.00,
-183.,Lochp Pz,-,-,-,-,
-184.,Mohal Khera Pz,-,-,0.37,-,
-185.,Narwana S,-,-,-0.70,-,
-186.,Narwana S-Pz,-,-,-,-,
-187.,Pillukhera,-,-,0.50,-,
-188.,Safidon (s),-,-,-1.95,-,
-189.,Safidon 1(s),-,-,-0.58,-,
-190.,Uchana,0.85,-,-,-0.95,
-191.,Uchana Pz,-,-,-,-,
-192.,KAITHAL:Bhana-Pz,-,-,-2.14,-
-193.,Guhna,1.60,-3.40,-,-2.70,
-194.,Jakhauli-Pz,-,-,-,-,
-195.,Jandaula-Pz,-,-,-1.85,-,
-196.,Jateri,-,-,-2.13,-,
-197.,Kaithal S,-,-,-,-
-198.,Kalayat,-,-,-1.85,-,
-199.,Kalayat S,-,-,-2.13,-,
-200.,Kathana-Pz,-0.25,-2.05,-,-,
-201.,Kelaram,-,-,-2.02,-,
-202.,Kheorak-Pz,-,-,-4.74,-,
-203.,Manaspatti-Pz,0.62,-2.42,-3.17,-3.02,
-204.,Mataur,-,-,-0.97,-,
-205.,Mundri,-,-,1.79,-,
-206.,Padla 1(s),-,-,-,-,
-207.,Peoda_Pz,-1.43,-,-1.22,-,
-208.,Pundri(s),-,-,-1.93,-,
-209.,Rajaund-Pz,-,-,-2.48,-,
-210.,Rajound S,-2.15,--,-,-,
-211.,Sirsal-Pz,-,-,-5.00,-,
-212.,Titiana 1(s),-,-,-,-,
-213.,KARNAL:Amin S,-,-,-0.47,-
-214.,Balhera-s,-,-,-,-,
-215.,Dadupur Khurd-Pz,-,-,-1.54,-1.95,
-216.,Dhomsi(shallow),-,-,-,-,
-217.,Dingar Majra-Pz,1.42,-10.12,-2.56,-1.37,
-218.,Domsi D,-,-,-,-,
-219.,Faridpur-Pz,2.10,-5.00,-4.10,-0.50,
-220.,Gangatheri,-,-4.31,-4.81,-,
-221.,Garhi Khajur S,-,-,-1.71,-,
-222.,Indri,-,-,-,-,
-223.,Jabhala-Pz,1.08,-,-,-,
-224.,Jaroli Khurd-Pz,-,-,-0.18,-,
-225.,Jundla1,-,-,-4.18,-,
-226.,Kalri Jagir S,-,-,1.59,-,
-227.,Kutail S,--,--,-1.65,-,
-228.,Majra Roran,-,-,-0.02,-,
-229.,Makhala S,-,-,0.32,-,
-230.,Mohidinpur-Pz,-,-,-0.93,0.25,
-231.,Mound S,-,-,-3.35,-,
-232.,Nalvi Kalan-Pz,-,-,1.05,-,
-233.,Nanhera,-,-,-,-,
-234.,Phurlak S,-,-,-2.87,-,
-235.,Salwan-B,-3.83,-,-,-,
-236.,Sambli-Pz-M,-,-,-,-,
-237.,Sambli-Pz-S,-,-,-,-,
-238.,Saunkra S,-,-,-,-,
-239.,"Sugar Cane Breeding Farm",-,-,-,-,
-240.,KURUKSHETRA:Bachki-Pz,0.50,-4.40,-4.09,-
-241.,Ban- Pz,1.76,-4.37,-1.85,-,
-242.,Baronda-Pz,-1.32,-3.93,0.04,1.07,
-243.,Berthala S,-,-,-1.04,-,
-244.,Bodhni (s),-,-,0.60,-,
-245.,Dabkhera-Pz,-,-5.25,-2.26,-,
-246.,Hatira  (s),-,-,-0.31,-,
-247.,Ishaque S,-,-,0.12,-
-248.,Kaulapur S,-,-,-0.68,-,
-249.,"Malikpur-Singhpura-Pz",-0.05,-6.65,-0.33,-,
-250.,Murtzapur-Pz,0.04,-1.30,-2.08,-,
-251.,Pehowa 3 (s),-,-,-,-,
-252.,Samalkhi-Pz,1.52,-,0.40,-,
-253.,Sirsala-Pz,-,-8.92,-5.00,-,
-254.,MAHENDRAGARH:Buwana-Pz,-,-1.40,-2.53,-
-255.,Khatodra-Pz,-1.78,-,-3.94,-,
-256.,Lukhi,-,-,0.77,1.05,
-257.,Narnaul,-2.46,2.96,-1.42,3.16,
-258.,PANCHKULA:Devnagar(Panchkula),-,-,0.74,1.11
-259.,Dharampur,-,-,4.48,-,
-260.,Kakar Majra,-,-,0.74,-,
-261.,Khera,-,-,1.56,-,
-262.,Parwala,-,-,0.99,-,
-263.,Patwi,-0.24,0.24,-0.21,-0.35,
-264.,Raipur Rani-Pz,-,-,-,-,
-265.,Raipurrani,-6.47,7.11,-1.96,-,
-266.,PANIPAT:Babail Pz S,-,-,-0.45,-
-267.,Babail VS-Pz,-,-,-,-,
-268.,Bhallour Pz,-,-,-,-,
-269.,Dakadla S,-,-,-4.36,-,
-270.,Dharamgarh S,-,-,-,-,
-270.,Etola-Pz-M,-,-,-,-,
-271.,Etola-Pz-S,-,-,-,-,
-272.,Hathwala-Pz,-0.26,-1.34,-1.09,0.06,
-273.,Israna Pz,-,-,0.00,-,
-274.,Karhansh Pz,-,-,-3.40,-,
-275.,Khalila Manjran,-,-,1.33,0.18,
-276.,Khelalla Pehl S,-,-,-3.44,-,
-277.,Lohari (s),-,-,0.77,-,
-278.,Nariana-PZ,-,-,-1.85,-0.85,
-279.,Nimbri- Pz,0.28,-3.80,-2.60,-1.55,
-280.,Patti Kalyana S,-,-,-,-,
-281.,Puther Pz,-,-,-,-,
-282.,Sanauli Khurd-Pz,-2.23,-2.37,2.43,-,
-283.,Shahpur,-,-,0.68,-,
-284.,Sink,-,-,0.49,-,
-285.,Untilya,-0.55,-0.75,0.10,0.15,
-286.,Urlana Kalan,-,-,-0.24,-0.90,
-287.,REWARI:Bahu,-2.26,-,1.66,-
-288.,Bawal,-,-,-0.54,-,
-289.,Bawal DW,-,-0.50,-0.40,-,
-290.,Bawal Pz,-,-,-,-,
-291.,Gangaichajat,-,-,-,-,
-292.,Karnawas,-0.58,-,-0.98,-,
-293.,Kosli,0.53,-,-,-,
-294.,Mandola-Pz,1.20,-2.45,-3.35,-,
-295.,Rholiawas-Pz,-,-,-,-
-296.,Sangwari,-,-,-,-,
-297.,ROHTAK,Baland,-,-,20.15,-
-298.,Bhal Anandpur,-0.75,0.09,0.34,0.44,
-299.,Hassangarh,-,-,-,-,
-300.,Kansala,-,0.22,0.51,-,
-301.,Kharawar,-,0.00,-0.59,-,
-302.,Lakhan Majara,-,-,-0.03,-,
-303.,Madina,-,-0.29,-0.06,-0.03,
-304.,Mahem,-,-0.99,-1.39,-1.44,
-305.,Samargopalpur,-,0.49,0.91,1.31,
-306.,Sampla,-,-,0.25,-,
-307.,Sampla -Pz,-,-,-,-,
-308.,SIRSA:Bhuratwala-Pz,0.09,-0.97,-0.54,-
-309.,Chormar,-,-,-0.76,-,
-310.,Chptala,-,-,-,-,
-311.,Chotala-Pz,-,-0.27,-0.40,-,
-312.,Dabwali Dw,-,-,-0.38,-,
-313.,Dabwali -Pz S,-,-6.52,-2.84,-,
-314.,Darba Kalan-Pz,-,0.92,0.75,0.59,
-315.,Ding,-,-,0.22,-,
-316.,Ganga,-,-,-,-,
-317.,Ghushiana,-0.06,-0.02,-0.82,-,
-318.,Gigorani,-,-1.04,-0.98,-,
-319.,Goriwala,0.45,-0.70,-0.53,-,
-320.,Goriwala-Pz,0.43,-0.53,-,-,
-321.,Jamal,-,-,-1.05,-,
-322.,Jamal- Pz,-,-,-,-,
-323.,Kalanwali Mandi-Pz,-,-,-1.00,-,
-324.,Kaluwana,0.01,-,-0.52,-,
-325.,Karamsana,-,-,-0.51,-,
-326.,Kash Ram Dhab,0.80,-,-0.73,-,
-327.,Khuyian,-,-,-,-,
-328.,Mammer Khera-Pz,-,-,-,-,
-329.,Mangala-Pz,0.95,-,-,--,
-330.,Manjiyana,0.05,-0.47,-0.60,-,
-331.,Mastian,-,-,-,-,
-332.,Mithri,-,-,-0.77,-,
-333.,Nuhian Wali,-,-,0.14,-,
-334.,Odhan Pz,-,-,0.03,-,
-335.,Panniwala Mota,-0.12,0.04,0.43,-,
-336.,Phaggu-Pz,0.06,-0.23,-0.23,-,
-337.,Rasalia Khera,0.01,-0.05,-0.04,-,
-338.,Rori -DW,-,-,-,-,
-339.,Saktakhera,-,-,-0.37,-0.38,
-340.,Shergarh - DW,-,-,-,-,
-341.,Sherpura,-,0.12,0.13,0.15,
-342.,Sirsa -PZ,-,-,-,-,
-343.,Sri Jiwan Nagar-B,-,-,-3.38,-,
-344.,Taruwana,-,3.90,-0.08,-,
-345.,Tejakhera,-,-,0.75,-,
-346.,SONIPAT:Ahulana,0.43,-0.75,0.15,-
-347.,Barauli - pz,-,-,-,-,
-348.,Barswani- DW,-,-,-0.34,-,
-349.,Barwasni Pz (s),-,-,-1.17,--,
-350.,Bega -PZ,-,-,-,-,
-351.,Bhainswal,-0.32,-,0.85,-,
-352.,Bhunderi,-,-,-0.31,-,
-353.,Bichpuri 1,-,-,-,-,
-354.,Bohela,-,-,1.00,-,
-355.,Butana,-1.57,1.70,0.87,--,
-356.,Chirana,-,-2.50,-,-,
-357.,Datauli-Pz,0.22,-,-2.88,-,
-358.,Farmana,-,0.40,0.70,-,
-359.,Garhwal,-,-,-0.13,-,
-360.,Gohana - Pz,-,-,-,-,
-361.,Jagsi,-,-,0.60,--,
-362.,Janti Khurd-Pz,-,-,-,-,
-363.,Jhakauli- Pz,-,-,-1.23,-,
-364.,Kami- PZ,0.79,-,-2.35,-,
-365.,Kathura Pz,-,-,0.55,-,
-366.,Khanpur Kalan-Pz,-,-,-1.89,-,
-367.,KheoraPz,-,-,-2.70,-,
-368.,Lath,-,-0.36,-0.11,-,
-369.,Machhri,0.07,-,1.65,-,
-370.,Manauli-Pz,-,-,-,-,
-371.,Mahara,-0.01,-,-0.60,-,
-372.,Mohana Pzm,-,-,-0.89,-,
-373.,Mundlana DW,-,-,-,1.21,
-374.,Mundlana- Pz,-,-5.28,-2.95,-,
-375.,Murthal-Pz,-0.56,-0.04,-0.09,-,
-376.,Nahri,-0.85,-0.35,1.07,-,
-377.,Pinana,-0.22,-,-0.93,-,
-378.,Pugthala-Pz,-,-0.70,-0.60,-,
-379.,Purkhas-Pz,-1.41,1.58,-1.19,-,
-380.,Rai(Bahalgarh),-,-,-2.43,-,
-381.,Rasoi pz,-,-,-,-,
-382.,Rathdhana-Pz,-0.51,-1.64,-0.19,-,
-383.,Rohat,-,0.38,-2.97,-,
-384.,Rukhi-Pz,-,0.64,-1.06,-,
-385.,Sisnah,-,-,0.19,-,
-386.,YAMUNANAGAR:Amadalpur,-,-,-,-
-387.,Amadalpur-DW,-,-,-,-,
-388.,Bhambauli-1 (m),-,-,-,-,
-389.,Bilaspur DW,-0.54,-,-,-,
-390.,Chhachrauli S,-,-,-0.31,-,
-391.,Choli,-1.02,-,0.83,-,
-392.,Dhanauri S,-,-,-,--,
-393.,Dhaurang S,-,-,0.02,-,
-394.,Jhiwarheri S,-,-,-2.86,-,
-395.,Khizrabad,-,-,0.97,-,
-396.,Mustafabad DW,-0.70,0.10,0.20,1.08,
-397.,Mustafabad-Pz,-,-,-0.22,-
-398.,Naggal-S,-,-,-0.64,-,
-399.,Radaur S,-,-,-,-,
-400.,Rasulpur,-,-,-,-,
-401.,Rasulpur DW,-,-,-1.20,-,
-402.,Sabri,-0.38,0.38,0.40,-,
-403.,Sadhaura DW,1.03,-1.04,-,-,
-404.,Sadhaura S,-,-,0.30,-,
-405.,Shadipur,-,-,-0.43,-,
+"","District","Location","Quarter","Depth"
+"1","AMBALA","Ambala Cantt","March 2014",NA
+"2","AMBALA","Balana","March 2014",NA
+"3","AMBALA","Dhanaura","March 2014",-0.99
+"4","AMBALA","Kakru","March 2014",-0.15
+"5","AMBALA","Khanahmadpur","March 2014",-1.02
+"6","AMBALA","Mulana","March 2014",NA
+"7","AMBALA","Naraingarh","March 2014",NA
+"8","AMBALA","Panjokhra","March 2014",NA
+"9","AMBALA","Pinjola","March 2014",NA
+"10","AMBALA","Saha S","March 2014",NA
+"11","BHIWANI","Badala","March 2014",NA
+"12","BHIWANI","Bajina","March 2014",-0.5
+"13","BHIWANI","Bamla","March 2014",2.82
+"14","BHIWANI","Baundkalan","March 2014",NA
+"15","BHIWANI","Bhawani khera DW","March 2014",NA
+"16","BHIWANI","Bhawani Khera Pz","March 2014",NA
+"17","BHIWANI","Bohal","March 2014",NA
+"18","BHIWANI","Chirya","March 2014",NA
+"19","BHIWANI","Dadri1","March 2014",NA
+"20","BHIWANI","Dadri-Pz","March 2014",NA
+"21","BHIWANI","Dhanana","March 2014",NA
+"22","BHIWANI","Gopi","March 2014",NA
+"23","BHIWANI","Gurera","March 2014",NA
+"24","BHIWANI","Gurera-pz","March 2014",NA
+"25","BHIWANI","Haluwas","March 2014",-0.38
+"26","BHIWANI","Imlota","March 2014",NA
+"27","BHIWANI","Isharwal","March 2014",NA
+"28","BHIWANI","Jhumpa","March 2014",1.6
+"29","BHIWANI","Jhumpa PZM","March 2014",NA
+"30","BHIWANI","Jhumpa Kalan","March 2014",NA
+"31","BHIWANI","Juikalan","March 2014",NA
+"32","BHIWANI","Juikalan Pz","March 2014",NA
+"33","BHIWANI","Lohani","March 2014",NA
+"34","BHIWANI","Manhairu","March 2014",NA
+"35","BHIWANI","Mauhala","March 2014",NA
+"36","BHIWANI","Mehrana","March 2014",NA
+"37","BHIWANI","Miran","March 2014",NA
+"38","BHIWANI","Miran-Pz","March 2014",NA
+"39","BHIWANI","Nayaatela","March 2014",-2.2
+"40","BHIWANI","Pataudi Khurd","March 2014",NA
+"41","BHIWANI","Sagban","March 2014",NA
+"42","BHIWANI","Sangwan PZM","March 2014",NA
+"43","BHIWANI","Sanwar","March 2014",-1.2
+"44","BHIWANI","Singhani-pz","March 2014",NA
+"45","BHIWANI","Siwani","March 2014",-0.32
+"46","BHIWANI","Sui","March 2014",-0.11
+"47","BHIWANI","Tosham","March 2014",NA
+"48","BHIWANI","Tosham-Pz","March 2014",NA
+"49","FARIDABAD","Achheja","March 2014",NA
+"50","FARIDABAD","Badraun","March 2014",NA
+"51","FARIDABAD","Baghaula","March 2014",NA
+"52","FARIDABAD","Ballabhgarh","March 2014",NA
+"53","FARIDABAD","Barauli-Pz","March 2014",NA
+"54","FARIDABAD","Bhopani","March 2014",NA
+"55","FARIDABAD","Dighaut","March 2014",NA
+"56","FARIDABAD","Hathin","March 2014",NA
+"57","FARIDABAD","Hasanpur","March 2014",NA
+"58","FARIDABAD","Jaindapur","March 2014",NA
+"59","FARIDABAD","Jawan- Pz","March 2014",NA
+"60","FARIDABAD","Kabulpur","March 2014",NA
+"61","FARIDABAD","Khambi","March 2014",NA
+"62","FARIDABAD","Kot","March 2014",NA
+"63","FARIDABAD","Lakhnaka","March 2014",NA
+"64","FARIDABAD","Lalwa","March 2014",NA
+"65","FARIDABAD","NH-IV CHQ PZ S","March 2014",NA
+"66","FARIDABAD","Pali2","March 2014",NA
+"67","FARIDABAD","Palwal","March 2014",NA
+"68","FARIDABAD","Palwal-Pz","March 2014",NA
+"69","FARIDABAD","Pehladpur-Pz","March 2014",NA
+"70","FARIDABAD","Pelak-Pz","March 2014",NA
+"71","FARIDABAD","Rasul Pur","March 2014",-0.5
+"72","FARIDABAD","Thekarka","March 2014",NA
+"73","FARIDABAD","Tigaon-Pz","March 2014",NA
+"74","FARIDABAD","Tumsara","March 2014",NA
+"75","FATEHABAD","Aharwan S","March 2014",NA
+"76","FATEHABAD","Badopal","March 2014",-0.21
+"77","FATEHABAD","Jandli Kalan","March 2014",NA
+"78","FATEHABAD","Mehu Wala Pz","March 2014",NA
+"79","FATEHABAD","Nahla","March 2014",NA
+"80","FATEHABAD","Ratia- Pz","March 2014",NA
+"81","FATEHABAD","Sadalpur","March 2014",NA
+"82","FATEHABAD","Samain","March 2014",NA
+"83","FATEHABAD","Sohu","March 2014",NA
+"84","FATEHABAD","Tohana","March 2014",NA
+"85","FATEHABAD","Uklana Mandi-Pz","March 2014",NA
+"86","GURGAON","Akaira","March 2014",NA
+"87","GURGAON","Akbarpur","March 2014",NA
+"88","GURGAON","Basonda Tripati-Pz","March 2014",NA
+"89","GURGAON","Chandu Tikly","March 2014",NA
+"90","GURGAON","Firozepur Jhirka","March 2014",NA
+"91","GURGAON","Fazilpur Badli-Pz","March 2014",NA
+"92","GURGAON","Gulaltha","March 2014",NA
+"93","GURGAON","Gurgaon","March 2014",NA
+"94","GURGAON","Gurgaon Pz","March 2014",NA
+"95","GURGAON","Indri","March 2014",NA
+"96","GURGAON","Jaraon Pz","March 2014",NA
+"97","GURGAON","Jhanjrola","March 2014",NA
+"98","GURGAON","Khera Khurrampur-Pz","March 2014",NA
+"99","GURGAON","Kadipur","March 2014",NA
+"100","GURGAON","Kasan","March 2014",NA
+"101","GURGAON","Kheri1","March 2014",NA
+"102","GURGAON","Kherla","March 2014",NA
+"103","GURGAON","Khori kalan","March 2014",NA
+"104","GURGAON","Lokra – Pz","March 2014",NA
+"105","GURGAON","Luhingakalan","March 2014",NA
+"106","GURGAON","Malab","March 2014",NA
+"107","GURGAON","Meoka-Pz","March 2014",NA
+"108","GURGAON","Mouzabad","March 2014",NA
+"109","GURGAON","Nagina","March 2014",NA
+"110","GURGAON","Naharika-Pz","March 2014",NA
+"111","GURGAON","Nurgarh-Pz","March 2014",NA
+"112","GURGAON","Nuh1","March 2014",NA
+"113","GURGAON","Pipaka","March 2014",NA
+"114","GURGAON","Pipaka-Shashola","March 2014",NA
+"115","GURGAON","Siwari-Pz","March 2014",NA
+"116","GURGAON","Sikarwa","March 2014",NA
+"117","GURGAON","Sohna","March 2014",NA
+"118","GURGAON","Wazirpur-Pz","March 2014",NA
+"119","HISAR","Adampur-Pz","March 2014",-0.09
+"120","HISAR","Agroha-Pz","March 2014",NA
+"121","HISAR","Balawas1","March 2014",-0.85
+"122","HISAR","Balsamand","March 2014",NA
+"123","HISAR","Balsamand-Pz","March 2014",0.61
+"124","HISAR","Banbhauri-Pz","March 2014",0.45
+"125","HISAR","Barwala abd","March 2014",NA
+"126","HISAR","Barwala 1","March 2014",NA
+"127","HISAR","Barwala-Pz","March 2014",0.31
+"128","HISAR","Bas","March 2014",NA
+"129","HISAR","Basra","March 2014",1.03
+"130","HISAR","Behbalpur-Pz","March 2014",0
+"131","HISAR","Chanaut","March 2014",0.43
+"132","HISAR","Chawdhariwas","March 2014",-0.09
+"133","HISAR","Dhamundicross","March 2014",NA
+"134","HISAR","Dhansu","March 2014",0.09
+"135","HISAR","Ghaibipur","March 2014",NA
+"136","HISAR","Ghursal-Pz","March 2014",0.07
+"137","HISAR","Hissar-Pz","March 2014",NA
+"138","HISAR","Juglan","March 2014",NA
+"139","HISAR","Kanoh-Pz","March 2014",NA
+"140","HISAR","Khanda Kheri-Pz","March 2014",NA
+"141","HISAR","Kherijalab-Pz","March 2014",NA
+"142","HISAR","Khotkalan","March 2014",-1.15
+"143","HISAR","Kirori","March 2014",-0.57
+"144","HISAR","Kirtan","March 2014",-0.07
+"145","HISAR","Mangali-Pz","March 2014",-0.06
+"146","HISAR","Mirka","March 2014",NA
+"147","HISAR","Mothmajri","March 2014",-0.05
+"148","HISAR","Narnaud S","March 2014",NA
+"149","HISAR","Rajli Cross","March 2014",0.5
+"150","HISAR","Rajthal1","March 2014",NA
+"151","HISAR","Samani","March 2014",NA
+"152","HISAR","Sorkhi-Pz","March 2014",NA
+"153","HISAR","Umra","March 2014",0.42
+"154","JHAJJAR","Badli","March 2014",-1.88
+"155","JHAJJAR","Bagoa","March 2014",NA
+"156","JHAJJAR","Chamanpura","March 2014",NA
+"157","JHAJJAR","Chhara","March 2014",NA
+"158","JHAJJAR","Chuchakwas","March 2014",-1.03
+"159","JHAJJAR","Dighal","March 2014",NA
+"160","JHAJJAR","Dubhaldhan","March 2014",NA
+"161","JHAJJAR","Dulhera","March 2014",NA
+"162","JHAJJAR","Hasanpur","March 2014",NA
+"163","JHAJJAR","Gabhana","March 2014",NA
+"164","JHAJJAR","Jhajjar","March 2014",NA
+"165","JHAJJAR","Kulasi","March 2014",NA
+"166","JHAJJAR","Mudsa","March 2014",NA
+"167","JHAJJAR","Salhawas","March 2014",NA
+"168","JHAJJAR","Subnah","March 2014",NA
+"169","JHAJJAR","Sankol","March 2014",NA
+"170","JHAJJAR","Wazirpur","March 2014",NA
+"171","JIND","Alewa Pz","March 2014",NA
+"172","JIND","ATI Krishna1(s)","March 2014",NA
+"173","JIND","Baroda","March 2014",NA
+"174","JIND","Bhuslana-Pz","March 2014",NA
+"175","JIND","Brahmanwas","March 2014",NA
+"176","JIND","Chhabri","March 2014",NA
+"177","JIND","Dhandauli Pz","March 2014",NA
+"178","JIND","Dorana Pz","March 2014",NA
+"179","JIND","Ghaso","March 2014",NA
+"180","JIND","Jhamula","March 2014",NA
+"181","JIND","Julana Pz","March 2014",0.3
+"182","JIND","Khatkaran","March 2014",NA
+"183","JIND","Korar","March 2014",NA
+"184","JIND","Lochp Pz","March 2014",NA
+"185","JIND","Mohal Khera Pz","March 2014",NA
+"186","JIND","Narwana S","March 2014",NA
+"187","JIND","Narwana S-Pz","March 2014",NA
+"188","JIND","Pillukhera","March 2014",NA
+"189","JIND","Safidon (s)","March 2014",NA
+"190","JIND","Safidon 1(s)","March 2014",NA
+"191","JIND","Uchana","March 2014",0.85
+"192","JIND","Uchana Pz","March 2014",NA
+"193","KAITHAL","Bhana-Pz","March 2014",NA
+"194","KAITHAL","Guhna","March 2014",1.6
+"195","KAITHAL","Jakhauli-Pz","March 2014",NA
+"196","KAITHAL","Jandaula-Pz","March 2014",NA
+"197","KAITHAL","Jateri","March 2014",NA
+"198","KAITHAL","Kaithal S","March 2014",NA
+"199","KAITHAL","Kalayat","March 2014",NA
+"200","KAITHAL","Kalayat S","March 2014",NA
+"201","KAITHAL","Kathana-Pz","March 2014",-0.25
+"202","KAITHAL","Kelaram","March 2014",NA
+"203","KAITHAL","Kheorak-Pz","March 2014",NA
+"204","KAITHAL","Manaspatti-Pz","March 2014",0.62
+"205","KAITHAL","Mataur","March 2014",NA
+"206","KAITHAL","Mundri","March 2014",NA
+"207","KAITHAL","Padla 1(s)","March 2014",NA
+"208","KAITHAL","Peoda_Pz","March 2014",-1.43
+"209","KAITHAL","Pundri(s)","March 2014",NA
+"210","KAITHAL","Rajaund-Pz","March 2014",NA
+"211","KAITHAL","Rajound S","March 2014",-2.15
+"212","KAITHAL","Sirsal-Pz","March 2014",NA
+"213","KAITHAL","Titiana 1(s)","March 2014",NA
+"214","KARNAL","Amin S","March 2014",NA
+"215","KARNAL","Balhera-s","March 2014",NA
+"216","KARNAL","Dadupur Khurd-Pz","March 2014",NA
+"217","KARNAL","Dhomsi(shallow)","March 2014",NA
+"218","KARNAL","Dingar Majra-Pz","March 2014",1.42
+"219","KARNAL","Domsi D","March 2014",NA
+"220","KARNAL","Faridpur-Pz","March 2014",2.1
+"221","KARNAL","Gangatheri","March 2014",NA
+"222","KARNAL","Garhi Khajur S","March 2014",NA
+"223","KARNAL","Indri","March 2014",NA
+"224","KARNAL","Jabhala-Pz","March 2014",1.08
+"225","KARNAL","Jaroli Khurd-Pz","March 2014",NA
+"226","KARNAL","Jundla1","March 2014",NA
+"227","KARNAL","Kalri Jagir S","March 2014",NA
+"228","KARNAL","Kutail S","March 2014",NA
+"229","KARNAL","Majra Roran","March 2014",NA
+"230","KARNAL","Makhala S","March 2014",NA
+"231","KARNAL","Mohidinpur-Pz","March 2014",NA
+"232","KARNAL","Mound S","March 2014",NA
+"233","KARNAL","Nalvi Kalan-Pz","March 2014",NA
+"234","KARNAL","Nanhera","March 2014",NA
+"235","KARNAL","Phurlak S","March 2014",NA
+"236","KARNAL","Salwan-B","March 2014",-3.83
+"237","KARNAL","Sambli-Pz-M","March 2014",NA
+"238","KARNAL","Sambli-Pz-S","March 2014",NA
+"239","KARNAL","Saunkra S","March 2014",NA
+"240","KARNAL","Sugar Cane Breeding Farm","March 2014",NA
+"241","KURUKSHETRA","Bachki-Pz","March 2014",0.5
+"242","KURUKSHETRA","Ban- Pz","March 2014",1.76
+"243","KURUKSHETRA","Baronda-Pz","March 2014",-1.32
+"244","KURUKSHETRA","Berthala S","March 2014",NA
+"245","KURUKSHETRA","Bodhni (s)","March 2014",NA
+"246","KURUKSHETRA","Dabkhera-Pz","March 2014",NA
+"247","KURUKSHETRA","Hatira  (s)","March 2014",NA
+"248","KURUKSHETRA","Ishaque S","March 2014",NA
+"249","KURUKSHETRA","Kaulapur S","March 2014",NA
+"250","KURUKSHETRA","Malikpur-Singhpura-Pz","March 2014",-0.05
+"251","KURUKSHETRA","Murtzapur-Pz","March 2014",0.04
+"252","KURUKSHETRA","Pehowa 3 (s)","March 2014",NA
+"253","KURUKSHETRA","Samalkhi-Pz","March 2014",1.52
+"254","KURUKSHETRA","Sirsala-Pz","March 2014",NA
+"255","MAHENDRAGARH","Buwana-Pz","March 2014",NA
+"256","MAHENDRAGARH","Khatodra-Pz","March 2014",-1.78
+"257","MAHENDRAGARH","Lukhi","March 2014",NA
+"258","MAHENDRAGARH","Narnaul","March 2014",-2.46
+"259","PANCHKULA","Devnagar(Panchkula)","March 2014",NA
+"260","PANCHKULA","Dharampur","March 2014",NA
+"261","PANCHKULA","Kakar Majra","March 2014",NA
+"262","PANCHKULA","Khera","March 2014",NA
+"263","PANCHKULA","Parwala","March 2014",NA
+"264","PANCHKULA","Patwi","March 2014",-0.24
+"265","PANCHKULA","Raipur Rani-Pz","March 2014",NA
+"266","PANCHKULA","Raipurrani","March 2014",-6.47
+"267","PANIPAT","Babail Pz S","March 2014",NA
+"268","PANIPAT","Babail VS-Pz","March 2014",NA
+"269","PANIPAT","Bhallour Pz","March 2014",NA
+"270","PANIPAT","Dakadla S","March 2014",NA
+"271","PANIPAT","Dharamgarh S","March 2014",NA
+"272","PANIPAT","Etola-Pz-M","March 2014",NA
+"273","PANIPAT","Etola-Pz-S","March 2014",NA
+"274","PANIPAT","Hathwala-Pz","March 2014",-0.26
+"275","PANIPAT","Israna Pz","March 2014",NA
+"276","PANIPAT","Karhansh Pz","March 2014",NA
+"277","PANIPAT","Khalila Manjran","March 2014",NA
+"278","PANIPAT","Khelalla Pehl S","March 2014",NA
+"279","PANIPAT","Lohari (s)","March 2014",NA
+"280","PANIPAT","Nariana-PZ","March 2014",NA
+"281","PANIPAT","Nimbri- Pz","March 2014",0.28
+"282","PANIPAT","Patti Kalyana S","March 2014",NA
+"283","PANIPAT","Puther Pz","March 2014",NA
+"284","PANIPAT","Sanauli Khurd-Pz","March 2014",-2.23
+"285","PANIPAT","Shahpur","March 2014",NA
+"286","PANIPAT","Sink","March 2014",NA
+"287","PANIPAT","Untilya","March 2014",-0.55
+"288","PANIPAT","Urlana Kalan","March 2014",NA
+"289","REWARI","Bahu","March 2014",-2.26
+"290","REWARI","Bawal","March 2014",NA
+"291","REWARI","Bawal DW","March 2014",NA
+"292","REWARI","Bawal Pz","March 2014",NA
+"293","REWARI","Gangaichajat","March 2014",NA
+"294","REWARI","Karnawas","March 2014",-0.58
+"295","REWARI","Kosli","March 2014",0.53
+"296","REWARI","Mandola-Pz","March 2014",1.2
+"297","REWARI","Rholiawas-Pz","March 2014",NA
+"298","REWARI","Sangwari","March 2014",NA
+"299","REWARI","ROHTAK","March 2014",NA
+"300","REWARI","Bhal Anandpur","March 2014",-0.75
+"301","REWARI","Hassangarh","March 2014",NA
+"302","REWARI","Kansala","March 2014",NA
+"303","REWARI","Kharawar","March 2014",NA
+"304","REWARI","Lakhan Majara","March 2014",NA
+"305","REWARI","Madina","March 2014",NA
+"306","REWARI","Mahem","March 2014",NA
+"307","REWARI","Samargopalpur","March 2014",NA
+"308","REWARI","Sampla","March 2014",NA
+"309","REWARI","Sampla -Pz","March 2014",NA
+"310","SIRSA","Bhuratwala-Pz","March 2014",0.09
+"311","SIRSA","Chormar","March 2014",NA
+"312","SIRSA","Chptala","March 2014",NA
+"313","SIRSA","Chotala-Pz","March 2014",NA
+"314","SIRSA","Dabwali Dw","March 2014",NA
+"315","SIRSA","Dabwali -Pz S","March 2014",NA
+"316","SIRSA","Darba Kalan-Pz","March 2014",NA
+"317","SIRSA","Ding","March 2014",NA
+"318","SIRSA","Ganga","March 2014",NA
+"319","SIRSA","Ghushiana","March 2014",-0.06
+"320","SIRSA","Gigorani","March 2014",NA
+"321","SIRSA","Goriwala","March 2014",0.45
+"322","SIRSA","Goriwala-Pz","March 2014",0.43
+"323","SIRSA","Jamal","March 2014",NA
+"324","SIRSA","Jamal- Pz","March 2014",NA
+"325","SIRSA","Kalanwali Mandi-Pz","March 2014",NA
+"326","SIRSA","Kaluwana","March 2014",0.01
+"327","SIRSA","Karamsana","March 2014",NA
+"328","SIRSA","Kash Ram Dhab","March 2014",0.8
+"329","SIRSA","Khuyian","March 2014",NA
+"330","SIRSA","Mammer Khera-Pz","March 2014",NA
+"331","SIRSA","Mangala-Pz","March 2014",0.95
+"332","SIRSA","Manjiyana","March 2014",0.05
+"333","SIRSA","Mastian","March 2014",NA
+"334","SIRSA","Mithri","March 2014",NA
+"335","SIRSA","Nuhian Wali","March 2014",NA
+"336","SIRSA","Odhan Pz","March 2014",NA
+"337","SIRSA","Panniwala Mota","March 2014",-0.12
+"338","SIRSA","Phaggu-Pz","March 2014",0.06
+"339","SIRSA","Rasalia Khera","March 2014",0.01
+"340","SIRSA","Rori -DW","March 2014",NA
+"341","SIRSA","Saktakhera","March 2014",NA
+"342","SIRSA","Shergarh - DW","March 2014",NA
+"343","SIRSA","Sherpura","March 2014",NA
+"344","SIRSA","Sirsa -PZ","March 2014",NA
+"345","SIRSA","Sri Jiwan Nagar-B","March 2014",NA
+"346","SIRSA","Taruwana","March 2014",NA
+"347","SIRSA","Tejakhera","March 2014",NA
+"348","SONIPAT","Ahulana","March 2014",0.43
+"349","SONIPAT","Barauli - pz","March 2014",NA
+"350","SONIPAT","Barswani- DW","March 2014",NA
+"351","SONIPAT","Barwasni Pz (s)","March 2014",NA
+"352","SONIPAT","Bega -PZ","March 2014",NA
+"353","SONIPAT","Bhainswal","March 2014",-0.32
+"354","SONIPAT","Bhunderi","March 2014",NA
+"355","SONIPAT","Bichpuri 1","March 2014",NA
+"356","SONIPAT","Bohela","March 2014",NA
+"357","SONIPAT","Butana","March 2014",-1.57
+"358","SONIPAT","Chirana","March 2014",NA
+"359","SONIPAT","Datauli-Pz","March 2014",0.22
+"360","SONIPAT","Farmana","March 2014",NA
+"361","SONIPAT","Garhwal","March 2014",NA
+"362","SONIPAT","Gohana - Pz","March 2014",NA
+"363","SONIPAT","Jagsi","March 2014",NA
+"364","SONIPAT","Janti Khurd-Pz","March 2014",NA
+"365","SONIPAT","Jhakauli- Pz","March 2014",NA
+"366","SONIPAT","Kami- PZ","March 2014",0.79
+"367","SONIPAT","Kathura Pz","March 2014",NA
+"368","SONIPAT","Khanpur Kalan-Pz","March 2014",NA
+"369","SONIPAT","KheoraPz","March 2014",NA
+"370","SONIPAT","Lath","March 2014",NA
+"371","SONIPAT","Machhri","March 2014",0.07
+"372","SONIPAT","Manauli-Pz","March 2014",NA
+"373","SONIPAT","Mahara","March 2014",-0.01
+"374","SONIPAT","Mohana Pzm","March 2014",NA
+"375","SONIPAT","Mundlana DW","March 2014",NA
+"376","SONIPAT","Mundlana- Pz","March 2014",NA
+"377","SONIPAT","Murthal-Pz","March 2014",-0.56
+"378","SONIPAT","Nahri","March 2014",-0.85
+"379","SONIPAT","Pinana","March 2014",-0.22
+"380","SONIPAT","Pugthala-Pz","March 2014",NA
+"381","SONIPAT","Purkhas-Pz","March 2014",-1.41
+"382","SONIPAT","Rai(Bahalgarh)","March 2014",NA
+"383","SONIPAT","Rasoi pz","March 2014",NA
+"384","SONIPAT","Rathdhana-Pz","March 2014",-0.51
+"385","SONIPAT","Rohat","March 2014",NA
+"386","SONIPAT","Rukhi-Pz","March 2014",NA
+"387","SONIPAT","Sisnah","March 2014",NA
+"388","YAMUNANAGAR","Amadalpur","March 2014",NA
+"389","YAMUNANAGAR","Amadalpur-DW","March 2014",NA
+"390","YAMUNANAGAR","Bhambauli-1 (m)","March 2014",NA
+"391","YAMUNANAGAR","Bilaspur DW","March 2014",-0.54
+"392","YAMUNANAGAR","Chhachrauli S","March 2014",NA
+"393","YAMUNANAGAR","Choli","March 2014",-1.02
+"394","YAMUNANAGAR","Dhanauri S","March 2014",NA
+"395","YAMUNANAGAR","Dhaurang S","March 2014",NA
+"396","YAMUNANAGAR","Jhiwarheri S","March 2014",NA
+"397","YAMUNANAGAR","Khizrabad","March 2014",NA
+"398","YAMUNANAGAR","Mustafabad DW","March 2014",-0.7
+"399","YAMUNANAGAR","Mustafabad-Pz","March 2014",NA
+"400","YAMUNANAGAR","Naggal-S","March 2014",NA
+"401","YAMUNANAGAR","Radaur S","March 2014",NA
+"402","YAMUNANAGAR","Rasulpur","March 2014",NA
+"403","YAMUNANAGAR","Rasulpur DW","March 2014",NA
+"404","YAMUNANAGAR","Sabri","March 2014",-0.38
+"405","YAMUNANAGAR","Sadhaura DW","March 2014",1.03
+"406","YAMUNANAGAR","Sadhaura S","March 2014",NA
+"407","YAMUNANAGAR","Shadipur","March 2014",NA
+"408","AMBALA","Ambala Cantt","July 2014",NA
+"409","AMBALA","Balana","July 2014",NA
+"410","AMBALA","Dhanaura","July 2014",-0.01
+"411","AMBALA","Kakru","July 2014",-0.12
+"412","AMBALA","Khanahmadpur","July 2014",0.29
+"413","AMBALA","Mulana","July 2014",NA
+"414","AMBALA","Naraingarh","July 2014",NA
+"415","AMBALA","Panjokhra","July 2014",NA
+"416","AMBALA","Pinjola","July 2014",NA
+"417","AMBALA","Saha S","July 2014",NA
+"418","BHIWANI","Badala","July 2014",NA
+"419","BHIWANI","Bajina","July 2014",0.1
+"420","BHIWANI","Bamla","July 2014",NA
+"421","BHIWANI","Baundkalan","July 2014",-1.18
+"422","BHIWANI","Bhawani khera DW","July 2014",NA
+"423","BHIWANI","Bhawani Khera Pz","July 2014",NA
+"424","BHIWANI","Bohal","July 2014",-0.14
+"425","BHIWANI","Chirya","July 2014",-0.41
+"426","BHIWANI","Dadri1","July 2014",NA
+"427","BHIWANI","Dadri-Pz","July 2014",NA
+"428","BHIWANI","Dhanana","July 2014",-0.12
+"429","BHIWANI","Gopi","July 2014",NA
+"430","BHIWANI","Gurera","July 2014",-0.05
+"431","BHIWANI","Gurera-pz","July 2014",NA
+"432","BHIWANI","Haluwas","July 2014",0.08
+"433","BHIWANI","Imlota","July 2014",NA
+"434","BHIWANI","Isharwal","July 2014",NA
+"435","BHIWANI","Jhumpa","July 2014",-0.3
+"436","BHIWANI","Jhumpa PZM","July 2014",NA
+"437","BHIWANI","Jhumpa Kalan","July 2014",NA
+"438","BHIWANI","Juikalan","July 2014",NA
+"439","BHIWANI","Juikalan Pz","July 2014",NA
+"440","BHIWANI","Lohani","July 2014",-0.15
+"441","BHIWANI","Manhairu","July 2014",NA
+"442","BHIWANI","Mauhala","July 2014",NA
+"443","BHIWANI","Mehrana","July 2014",NA
+"444","BHIWANI","Miran","July 2014",NA
+"445","BHIWANI","Miran-Pz","July 2014",NA
+"446","BHIWANI","Nayaatela","July 2014",NA
+"447","BHIWANI","Pataudi Khurd","July 2014",NA
+"448","BHIWANI","Sagban","July 2014",NA
+"449","BHIWANI","Sangwan PZM","July 2014",NA
+"450","BHIWANI","Sanwar","July 2014",NA
+"451","BHIWANI","Singhani-pz","July 2014",NA
+"452","BHIWANI","Siwani","July 2014",0.17
+"453","BHIWANI","Sui","July 2014",0.06
+"454","BHIWANI","Tosham","July 2014",-1.03
+"455","BHIWANI","Tosham-Pz","July 2014",NA
+"456","FARIDABAD","Achheja","July 2014",NA
+"457","FARIDABAD","Badraun","July 2014",NA
+"458","FARIDABAD","Baghaula","July 2014",NA
+"459","FARIDABAD","Ballabhgarh","July 2014",NA
+"460","FARIDABAD","Barauli-Pz","July 2014",NA
+"461","FARIDABAD","Bhopani","July 2014",NA
+"462","FARIDABAD","Dighaut","July 2014",NA
+"463","FARIDABAD","Hathin","July 2014",NA
+"464","FARIDABAD","Hasanpur","July 2014",NA
+"465","FARIDABAD","Jaindapur","July 2014",NA
+"466","FARIDABAD","Jawan- Pz","July 2014",NA
+"467","FARIDABAD","Kabulpur","July 2014",NA
+"468","FARIDABAD","Khambi","July 2014",NA
+"469","FARIDABAD","Kot","July 2014",NA
+"470","FARIDABAD","Lakhnaka","July 2014",NA
+"471","FARIDABAD","Lalwa","July 2014",NA
+"472","FARIDABAD","NH-IV CHQ PZ S","July 2014",NA
+"473","FARIDABAD","Pali2","July 2014",NA
+"474","FARIDABAD","Palwal","July 2014",NA
+"475","FARIDABAD","Palwal-Pz","July 2014",NA
+"476","FARIDABAD","Pehladpur-Pz","July 2014",NA
+"477","FARIDABAD","Pelak-Pz","July 2014",NA
+"478","FARIDABAD","Rasul Pur","July 2014",-0.6
+"479","FARIDABAD","Thekarka","July 2014",NA
+"480","FARIDABAD","Tigaon-Pz","July 2014",NA
+"481","FARIDABAD","Tumsara","July 2014",NA
+"482","FATEHABAD","Aharwan S","July 2014",NA
+"483","FATEHABAD","Badopal","July 2014",NA
+"484","FATEHABAD","Jandli Kalan","July 2014",-0.04
+"485","FATEHABAD","Mehu Wala Pz","July 2014",NA
+"486","FATEHABAD","Nahla","July 2014",-0.28
+"487","FATEHABAD","Ratia- Pz","July 2014",NA
+"488","FATEHABAD","Sadalpur","July 2014",-1.85
+"489","FATEHABAD","Samain","July 2014",NA
+"490","FATEHABAD","Sohu","July 2014",-0.54
+"491","FATEHABAD","Tohana","July 2014",NA
+"492","FATEHABAD","Uklana Mandi-Pz","July 2014",NA
+"493","GURGAON","Akaira","July 2014",-0.4
+"494","GURGAON","Akbarpur","July 2014",0.75
+"495","GURGAON","Basonda Tripati-Pz","July 2014",NA
+"496","GURGAON","Chandu Tikly","July 2014",NA
+"497","GURGAON","Firozepur Jhirka","July 2014",0.05
+"498","GURGAON","Fazilpur Badli-Pz","July 2014",NA
+"499","GURGAON","Gulaltha","July 2014",NA
+"500","GURGAON","Gurgaon","July 2014",NA
+"501","GURGAON","Gurgaon Pz","July 2014",NA
+"502","GURGAON","Indri","July 2014",NA
+"503","GURGAON","Jaraon Pz","July 2014",NA
+"504","GURGAON","Jhanjrola","July 2014",NA
+"505","GURGAON","Khera Khurrampur-Pz","July 2014",NA
+"506","GURGAON","Kadipur","July 2014",NA
+"507","GURGAON","Kasan","July 2014",NA
+"508","GURGAON","Kheri1","July 2014",NA
+"509","GURGAON","Kherla","July 2014",NA
+"510","GURGAON","Khori kalan","July 2014",NA
+"511","GURGAON","Lokra – Pz","July 2014",NA
+"512","GURGAON","Luhingakalan","July 2014",NA
+"513","GURGAON","Malab","July 2014",-0.89
+"514","GURGAON","Meoka-Pz","July 2014",NA
+"515","GURGAON","Mouzabad","July 2014",NA
+"516","GURGAON","Nagina","July 2014",NA
+"517","GURGAON","Naharika-Pz","July 2014",NA
+"518","GURGAON","Nurgarh-Pz","July 2014",NA
+"519","GURGAON","Nuh1","July 2014",NA
+"520","GURGAON","Pipaka","July 2014",NA
+"521","GURGAON","Pipaka-Shashola","July 2014",NA
+"522","GURGAON","Siwari-Pz","July 2014",0.9
+"523","GURGAON","Sikarwa","July 2014",NA
+"524","GURGAON","Sohna","July 2014",NA
+"525","GURGAON","Wazirpur-Pz","July 2014",NA
+"526","HISAR","Adampur-Pz","July 2014",NA
+"527","HISAR","Agroha-Pz","July 2014",NA
+"528","HISAR","Balawas1","July 2014",NA
+"529","HISAR","Balsamand","July 2014",NA
+"530","HISAR","Balsamand-Pz","July 2014",NA
+"531","HISAR","Banbhauri-Pz","July 2014",NA
+"532","HISAR","Barwala abd","July 2014",NA
+"533","HISAR","Barwala 1","July 2014",NA
+"534","HISAR","Barwala-Pz","July 2014",NA
+"535","HISAR","Bas","July 2014",NA
+"536","HISAR","Basra","July 2014",NA
+"537","HISAR","Behbalpur-Pz","July 2014",NA
+"538","HISAR","Chanaut","July 2014",NA
+"539","HISAR","Chawdhariwas","July 2014",-0.05
+"540","HISAR","Dhamundicross","July 2014",NA
+"541","HISAR","Dhansu","July 2014",-0.11
+"542","HISAR","Ghaibipur","July 2014",NA
+"543","HISAR","Ghursal-Pz","July 2014",NA
+"544","HISAR","Hissar-Pz","July 2014",-0.52
+"545","HISAR","Juglan","July 2014",NA
+"546","HISAR","Kanoh-Pz","July 2014",-0.71
+"547","HISAR","Khanda Kheri-Pz","July 2014",NA
+"548","HISAR","Kherijalab-Pz","July 2014",1.15
+"549","HISAR","Khotkalan","July 2014",NA
+"550","HISAR","Kirori","July 2014",NA
+"551","HISAR","Kirtan","July 2014",-0.08
+"552","HISAR","Mangali-Pz","July 2014",-0.36
+"553","HISAR","Mirka","July 2014",NA
+"554","HISAR","Mothmajri","July 2014",-1.95
+"555","HISAR","Narnaud S","July 2014",NA
+"556","HISAR","Rajli Cross","July 2014",-3.22
+"557","HISAR","Rajthal1","July 2014",NA
+"558","HISAR","Samani","July 2014",0.1
+"559","HISAR","Sorkhi-Pz","July 2014",NA
+"560","HISAR","Umra","July 2014",NA
+"561","JHAJJAR","Badli","July 2014",NA
+"562","JHAJJAR","Bagoa","July 2014",1.23
+"563","JHAJJAR","Chamanpura","July 2014",-1.92
+"564","JHAJJAR","Chhara","July 2014",-0.27
+"565","JHAJJAR","Chuchakwas","July 2014",-1.82
+"566","JHAJJAR","Dighal","July 2014",0.11
+"567","JHAJJAR","Dubhaldhan","July 2014",NA
+"568","JHAJJAR","Dulhera","July 2014",-0.13
+"569","JHAJJAR","Hasanpur","July 2014",NA
+"570","JHAJJAR","Gabhana","July 2014",NA
+"571","JHAJJAR","Jhajjar","July 2014",0.68
+"572","JHAJJAR","Kulasi","July 2014",NA
+"573","JHAJJAR","Mudsa","July 2014",NA
+"574","JHAJJAR","Salhawas","July 2014",NA
+"575","JHAJJAR","Subnah","July 2014",NA
+"576","JHAJJAR","Sankol","July 2014",NA
+"577","JHAJJAR","Wazirpur","July 2014",NA
+"578","JIND","Alewa Pz","July 2014",NA
+"579","JIND","ATI Krishna1(s)","July 2014",NA
+"580","JIND","Baroda","July 2014",NA
+"581","JIND","Bhuslana-Pz","July 2014",NA
+"582","JIND","Brahmanwas","July 2014",NA
+"583","JIND","Chhabri","July 2014",4.58
+"584","JIND","Dhandauli Pz","July 2014",NA
+"585","JIND","Dorana Pz","July 2014",NA
+"586","JIND","Ghaso","July 2014",NA
+"587","JIND","Jhamula","July 2014",NA
+"588","JIND","Julana Pz","July 2014",NA
+"589","JIND","Khatkaran","July 2014",NA
+"590","JIND","Korar","July 2014",NA
+"591","JIND","Lochp Pz","July 2014",NA
+"592","JIND","Mohal Khera Pz","July 2014",NA
+"593","JIND","Narwana S","July 2014",NA
+"594","JIND","Narwana S-Pz","July 2014",NA
+"595","JIND","Pillukhera","July 2014",NA
+"596","JIND","Safidon (s)","July 2014",NA
+"597","JIND","Safidon 1(s)","July 2014",NA
+"598","JIND","Uchana","July 2014",NA
+"599","JIND","Uchana Pz","July 2014",NA
+"600","KAITHAL","Bhana-Pz","July 2014",NA
+"601","KAITHAL","Guhna","July 2014",-3.4
+"602","KAITHAL","Jakhauli-Pz","July 2014",NA
+"603","KAITHAL","Jandaula-Pz","July 2014",NA
+"604","KAITHAL","Jateri","July 2014",NA
+"605","KAITHAL","Kaithal S","July 2014",NA
+"606","KAITHAL","Kalayat","July 2014",NA
+"607","KAITHAL","Kalayat S","July 2014",NA
+"608","KAITHAL","Kathana-Pz","July 2014",-2.05
+"609","KAITHAL","Kelaram","July 2014",NA
+"610","KAITHAL","Kheorak-Pz","July 2014",NA
+"611","KAITHAL","Manaspatti-Pz","July 2014",-2.42
+"612","KAITHAL","Mataur","July 2014",NA
+"613","KAITHAL","Mundri","July 2014",NA
+"614","KAITHAL","Padla 1(s)","July 2014",NA
+"615","KAITHAL","Peoda_Pz","July 2014",NA
+"616","KAITHAL","Pundri(s)","July 2014",NA
+"617","KAITHAL","Rajaund-Pz","July 2014",NA
+"618","KAITHAL","Rajound S","July 2014",NA
+"619","KAITHAL","Sirsal-Pz","July 2014",NA
+"620","KAITHAL","Titiana 1(s)","July 2014",NA
+"621","KARNAL","Amin S","July 2014",NA
+"622","KARNAL","Balhera-s","July 2014",NA
+"623","KARNAL","Dadupur Khurd-Pz","July 2014",NA
+"624","KARNAL","Dhomsi(shallow)","July 2014",NA
+"625","KARNAL","Dingar Majra-Pz","July 2014",-10.12
+"626","KARNAL","Domsi D","July 2014",NA
+"627","KARNAL","Faridpur-Pz","July 2014",-5
+"628","KARNAL","Gangatheri","July 2014",-4.31
+"629","KARNAL","Garhi Khajur S","July 2014",NA
+"630","KARNAL","Indri","July 2014",NA
+"631","KARNAL","Jabhala-Pz","July 2014",NA
+"632","KARNAL","Jaroli Khurd-Pz","July 2014",NA
+"633","KARNAL","Jundla1","July 2014",NA
+"634","KARNAL","Kalri Jagir S","July 2014",NA
+"635","KARNAL","Kutail S","July 2014",NA
+"636","KARNAL","Majra Roran","July 2014",NA
+"637","KARNAL","Makhala S","July 2014",NA
+"638","KARNAL","Mohidinpur-Pz","July 2014",NA
+"639","KARNAL","Mound S","July 2014",NA
+"640","KARNAL","Nalvi Kalan-Pz","July 2014",NA
+"641","KARNAL","Nanhera","July 2014",NA
+"642","KARNAL","Phurlak S","July 2014",NA
+"643","KARNAL","Salwan-B","July 2014",NA
+"644","KARNAL","Sambli-Pz-M","July 2014",NA
+"645","KARNAL","Sambli-Pz-S","July 2014",NA
+"646","KARNAL","Saunkra S","July 2014",NA
+"647","KARNAL","Sugar Cane Breeding Farm","July 2014",NA
+"648","KURUKSHETRA","Bachki-Pz","July 2014",-4.4
+"649","KURUKSHETRA","Ban- Pz","July 2014",-4.37
+"650","KURUKSHETRA","Baronda-Pz","July 2014",-3.93
+"651","KURUKSHETRA","Berthala S","July 2014",NA
+"652","KURUKSHETRA","Bodhni (s)","July 2014",NA
+"653","KURUKSHETRA","Dabkhera-Pz","July 2014",-5.25
+"654","KURUKSHETRA","Hatira  (s)","July 2014",NA
+"655","KURUKSHETRA","Ishaque S","July 2014",NA
+"656","KURUKSHETRA","Kaulapur S","July 2014",NA
+"657","KURUKSHETRA","Malikpur-Singhpura-Pz","July 2014",-6.65
+"658","KURUKSHETRA","Murtzapur-Pz","July 2014",-1.3
+"659","KURUKSHETRA","Pehowa 3 (s)","July 2014",NA
+"660","KURUKSHETRA","Samalkhi-Pz","July 2014",NA
+"661","KURUKSHETRA","Sirsala-Pz","July 2014",-8.92
+"662","MAHENDRAGARH","Buwana-Pz","July 2014",-1.4
+"663","MAHENDRAGARH","Khatodra-Pz","July 2014",NA
+"664","MAHENDRAGARH","Lukhi","July 2014",NA
+"665","MAHENDRAGARH","Narnaul","July 2014",2.96
+"666","PANCHKULA","Devnagar(Panchkula)","July 2014",NA
+"667","PANCHKULA","Dharampur","July 2014",NA
+"668","PANCHKULA","Kakar Majra","July 2014",NA
+"669","PANCHKULA","Khera","July 2014",NA
+"670","PANCHKULA","Parwala","July 2014",NA
+"671","PANCHKULA","Patwi","July 2014",0.24
+"672","PANCHKULA","Raipur Rani-Pz","July 2014",NA
+"673","PANCHKULA","Raipurrani","July 2014",7.11
+"674","PANIPAT","Babail Pz S","July 2014",NA
+"675","PANIPAT","Babail VS-Pz","July 2014",NA
+"676","PANIPAT","Bhallour Pz","July 2014",NA
+"677","PANIPAT","Dakadla S","July 2014",NA
+"678","PANIPAT","Dharamgarh S","July 2014",NA
+"679","PANIPAT","Etola-Pz-M","July 2014",NA
+"680","PANIPAT","Etola-Pz-S","July 2014",NA
+"681","PANIPAT","Hathwala-Pz","July 2014",-1.34
+"682","PANIPAT","Israna Pz","July 2014",NA
+"683","PANIPAT","Karhansh Pz","July 2014",NA
+"684","PANIPAT","Khalila Manjran","July 2014",NA
+"685","PANIPAT","Khelalla Pehl S","July 2014",NA
+"686","PANIPAT","Lohari (s)","July 2014",NA
+"687","PANIPAT","Nariana-PZ","July 2014",NA
+"688","PANIPAT","Nimbri- Pz","July 2014",-3.8
+"689","PANIPAT","Patti Kalyana S","July 2014",NA
+"690","PANIPAT","Puther Pz","July 2014",NA
+"691","PANIPAT","Sanauli Khurd-Pz","July 2014",-2.37
+"692","PANIPAT","Shahpur","July 2014",NA
+"693","PANIPAT","Sink","July 2014",NA
+"694","PANIPAT","Untilya","July 2014",-0.75
+"695","PANIPAT","Urlana Kalan","July 2014",NA
+"696","REWARI","Bahu","July 2014",NA
+"697","REWARI","Bawal","July 2014",NA
+"698","REWARI","Bawal DW","July 2014",-0.5
+"699","REWARI","Bawal Pz","July 2014",NA
+"700","REWARI","Gangaichajat","July 2014",NA
+"701","REWARI","Karnawas","July 2014",NA
+"702","REWARI","Kosli","July 2014",NA
+"703","REWARI","Mandola-Pz","July 2014",-2.45
+"704","REWARI","Rholiawas-Pz","July 2014",NA
+"705","REWARI","Sangwari","July 2014",NA
+"706","REWARI","ROHTAK","July 2014",NA
+"707","REWARI","Bhal Anandpur","July 2014",0.09
+"708","REWARI","Hassangarh","July 2014",NA
+"709","REWARI","Kansala","July 2014",0.22
+"710","REWARI","Kharawar","July 2014",0
+"711","REWARI","Lakhan Majara","July 2014",NA
+"712","REWARI","Madina","July 2014",-0.29
+"713","REWARI","Mahem","July 2014",-0.99
+"714","REWARI","Samargopalpur","July 2014",0.49
+"715","REWARI","Sampla","July 2014",NA
+"716","REWARI","Sampla -Pz","July 2014",NA
+"717","SIRSA","Bhuratwala-Pz","July 2014",-0.97
+"718","SIRSA","Chormar","July 2014",NA
+"719","SIRSA","Chptala","July 2014",NA
+"720","SIRSA","Chotala-Pz","July 2014",-0.27
+"721","SIRSA","Dabwali Dw","July 2014",NA
+"722","SIRSA","Dabwali -Pz S","July 2014",-6.52
+"723","SIRSA","Darba Kalan-Pz","July 2014",0.92
+"724","SIRSA","Ding","July 2014",NA
+"725","SIRSA","Ganga","July 2014",NA
+"726","SIRSA","Ghushiana","July 2014",-0.02
+"727","SIRSA","Gigorani","July 2014",-1.04
+"728","SIRSA","Goriwala","July 2014",-0.7
+"729","SIRSA","Goriwala-Pz","July 2014",-0.53
+"730","SIRSA","Jamal","July 2014",NA
+"731","SIRSA","Jamal- Pz","July 2014",NA
+"732","SIRSA","Kalanwali Mandi-Pz","July 2014",NA
+"733","SIRSA","Kaluwana","July 2014",NA
+"734","SIRSA","Karamsana","July 2014",NA
+"735","SIRSA","Kash Ram Dhab","July 2014",NA
+"736","SIRSA","Khuyian","July 2014",NA
+"737","SIRSA","Mammer Khera-Pz","July 2014",NA
+"738","SIRSA","Mangala-Pz","July 2014",NA
+"739","SIRSA","Manjiyana","July 2014",-0.47
+"740","SIRSA","Mastian","July 2014",NA
+"741","SIRSA","Mithri","July 2014",NA
+"742","SIRSA","Nuhian Wali","July 2014",NA
+"743","SIRSA","Odhan Pz","July 2014",NA
+"744","SIRSA","Panniwala Mota","July 2014",0.04
+"745","SIRSA","Phaggu-Pz","July 2014",-0.23
+"746","SIRSA","Rasalia Khera","July 2014",-0.05
+"747","SIRSA","Rori -DW","July 2014",NA
+"748","SIRSA","Saktakhera","July 2014",NA
+"749","SIRSA","Shergarh - DW","July 2014",NA
+"750","SIRSA","Sherpura","July 2014",0.12
+"751","SIRSA","Sirsa -PZ","July 2014",NA
+"752","SIRSA","Sri Jiwan Nagar-B","July 2014",NA
+"753","SIRSA","Taruwana","July 2014",3.9
+"754","SIRSA","Tejakhera","July 2014",NA
+"755","SONIPAT","Ahulana","July 2014",-0.75
+"756","SONIPAT","Barauli - pz","July 2014",NA
+"757","SONIPAT","Barswani- DW","July 2014",NA
+"758","SONIPAT","Barwasni Pz (s)","July 2014",NA
+"759","SONIPAT","Bega -PZ","July 2014",NA
+"760","SONIPAT","Bhainswal","July 2014",NA
+"761","SONIPAT","Bhunderi","July 2014",NA
+"762","SONIPAT","Bichpuri 1","July 2014",NA
+"763","SONIPAT","Bohela","July 2014",NA
+"764","SONIPAT","Butana","July 2014",1.7
+"765","SONIPAT","Chirana","July 2014",-2.5
+"766","SONIPAT","Datauli-Pz","July 2014",NA
+"767","SONIPAT","Farmana","July 2014",0.4
+"768","SONIPAT","Garhwal","July 2014",NA
+"769","SONIPAT","Gohana - Pz","July 2014",NA
+"770","SONIPAT","Jagsi","July 2014",NA
+"771","SONIPAT","Janti Khurd-Pz","July 2014",NA
+"772","SONIPAT","Jhakauli- Pz","July 2014",NA
+"773","SONIPAT","Kami- PZ","July 2014",NA
+"774","SONIPAT","Kathura Pz","July 2014",NA
+"775","SONIPAT","Khanpur Kalan-Pz","July 2014",NA
+"776","SONIPAT","KheoraPz","July 2014",NA
+"777","SONIPAT","Lath","July 2014",-0.36
+"778","SONIPAT","Machhri","July 2014",NA
+"779","SONIPAT","Manauli-Pz","July 2014",NA
+"780","SONIPAT","Mahara","July 2014",NA
+"781","SONIPAT","Mohana Pzm","July 2014",NA
+"782","SONIPAT","Mundlana DW","July 2014",NA
+"783","SONIPAT","Mundlana- Pz","July 2014",-5.28
+"784","SONIPAT","Murthal-Pz","July 2014",-0.04
+"785","SONIPAT","Nahri","July 2014",-0.35
+"786","SONIPAT","Pinana","July 2014",NA
+"787","SONIPAT","Pugthala-Pz","July 2014",-0.7
+"788","SONIPAT","Purkhas-Pz","July 2014",1.58
+"789","SONIPAT","Rai(Bahalgarh)","July 2014",NA
+"790","SONIPAT","Rasoi pz","July 2014",NA
+"791","SONIPAT","Rathdhana-Pz","July 2014",-1.64
+"792","SONIPAT","Rohat","July 2014",0.38
+"793","SONIPAT","Rukhi-Pz","July 2014",0.64
+"794","SONIPAT","Sisnah","July 2014",NA
+"795","YAMUNANAGAR","Amadalpur","July 2014",NA
+"796","YAMUNANAGAR","Amadalpur-DW","July 2014",NA
+"797","YAMUNANAGAR","Bhambauli-1 (m)","July 2014",NA
+"798","YAMUNANAGAR","Bilaspur DW","July 2014",NA
+"799","YAMUNANAGAR","Chhachrauli S","July 2014",NA
+"800","YAMUNANAGAR","Choli","July 2014",NA
+"801","YAMUNANAGAR","Dhanauri S","July 2014",NA
+"802","YAMUNANAGAR","Dhaurang S","July 2014",NA
+"803","YAMUNANAGAR","Jhiwarheri S","July 2014",NA
+"804","YAMUNANAGAR","Khizrabad","July 2014",NA
+"805","YAMUNANAGAR","Mustafabad DW","July 2014",0.1
+"806","YAMUNANAGAR","Mustafabad-Pz","July 2014",NA
+"807","YAMUNANAGAR","Naggal-S","July 2014",NA
+"808","YAMUNANAGAR","Radaur S","July 2014",NA
+"809","YAMUNANAGAR","Rasulpur","July 2014",NA
+"810","YAMUNANAGAR","Rasulpur DW","July 2014",NA
+"811","YAMUNANAGAR","Sabri","July 2014",0.38
+"812","YAMUNANAGAR","Sadhaura DW","July 2014",-1.04
+"813","YAMUNANAGAR","Sadhaura S","July 2014",NA
+"814","YAMUNANAGAR","Shadipur","July 2014",NA
+"815","AMBALA","Ambala Cantt","November 2014",NA
+"816","AMBALA","Balana","November 2014",NA
+"817","AMBALA","Dhanaura","November 2014",0.68
+"818","AMBALA","Kakru","November 2014",-0.59
+"819","AMBALA","Khanahmadpur","November 2014",0.88
+"820","AMBALA","Mulana","November 2014",0.02
+"821","AMBALA","Naraingarh","November 2014",NA
+"822","AMBALA","Panjokhra","November 2014",-1.6
+"823","AMBALA","Pinjola","November 2014",NA
+"824","AMBALA","Saha S","November 2014",NA
+"825","BHIWANI","Badala","November 2014",-0.3
+"826","BHIWANI","Bajina","November 2014",-0.13
+"827","BHIWANI","Bamla","November 2014",0.1
+"828","BHIWANI","Baundkalan","November 2014",-0.8
+"829","BHIWANI","Bhawani khera DW","November 2014",-0.17
+"830","BHIWANI","Bhawani Khera Pz","November 2014",0
+"831","BHIWANI","Bohal","November 2014",0.07
+"832","BHIWANI","Chirya","November 2014",-2.29
+"833","BHIWANI","Dadri1","November 2014",NA
+"834","BHIWANI","Dadri-Pz","November 2014",0.35
+"835","BHIWANI","Dhanana","November 2014",0.07
+"836","BHIWANI","Gopi","November 2014",-0.35
+"837","BHIWANI","Gurera","November 2014",0.48
+"838","BHIWANI","Gurera-pz","November 2014",-0.24
+"839","BHIWANI","Haluwas","November 2014",-0.9
+"840","BHIWANI","Imlota","November 2014",NA
+"841","BHIWANI","Isharwal","November 2014",-0.09
+"842","BHIWANI","Jhumpa","November 2014",1.46
+"843","BHIWANI","Jhumpa PZM","November 2014",NA
+"844","BHIWANI","Jhumpa Kalan","November 2014",NA
+"845","BHIWANI","Juikalan","November 2014",NA
+"846","BHIWANI","Juikalan Pz","November 2014",-0.2
+"847","BHIWANI","Lohani","November 2014",-0.12
+"848","BHIWANI","Manhairu","November 2014",-0.1
+"849","BHIWANI","Mauhala","November 2014",-0.02
+"850","BHIWANI","Mehrana","November 2014",0.1
+"851","BHIWANI","Miran","November 2014",-0.74
+"852","BHIWANI","Miran-Pz","November 2014",0.2
+"853","BHIWANI","Nayaatela","November 2014",-0.4
+"854","BHIWANI","Pataudi Khurd","November 2014",NA
+"855","BHIWANI","Sagban","November 2014",NA
+"856","BHIWANI","Sangwan PZM","November 2014",-0.03
+"857","BHIWANI","Sanwar","November 2014",0.95
+"858","BHIWANI","Singhani-pz","November 2014",-1.15
+"859","BHIWANI","Siwani","November 2014",0.03
+"860","BHIWANI","Sui","November 2014",0
+"861","BHIWANI","Tosham","November 2014",NA
+"862","BHIWANI","Tosham-Pz","November 2014",0.13
+"863","FARIDABAD","Achheja","November 2014",-1.65
+"864","FARIDABAD","Badraun","November 2014",-0.5
+"865","FARIDABAD","Baghaula","November 2014",0.37
+"866","FARIDABAD","Ballabhgarh","November 2014",NA
+"867","FARIDABAD","Barauli-Pz","November 2014",-1.37
+"868","FARIDABAD","Bhopani","November 2014",-0.05
+"869","FARIDABAD","Dighaut","November 2014",-0.2
+"870","FARIDABAD","Hathin","November 2014",NA
+"871","FARIDABAD","Hasanpur","November 2014",NA
+"872","FARIDABAD","Jaindapur","November 2014",-1.68
+"873","FARIDABAD","Jawan- Pz","November 2014",-1.05
+"874","FARIDABAD","Kabulpur","November 2014",-2.1
+"875","FARIDABAD","Khambi","November 2014",0.67
+"876","FARIDABAD","Kot","November 2014",-2.63
+"877","FARIDABAD","Lakhnaka","November 2014",0.69
+"878","FARIDABAD","Lalwa","November 2014",NA
+"879","FARIDABAD","NH-IV CHQ PZ S","November 2014",-3.63
+"880","FARIDABAD","Pali2","November 2014",-2.99
+"881","FARIDABAD","Palwal","November 2014",-0.88
+"882","FARIDABAD","Palwal-Pz","November 2014",NA
+"883","FARIDABAD","Pehladpur-Pz","November 2014",-0.68
+"884","FARIDABAD","Pelak-Pz","November 2014",NA
+"885","FARIDABAD","Rasul Pur","November 2014",-0.49
+"886","FARIDABAD","Thekarka","November 2014",NA
+"887","FARIDABAD","Tigaon-Pz","November 2014",NA
+"888","FARIDABAD","Tumsara","November 2014",0.04
+"889","FATEHABAD","Aharwan S","November 2014",-0.2
+"890","FATEHABAD","Badopal","November 2014",0.21
+"891","FATEHABAD","Jandli Kalan","November 2014",-0.62
+"892","FATEHABAD","Mehu Wala Pz","November 2014",0.01
+"893","FATEHABAD","Nahla","November 2014",-1.39
+"894","FATEHABAD","Ratia- Pz","November 2014",NA
+"895","FATEHABAD","Sadalpur","November 2014",-0.55
+"896","FATEHABAD","Samain","November 2014",1.64
+"897","FATEHABAD","Sohu","November 2014",NA
+"898","FATEHABAD","Tohana","November 2014",NA
+"899","FATEHABAD","Uklana Mandi-Pz","November 2014",NA
+"900","GURGAON","Akaira","November 2014",3.9
+"901","GURGAON","Akbarpur","November 2014",0.38
+"902","GURGAON","Basonda Tripati-Pz","November 2014",-0.79
+"903","GURGAON","Chandu Tikly","November 2014",NA
+"904","GURGAON","Firozepur Jhirka","November 2014",-1.85
+"905","GURGAON","Fazilpur Badli-Pz","November 2014",NA
+"906","GURGAON","Gulaltha","November 2014",-0.52
+"907","GURGAON","Gurgaon","November 2014",NA
+"908","GURGAON","Gurgaon Pz","November 2014",NA
+"909","GURGAON","Indri","November 2014",NA
+"910","GURGAON","Jaraon Pz","November 2014",0.18
+"911","GURGAON","Jhanjrola","November 2014",1.2
+"912","GURGAON","Khera Khurrampur-Pz","November 2014",NA
+"913","GURGAON","Kadipur","November 2014",NA
+"914","GURGAON","Kasan","November 2014",0.23
+"915","GURGAON","Kheri1","November 2014",-1.49
+"916","GURGAON","Kherla","November 2014",NA
+"917","GURGAON","Khori kalan","November 2014",NA
+"918","GURGAON","Lokra – Pz","November 2014",NA
+"919","GURGAON","Luhingakalan","November 2014",-0.48
+"920","GURGAON","Malab","November 2014",-1.15
+"921","GURGAON","Meoka-Pz","November 2014",-0.71
+"922","GURGAON","Mouzabad","November 2014",NA
+"923","GURGAON","Nagina","November 2014",-1.16
+"924","GURGAON","Naharika-Pz","November 2014",0.64
+"925","GURGAON","Nurgarh-Pz","November 2014",NA
+"926","GURGAON","Nuh1","November 2014",NA
+"927","GURGAON","Pipaka","November 2014",NA
+"928","GURGAON","Pipaka-Shashola","November 2014",NA
+"929","GURGAON","Siwari-Pz","November 2014",NA
+"930","GURGAON","Sikarwa","November 2014",-0.77
+"931","GURGAON","Sohna","November 2014",NA
+"932","GURGAON","Wazirpur-Pz","November 2014",-0.49
+"933","HISAR","Adampur-Pz","November 2014",-0.9
+"934","HISAR","Agroha-Pz","November 2014",0.12
+"935","HISAR","Balawas1","November 2014",0.55
+"936","HISAR","Balsamand","November 2014",-1.35
+"937","HISAR","Balsamand-Pz","November 2014",-0.58
+"938","HISAR","Banbhauri-Pz","November 2014",-0.98
+"939","HISAR","Barwala abd","November 2014",NA
+"940","HISAR","Barwala 1","November 2014",NA
+"941","HISAR","Barwala-Pz","November 2014",-0.16
+"942","HISAR","Bas","November 2014",0.05
+"943","HISAR","Basra","November 2014",-0.99
+"944","HISAR","Behbalpur-Pz","November 2014",-0.66
+"945","HISAR","Chanaut","November 2014",-1.21
+"946","HISAR","Chawdhariwas","November 2014",-0.1
+"947","HISAR","Dhamundicross","November 2014",NA
+"948","HISAR","Dhansu","November 2014",-0.21
+"949","HISAR","Ghaibipur","November 2014",NA
+"950","HISAR","Ghursal-Pz","November 2014",-0.22
+"951","HISAR","Hissar-Pz","November 2014",-1.52
+"952","HISAR","Juglan","November 2014",-0.64
+"953","HISAR","Kanoh-Pz","November 2014",-0.4
+"954","HISAR","Khanda Kheri-Pz","November 2014",-0.86
+"955","HISAR","Kherijalab-Pz","November 2014",2.15
+"956","HISAR","Khotkalan","November 2014",0.55
+"957","HISAR","Kirori","November 2014",-0.2
+"958","HISAR","Kirtan","November 2014",1.07
+"959","HISAR","Mangali-Pz","November 2014",-0.31
+"960","HISAR","Mirka","November 2014",NA
+"961","HISAR","Mothmajri","November 2014",-0.99
+"962","HISAR","Narnaud S","November 2014",-2.14
+"963","HISAR","Rajli Cross","November 2014",-1.6
+"964","HISAR","Rajthal1","November 2014",0.59
+"965","HISAR","Samani","November 2014",NA
+"966","HISAR","Sorkhi-Pz","November 2014",0.49
+"967","HISAR","Umra","November 2014",-0.55
+"968","JHAJJAR","Badli","November 2014",NA
+"969","JHAJJAR","Bagoa","November 2014",0.03
+"970","JHAJJAR","Chamanpura","November 2014",-0.34
+"971","JHAJJAR","Chhara","November 2014",-0.52
+"972","JHAJJAR","Chuchakwas","November 2014",0.08
+"973","JHAJJAR","Dighal","November 2014",-1.37
+"974","JHAJJAR","Dubhaldhan","November 2014",0.91
+"975","JHAJJAR","Dulhera","November 2014",-1.53
+"976","JHAJJAR","Hasanpur","November 2014",NA
+"977","JHAJJAR","Gabhana","November 2014",NA
+"978","JHAJJAR","Jhajjar","November 2014",-0.09
+"979","JHAJJAR","Kulasi","November 2014",NA
+"980","JHAJJAR","Mudsa","November 2014",0.82
+"981","JHAJJAR","Salhawas","November 2014",NA
+"982","JHAJJAR","Subnah","November 2014",NA
+"983","JHAJJAR","Sankol","November 2014",0.17
+"984","JHAJJAR","Wazirpur","November 2014",0.14
+"985","JIND","Alewa Pz","November 2014",NA
+"986","JIND","ATI Krishna1(s)","November 2014",-3.63
+"987","JIND","Baroda","November 2014",0.21
+"988","JIND","Bhuslana-Pz","November 2014",-1.72
+"989","JIND","Brahmanwas","November 2014",1.69
+"990","JIND","Chhabri","November 2014",0.04
+"991","JIND","Dhandauli Pz","November 2014",NA
+"992","JIND","Dorana Pz","November 2014",-0.81
+"993","JIND","Ghaso","November 2014",-3.4
+"994","JIND","Jhamula","November 2014",0.33
+"995","JIND","Julana Pz","November 2014",0.55
+"996","JIND","Khatkaran","November 2014",1.08
+"997","JIND","Korar","November 2014",1.35
+"998","JIND","Lochp Pz","November 2014",NA
+"999","JIND","Mohal Khera Pz","November 2014",0.37
+"1000","JIND","Narwana S","November 2014",-0.7
+"1001","JIND","Narwana S-Pz","November 2014",NA
+"1002","JIND","Pillukhera","November 2014",0.5
+"1003","JIND","Safidon (s)","November 2014",-1.95
+"1004","JIND","Safidon 1(s)","November 2014",-0.58
+"1005","JIND","Uchana","November 2014",NA
+"1006","JIND","Uchana Pz","November 2014",NA
+"1007","KAITHAL","Bhana-Pz","November 2014",-2.14
+"1008","KAITHAL","Guhna","November 2014",NA
+"1009","KAITHAL","Jakhauli-Pz","November 2014",NA
+"1010","KAITHAL","Jandaula-Pz","November 2014",-1.85
+"1011","KAITHAL","Jateri","November 2014",-2.13
+"1012","KAITHAL","Kaithal S","November 2014",NA
+"1013","KAITHAL","Kalayat","November 2014",-1.85
+"1014","KAITHAL","Kalayat S","November 2014",-2.13
+"1015","KAITHAL","Kathana-Pz","November 2014",NA
+"1016","KAITHAL","Kelaram","November 2014",-2.02
+"1017","KAITHAL","Kheorak-Pz","November 2014",-4.74
+"1018","KAITHAL","Manaspatti-Pz","November 2014",-3.17
+"1019","KAITHAL","Mataur","November 2014",-0.97
+"1020","KAITHAL","Mundri","November 2014",1.79
+"1021","KAITHAL","Padla 1(s)","November 2014",NA
+"1022","KAITHAL","Peoda_Pz","November 2014",-1.22
+"1023","KAITHAL","Pundri(s)","November 2014",-1.93
+"1024","KAITHAL","Rajaund-Pz","November 2014",-2.48
+"1025","KAITHAL","Rajound S","November 2014",NA
+"1026","KAITHAL","Sirsal-Pz","November 2014",-5
+"1027","KAITHAL","Titiana 1(s)","November 2014",NA
+"1028","KARNAL","Amin S","November 2014",-0.47
+"1029","KARNAL","Balhera-s","November 2014",NA
+"1030","KARNAL","Dadupur Khurd-Pz","November 2014",-1.54
+"1031","KARNAL","Dhomsi(shallow)","November 2014",NA
+"1032","KARNAL","Dingar Majra-Pz","November 2014",-2.56
+"1033","KARNAL","Domsi D","November 2014",NA
+"1034","KARNAL","Faridpur-Pz","November 2014",-4.1
+"1035","KARNAL","Gangatheri","November 2014",-4.81
+"1036","KARNAL","Garhi Khajur S","November 2014",-1.71
+"1037","KARNAL","Indri","November 2014",NA
+"1038","KARNAL","Jabhala-Pz","November 2014",NA
+"1039","KARNAL","Jaroli Khurd-Pz","November 2014",-0.18
+"1040","KARNAL","Jundla1","November 2014",-4.18
+"1041","KARNAL","Kalri Jagir S","November 2014",1.59
+"1042","KARNAL","Kutail S","November 2014",-1.65
+"1043","KARNAL","Majra Roran","November 2014",-0.02
+"1044","KARNAL","Makhala S","November 2014",0.32
+"1045","KARNAL","Mohidinpur-Pz","November 2014",-0.93
+"1046","KARNAL","Mound S","November 2014",-3.35
+"1047","KARNAL","Nalvi Kalan-Pz","November 2014",1.05
+"1048","KARNAL","Nanhera","November 2014",NA
+"1049","KARNAL","Phurlak S","November 2014",-2.87
+"1050","KARNAL","Salwan-B","November 2014",NA
+"1051","KARNAL","Sambli-Pz-M","November 2014",NA
+"1052","KARNAL","Sambli-Pz-S","November 2014",NA
+"1053","KARNAL","Saunkra S","November 2014",NA
+"1054","KARNAL","Sugar Cane Breeding Farm","November 2014",NA
+"1055","KURUKSHETRA","Bachki-Pz","November 2014",-4.09
+"1056","KURUKSHETRA","Ban- Pz","November 2014",-1.85
+"1057","KURUKSHETRA","Baronda-Pz","November 2014",0.04
+"1058","KURUKSHETRA","Berthala S","November 2014",-1.04
+"1059","KURUKSHETRA","Bodhni (s)","November 2014",0.6
+"1060","KURUKSHETRA","Dabkhera-Pz","November 2014",-2.26
+"1061","KURUKSHETRA","Hatira  (s)","November 2014",-0.31
+"1062","KURUKSHETRA","Ishaque S","November 2014",0.12
+"1063","KURUKSHETRA","Kaulapur S","November 2014",-0.68
+"1064","KURUKSHETRA","Malikpur-Singhpura-Pz","November 2014",-0.33
+"1065","KURUKSHETRA","Murtzapur-Pz","November 2014",-2.08
+"1066","KURUKSHETRA","Pehowa 3 (s)","November 2014",NA
+"1067","KURUKSHETRA","Samalkhi-Pz","November 2014",0.4
+"1068","KURUKSHETRA","Sirsala-Pz","November 2014",-5
+"1069","MAHENDRAGARH","Buwana-Pz","November 2014",-2.53
+"1070","MAHENDRAGARH","Khatodra-Pz","November 2014",-3.94
+"1071","MAHENDRAGARH","Lukhi","November 2014",0.77
+"1072","MAHENDRAGARH","Narnaul","November 2014",-1.42
+"1073","PANCHKULA","Devnagar(Panchkula)","November 2014",0.74
+"1074","PANCHKULA","Dharampur","November 2014",4.48
+"1075","PANCHKULA","Kakar Majra","November 2014",0.74
+"1076","PANCHKULA","Khera","November 2014",1.56
+"1077","PANCHKULA","Parwala","November 2014",0.99
+"1078","PANCHKULA","Patwi","November 2014",-0.21
+"1079","PANCHKULA","Raipur Rani-Pz","November 2014",NA
+"1080","PANCHKULA","Raipurrani","November 2014",-1.96
+"1081","PANIPAT","Babail Pz S","November 2014",-0.45
+"1082","PANIPAT","Babail VS-Pz","November 2014",NA
+"1083","PANIPAT","Bhallour Pz","November 2014",NA
+"1084","PANIPAT","Dakadla S","November 2014",-4.36
+"1085","PANIPAT","Dharamgarh S","November 2014",NA
+"1086","PANIPAT","Etola-Pz-M","November 2014",NA
+"1087","PANIPAT","Etola-Pz-S","November 2014",NA
+"1088","PANIPAT","Hathwala-Pz","November 2014",-1.09
+"1089","PANIPAT","Israna Pz","November 2014",0
+"1090","PANIPAT","Karhansh Pz","November 2014",-3.4
+"1091","PANIPAT","Khalila Manjran","November 2014",1.33
+"1092","PANIPAT","Khelalla Pehl S","November 2014",-3.44
+"1093","PANIPAT","Lohari (s)","November 2014",0.77
+"1094","PANIPAT","Nariana-PZ","November 2014",-1.85
+"1095","PANIPAT","Nimbri- Pz","November 2014",-2.6
+"1096","PANIPAT","Patti Kalyana S","November 2014",NA
+"1097","PANIPAT","Puther Pz","November 2014",NA
+"1098","PANIPAT","Sanauli Khurd-Pz","November 2014",2.43
+"1099","PANIPAT","Shahpur","November 2014",0.68
+"1100","PANIPAT","Sink","November 2014",0.49
+"1101","PANIPAT","Untilya","November 2014",0.1
+"1102","PANIPAT","Urlana Kalan","November 2014",-0.24
+"1103","REWARI","Bahu","November 2014",1.66
+"1104","REWARI","Bawal","November 2014",-0.54
+"1105","REWARI","Bawal DW","November 2014",-0.4
+"1106","REWARI","Bawal Pz","November 2014",NA
+"1107","REWARI","Gangaichajat","November 2014",NA
+"1108","REWARI","Karnawas","November 2014",-0.98
+"1109","REWARI","Kosli","November 2014",NA
+"1110","REWARI","Mandola-Pz","November 2014",-3.35
+"1111","REWARI","Rholiawas-Pz","November 2014",NA
+"1112","REWARI","Sangwari","November 2014",NA
+"1113","REWARI","ROHTAK","November 2014",NA
+"1114","REWARI","Bhal Anandpur","November 2014",0.34
+"1115","REWARI","Hassangarh","November 2014",NA
+"1116","REWARI","Kansala","November 2014",0.51
+"1117","REWARI","Kharawar","November 2014",-0.59
+"1118","REWARI","Lakhan Majara","November 2014",-0.03
+"1119","REWARI","Madina","November 2014",-0.06
+"1120","REWARI","Mahem","November 2014",-1.39
+"1121","REWARI","Samargopalpur","November 2014",0.91
+"1122","REWARI","Sampla","November 2014",0.25
+"1123","REWARI","Sampla -Pz","November 2014",NA
+"1124","SIRSA","Bhuratwala-Pz","November 2014",-0.54
+"1125","SIRSA","Chormar","November 2014",-0.76
+"1126","SIRSA","Chptala","November 2014",NA
+"1127","SIRSA","Chotala-Pz","November 2014",-0.4
+"1128","SIRSA","Dabwali Dw","November 2014",-0.38
+"1129","SIRSA","Dabwali -Pz S","November 2014",-2.84
+"1130","SIRSA","Darba Kalan-Pz","November 2014",0.75
+"1131","SIRSA","Ding","November 2014",0.22
+"1132","SIRSA","Ganga","November 2014",NA
+"1133","SIRSA","Ghushiana","November 2014",-0.82
+"1134","SIRSA","Gigorani","November 2014",-0.98
+"1135","SIRSA","Goriwala","November 2014",-0.53
+"1136","SIRSA","Goriwala-Pz","November 2014",NA
+"1137","SIRSA","Jamal","November 2014",-1.05
+"1138","SIRSA","Jamal- Pz","November 2014",NA
+"1139","SIRSA","Kalanwali Mandi-Pz","November 2014",-1
+"1140","SIRSA","Kaluwana","November 2014",-0.52
+"1141","SIRSA","Karamsana","November 2014",-0.51
+"1142","SIRSA","Kash Ram Dhab","November 2014",-0.73
+"1143","SIRSA","Khuyian","November 2014",NA
+"1144","SIRSA","Mammer Khera-Pz","November 2014",NA
+"1145","SIRSA","Mangala-Pz","November 2014",NA
+"1146","SIRSA","Manjiyana","November 2014",-0.6
+"1147","SIRSA","Mastian","November 2014",NA
+"1148","SIRSA","Mithri","November 2014",-0.77
+"1149","SIRSA","Nuhian Wali","November 2014",0.14
+"1150","SIRSA","Odhan Pz","November 2014",0.03
+"1151","SIRSA","Panniwala Mota","November 2014",0.43
+"1152","SIRSA","Phaggu-Pz","November 2014",-0.23
+"1153","SIRSA","Rasalia Khera","November 2014",-0.04
+"1154","SIRSA","Rori -DW","November 2014",NA
+"1155","SIRSA","Saktakhera","November 2014",-0.37
+"1156","SIRSA","Shergarh - DW","November 2014",NA
+"1157","SIRSA","Sherpura","November 2014",0.13
+"1158","SIRSA","Sirsa -PZ","November 2014",NA
+"1159","SIRSA","Sri Jiwan Nagar-B","November 2014",-3.38
+"1160","SIRSA","Taruwana","November 2014",-0.08
+"1161","SIRSA","Tejakhera","November 2014",0.75
+"1162","SONIPAT","Ahulana","November 2014",0.15
+"1163","SONIPAT","Barauli - pz","November 2014",NA
+"1164","SONIPAT","Barswani- DW","November 2014",-0.34
+"1165","SONIPAT","Barwasni Pz (s)","November 2014",-1.17
+"1166","SONIPAT","Bega -PZ","November 2014",NA
+"1167","SONIPAT","Bhainswal","November 2014",0.85
+"1168","SONIPAT","Bhunderi","November 2014",-0.31
+"1169","SONIPAT","Bichpuri 1","November 2014",NA
+"1170","SONIPAT","Bohela","November 2014",1
+"1171","SONIPAT","Butana","November 2014",0.87
+"1172","SONIPAT","Chirana","November 2014",NA
+"1173","SONIPAT","Datauli-Pz","November 2014",-2.88
+"1174","SONIPAT","Farmana","November 2014",0.7
+"1175","SONIPAT","Garhwal","November 2014",-0.13
+"1176","SONIPAT","Gohana - Pz","November 2014",NA
+"1177","SONIPAT","Jagsi","November 2014",0.6
+"1178","SONIPAT","Janti Khurd-Pz","November 2014",NA
+"1179","SONIPAT","Jhakauli- Pz","November 2014",-1.23
+"1180","SONIPAT","Kami- PZ","November 2014",-2.35
+"1181","SONIPAT","Kathura Pz","November 2014",0.55
+"1182","SONIPAT","Khanpur Kalan-Pz","November 2014",-1.89
+"1183","SONIPAT","KheoraPz","November 2014",-2.7
+"1184","SONIPAT","Lath","November 2014",-0.11
+"1185","SONIPAT","Machhri","November 2014",1.65
+"1186","SONIPAT","Manauli-Pz","November 2014",NA
+"1187","SONIPAT","Mahara","November 2014",-0.6
+"1188","SONIPAT","Mohana Pzm","November 2014",-0.89
+"1189","SONIPAT","Mundlana DW","November 2014",NA
+"1190","SONIPAT","Mundlana- Pz","November 2014",-2.95
+"1191","SONIPAT","Murthal-Pz","November 2014",-0.09
+"1192","SONIPAT","Nahri","November 2014",1.07
+"1193","SONIPAT","Pinana","November 2014",-0.93
+"1194","SONIPAT","Pugthala-Pz","November 2014",-0.6
+"1195","SONIPAT","Purkhas-Pz","November 2014",-1.19
+"1196","SONIPAT","Rai(Bahalgarh)","November 2014",-2.43
+"1197","SONIPAT","Rasoi pz","November 2014",NA
+"1198","SONIPAT","Rathdhana-Pz","November 2014",-0.19
+"1199","SONIPAT","Rohat","November 2014",-2.97
+"1200","SONIPAT","Rukhi-Pz","November 2014",-1.06
+"1201","SONIPAT","Sisnah","November 2014",0.19
+"1202","YAMUNANAGAR","Amadalpur","November 2014",NA
+"1203","YAMUNANAGAR","Amadalpur-DW","November 2014",NA
+"1204","YAMUNANAGAR","Bhambauli-1 (m)","November 2014",NA
+"1205","YAMUNANAGAR","Bilaspur DW","November 2014",NA
+"1206","YAMUNANAGAR","Chhachrauli S","November 2014",-0.31
+"1207","YAMUNANAGAR","Choli","November 2014",0.83
+"1208","YAMUNANAGAR","Dhanauri S","November 2014",NA
+"1209","YAMUNANAGAR","Dhaurang S","November 2014",0.02
+"1210","YAMUNANAGAR","Jhiwarheri S","November 2014",-2.86
+"1211","YAMUNANAGAR","Khizrabad","November 2014",0.97
+"1212","YAMUNANAGAR","Mustafabad DW","November 2014",0.2
+"1213","YAMUNANAGAR","Mustafabad-Pz","November 2014",-0.22
+"1214","YAMUNANAGAR","Naggal-S","November 2014",-0.64
+"1215","YAMUNANAGAR","Radaur S","November 2014",NA
+"1216","YAMUNANAGAR","Rasulpur","November 2014",NA
+"1217","YAMUNANAGAR","Rasulpur DW","November 2014",-1.2
+"1218","YAMUNANAGAR","Sabri","November 2014",0.4
+"1219","YAMUNANAGAR","Sadhaura DW","November 2014",NA
+"1220","YAMUNANAGAR","Sadhaura S","November 2014",0.3
+"1221","YAMUNANAGAR","Shadipur","November 2014",-0.43
+"1222","AMBALA","Ambala Cantt","January 2015",NA
+"1223","AMBALA","Balana","January 2015",NA
+"1224","AMBALA","Dhanaura","January 2015",0.49
+"1225","AMBALA","Kakru","January 2015",-0.45
+"1226","AMBALA","Khanahmadpur","January 2015",1.43
+"1227","AMBALA","Mulana","January 2015",NA
+"1228","AMBALA","Naraingarh","January 2015",NA
+"1229","AMBALA","Panjokhra","January 2015",-0.52
+"1230","AMBALA","Pinjola","January 2015",NA
+"1231","AMBALA","Saha S","January 2015",NA
+"1232","BHIWANI","Badala","January 2015",NA
+"1233","BHIWANI","Bajina","January 2015",-0.3
+"1234","BHIWANI","Bamla","January 2015",0.03
+"1235","BHIWANI","Baundkalan","January 2015",-0.48
+"1236","BHIWANI","Bhawani khera DW","January 2015",-0.16
+"1237","BHIWANI","Bhawani Khera Pz","January 2015",NA
+"1238","BHIWANI","Bohal","January 2015",0.06
+"1239","BHIWANI","Chirya","January 2015",-2.68
+"1240","BHIWANI","Dadri1","January 2015",NA
+"1241","BHIWANI","Dadri-Pz","January 2015",NA
+"1242","BHIWANI","Dhanana","January 2015",NA
+"1243","BHIWANI","Gopi","January 2015",NA
+"1244","BHIWANI","Gurera","January 2015",NA
+"1245","BHIWANI","Gurera-pz","January 2015",NA
+"1246","BHIWANI","Haluwas","January 2015",-0.97
+"1247","BHIWANI","Imlota","January 2015",NA
+"1248","BHIWANI","Isharwal","January 2015",NA
+"1249","BHIWANI","Jhumpa","January 2015",1.21
+"1250","BHIWANI","Jhumpa PZM","January 2015",NA
+"1251","BHIWANI","Jhumpa Kalan","January 2015",NA
+"1252","BHIWANI","Juikalan","January 2015",NA
+"1253","BHIWANI","Juikalan Pz","January 2015",NA
+"1254","BHIWANI","Lohani","January 2015",NA
+"1255","BHIWANI","Manhairu","January 2015",0.02
+"1256","BHIWANI","Mauhala","January 2015",-0.43
+"1257","BHIWANI","Mehrana","January 2015",NA
+"1258","BHIWANI","Miran","January 2015",NA
+"1259","BHIWANI","Miran-Pz","January 2015",NA
+"1260","BHIWANI","Nayaatela","January 2015",-0.15
+"1261","BHIWANI","Pataudi Khurd","January 2015",NA
+"1262","BHIWANI","Sagban","January 2015",NA
+"1263","BHIWANI","Sangwan PZM","January 2015",NA
+"1264","BHIWANI","Sanwar","January 2015",NA
+"1265","BHIWANI","Singhani-pz","January 2015",NA
+"1266","BHIWANI","Siwani","January 2015",0.12
+"1267","BHIWANI","Sui","January 2015",0.26
+"1268","BHIWANI","Tosham","January 2015",NA
+"1269","BHIWANI","Tosham-Pz","January 2015",0.03
+"1270","FARIDABAD","Achheja","January 2015",NA
+"1271","FARIDABAD","Badraun","January 2015",NA
+"1272","FARIDABAD","Baghaula","January 2015",0.25
+"1273","FARIDABAD","Ballabhgarh","January 2015",NA
+"1274","FARIDABAD","Barauli-Pz","January 2015",NA
+"1275","FARIDABAD","Bhopani","January 2015",NA
+"1276","FARIDABAD","Dighaut","January 2015",NA
+"1277","FARIDABAD","Hathin","January 2015",NA
+"1278","FARIDABAD","Hasanpur","January 2015",NA
+"1279","FARIDABAD","Jaindapur","January 2015",NA
+"1280","FARIDABAD","Jawan- Pz","January 2015",NA
+"1281","FARIDABAD","Kabulpur","January 2015",NA
+"1282","FARIDABAD","Khambi","January 2015",NA
+"1283","FARIDABAD","Kot","January 2015",0.61
+"1284","FARIDABAD","Lakhnaka","January 2015",NA
+"1285","FARIDABAD","Lalwa","January 2015",NA
+"1286","FARIDABAD","NH-IV CHQ PZ S","January 2015",NA
+"1287","FARIDABAD","Pali2","January 2015",NA
+"1288","FARIDABAD","Palwal","January 2015",NA
+"1289","FARIDABAD","Palwal-Pz","January 2015",NA
+"1290","FARIDABAD","Pehladpur-Pz","January 2015",NA
+"1291","FARIDABAD","Pelak-Pz","January 2015",NA
+"1292","FARIDABAD","Rasul Pur","January 2015",NA
+"1293","FARIDABAD","Thekarka","January 2015",NA
+"1294","FARIDABAD","Tigaon-Pz","January 2015",NA
+"1295","FARIDABAD","Tumsara","January 2015",-1.3
+"1296","FATEHABAD","Aharwan S","January 2015",NA
+"1297","FATEHABAD","Badopal","January 2015",0.08
+"1298","FATEHABAD","Jandli Kalan","January 2015",NA
+"1299","FATEHABAD","Mehu Wala Pz","January 2015",NA
+"1300","FATEHABAD","Nahla","January 2015",-0.81
+"1301","FATEHABAD","Ratia- Pz","January 2015",NA
+"1302","FATEHABAD","Sadalpur","January 2015",-0.55
+"1303","FATEHABAD","Samain","January 2015",NA
+"1304","FATEHABAD","Sohu","January 2015",-0.48
+"1305","FATEHABAD","Tohana","January 2015",NA
+"1306","FATEHABAD","Uklana Mandi-Pz","January 2015",NA
+"1307","GURGAON","Akaira","January 2015",-1.3
+"1308","GURGAON","Akbarpur","January 2015",0.15
+"1309","GURGAON","Basonda Tripati-Pz","January 2015",NA
+"1310","GURGAON","Chandu Tikly","January 2015",NA
+"1311","GURGAON","Firozepur Jhirka","January 2015",NA
+"1312","GURGAON","Fazilpur Badli-Pz","January 2015",NA
+"1313","GURGAON","Gulaltha","January 2015",NA
+"1314","GURGAON","Gurgaon","January 2015",NA
+"1315","GURGAON","Gurgaon Pz","January 2015",NA
+"1316","GURGAON","Indri","January 2015",NA
+"1317","GURGAON","Jaraon Pz","January 2015",NA
+"1318","GURGAON","Jhanjrola","January 2015",NA
+"1319","GURGAON","Khera Khurrampur-Pz","January 2015",NA
+"1320","GURGAON","Kadipur","January 2015",NA
+"1321","GURGAON","Kasan","January 2015",NA
+"1322","GURGAON","Kheri1","January 2015",NA
+"1323","GURGAON","Kherla","January 2015",NA
+"1324","GURGAON","Khori kalan","January 2015",NA
+"1325","GURGAON","Lokra – Pz","January 2015",NA
+"1326","GURGAON","Luhingakalan","January 2015",NA
+"1327","GURGAON","Malab","January 2015",NA
+"1328","GURGAON","Meoka-Pz","January 2015",NA
+"1329","GURGAON","Mouzabad","January 2015",NA
+"1330","GURGAON","Nagina","January 2015",NA
+"1331","GURGAON","Naharika-Pz","January 2015",NA
+"1332","GURGAON","Nurgarh-Pz","January 2015",NA
+"1333","GURGAON","Nuh1","January 2015",NA
+"1334","GURGAON","Pipaka","January 2015",NA
+"1335","GURGAON","Pipaka-Shashola","January 2015",NA
+"1336","GURGAON","Siwari-Pz","January 2015",-1.2
+"1337","GURGAON","Sikarwa","January 2015",NA
+"1338","GURGAON","Sohna","January 2015",NA
+"1339","GURGAON","Wazirpur-Pz","January 2015",NA
+"1340","HISAR","Adampur-Pz","January 2015",-0.88
+"1341","HISAR","Agroha-Pz","January 2015",NA
+"1342","HISAR","Balawas1","January 2015",0.9
+"1343","HISAR","Balsamand","January 2015",NA
+"1344","HISAR","Balsamand-Pz","January 2015",NA
+"1345","HISAR","Banbhauri-Pz","January 2015",-0.75
+"1346","HISAR","Barwala abd","January 2015",-1.69
+"1347","HISAR","Barwala 1","January 2015",NA
+"1348","HISAR","Barwala-Pz","January 2015",0.04
+"1349","HISAR","Bas","January 2015",NA
+"1350","HISAR","Basra","January 2015",1
+"1351","HISAR","Behbalpur-Pz","January 2015",0.31
+"1352","HISAR","Chanaut","January 2015",-0.85
+"1353","HISAR","Chawdhariwas","January 2015",-0.55
+"1354","HISAR","Dhamundicross","January 2015",NA
+"1355","HISAR","Dhansu","January 2015",NA
+"1356","HISAR","Ghaibipur","January 2015",NA
+"1357","HISAR","Ghursal-Pz","January 2015",-0.02
+"1358","HISAR","Hissar-Pz","January 2015",-1.61
+"1359","HISAR","Juglan","January 2015",NA
+"1360","HISAR","Kanoh-Pz","January 2015",-0.42
+"1361","HISAR","Khanda Kheri-Pz","January 2015",NA
+"1362","HISAR","Kherijalab-Pz","January 2015",0.6
+"1363","HISAR","Khotkalan","January 2015",0.85
+"1364","HISAR","Kirori","January 2015",NA
+"1365","HISAR","Kirtan","January 2015",-0.13
+"1366","HISAR","Mangali-Pz","January 2015",-0.51
+"1367","HISAR","Mirka","January 2015",NA
+"1368","HISAR","Mothmajri","January 2015",-0.7
+"1369","HISAR","Narnaud S","January 2015",NA
+"1370","HISAR","Rajli Cross","January 2015",-0.99
+"1371","HISAR","Rajthal1","January 2015",NA
+"1372","HISAR","Samani","January 2015",-0.3
+"1373","HISAR","Sorkhi-Pz","January 2015",NA
+"1374","HISAR","Umra","January 2015",NA
+"1375","JHAJJAR","Badli","January 2015",NA
+"1376","JHAJJAR","Bagoa","January 2015",0.48
+"1377","JHAJJAR","Chamanpura","January 2015",-1.25
+"1378","JHAJJAR","Chhara","January 2015",-0.62
+"1379","JHAJJAR","Chuchakwas","January 2015",-0.02
+"1380","JHAJJAR","Dighal","January 2015",0.11
+"1381","JHAJJAR","Dubhaldhan","January 2015",NA
+"1382","JHAJJAR","Dulhera","January 2015",-1.53
+"1383","JHAJJAR","Hasanpur","January 2015",NA
+"1384","JHAJJAR","Gabhana","January 2015",NA
+"1385","JHAJJAR","Jhajjar","January 2015",-0.25
+"1386","JHAJJAR","Kulasi","January 2015",0.37
+"1387","JHAJJAR","Mudsa","January 2015",NA
+"1388","JHAJJAR","Salhawas","January 2015",NA
+"1389","JHAJJAR","Subnah","January 2015",NA
+"1390","JHAJJAR","Sankol","January 2015",NA
+"1391","JHAJJAR","Wazirpur","January 2015",NA
+"1392","JIND","Alewa Pz","January 2015",NA
+"1393","JIND","ATI Krishna1(s)","January 2015",NA
+"1394","JIND","Baroda","January 2015",NA
+"1395","JIND","Bhuslana-Pz","January 2015",NA
+"1396","JIND","Brahmanwas","January 2015",NA
+"1397","JIND","Chhabri","January 2015",-0.43
+"1398","JIND","Dhandauli Pz","January 2015",NA
+"1399","JIND","Dorana Pz","January 2015",NA
+"1400","JIND","Ghaso","January 2015",NA
+"1401","JIND","Jhamula","January 2015",-0.17
+"1402","JIND","Julana Pz","January 2015",NA
+"1403","JIND","Khatkaran","January 2015",NA
+"1404","JIND","Korar","January 2015",1
+"1405","JIND","Lochp Pz","January 2015",NA
+"1406","JIND","Mohal Khera Pz","January 2015",NA
+"1407","JIND","Narwana S","January 2015",NA
+"1408","JIND","Narwana S-Pz","January 2015",NA
+"1409","JIND","Pillukhera","January 2015",NA
+"1410","JIND","Safidon (s)","January 2015",NA
+"1411","JIND","Safidon 1(s)","January 2015",NA
+"1412","JIND","Uchana","January 2015",-0.95
+"1413","JIND","Uchana Pz","January 2015",NA
+"1414","KAITHAL","Bhana-Pz","January 2015",NA
+"1415","KAITHAL","Guhna","January 2015",-2.7
+"1416","KAITHAL","Jakhauli-Pz","January 2015",NA
+"1417","KAITHAL","Jandaula-Pz","January 2015",NA
+"1418","KAITHAL","Jateri","January 2015",NA
+"1419","KAITHAL","Kaithal S","January 2015",NA
+"1420","KAITHAL","Kalayat","January 2015",NA
+"1421","KAITHAL","Kalayat S","January 2015",NA
+"1422","KAITHAL","Kathana-Pz","January 2015",NA
+"1423","KAITHAL","Kelaram","January 2015",NA
+"1424","KAITHAL","Kheorak-Pz","January 2015",NA
+"1425","KAITHAL","Manaspatti-Pz","January 2015",-3.02
+"1426","KAITHAL","Mataur","January 2015",NA
+"1427","KAITHAL","Mundri","January 2015",NA
+"1428","KAITHAL","Padla 1(s)","January 2015",NA
+"1429","KAITHAL","Peoda_Pz","January 2015",NA
+"1430","KAITHAL","Pundri(s)","January 2015",NA
+"1431","KAITHAL","Rajaund-Pz","January 2015",NA
+"1432","KAITHAL","Rajound S","January 2015",NA
+"1433","KAITHAL","Sirsal-Pz","January 2015",NA
+"1434","KAITHAL","Titiana 1(s)","January 2015",NA
+"1435","KARNAL","Amin S","January 2015",NA
+"1436","KARNAL","Balhera-s","January 2015",NA
+"1437","KARNAL","Dadupur Khurd-Pz","January 2015",-1.95
+"1438","KARNAL","Dhomsi(shallow)","January 2015",NA
+"1439","KARNAL","Dingar Majra-Pz","January 2015",-1.37
+"1440","KARNAL","Domsi D","January 2015",NA
+"1441","KARNAL","Faridpur-Pz","January 2015",-0.5
+"1442","KARNAL","Gangatheri","January 2015",NA
+"1443","KARNAL","Garhi Khajur S","January 2015",NA
+"1444","KARNAL","Indri","January 2015",NA
+"1445","KARNAL","Jabhala-Pz","January 2015",NA
+"1446","KARNAL","Jaroli Khurd-Pz","January 2015",NA
+"1447","KARNAL","Jundla1","January 2015",NA
+"1448","KARNAL","Kalri Jagir S","January 2015",NA
+"1449","KARNAL","Kutail S","January 2015",NA
+"1450","KARNAL","Majra Roran","January 2015",NA
+"1451","KARNAL","Makhala S","January 2015",NA
+"1452","KARNAL","Mohidinpur-Pz","January 2015",0.25
+"1453","KARNAL","Mound S","January 2015",NA
+"1454","KARNAL","Nalvi Kalan-Pz","January 2015",NA
+"1455","KARNAL","Nanhera","January 2015",NA
+"1456","KARNAL","Phurlak S","January 2015",NA
+"1457","KARNAL","Salwan-B","January 2015",NA
+"1458","KARNAL","Sambli-Pz-M","January 2015",NA
+"1459","KARNAL","Sambli-Pz-S","January 2015",NA
+"1460","KARNAL","Saunkra S","January 2015",NA
+"1461","KARNAL","Sugar Cane Breeding Farm","January 2015",NA
+"1462","KURUKSHETRA","Bachki-Pz","January 2015",NA
+"1463","KURUKSHETRA","Ban- Pz","January 2015",NA
+"1464","KURUKSHETRA","Baronda-Pz","January 2015",1.07
+"1465","KURUKSHETRA","Berthala S","January 2015",NA
+"1466","KURUKSHETRA","Bodhni (s)","January 2015",NA
+"1467","KURUKSHETRA","Dabkhera-Pz","January 2015",NA
+"1468","KURUKSHETRA","Hatira  (s)","January 2015",NA
+"1469","KURUKSHETRA","Ishaque S","January 2015",NA
+"1470","KURUKSHETRA","Kaulapur S","January 2015",NA
+"1471","KURUKSHETRA","Malikpur-Singhpura-Pz","January 2015",NA
+"1472","KURUKSHETRA","Murtzapur-Pz","January 2015",NA
+"1473","KURUKSHETRA","Pehowa 3 (s)","January 2015",NA
+"1474","KURUKSHETRA","Samalkhi-Pz","January 2015",NA
+"1475","KURUKSHETRA","Sirsala-Pz","January 2015",NA
+"1476","MAHENDRAGARH","Buwana-Pz","January 2015",NA
+"1477","MAHENDRAGARH","Khatodra-Pz","January 2015",NA
+"1478","MAHENDRAGARH","Lukhi","January 2015",1.05
+"1479","MAHENDRAGARH","Narnaul","January 2015",3.16
+"1480","PANCHKULA","Devnagar(Panchkula)","January 2015",1.11
+"1481","PANCHKULA","Dharampur","January 2015",NA
+"1482","PANCHKULA","Kakar Majra","January 2015",NA
+"1483","PANCHKULA","Khera","January 2015",NA
+"1484","PANCHKULA","Parwala","January 2015",NA
+"1485","PANCHKULA","Patwi","January 2015",-0.35
+"1486","PANCHKULA","Raipur Rani-Pz","January 2015",NA
+"1487","PANCHKULA","Raipurrani","January 2015",NA
+"1488","PANIPAT","Babail Pz S","January 2015",NA
+"1489","PANIPAT","Babail VS-Pz","January 2015",NA
+"1490","PANIPAT","Bhallour Pz","January 2015",NA
+"1491","PANIPAT","Dakadla S","January 2015",NA
+"1492","PANIPAT","Dharamgarh S","January 2015",NA
+"1493","PANIPAT","Etola-Pz-M","January 2015",NA
+"1494","PANIPAT","Etola-Pz-S","January 2015",NA
+"1495","PANIPAT","Hathwala-Pz","January 2015",0.06
+"1496","PANIPAT","Israna Pz","January 2015",NA
+"1497","PANIPAT","Karhansh Pz","January 2015",NA
+"1498","PANIPAT","Khalila Manjran","January 2015",0.18
+"1499","PANIPAT","Khelalla Pehl S","January 2015",NA
+"1500","PANIPAT","Lohari (s)","January 2015",NA
+"1501","PANIPAT","Nariana-PZ","January 2015",-0.85
+"1502","PANIPAT","Nimbri- Pz","January 2015",-1.55
+"1503","PANIPAT","Patti Kalyana S","January 2015",NA
+"1504","PANIPAT","Puther Pz","January 2015",NA
+"1505","PANIPAT","Sanauli Khurd-Pz","January 2015",NA
+"1506","PANIPAT","Shahpur","January 2015",NA
+"1507","PANIPAT","Sink","January 2015",NA
+"1508","PANIPAT","Untilya","January 2015",0.15
+"1509","PANIPAT","Urlana Kalan","January 2015",-0.9
+"1510","REWARI","Bahu","January 2015",NA
+"1511","REWARI","Bawal","January 2015",NA
+"1512","REWARI","Bawal DW","January 2015",NA
+"1513","REWARI","Bawal Pz","January 2015",NA
+"1514","REWARI","Gangaichajat","January 2015",NA
+"1515","REWARI","Karnawas","January 2015",NA
+"1516","REWARI","Kosli","January 2015",NA
+"1517","REWARI","Mandola-Pz","January 2015",NA
+"1518","REWARI","Rholiawas-Pz","January 2015",NA
+"1519","REWARI","Sangwari","January 2015",NA
+"1520","REWARI","ROHTAK","January 2015",20.15
+"1521","REWARI","Bhal Anandpur","January 2015",0.44
+"1522","REWARI","Hassangarh","January 2015",NA
+"1523","REWARI","Kansala","January 2015",NA
+"1524","REWARI","Kharawar","January 2015",NA
+"1525","REWARI","Lakhan Majara","January 2015",NA
+"1526","REWARI","Madina","January 2015",-0.03
+"1527","REWARI","Mahem","January 2015",-1.44
+"1528","REWARI","Samargopalpur","January 2015",1.31
+"1529","REWARI","Sampla","January 2015",NA
+"1530","REWARI","Sampla -Pz","January 2015",NA
+"1531","SIRSA","Bhuratwala-Pz","January 2015",NA
+"1532","SIRSA","Chormar","January 2015",NA
+"1533","SIRSA","Chptala","January 2015",NA
+"1534","SIRSA","Chotala-Pz","January 2015",NA
+"1535","SIRSA","Dabwali Dw","January 2015",NA
+"1536","SIRSA","Dabwali -Pz S","January 2015",NA
+"1537","SIRSA","Darba Kalan-Pz","January 2015",0.59
+"1538","SIRSA","Ding","January 2015",NA
+"1539","SIRSA","Ganga","January 2015",NA
+"1540","SIRSA","Ghushiana","January 2015",NA
+"1541","SIRSA","Gigorani","January 2015",NA
+"1542","SIRSA","Goriwala","January 2015",NA
+"1543","SIRSA","Goriwala-Pz","January 2015",NA
+"1544","SIRSA","Jamal","January 2015",NA
+"1545","SIRSA","Jamal- Pz","January 2015",NA
+"1546","SIRSA","Kalanwali Mandi-Pz","January 2015",NA
+"1547","SIRSA","Kaluwana","January 2015",NA
+"1548","SIRSA","Karamsana","January 2015",NA
+"1549","SIRSA","Kash Ram Dhab","January 2015",NA
+"1550","SIRSA","Khuyian","January 2015",NA
+"1551","SIRSA","Mammer Khera-Pz","January 2015",NA
+"1552","SIRSA","Mangala-Pz","January 2015",NA
+"1553","SIRSA","Manjiyana","January 2015",NA
+"1554","SIRSA","Mastian","January 2015",NA
+"1555","SIRSA","Mithri","January 2015",NA
+"1556","SIRSA","Nuhian Wali","January 2015",NA
+"1557","SIRSA","Odhan Pz","January 2015",NA
+"1558","SIRSA","Panniwala Mota","January 2015",NA
+"1559","SIRSA","Phaggu-Pz","January 2015",NA
+"1560","SIRSA","Rasalia Khera","January 2015",NA
+"1561","SIRSA","Rori -DW","January 2015",NA
+"1562","SIRSA","Saktakhera","January 2015",-0.38
+"1563","SIRSA","Shergarh - DW","January 2015",NA
+"1564","SIRSA","Sherpura","January 2015",0.15
+"1565","SIRSA","Sirsa -PZ","January 2015",NA
+"1566","SIRSA","Sri Jiwan Nagar-B","January 2015",NA
+"1567","SIRSA","Taruwana","January 2015",NA
+"1568","SIRSA","Tejakhera","January 2015",NA
+"1569","SONIPAT","Ahulana","January 2015",NA
+"1570","SONIPAT","Barauli - pz","January 2015",NA
+"1571","SONIPAT","Barswani- DW","January 2015",NA
+"1572","SONIPAT","Barwasni Pz (s)","January 2015",NA
+"1573","SONIPAT","Bega -PZ","January 2015",NA
+"1574","SONIPAT","Bhainswal","January 2015",NA
+"1575","SONIPAT","Bhunderi","January 2015",NA
+"1576","SONIPAT","Bichpuri 1","January 2015",NA
+"1577","SONIPAT","Bohela","January 2015",NA
+"1578","SONIPAT","Butana","January 2015",NA
+"1579","SONIPAT","Chirana","January 2015",NA
+"1580","SONIPAT","Datauli-Pz","January 2015",NA
+"1581","SONIPAT","Farmana","January 2015",NA
+"1582","SONIPAT","Garhwal","January 2015",NA
+"1583","SONIPAT","Gohana - Pz","January 2015",NA
+"1584","SONIPAT","Jagsi","January 2015",NA
+"1585","SONIPAT","Janti Khurd-Pz","January 2015",NA
+"1586","SONIPAT","Jhakauli- Pz","January 2015",NA
+"1587","SONIPAT","Kami- PZ","January 2015",NA
+"1588","SONIPAT","Kathura Pz","January 2015",NA
+"1589","SONIPAT","Khanpur Kalan-Pz","January 2015",NA
+"1590","SONIPAT","KheoraPz","January 2015",NA
+"1591","SONIPAT","Lath","January 2015",NA
+"1592","SONIPAT","Machhri","January 2015",NA
+"1593","SONIPAT","Manauli-Pz","January 2015",NA
+"1594","SONIPAT","Mahara","January 2015",NA
+"1595","SONIPAT","Mohana Pzm","January 2015",NA
+"1596","SONIPAT","Mundlana DW","January 2015",1.21
+"1597","SONIPAT","Mundlana- Pz","January 2015",NA
+"1598","SONIPAT","Murthal-Pz","January 2015",NA
+"1599","SONIPAT","Nahri","January 2015",NA
+"1600","SONIPAT","Pinana","January 2015",NA
+"1601","SONIPAT","Pugthala-Pz","January 2015",NA
+"1602","SONIPAT","Purkhas-Pz","January 2015",NA
+"1603","SONIPAT","Rai(Bahalgarh)","January 2015",NA
+"1604","SONIPAT","Rasoi pz","January 2015",NA
+"1605","SONIPAT","Rathdhana-Pz","January 2015",NA
+"1606","SONIPAT","Rohat","January 2015",NA
+"1607","SONIPAT","Rukhi-Pz","January 2015",NA
+"1608","SONIPAT","Sisnah","January 2015",NA
+"1609","YAMUNANAGAR","Amadalpur","January 2015",NA
+"1610","YAMUNANAGAR","Amadalpur-DW","January 2015",NA
+"1611","YAMUNANAGAR","Bhambauli-1 (m)","January 2015",NA
+"1612","YAMUNANAGAR","Bilaspur DW","January 2015",NA
+"1613","YAMUNANAGAR","Chhachrauli S","January 2015",NA
+"1614","YAMUNANAGAR","Choli","January 2015",NA
+"1615","YAMUNANAGAR","Dhanauri S","January 2015",NA
+"1616","YAMUNANAGAR","Dhaurang S","January 2015",NA
+"1617","YAMUNANAGAR","Jhiwarheri S","January 2015",NA
+"1618","YAMUNANAGAR","Khizrabad","January 2015",NA
+"1619","YAMUNANAGAR","Mustafabad DW","January 2015",1.08
+"1620","YAMUNANAGAR","Mustafabad-Pz","January 2015",NA
+"1621","YAMUNANAGAR","Naggal-S","January 2015",NA
+"1622","YAMUNANAGAR","Radaur S","January 2015",NA
+"1623","YAMUNANAGAR","Rasulpur","January 2015",NA
+"1624","YAMUNANAGAR","Rasulpur DW","January 2015",NA
+"1625","YAMUNANAGAR","Sabri","January 2015",NA
+"1626","YAMUNANAGAR","Sadhaura DW","January 2015",NA
+"1627","YAMUNANAGAR","Sadhaura S","January 2015",NA
+"1628","YAMUNANAGAR","Shadipur","January 2015",NA

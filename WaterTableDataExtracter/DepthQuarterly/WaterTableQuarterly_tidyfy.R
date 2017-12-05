@@ -10,11 +10,11 @@ setwd('./WaterTableDataExtracter/DepthQuarterly')
 raw.input.csv.file.name <- "water_table_depth_quarterly_2014_2015_untidy.csv"
 tidy.output.csv.file.name <- "water_table_depth_quarterly_2014_2015.csv"
 
-quarterly.column.names <- c('District',  'Location', "March 2014", "July 2014", "November 2014" , "January 2015")
+quarterly.column.names <- c('District',  'Location', "May 2014", "August 2014", "November 2014" , "January 2015")
 
 input.col_types = cols(
-    `March 2014` = col_double(),
-    `July 2014` = col_double(),   
+    `May 2014` = col_double(),
+    `August 2014` = col_double(),   
     `November 2014` = col_double(),
     `January 2015` = col_double(),
     `Sl. No.` = col_skip())

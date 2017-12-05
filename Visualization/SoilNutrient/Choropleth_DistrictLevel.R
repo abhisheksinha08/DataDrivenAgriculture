@@ -126,7 +126,7 @@ Final <- Final1 %>% left_join(Final2) %>%  left_join(Final3) %>%
 
 
 #Reading a Shape Files and Filtering the districts of Haryana
-
+#These files are kept in the folder with the name IND_adm_shp
 tmp <- "C://Users//Aditya//Desktop//Soil Data//IND_adm_shp"
 TAL <- readOGR(dsn = tmp, layer = "IND_adm2", encoding = "UTF-8")
 Haryana.map <- TAL[TAL$NAME_1 == "Haryana",]
@@ -177,56 +177,4 @@ df1 %>% leaflet() %>% addProviderTiles(providers$CartoDB.Positron) %>%
                                          weight = 1,
                                          popup = state_popup)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Final_Coord <- read.csv(s)
-Final_Coord <- left_join(Final,Block_Coord)
-
-Final_Coord %>% filter(!is.na(lon)) %>% 
-  leaflet() %>% addProviderTiles(providers$CartoDB.Positron) %>%
-  setView( 76.5, 30, 7 ) %>% addPolygons()
-addHeatmap(lng = ~lon, lat = ~lat, intensity = ~SoilPhMean
-           ,blur = 20, max = 0.05, radius =10 )
-
-m <- leaflet(blocks) %>%
-  setView( 76.5, 30, 7 ) %>%
-  addProviderTiles("MapBox", options = providerTileOptions(
-    id = "mapbox.light",
-    accessToken = Sys.getenv('MAPBOX_ACCESS_TOKEN')))
 

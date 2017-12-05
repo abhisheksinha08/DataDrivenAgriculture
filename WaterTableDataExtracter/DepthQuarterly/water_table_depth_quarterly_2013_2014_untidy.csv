@@ -1,0 +1,436 @@
+"Sl. No.","[District:]Location","May 2013","August 2013","November 2013","January 2014"
+1,AMBALA:Ambala Cantt,2.42,NA,1.62,NA
+2,Balana,2.06,NA,1.17,NA
+3,Dhanaura,6.30,2.90,3.30,4.20
+4,Kakru,1.98,0.38,1.34,1.41
+5,Khanahmadpur,4.17,NA,2.31,2.86
+6,Mulana,3.27,NA,2.42,NA
+7,Naraingarh,14.09,NA,11.84,NA
+8,Panjokhra,5.20,3.25,2.83,NA
+9,Pinjola,4.14,3.54,2.59,NA
+10,BHIWANI:Badala,1.85,1.95,1.75,NA
+11,Bajina,11.22,11.30,11.36,11.37
+12,Bamla,6.93,7.18,6.97,9.68
+13,Baundkalan,2.86,1.81,1.98,NA
+14,Bhawani khera DW,5.93,6.45,6.35,NA
+15,Bhawani Khera Pz,7.00,6.96,6.11,NA
+16,Bohal,6.78,5.95,6.15,NA
+17,Chirya,15.06,14.36,12.79,NA
+18,Dadri1,2.39,NA,2.28,NA
+19,Dhanana,1.26,0.94,1.04,NA
+20,Gopi,NA,NA,55.40,NA
+21,Gurera,15.40,15.95,15.84,NA
+22,Gurera-pz,19.12,NA,14.35,NA
+23,Haluwas,2.10,1.72,2.43,2.65
+24,Imlota,NA,NA,3.01,NA
+25,Isharwal,18.40,17.10,15.98,NA
+26,Jhumpa,26.99,27.90,27.77,29.30
+27,Jhumpa Kalan,NA,NA,26.56,NA
+28,Juikalan,NA,28.44,NA,NA
+29,Juikalan Pz,19.35,NA,27.11,NA
+30,Lachhmanpur,8.19,3.20,8.91,NA
+31,Lohani,13.90,NA,7.45,NA
+32,Mauhala,17.00,20.50,20.07,NA
+33,Mehrana,14.80,15.80,11.35,NA
+34,Miran,5.17,NA,3.71,NA
+35,Miran-Pz,6.27,NA,4.26,NA
+36,Nayaatela,20.26,20.21,20.36,20.01
+37,Pataudi Khurd,NA,NA,10.60,NA
+38,Sagban,4.40,NA,3.99,NA
+39,Sangwan PZM,4.40,NA,3.99,NA
+40,Sanwar,5.05,NA,4.28,3.75
+41,Singhani-pz,NA,NA,68.87,NA
+42,Siwani,13.60,13.47,13.49,13.40
+43,Sui,4.72,NA,3.34,3.30
+44,Tosham,6.41,6.00,5.43,NA
+45,Tosham-Pz,8.00,NA,8.19,NA
+46,FARIDABAD:Achheja,7.85,NA,5.65,NA
+47,Badraun,7.15,NA,2.45,NA
+48,Baghaula,4.80,2.39,1.64,NA
+49,Ballabhgarh,26.99,NA,26.10,NA
+50,Bamnikhera,6.80,NA,NA,NA
+51,Barauli-Pz,10.12,NA,NA,NA
+52,Bhopani,19.10,NA,17.86,NA
+53,Dighaut,11.49,NA,10.51,NA
+54,Hathin,13.87,NA,9.16,NA
+55,Hodel,10.12,NA,8.19,NA
+56,Hodel1,10.12,NA,8.19,NA
+57,Jaindapur,NA,NA,9.30,NA
+58,Jawan- Pz,NA,NA,9.39,NA
+59,Kabulpur,14.75,NA,13.10,NA
+60,Khambi,3.71,NA,0.73,NA
+61,Kot,9.81,NA,6.11,NA
+62,Lakhnaka,6.44,NA,9.40,NA
+63,Lalwa,6.00,NA,3.30,NA
+64,NH-IV CHQ PZ S,48.72,NA,49.66,NA
+65,Pali2,19.60,NA,17.65,NA
+66,Palwal,5.20,NA,4.00,NA
+67,Palwal-Pz,7.10,NA,12.30,NA
+68,Rasul Pur,6.98,5.74,5.49,5.64
+69,Thekarka,NA,NA,0.90,NA
+70,Tigaon-Pz,NA,NA,19.10,NA
+71,Tumsara,7.33,5.98,7.68,NA
+72,FATEHABAD:Aharwan S,51.59,NA,56.34,NA
+73,Badopal,2.33,1.93,2.05,2.10
+74,Jandli Kalan,4.12,NA,3.01,NA
+75,Mehu Wala Pz,3.68,NA,2.69,NA
+76,Nahla,8.52,6.61,8.16,NA
+77,Ratia -Pz,40.09,NA,42.06,NA
+78,Sadalpur,7.06,NA,6.95,NA
+79,Samain,5.04,1.95,2.17,NA
+80,Sohu,5.51,NA,5.05,NA
+81,Tohana,16.67,15.68,17.45,NA
+82,GURGAON:Akaira,6.40,5.80,5.00,NA
+83,Akbarpur,1.80,NA,0.90,NA
+84,Basonda Tripati-Pz,NA,NA,23.77,NA
+85,Chandu Tikly,10.60,NA,9.05,NA
+86,Fazilpur Badli-Pz,21.80,22.20,18.70,23.20
+87,Firozepur Jhirka,13.25,10.75,9.40,NA
+88,Gulaltha,NA,1.20,NA,NA
+89,Gurgaon,35.35,NA,35.75,NA
+90,Gurgaon Pz,35.35,NA,35.75,NA
+91,Haila Mandi,NA,NA,26.32,NA
+92,Indri,3.34,2.20,3.28,NA
+93,Jaraon Pz,NA,NA,12.87,NA
+94,Jhanjrola,NA,NA,6.87,NA
+95,Kasan,NA,NA,34.10,NA
+96,Khera Khurrampur-Pz,17.47,17.35,15.60,NA
+97,Kheri1,4.05,NA,2.68,NA
+98,Khori Kalan,NA,NA,15.06,NA
+99,Lokra-Pz,30.62,NA,32.80,NA
+100,Luhingakalan,4.91,NA,3.05,NA
+101,Malab,6.70,3.74,3.94,NA
+102,Meoka-Pz,18.10,NA,18.90,NA
+103,Mouzabad,33.90,NA,32.55,NA
+104,Mubarakpur,15.30,NA,12.35,NA
+105,Nagina,6.60,NA,3.64,NA
+106,Naharika-Pz,NA,NA,28.95,NA
+107,Nuh1,3.69,NA,1.34,NA
+108,Nurgarh-Pz,21.70,21.40,21.00,NA
+109,Pipaka,30.10,NA,33.05,NA
+110,Pipaka-Shashola,30.10,NA,33.05,NA
+111,Rangla Dhani-Pz,31.70,NA,27.30,NA
+112,Raoli,11.00,NA,NA,NA
+113,Sikarwa,4.10,NA,0.94,NA
+114,Siwari-Pz,13.57,13.50,13.50,14.07
+115,Sohna,NA,NA,30.20,NA
+116,Wazirpur-Pz,16.30,NA,17.14,NA
+117,HISAR:Adampur-Pz,4.22,3.44,3.52,3.53
+118,Agroha-Pz,9.21,NA,8.84,NA
+119,Balawas1,15.22,NA,12.90,13.95
+120,Balsamand,14.70,NA,14.05,NA
+121,Balsamand-Pz,16.00,NA,15.26,16.20
+122,Banbhauri-Pz,5.82,6.40,6.04,6.30
+123,Barwala S,NA,12.56,NA,NA
+124,Barwala1,11.81,10.49,11.97,NA
+125,Barwala-Pz,9.57,9.55,9.37,9.45
+126,Bas,1.15,NA,0.57,NA
+127,Basra,18.48,19.10,19.34,19.29
+128,Behbalpur-Pz,4.71,3.50,3.74,3.62
+129,Chanaut,5.27,4.61,5.71,5.02
+130,Chawdhariwas,9.19,8.83,8.80,8.79
+131,Dhamundicross,6.87,3.55,4.83,NA
+132,Dhansu,5.25,4.71,4.60,4.67
+133,Ghaibipur,4.46,4.00,4.15,4.03
+134,Ghursal-Pz,NA,8.70,10.77,8.85
+135,Hissar,7.22,6.81,6.51,NA
+136,Hissar-Pz,7.21,6.70,6.40,NA
+137,Juglan,7.98,8.17,7.06,NA
+138,Kanoh-Pz,11.19,11.00,10.61,NA
+139,Khanda Kheri-Pz,NA,NA,7.56,NA
+140,Kherijalab-Pz,7.30,7.30,6.67,NA
+141,Khotkalan,10.73,10.13,10.40,NA
+142,Kirori,13.67,13.00,13.01,NA
+143,Kirtan,13.02,12.30,11.26,NA
+144,Mangali-Pz,5.59,5.26,4.80,NA
+145,Mirka,3.22,2.40,3.24,NA
+146,Mothmajri,8.14,8.37,7.67,NA
+147,Muklan,6.67,NA,NA,NA
+148,Narnaud S,11.43,NA,NA,NA
+149,Rajli Cross,4.08,0.57,1.10,NA
+150,Rajthal1,14.13,NA,15.55,NA
+151,Samani,5.46,NA,4.98,NA
+152,Sorkhi-Pz,2.37,1.45,2.01,NA
+153,Umra,7.54,NA,6.20,NA
+154,JHAJJAR:Badli,14.80,NA,11.02,NA
+155,Bagoa,4.83,NA,0.20,1.50
+156,Bahadurgarh,NA,NA,4.08,NA
+157,Chamanpura,2.10,1.65,0.25,NA
+158,Chhara,7.60,,4.11,NA
+159,Chuchakwas,4.98,5.56,5.44,5.71
+160,Dighal,2.09,1.72,1.03,NA
+161,Dubhaldhan,5.88,,2.75,NA
+162,Dulhera,3.44,2.99,2.19,2.83
+163,Gabhana,NA,NA,1.58,NA
+164,Jhajjar,3.42,NA,2.00,NA
+165,Jhajjar1,3.15,NA,2.90,NA
+166,Kulasi,2.90,NA,0.40,NA
+167,Majra Deswal,6.09,NA,2.12,NA
+168,Mudsa,1.18,NA,1.60,NA
+169,Sankol,1.63,NA,0.32,NA
+170,Subnah,NA,NA,1.00,NA
+171,Wazirpur,2.10,NA,0.99,NA
+172,JIND:Alewa,31.95,31.60,,
+173,Alewa Pz,NA,NA,32.51,NA
+174,ATI Krishna1(s),21.40,NA,NA,NA
+175,Baroda,16.60,NA,16.34,NA
+176,Bhuslana-Pz,15.19,NA,16.70,NA
+177,Brahmanwas,9.99,9.70,9.30,NA
+178,Chhabri,7.12,4.53,5.02,NA
+179,Dhandauli Pz,38.38,NA,46.15,NA
+180,Dorana Pz,21.30,NA,25.75,NA
+181,Ghaso,14.37,NA,9.72,NA
+182,Jhamula,6.36,5.72,5.32,NA
+183,Julana Pz,6.64,NA,5.45,6.00
+184,Kharwal,14.34,14.96,NA,NA
+185,Khatkaran,13.84,13.65,13.64,NA
+186,Korar,11.94,16.16,12.46,NA
+187,Mohal Khera Pz,6.28,NA,4.60,NA
+188,Narwana S,3.55,NA,2.04,NA
+189,Narwana S-Pz,3.55,NA,2.19,NA
+190,Pillukhera,6.18,6.25,5.91,NA
+191,Safidon (s),13.50,NA,14.64,NA
+192,Safidon 1(s),13.05,NA,21.39,NA
+193,Uchana,18.20,18.70,18.18,NA
+194,Uchana Pz,19.35,NA,16.95,NA
+195,KAITHAL:Guhna,23.59,26.18,26.36,25.58
+196,Jakhauli-Pz,10.23,11.60,10.76,10.40
+197,Jandaula-Pz,27.05,NA,29.57,NA
+198,Jateri,19.73,21.35,21.81,NA
+199,Kalayat,3.49,NA,2.31,NA
+200,Kalayat S,4.27,NA,3.66,NA
+201,Kathana-Pz,11.92,13.20,12.92,13.15
+202,Kelaram,6.90,7.61,6.35,NA
+203,Kheorak-Pz,28.85,NA,32.75,NA
+204,Manaspatti-Pz,33.22,34.15,34.82,34.70
+205,Mataur,7.35,7.21,6.31,NA
+206,Mundri,16.85,17.25,16.76,NA
+207,Padla 1(s),36.81,NA,39.41,NA
+208,Peoda_Pz,12.92,14.16,10.85,10.70
+209,Pundri(s),23.67,NA,22.82,NA
+210,Rajaund-Pz,12.22,NA,12.65,NA
+211,Rajound S,11.62,NA,12.45,10.70
+212,Sirsal-Pz,21.50,NA,25.16,NA
+213,Titiana 1(s),20.72,NA,21.50,NA
+214,KARNAL:Amin S,28.72,NA,29.03,NA
+215,Anjanthali-Pz,NA,NA,21.22,NA
+216,Balhera-s,6.63,NA,6.00,NA
+217,Baragaon-Pz,18.82,NA,17.00,NA
+218,Biana-Pz,8.79,NA,7.43,NA
+219,Dadupur Khurd-Pz,13.76,13.12,12.92,NA
+220,Dingar Majra-Pz,34.92,37.55,35.25,34.20
+221,Domsi D,23.20,,23.75,NA
+222,Faridpur-Pz,25.90,32.00,29.10,28.10
+223,Gangatheri,23.65,26.30,26.85,
+224,Garhi Khajur S,15.93,NA,16.35,NA
+225,Gharaunda-Pz,30.03,NA,32.27,NA
+226,Ghiar-Pz,8.76,NA,8.42,NA
+227,Indri,11.59,NA,10.15,NA
+228,Jabhala-Pz,19.27,19.26,17.35,16.75
+229,Jalmana PZ,NA,NA,24.42,NA
+230,Jaroli Khurd-Pz,6.85,NA,7.05,NA
+231,Jhanjari-Pz,14.73,NA,15.98,NA
+232,Jundla1,18.39,NA,20.75,NA
+233,Kachhwa Pz,17.11,NA,NA,NA
+234,Kalri Jagir S,8.09,NA,7.05,NA
+235,Kurlan-Pz,19.55,19.45,NA,NA
+236,Kutail S,23.47,NA,24.30,NA
+237,Majra Roran,20.83,NA,21.46,NA
+238,Makhala S,7.12,NA,7.14,NA
+239,Manak Majra-Pz,22.92,NA,22.91,NA
+240,Mohidinpur-Pz,NA,NA,16.45,NA
+241,Mound S,19.99,NA,22.48,NA
+242,Nalvi Kalan-Pz,NA,NA,13.88,NA
+243,Nanhera,5.38,NA,4.17,NA
+244,Nilokheri-Pz,21.26,NA,21.64,NA
+245,Padhana-DW,17.17,NA,17.85,NA
+246,Phurlak S,22.84,NA,24.17,NA
+247,Phusgarh-Pz,21.49,NA,21.80,NA
+248,Rambha-Pz,7.56,NA,7.01,NA
+249,Randauli-Pz,9.87,NA,7.96,NA
+250,Rattak-Pz,23.05,NA,24.54,NA
+251,Sagga-Pz,19.71,NA,22.47,NA
+252,Salarpur-Pz,NA,NA,11.35,NA
+253,Salwan-B,17.58,17.10,19.88,13.90
+254,Sambli-Pz-M,NA,NA,21.65,NA
+255,Sambli-Pz-S,NA,NA,21.21,NA
+256,Saunkra S,20.58,NA,22.11,NA
+257,Sugar Cane Breeding Farm,23.10,NA,23.03,NA
+258,Taraori-Pz,20.48,NA,21.51,NA
+259,Udana-Pz,31.56,NA,31.69,NA
+260,KURUKSHETRA:Bachki-Pz,29.15,30.10,30.37,29.40
+261,Ban- Pz,25.20,26.50,25.08,25.70
+262,Baronda-Pz,21.38,21.40,20.60,18.55
+263,Berthala S,35.93,NA,37.43,NA
+264,Bodhni (s),31.03,NA,32.79,NA
+265,Dabkhera-Pz,34.88,34.40,34.35,NA
+266,Hatira  (s),21.15,NA,22.36,NA
+267,Ishaque S,26.42,NA,27.55,NA
+268,Kaulapur S,38.94,NA,40.43,NA
+269,Malikpur-Singhpura-Pz,30.81,35.60,31.41,31.00
+270,Murtzapur-Pz,23.60,24.97,26.00,24.54
+271,Samalkhi-Pz,39.82,NA,44.35,43.50
+272,Sirsala-Pz,33.44,NA,34.37,NA
+273,MAHENDRAGARH:Buchawas,26.02,NA,NA,NA
+274,Buwana-Pz,43.90,42.40,42.60,
+275,Deroli Ahir,NA,NA,13.10,NA
+276,Deroli Ahir1,15.90,NA,13.80,NA
+277,Khatodra-Pz,71.60,70.12,70.12,70.00
+278,Lukhi,14.91,NA,14.31,NA
+279,Narnaul,13.31,9.80,9.63,8.90
+280,PANCHKULA:Devnagar(Panchkula),9.00,8.36,9.17,NA
+281,Dharampur,13.70,NA,8.60,NA
+282,Kakar Majra,11.26,NA,10.17,NA
+283,Khera,30.06,NA,27.67,NA
+284,Mehranwali,28.41,NA,16.45,NA
+285,Parwala,17.20,NA,16.35,NA
+286,Patwi,13.63,13.54,12.82,12.84
+287,Raipurrani,6.73,7.88,4.50,5.20
+288,PANIPAT:Babail Pz S,12.00,NA,12.35,NA
+289,Babail VS-Pz,11.90,NA,NA,NA
+290,Bhallour Pz,12.22,NA,2.67,NA
+291,Dakadla S,22.11,NA,23.16,NA
+292,Dharamgarh S,13.21,NA,NA,NA
+293,Etola-Pz-M,NA,NA,13.45,NA
+294,Etola-Pz-S,NA,NA,13.31,NA
+295,Hathwala-Pz,10.45,9.33,8.81,8.60
+296,Israna Pz,3.65,NA,3.15,NA
+297,Karhansh Pz,NA,NA,31.60,NA
+298,Khalila Manjran,4.38,1.45,2.01,NA
+299,Khelalla Pehl S,NA,NA,24.02,NA
+300,Lohari (s),NA,NA,1.24,NA
+301,Nariana-PZ,NA,19.05,17.62,NA
+302,Nimbri- Pz,25.61,29.40,27.84,26.48
+303,Patti Kalyana S,NA,NA,31.05,NA
+304,Puther Pz,NA,NA,9.05,NA
+305,Sanauli Khurd-Pz,11.40,11.85,10.48,10.90
+306,Shahpur,2.26,NA,2.86,NA
+307,Sink,5.69,NA,5.00,NA
+308,Untilya,4.05,3.00,2.95,3.30
+309,Urlana Kalan,11.88,NA,12.99,NA
+310,REWARI:Bahu,NA,9.65,9.40,10.05
+311,Balawas,23.08,NA,25.67,NA
+312,Bawal,20.90,20.25,20.50,NA
+313,Bawal DW,20.90,NA,20.05,NA
+314,Bawal Pz,28.00,NA,24.67,NA
+315,Gangaichajat,9.05,NA,13.10,NA
+316,Guriani,18.37,NA,15.91,NA
+317,Karnawas,11.65,NA,8.95,9.60
+318,Kosli,NA,NA,12.80,12.90
+319,Mandola-Pz,60.12,60.00,61.45,60.00
+320,Nangal Jamalpur-Pz,70.92,70.25,70.78,NA
+321,Rholiawas-Pz,10.65,NA,9.88,NA
+322,Sangwari,12.36,NA,NA,NA
+323,ROHTAK:Baland,2.08,NA,1.51,NA
+324,Bhal Anandpur,NA,0.99,1.85,1.93
+325,Hassangarh,6.70,3.10,4.07,6.10
+326,Kalanaur,2.17,2.18,NA,NA
+327,Kalanaur Pz,NA,3.26,NA,NA
+328,Kansala,3.23,1.48,1.74,NA
+329,Kharawar,5.55,NA,1.43,NA
+330,Lakhan Majara,2.70,NA,0.89,NA
+331,Lakhan Majra Pz,2.70,NA,0.89,NA
+332,Madina,3.61,NA,2.85,NA
+333,Mahem,12.10,12.25,10.99,NA
+334,Nidhana,2.50,1.50,1.41,4.55
+335,Rukhi,3.37,NA,1.25,1.56
+336,Samargopalpur,2.87,2.27,2.11,NA
+337,Sampla,1.37,NA,0.66,NA
+338,Sampla-Pz,1.37,NA,NA,NA
+339,SIRSA:Bhuratwala-Pz,11.24,NA,10.81,10.10
+340,Chormar,16.66,16.32,16.34,NA
+341,Chotala-Pz,9.76,9.10,9.02,NA
+342,Dabwali Dw,9.55,9.25,9.15,NA
+343,Dabwali -Pz S,7.37,NA,7.92,NA
+344,Darba Kalan-Pz,2.02,0.85,1.51,NA
+345,Ding,20.41,16.81,17.73,NA
+346,Ganga,9.75,9.60,NA,NA
+347,Ghushiana,14.14,13.51,13.90,13.46
+348,Gigorani,5.42,4.71,4.97,NA
+349,Goriwala,16.98,17.35,16.77,16.65
+350,Goriwala-Pz,16.19,15.95,15.81,15.90
+351,Jamal,5.66,NA,5.40,NA
+352,Jamal- Pz,5.72,5.90,4.01,NA
+353,Kalanwali Mandi-Pz,7.86,7.45,7.50,NA
+354,Kaluwana,11.22,10.77,11.12,10.79
+355,Karamsana,9.23,8.97,9.19,NA
+356,Kash Ram Dhab,12.28,10.51,13.30,12.85
+357,Khuiyan,13.76,14.20,13.90,NA
+358,Mammer Khera-Pz,18.97,18.60,NA,NA
+359,Mangala-Pz,61.26,61.20,63.02,63.15
+360,Manjiyana,14.28,13.22,13.64,13.96
+361,Mastian,15.97,14.63,14.43,14.47
+362,Mithri,16.60,NA,15.68,NA
+363,Nuhian Wali,15.13,14.90,15.06,NA
+364,Odhan Pz,14.66,NA,14.18,NA
+365,Panniwala Mota,10.53,9.24,10.12,9.82
+366,Phaggu-Pz,4.50,4.29,4.47,4.35
+367,Rasalia Khera,19.32,15.93,19.20,19.31
+368,Rori -DW,8.01,9.09,7.56,NA
+369,Saktakhera,4.55,3.04,4.32,NA
+370,Shergarh-DW,NA,8.26,9.01,8.25
+371,Sherpura,15.58,15.27,15.10,NA
+372,Sirsa-Pz,33.81,NA,34.90,NA
+373,Sri Jiwan Nagar-B,38.55,NA,40.77,NA
+374,Taruwana,7.96,7.57,7.83,NA
+375,Tejakhera,5.37,NA,3.90,NA
+376,SONIPAT:Ahulana,2.90,1.98,1.72,1.65
+377,Anwali-Pz,2.55,NA,NA,NA
+378,Barauli-Pz,NA,8.50,7.90,NA
+379,Barswani- DW,5.14,NA,3.94,NA
+380,Barwasni Pz (s),NA,NA,4.77,NA
+381,Bega Pz,NA,NA,12.65,NA
+382,Bhainswal,3.63,1.60,2.04,2.38
+383,Bhunderi,2.06,1.68,1.86,NA
+384,Bichpuri1,6.73,NA,7.43,NA
+385,Bohela,3.99,NA,1.09,NA
+386,Butana,4.04,0.83,2.00,2.86
+387,Chirana,2.65,2.55,1.98,NA
+388,Datauli-Pz,22.22,24.05,23.57,22.64
+389,Farmana,7.64,6.90,6.42,NA
+390,Garhwal,2.75,NA,1.79,NA
+391,Gohana Pz,17.66,NA,16.57,NA
+392,Jagsi,1.97,NA,1.24,NA
+393,Janti Khurd-Pz,12.90,NA,10.90,NA
+394,Jhakauli- Pz,NA,NA,15.17,NA
+395,Kami- PZ,32.00,32.65,32.91,32.54
+396,Kathura Pz,1.94,NA,1.26,NA
+397,Khanpur Kalan-Pz,6.05,2.44,3.34,NA
+398,KheoraPz,NA,NA,27.11,NA
+399,Lath,1.67,NA,1.33,NA
+400,Machhri,3.11,NA,1.60,3.85
+401,Mahara,7.86,NA,6.18,6.85
+402,Manauli-Pz,NA,12.35,11.69,NA
+403,Mohana Pzm,NA,NA,2.25,NA
+404,Mundlana DW,4.73,NA,3.03,NA
+405,Mundlana- Pz,NA,NA,2.65,NA
+406,Murthal-Pz,31.13,29.40,31.85,31.80
+407,Nahri,NA,4.04,3.88,4.43
+408,Pinana,6.47,5.85,4.38,4.15
+409,Pugthala-Pz,6.05,6.55,5.56,NA
+410,Purkhas-Pz,12.65,11.48,13.02,11.65
+411,Rai(Bahalgarh),22.75,NA,23.54,NA
+412,Rathdhana-Pz,20.25,15.80,21.27,20.85
+413,Rohat,6.51,0.86,0.58,NA
+414,Rukhi-Pz,3.37,NA,1.28,NA
+415,Sisnah,7.02,NA,5.42,NA
+416,YAMUNANAGAR:Amadalpur,3.32,1.43,5.73,NA
+417,Bhambauli-1 (m),17.09,NA,16.36,NA
+418,Bilaspur DW,4.66,NA,2.41,3.11
+419,Chhachrauli S,15.35,NA,11.95,NA
+420,Choli,3.37,1.89,1.26,1.20
+421,Dhanauri S,14.45,NA,12.86,NA
+422,Dhaurang S,15.76,NA,13.90,NA
+423,Jhiwarheri S,30.06,NA,29.58,NA
+424,Khizrabad,16.74,NA,12.95,NA
+425,Mustafabad DW,9.10,7.30,7.13,7.95
+426,Mustafabad-Pz,NA,NA,14.16,NA
+427,Naggal-S,5.82,NA,4.27,NA
+428,Radaur S,15.23,NA,13.88,NA
+429,Rasulpur,NA,7.81,NA,NA
+430,Rasulpur DW,8.09,7.81,3.35,NA
+431,Sabri,7.08,4.70,5.23,5.50
+432,Sadhaura,NA,NA,4.85,NA
+433,Sadhaura DW,8.43,7.37,6.33,7.15
+434,Sadhaura S,7.63,6.77,6.73,NA
+435,Shadipur,5.90,NA,4.48,NA

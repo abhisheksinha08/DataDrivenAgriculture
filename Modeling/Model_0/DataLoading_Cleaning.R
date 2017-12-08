@@ -33,5 +33,14 @@ for (inc_name in incorrect_names) {
     i<-i+1
 }
 
+str(yield_db)
+yield_db$Yield <- as.integer(yield_db$Yield)
 
-write.csv(yield_db, "Tidy_Data_final.csv", row.names = F)
+summary(yield_db)
+
+table(is.na(yield_db$Yield))
+table(yield_db$Yield==0)
+
+yield_db$Yield[yield_db$Yield==0] <- NA
+
+write.csv(yield_db, "Tidy_Data_final.csv", row.names = F, na = '')

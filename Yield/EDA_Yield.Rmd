@@ -1,0 +1,103 @@
+---
+title: "Exploratory Data Analysis for Agriculture Yield"
+author: "Abhishek Sinha"
+date: "December 8, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr, quietly = T)
+library(ggplot2, quietly = T)
+library(plotly, quietly = T)
+```
+
+
+Exploratory data analysis of crop yield in Haryana for the period 2012-2016.
+
+## Loading Data
+
+Loading yield data
+
+```{r yieldload}
+yield_db <- read.csv("Tidy_Data_final.csv")
+summary(yield_db)
+```
+
+
+```{r}
+yield_db$Yield <- as.integer(as.character(yield_db$Yield))
+yield_db$Year <- as.factor(yield_db$Year)
+
+# Replace 0 to NA for Yield
+yield_db$Yield[yield_db$Yield==0] <- NA
+
+str(yield_db)
+```
+
+
+The dataset has yield (produced/output in tonnes per hectare). The data is granual upto Block level and can be traced by Year and Crop Type.
+
+##Missing Data
+
+```{r}
+missingYield <- prop.table(table(is.na(yield_db$Yield==0))) * 100
+
+```
+`r missingYield[1]`% missing values in yield date.
+
+IMPORTANT: How to tackle missing data. Best approach here will be remove these rows.
+
+## Crop wise Yield
+
+Number of records per crop
+```{r}
+table(yield_db$Crop)
+```
+
+```{r}
+prop.table(table(yield_db$Crop)) *100
+```
+
+The data is quite balanced.
+
+
+###Outlier Analysis
+
+Box plot of all crops excluding Sugarcane
+```{r}
+ggplotly(ggplot(data=yield_db[yield_db$Crop!='Sugarcane',], aes(x=Crop, y=Yield, fill=Crop)) + geom_boxplot())
+```
+
+Box plot Sugarcane
+```{r}
+ggplotly(ggplot(data=yield_db[yield_db$Crop=='Sugarcane',], aes(x=Crop, y=Yield, fill=Crop)) + geom_boxplot())
+```
+
+Looking at boxplot infomration, it looks yield of Sugarcane is on a totally different scale compared to other Crops.
+
+*Talk to the team about this.*
+
+
+###Average Yield by Crop
+
+```{r}
+avg_yield_crop <- yield_db %>% group_by_(.dots=c("Crop","Year")) %>% dplyr::summarize(Mean = mean(Yield, na.rm = T))
+avg_yield_crop <- as.data.frame(avg_yield_crop)
+avg_yield_crop
+```
+
+For all crops excluding Sugarcane
+```{r fig.width=10,fig.height=11}
+ggplotly(ggplot(data = yield_db[yield_db$Crop!='Sugarcane',], aes(x=Year, y=Yield, fill=Year)) + geom_boxplot() + facet_grid(Crop~., scales = "free_y") + ylab("Average Yield"))
+```
+
+For Sugarcane
+
+```{r}
+ggplotly(ggplot(data = yield_db[yield_db$Crop=='Sugarcane',], aes(x=Year, y=Yield, fill=Year)) + geom_boxplot() + ylab("Average Yield"))
+```
+
+
+IMPORTANT: Outliers need to be tacked by crop and year
+

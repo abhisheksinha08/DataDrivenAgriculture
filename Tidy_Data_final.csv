@@ -1,0 +1,4241 @@
+"Year","District","Block","Crop","Yield"
+2012,"Hisar","Hansi I","Wheat",4425
+2012,"Hisar","Bas","Wheat",4072
+2012,"Hisar","Narnaund","Wheat",4245
+2012,"Hisar","Hisar I","Wheat",4210
+2012,"Hisar","Hisar II","Wheat",4277
+2012,"Hisar","Barwala","Wheat",4425
+2012,"Hisar","Uklana","Wheat",4271
+2012,"Hisar","Agroha","Wheat",4509
+2012,"Hisar","Adampur","Wheat",4057
+2012,"Fatehabad","Ratia","Wheat",4951
+2012,"Fatehabad","Fatehabad","Wheat",4303
+2012,"Fatehabad","Bhattukalan","Wheat",4575
+2012,"Fatehabad","Bhuna","Wheat",4672
+2012,"Fatehabad","Tohana","Wheat",4774
+2012,"Fatehabad","Jakhal","Wheat",5259
+2012,"Sirsa","Sirsa","Wheat",5087
+2012,"Sirsa","Nathusari","Wheat",4411
+2012,"Sirsa","Baragudha","Wheat",4788
+2012,"Sirsa","Rania","Wheat",4820
+2012,"Sirsa","Ellenabad","Wheat",5285
+2012,"Sirsa","Dabwali","Wheat",4692
+2012,"Sirsa","Odhan","Wheat",4810
+2012,"Bhiwani","Loharu","Wheat",4181
+2012,"Bhiwani","Bhiwani","Wheat",4453
+2012,"Bhiwani","Tosham","Wheat",3766
+2012,"Bhiwani","Bawani Khera","Wheat",3990
+2012,"Bhiwani","Dadri-I","Wheat",3563
+2012,"Bhiwani","Dadri-II","Wheat",4342
+2012,"Bhiwani","Badhra","Wheat",4684
+2012,"Bhiwani","Siwani","Wheat",3807
+2012,"Bhiwani","Kairu","Wheat",4018
+2012,"Bhiwani","Behal","Wheat",3370
+2012,"Rohtak","Lakhan Majra","Wheat",4516
+2012,"Rohtak","Rohtak","Wheat",3546
+2012,"Rohtak","Sampla","Wheat",3462
+2012,"Rohtak","Meham","Wheat",3307
+2012,"Rohtak","Kalanaur","Wheat",4203
+2012,"Jhajjar","Jhajjar","Wheat",4198
+2012,"Jhajjar","Beri","Wheat",3124
+2012,"Jhajjar","Salhawas","Wheat",4590
+2012,"Jhajjar","Matanhail","Wheat",4684
+2012,"Jhajjar","Bahadurgarh","Wheat",3683
+2012,"Sonepat","Sonepat","Wheat",4838
+2012,"Sonepat","Rai","Wheat",4641
+2012,"Sonepat","Kharkhoda","Wheat",4594
+2012,"Sonepat","Gohana","Wheat",3631
+2012,"Sonepat","Kathura","Wheat",4371
+2012,"Sonepat","Mundlana","Wheat",4566
+2012,"Sonepat","Ganaur","Wheat",4753
+2012,"Gurgaon","Gurgaon","Wheat",4233
+2012,"Gurgaon","Farrukh Nagar","Wheat",4993
+2012,"Gurgaon","Sohna","Wheat",4119
+2012,"Gurgaon","Pataudi","Wheat",4859
+2012,"Mewat","Nuh","Wheat",3766
+2012,"Mewat","Tauru","Wheat",3973
+2012,"Mewat","Ferozpur Jhirka","Wheat",4292
+2012,"Mewat","Nagina","Wheat",4583
+2012,"Mewat","Punhana","Wheat",4133
+2012,"Mewat","Mewat","Wheat",
+2012,"Faridabad","Faridabad","Wheat",4577
+2012,"Faridabad","B/garh","Wheat",4506
+2012,"Palwal","Palwal","Wheat",4600
+2012,"Palwal","Hodal","Wheat",4678
+2012,"Palwal","Hassanpur","Wheat",4553
+2012,"Palwal","Hathin","Wheat",4495
+2012,"Panipat","Panipat","Wheat",4924
+2012,"Panipat","Samalkha","Wheat",4678
+2012,"Panipat","Matlauda","Wheat",3846
+2012,"Panipat","Bapoli","Wheat",5200
+2012,"Panipat","Israna","Wheat",4548
+2012,"Karnal","Karnal","Wheat",4837
+2012,"Karnal","Nissing","Wheat",4877
+2012,"Karnal","Indri","Wheat",4558
+2012,"Karnal","Gharaunda","Wheat",4651
+2012,"Karnal","Assandh","Wheat",4370
+2012,"Karnal","Nilokheri","Wheat",4736
+2012,"Kurukshetra","Thanesar","Wheat",4453
+2012,"Kurukshetra","Shahabad","Wheat",4738
+2012,"Kurukshetra","Pehowa","Wheat",4661
+2012,"Kurukshetra","Ladwa","Wheat",4656
+2012,"Kurukshetra","Babain","Wheat",4932
+2012,"Kaithal","Kaithal","Wheat",4556
+2012,"Kaithal","Pundri","Wheat",5103
+2012,"Kaithal","Kalayat","Wheat",4480
+2012,"Kaithal","Rajound","Wheat",4292
+2012,"Kaithal","Gulha","Wheat",4703
+2012,"Kaithal","Siwan","Wheat",4889
+2012,"Ambala","Ambala-I","Wheat",4271
+2012,"Ambala","Ambala-II","Wheat",4677
+2012,"Ambala","Barara","Wheat",4524
+2012,"Ambala","Saha","Wheat",4028
+2012,"Ambala","Naraingarh","Wheat",3868
+2012,"Ambala","Sahazadpur","Wheat",3720
+2012,"Panchkula","Morni","Wheat",2205
+2012,"Panchkula","Barwala","Wheat",3513
+2012,"Panchkula","Raipurrani","Wheat",4107
+2012,"Panchkula","Pinjore","Wheat",3458
+2012,"Yamuna Nagar","Jagadhari","Wheat",4336
+2012,"Yamuna Nagar","Bilaspur","Wheat",4194
+2012,"Yamuna Nagar","Radaur","Wheat",4846
+2012,"Yamuna Nagar","Sadaura","Wheat",4344
+2012,"Yamuna Nagar","Chhachhrauli","Wheat",4004
+2012,"Yamuna Nagar","Mustafabad","Wheat",4312
+2012,"Jind","Jind","Wheat",4258
+2012,"Jind","Julana","Wheat",3969
+2012,"Jind","Alewa","Wheat",4029
+2012,"Jind","Safidon","Wheat",4504
+2012,"Jind","Pillukhera","Wheat",4517
+2012,"Jind","Uchana","Wheat",4157
+2012,"Jind","Narwana","Wheat",4350
+2012,"Mahendergarh","Kanina","Wheat",4506
+2012,"Mahendergarh","Mahendergarh","Wheat",5041
+2012,"Mahendergarh","Ateli","Wheat",5291
+2012,"Mahendergarh","Narnaul","Wheat",4319
+2012,"Mahendergarh","Nangal Chaudhary","Wheat",4499
+2012,"Rewari","Rewari","Wheat",4676
+2012,"Rewari","Khol","Wheat",5120
+2012,"Rewari","Jatusana","Wheat",4987
+2012,"Rewari","Bawal","Wheat",5133
+2012,"Rewari","Nahar","Wheat",4687
+2012,"Hisar","Hansi I","Gram",1115
+2012,"Hisar","Bas","Gram",
+2012,"Hisar","Narnaund","Gram",
+2012,"Hisar","Hisar I","Gram",1184
+2012,"Hisar","Hisar II","Gram",715
+2012,"Hisar","Barwala","Gram",903
+2012,"Hisar","Uklana","Gram",982
+2012,"Hisar","Agroha","Gram",762
+2012,"Hisar","Adampur","Gram",721
+2012,"Fatehabad","Ratia","Gram",1087
+2012,"Fatehabad","Fatehabad","Gram",1439
+2012,"Fatehabad","Bhattukalan","Gram",8510
+2012,"Fatehabad","Bhuna","Gram",962
+2012,"Fatehabad","Tohana","Gram",
+2012,"Fatehabad","Jakhal","Gram",
+2012,"Sirsa","Sirsa","Gram",1509
+2012,"Sirsa","Nathusari","Gram",1209
+2012,"Sirsa","Baragudha","Gram",
+2012,"Sirsa","Rania","Gram",827
+2012,"Sirsa","Ellenabad","Gram",1123
+2012,"Sirsa","Dabwali","Gram",1027
+2012,"Sirsa","Odhan","Gram",993
+2012,"Bhiwani","Loharu","Gram",1580
+2012,"Bhiwani","Bhiwani","Gram",1081
+2012,"Bhiwani","Tosham","Gram",1116
+2012,"Bhiwani","Bawani Khera","Gram",1210
+2012,"Bhiwani","Dadri-I","Gram",945
+2012,"Bhiwani","Dadri-II","Gram",1105
+2012,"Bhiwani","Badhra","Gram",1475
+2012,"Bhiwani","Siwani","Gram",803
+2012,"Bhiwani","Kairu","Gram",799
+2012,"Bhiwani","Behal","Gram",1164
+2012,"Rohtak","Lakhan Majra","Gram",
+2012,"Rohtak","Rohtak","Gram",
+2012,"Rohtak","Sampla","Gram",
+2012,"Rohtak","Meham","Gram",907
+2012,"Rohtak","Kalanaur","Gram",1110
+2012,"Jhajjar","Jhajjar","Gram",650
+2012,"Jhajjar","Beri","Gram",1294
+2012,"Jhajjar","Salhawas","Gram",
+2012,"Jhajjar","Matanhail","Gram",
+2012,"Jhajjar","Bahadurgarh","Gram",1108
+2012,"Sonepat","Sonepat","Gram",
+2012,"Sonepat","Rai","Gram",
+2012,"Sonepat","Kharkhoda","Gram",
+2012,"Sonepat","Gohana","Gram",
+2012,"Sonepat","Kathura","Gram",
+2012,"Sonepat","Mundlana","Gram",
+2012,"Sonepat","Ganaur","Gram",
+2012,"Gurgaon","Gurgaon","Gram",
+2012,"Gurgaon","Farrukh Nagar","Gram",
+2012,"Gurgaon","Sohna","Gram",
+2012,"Gurgaon","Pataudi","Gram",
+2012,"Mewat","Nuh","Gram",
+2012,"Mewat","Tauru","Gram",
+2012,"Mewat","Ferozpur Jhirka","Gram",1128
+2012,"Mewat","Nagina","Gram",1138
+2012,"Mewat","Punhana","Gram",
+2012,"Mewat","Mewat","Gram",
+2012,"Faridabad","Faridabad","Gram",
+2012,"Faridabad","B/garh","Gram",
+2012,"Palwal","Palwal","Gram",
+2012,"Palwal","Hodal","Gram",
+2012,"Palwal","Hassanpur","Gram",
+2012,"Palwal","Hathin","Gram",
+2012,"Panipat","Panipat","Gram",
+2012,"Panipat","Samalkha","Gram",
+2012,"Panipat","Matlauda","Gram",
+2012,"Panipat","Bapoli","Gram",
+2012,"Panipat","Israna","Gram",
+2012,"Karnal","Karnal","Gram",
+2012,"Karnal","Nissing","Gram",
+2012,"Karnal","Indri","Gram",
+2012,"Karnal","Gharaunda","Gram",
+2012,"Karnal","Assandh","Gram",1128
+2012,"Karnal","Nilokheri","Gram",
+2012,"Kurukshetra","Thanesar","Gram",
+2012,"Kurukshetra","Shahabad","Gram",
+2012,"Kurukshetra","Pehowa","Gram",1128
+2012,"Kurukshetra","Ladwa","Gram",
+2012,"Kurukshetra","Babain","Gram",
+2012,"Kaithal","Kaithal","Gram",
+2012,"Kaithal","Pundri","Gram",1128
+2012,"Kaithal","Kalayat","Gram",
+2012,"Kaithal","Rajound","Gram",
+2012,"Kaithal","Gulha","Gram",
+2012,"Kaithal","Siwan","Gram",
+2012,"Ambala","Ambala-I","Gram",
+2012,"Ambala","Ambala-II","Gram",
+2012,"Ambala","Barara","Gram",
+2012,"Ambala","Saha","Gram",
+2012,"Ambala","Naraingarh","Gram",
+2012,"Ambala","Sahazadpur","Gram",
+2012,"Panchkula","Morni","Gram",
+2012,"Panchkula","Barwala","Gram",
+2012,"Panchkula","Raipurrani","Gram",1128
+2012,"Panchkula","Pinjore","Gram",1128
+2012,"Yamuna Nagar","Jagadhari","Gram",
+2012,"Yamuna Nagar","Bilaspur","Gram",1128
+2012,"Yamuna Nagar","Radaur","Gram",
+2012,"Yamuna Nagar","Sadaura","Gram",
+2012,"Yamuna Nagar","Chhachhrauli","Gram",
+2012,"Yamuna Nagar","Mustafabad","Gram",
+2012,"Jind","Jind","Gram",
+2012,"Jind","Julana","Gram",825
+2012,"Jind","Alewa","Gram",
+2012,"Jind","Safidon","Gram",
+2012,"Jind","Pillukhera","Gram",
+2012,"Jind","Uchana","Gram",
+2012,"Jind","Narwana","Gram",
+2012,"Mahendergarh","Kanina","Gram",974
+2012,"Mahendergarh","Mahendergarh","Gram",1063
+2012,"Mahendergarh","Ateli","Gram",1629
+2012,"Mahendergarh","Narnaul","Gram",1251
+2012,"Mahendergarh","Nangal Chaudhary","Gram",1469
+2012,"Rewari","Rewari","Gram",
+2012,"Rewari","Khol","Gram",
+2012,"Rewari","Jatusana","Gram",
+2012,"Rewari","Bawal","Gram",
+2012,"Rewari","Nahar","Gram",
+2012,"Hisar","Hansi I","Barley",2817
+2012,"Hisar","Bas","Barley",1152
+2012,"Hisar","Narnaund","Barley",3324
+2012,"Hisar","Hisar I","Barley",2019
+2012,"Hisar","Hisar II","Barley",1111
+2012,"Hisar","Barwala","Barley",2235
+2012,"Hisar","Uklana","Barley",3312
+2012,"Hisar","Agroha","Barley",1922
+2012,"Hisar","Adampur","Barley",1573
+2012,"Fatehabad","Ratia","Barley",3971
+2012,"Fatehabad","Fatehabad","Barley",2612
+2012,"Fatehabad","Bhattukalan","Barley",2704
+2012,"Fatehabad","Bhuna","Barley",3817
+2012,"Fatehabad","Tohana","Barley",3971
+2012,"Fatehabad","Jakhal","Barley",
+2012,"Sirsa","Sirsa","Barley",3810
+2012,"Sirsa","Nathusari","Barley",2647
+2012,"Sirsa","Baragudha","Barley",4199
+2012,"Sirsa","Rania","Barley",3947
+2012,"Sirsa","Ellenabad","Barley",3540
+2012,"Sirsa","Dabwali","Barley",3871
+2012,"Sirsa","Odhan","Barley",4393
+2012,"Bhiwani","Loharu","Barley",3273
+2012,"Bhiwani","Bhiwani","Barley",3686
+2012,"Bhiwani","Tosham","Barley",2800
+2012,"Bhiwani","Bawani Khera","Barley",3495
+2012,"Bhiwani","Dadri-I","Barley",3200
+2012,"Bhiwani","Dadri-II","Barley",2923
+2012,"Bhiwani","Badhra","Barley",3647
+2012,"Bhiwani","Siwani","Barley",2852
+2012,"Bhiwani","Kairu","Barley",3244
+2012,"Bhiwani","Behal","Barley",3517
+2012,"Rohtak","Lakhan Majra","Barley",2684
+2012,"Rohtak","Rohtak","Barley",2144
+2012,"Rohtak","Sampla","Barley",2684
+2012,"Rohtak","Meham","Barley",2099
+2012,"Rohtak","Kalanaur","Barley",3155
+2012,"Jhajjar","Jhajjar","Barley",3699
+2012,"Jhajjar","Beri","Barley",1924
+2012,"Jhajjar","Salhawas","Barley",3755
+2012,"Jhajjar","Matanhail","Barley",4603
+2012,"Jhajjar","Bahadurgarh","Barley",3585
+2012,"Sonepat","Sonepat","Barley",3849
+2012,"Sonepat","Rai","Barley",
+2012,"Sonepat","Kharkhoda","Barley",3402
+2012,"Sonepat","Gohana","Barley",3122
+2012,"Sonepat","Kathura","Barley",
+2012,"Sonepat","Mundlana","Barley",3479
+2012,"Sonepat","Ganaur","Barley",
+2012,"Gurgaon","Gurgaon","Barley",4667
+2012,"Gurgaon","Farrukh Nagar","Barley",5143
+2012,"Gurgaon","Sohna","Barley",4667
+2012,"Gurgaon","Pataudi","Barley",4430
+2012,"Mewat","Nuh","Barley",4237
+2012,"Mewat","Tauru","Barley",2935
+2012,"Mewat","Ferozpur Jhirka","Barley",3350
+2012,"Mewat","Nagina","Barley",3130
+2012,"Mewat","Punhana","Barley",3300
+2012,"Mewat","Mewat","Barley",
+2012,"Faridabad","Faridabad","Barley",2682
+2012,"Faridabad","B/garh","Barley",3499
+2012,"Palwal","Palwal","Barley",3343
+2012,"Palwal","Hodal","Barley",2819
+2012,"Palwal","Hassanpur","Barley",3402
+2012,"Palwal","Hathin","Barley",3479
+2012,"Panipat","Panipat","Barley",
+2012,"Panipat","Samalkha","Barley",
+2012,"Panipat","Matlauda","Barley",
+2012,"Panipat","Bapoli","Barley",
+2012,"Panipat","Israna","Barley",
+2012,"Karnal","Karnal","Barley",
+2012,"Karnal","Nissing","Barley",
+2012,"Karnal","Indri","Barley",
+2012,"Karnal","Gharaunda","Barley",3479
+2012,"Karnal","Assandh","Barley",
+2012,"Karnal","Nilokheri","Barley",
+2012,"Kurukshetra","Thanesar","Barley",
+2012,"Kurukshetra","Shahabad","Barley",
+2012,"Kurukshetra","Pehowa","Barley",
+2012,"Kurukshetra","Ladwa","Barley",
+2012,"Kurukshetra","Babain","Barley",
+2012,"Kaithal","Kaithal","Barley",
+2012,"Kaithal","Pundri","Barley",
+2012,"Kaithal","Kalayat","Barley",
+2012,"Kaithal","Rajound","Barley",
+2012,"Kaithal","Gulha","Barley",
+2012,"Kaithal","Siwan","Barley",
+2012,"Ambala","Ambala-I","Barley",
+2012,"Ambala","Ambala-II","Barley",
+2012,"Ambala","Barara","Barley",
+2012,"Ambala","Saha","Barley",
+2012,"Ambala","Naraingarh","Barley",
+2012,"Ambala","Sahazadpur","Barley",
+2012,"Panchkula","Morni","Barley",
+2012,"Panchkula","Barwala","Barley",
+2012,"Panchkula","Raipurrani","Barley",
+2012,"Panchkula","Pinjore","Barley",
+2012,"Yamuna Nagar","Jagadhari","Barley",
+2012,"Yamuna Nagar","Bilaspur","Barley",
+2012,"Yamuna Nagar","Radaur","Barley",
+2012,"Yamuna Nagar","Sadaura","Barley",
+2012,"Yamuna Nagar","Chhachhrauli","Barley",
+2012,"Yamuna Nagar","Mustafabad","Barley",
+2012,"Jind","Jind","Barley",4004
+2012,"Jind","Julana","Barley",4004
+2012,"Jind","Alewa","Barley",
+2012,"Jind","Safidon","Barley",
+2012,"Jind","Pillukhera","Barley",
+2012,"Jind","Uchana","Barley",3917
+2012,"Jind","Narwana","Barley",4092
+2012,"Mahendergarh","Kanina","Barley",3703
+2012,"Mahendergarh","Mahendergarh","Barley",3227
+2012,"Mahendergarh","Ateli","Barley",
+2012,"Mahendergarh","Narnaul","Barley",3453
+2012,"Mahendergarh","Nangal Chaudhary","Barley",3453
+2012,"Rewari","Rewari","Barley",3346
+2012,"Rewari","Khol","Barley",2138
+2012,"Rewari","Jatusana","Barley",3790
+2012,"Rewari","Bawal","Barley",4014
+2012,"Rewari","Nahar","Barley",3738
+2013,"Hisar","Hansi I","Wheat",4280
+2013,"Hisar","Hansi-II","Wheat",4549
+2013,"Hisar","Narnaund","Wheat",4091
+2013,"Hisar","Hisar I","Wheat",4770
+2013,"Hisar","Hisar II","Wheat",4667
+2013,"Hisar","Barwala","Wheat",4366
+2013,"Hisar","Uklana","Wheat",5141
+2013,"Hisar","Agroha","Wheat",4467
+2013,"Hisar","Adampur","Wheat",4348
+2013,"Fatehabad","Ratia","Wheat",5551
+2013,"Fatehabad","Fatehabad","Wheat",5415
+2013,"Fatehabad","Bhattukalan","Wheat",5172
+2013,"Fatehabad","Bhuna","Wheat",5015
+2013,"Fatehabad","Tohana","Wheat",5399
+2013,"Fatehabad","Jakhal","Wheat",5335
+2013,"Sirsa","Sirsa","Wheat",5343
+2013,"Sirsa","Nathusari","Wheat",5213
+2013,"Sirsa","Baragudha","Wheat",5380
+2013,"Sirsa","Rania","Wheat",5408
+2013,"Sirsa","Ellenabad","Wheat",5631
+2013,"Sirsa","Dabwali","Wheat",5208
+2013,"Sirsa","Odhan","Wheat",5443
+2013,"Sirsa","Sirsa","Wheat",
+2013,"Bhiwani","Loharu","Wheat",4212
+2013,"Bhiwani","Bhiwani","Wheat",4138
+2013,"Bhiwani","Tosham","Wheat",4394
+2013,"Bhiwani","Bawani Khera","Wheat",4126
+2013,"Bhiwani","Dadri-I","Wheat",4443
+2013,"Bhiwani","Dadri-II","Wheat",4102
+2013,"Bhiwani","Badhra","Wheat",3943
+2013,"Bhiwani","Siwani","Wheat",4133
+2013,"Bhiwani","Kairu","Wheat",5176
+2013,"Bhiwani","Behal","Wheat",4623
+2013,"Rohtak","Lakhan Majra","Wheat",4236
+2013,"Rohtak","Rohtak","Wheat",4106
+2013,"Rohtak","Sampla","Wheat",4318
+2013,"Rohtak","Meham","Wheat",3247
+2013,"Rohtak","Kalanaur","Wheat",3990
+2013,"Jhajjar","Jhajjar","Wheat",4248
+2013,"Jhajjar","Beri","Wheat",4957
+2013,"Jhajjar","Salhawas","Wheat",4753
+2013,"Jhajjar","Matanhail","Wheat",4397
+2013,"Jhajjar","Bahadurgarh","Wheat",4295
+2013,"Sonepat","Sonepat","Wheat",4596
+2013,"Sonepat","Rai","Wheat",4652
+2013,"Sonepat","Kharkhoda","Wheat",4762
+2013,"Sonepat","Gohana","Wheat",4317
+2013,"Sonepat","Kathura","Wheat",4736
+2013,"Sonepat","Mundlana","Wheat",4634
+2013,"Sonepat","Ganaur","Wheat",4724
+2013,"Gurgaon","Gurgaon","Wheat",4237
+2013,"Gurgaon","Farrukh Nagar","Wheat",4629
+2013,"Gurgaon","Sohna","Wheat",4046
+2013,"Gurgaon","Pataudi","Wheat",4465
+2013,"Mewat","Nuh","Wheat",3894
+2013,"Mewat","Tauru","Wheat",4445
+2013,"Mewat","Ferozpur Jhirka","Wheat",4075
+2013,"Mewat","Nagina","Wheat",3987
+2013,"Mewat","Punhana","Wheat",5007
+2013,"Mewat","Mewat","Wheat",
+2013,"Faridabad","Faridabad","Wheat",4652
+2013,"Faridabad","B/garh","Wheat",4673
+2013,"Palwal","Palwal","Wheat",4613
+2013,"Palwal","Hodal","Wheat",4456
+2013,"Palwal","Hassanpur","Wheat",4681
+2013,"Palwal","Hathin","Wheat",4405
+2013,"Panipat","Panipat","Wheat",4810
+2013,"Panipat","Samalkha","Wheat",4974
+2013,"Panipat","Matlauda","Wheat",4940
+2013,"Panipat","Bapoli","Wheat",4507
+2013,"Panipat","Israna","Wheat",5169
+2013,"Karnal","Karnal","Wheat",4761
+2013,"Karnal","Nissing","Wheat",5102
+2013,"Karnal","Indri","Wheat",5215
+2013,"Karnal","Gharaunda","Wheat",4629
+2013,"Karnal","Assandh","Wheat",4944
+2013,"Karnal","Nilokheri","Wheat",4833
+2013,"Kurukshetra","Thanesar","Wheat",4636
+2013,"Kurukshetra","Shahabad","Wheat",4626
+2013,"Kurukshetra","Pehowa","Wheat",5172
+2013,"Kurukshetra","Ladwa","Wheat",5071
+2013,"Kurukshetra","Babain","Wheat",5039
+2013,"Kaithal","Kaithal","Wheat",4970
+2013,"Kaithal","Pundri","Wheat",4719
+2013,"Kaithal","Kalayat","Wheat",4942
+2013,"Kaithal","Rajound","Wheat",4705
+2013,"Kaithal","Gulha","Wheat",4533
+2013,"Kaithal","Siwan","Wheat",5333
+2013,"Kaithal","Kaithal","Wheat",
+2013,"Ambala","Ambala-I","Wheat",4759
+2013,"Ambala","Ambala-II","Wheat",4855
+2013,"Ambala","Barara","Wheat",4619
+2013,"Ambala","Saha","Wheat",4581
+2013,"Ambala","Naraingarh","Wheat",4692
+2013,"Ambala","Sahazadpur","Wheat",3929
+2013,"Panchkula","Morni","Wheat",2108
+2013,"Panchkula","Barwala","Wheat",4397
+2013,"Panchkula","Raipurrani","Wheat",4038
+2013,"Panchkula","Pinjore","Wheat",3282
+2013,"Yamuna Nagar","Jagadhari","Wheat",4516
+2013,"Yamuna Nagar","Bilaspur","Wheat",4454
+2013,"Yamuna Nagar","Radaur","Wheat",4972
+2013,"Yamuna Nagar","Sadaura","Wheat",4311
+2013,"Yamuna Nagar","Chhachhrauli","Wheat",4017
+2013,"Yamuna Nagar","Mustafabad","Wheat",4917
+2013,"Jind","Jind","Wheat",3977
+2013,"Jind","Julana","Wheat",3680
+2013,"Jind","Alewa","Wheat",4376
+2013,"Jind","Safidon","Wheat",4729
+2013,"Jind","Pillukhera","Wheat",4674
+2013,"Jind","Uchana","Wheat",5015
+2013,"Jind","Narwana","Wheat",5014
+2013,"Mahendergarh","Kanina","Wheat",5098
+2013,"Mahendergarh","Mahendergarh","Wheat",5221
+2013,"Mahendergarh","Ateli","Wheat",5474
+2013,"Mahendergarh","Narnaul","Wheat",4574
+2013,"Mahendergarh","Nangal Chaudhary","Wheat",4453
+2013,"Rewari","Rewari","Wheat",4209
+2013,"Rewari","Khol","Wheat",4979
+2013,"Rewari","Jatusana","Wheat",4931
+2013,"Rewari","Bawal","Wheat",5257
+2013,"Rewari","Nahar","Wheat",5309
+2013,"Hisar","Hansi I","Gram",940
+2013,"Hisar","Hansi-II","Gram",
+2013,"Hisar","Narnaund","Gram",
+2013,"Hisar","Hisar I","Gram",567
+2013,"Hisar","Hisar II","Gram",545
+2013,"Hisar","Barwala","Gram",770
+2013,"Hisar","Uklana","Gram",
+2013,"Hisar","Agroha","Gram",493
+2013,"Hisar","Adampur","Gram",805
+2013,"Fatehabad","Ratia","Gram",
+2013,"Fatehabad","Fatehabad","Gram",2082
+2013,"Fatehabad","Bhattukalan","Gram",1168
+2013,"Fatehabad","Bhuna","Gram",1824
+2013,"Fatehabad","Tohana","Gram",
+2013,"Fatehabad","Jakhal","Gram",
+2013,"Sirsa","Sirsa","Gram",921
+2013,"Sirsa","Nathusari","Gram",1222
+2013,"Sirsa","Baragudha","Gram",
+2013,"Sirsa","Rania","Gram",1325
+2013,"Sirsa","Ellenabad","Gram",1464
+2013,"Sirsa","Dabwali","Gram",936
+2013,"Sirsa","Odhan","Gram",1180
+2013,"Sirsa","Sirsa","Gram",
+2013,"Bhiwani","Loharu","Gram",992
+2013,"Bhiwani","Bhiwani","Gram",653
+2013,"Bhiwani","Tosham","Gram",964
+2013,"Bhiwani","Bawani Khera","Gram",583
+2013,"Bhiwani","Dadri-I","Gram",1028
+2013,"Bhiwani","Dadri-II","Gram",1356
+2013,"Bhiwani","Badhra","Gram",1166
+2013,"Bhiwani","Siwani","Gram",382
+2013,"Bhiwani","Kairu","Gram",367
+2013,"Bhiwani","Behal","Gram",941
+2013,"Rohtak","Lakhan Majra","Gram",
+2013,"Rohtak","Rohtak","Gram",
+2013,"Rohtak","Sampla","Gram",
+2013,"Rohtak","Meham","Gram",650
+2013,"Rohtak","Kalanaur","Gram",936
+2013,"Jhajjar","Jhajjar","Gram",955
+2013,"Jhajjar","Beri","Gram",857
+2013,"Jhajjar","Salhawas","Gram",
+2013,"Jhajjar","Matanhail","Gram",1700
+2013,"Jhajjar","Bahadurgarh","Gram",385
+2013,"Sonepat","Sonepat","Gram",
+2013,"Sonepat","Rai","Gram",
+2013,"Sonepat","Kharkhoda","Gram",
+2013,"Sonepat","Gohana","Gram",
+2013,"Sonepat","Kathura","Gram",
+2013,"Sonepat","Mundlana","Gram",
+2013,"Sonepat","Ganaur","Gram",
+2013,"Gurgaon","Gurgaon","Gram",
+2013,"Gurgaon","Farrukh Nagar","Gram",
+2013,"Gurgaon","Sohna","Gram",
+2013,"Gurgaon","Pataudi","Gram",
+2013,"Mewat","Nuh","Gram",1246
+2013,"Mewat","Tauru","Gram",
+2013,"Mewat","Ferozpur Jhirka","Gram",
+2013,"Mewat","Nagina","Gram",1643
+2013,"Mewat","Punhana","Gram",
+2013,"Mewat","Mewat","Gram",
+2013,"Faridabad","Faridabad","Gram",
+2013,"Faridabad","B/garh","Gram",
+2013,"Palwal","Palwal","Gram",
+2013,"Palwal","Hodal","Gram",
+2013,"Palwal","Hassanpur","Gram",
+2013,"Palwal","Hathin","Gram",
+2013,"Panipat","Panipat","Gram",
+2013,"Panipat","Samalkha","Gram",
+2013,"Panipat","Matlauda","Gram",
+2013,"Panipat","Bapoli","Gram",
+2013,"Panipat","Israna","Gram",
+2013,"Karnal","Karnal","Gram",
+2013,"Karnal","Nissing","Gram",
+2013,"Karnal","Indri","Gram",
+2013,"Karnal","Gharaunda","Gram",
+2013,"Karnal","Assandh","Gram",903
+2013,"Karnal","Nilokheri","Gram",
+2013,"Kurukshetra","Thanesar","Gram",
+2013,"Kurukshetra","Shahabad","Gram",
+2013,"Kurukshetra","Pehowa","Gram",
+2013,"Kurukshetra","Ladwa","Gram",
+2013,"Kurukshetra","Babain","Gram",
+2013,"Kaithal","Kaithal","Gram",
+2013,"Kaithal","Pundri","Gram",
+2013,"Kaithal","Kalayat","Gram",
+2013,"Kaithal","Rajound","Gram",
+2013,"Kaithal","Gulha","Gram",903
+2013,"Kaithal","Siwan","Gram",
+2013,"Kaithal","Kaithal","Gram",
+2013,"Ambala","Ambala-I","Gram",
+2013,"Ambala","Ambala-II","Gram",
+2013,"Ambala","Barara","Gram",
+2013,"Ambala","Saha","Gram",
+2013,"Ambala","Naraingarh","Gram",
+2013,"Ambala","Sahazadpur","Gram",
+2013,"Panchkula","Morni","Gram",
+2013,"Panchkula","Barwala","Gram",
+2013,"Panchkula","Raipurrani","Gram",903
+2013,"Panchkula","Pinjore","Gram",903
+2013,"Yamuna Nagar","Jagadhari","Gram",
+2013,"Yamuna Nagar","Bilaspur","Gram",903
+2013,"Yamuna Nagar","Radaur","Gram",
+2013,"Yamuna Nagar","Sadaura","Gram",
+2013,"Yamuna Nagar","Chhachhrauli","Gram",
+2013,"Yamuna Nagar","Mustafabad","Gram",
+2013,"Jind","Jind","Gram",
+2013,"Jind","Julana","Gram",570
+2013,"Jind","Alewa","Gram",
+2013,"Jind","Safidon","Gram",
+2013,"Jind","Pillukhera","Gram",
+2013,"Jind","Uchana","Gram",
+2013,"Jind","Narwana","Gram",
+2013,"Mahendergarh","Kanina","Gram",1199
+2013,"Mahendergarh","Mahendergarh","Gram",864
+2013,"Mahendergarh","Ateli","Gram",1767
+2013,"Mahendergarh","Narnaul","Gram",577
+2013,"Mahendergarh","Nangal Chaudhary","Gram",1058
+2013,"Rewari","Rewari","Gram",
+2013,"Rewari","Khol","Gram",
+2013,"Rewari","Jatusana","Gram",
+2013,"Rewari","Bawal","Gram",
+2013,"Rewari","Nahar","Gram",
+2013,"Hisar","Hansi I","Barley",4050
+2013,"Hisar","Hansi-II","Barley",3392
+2013,"Hisar","Narnaund","Barley",3421
+2013,"Hisar","Hisar I","Barley",4189
+2013,"Hisar","Hisar II","Barley",3673
+2013,"Hisar","Barwala","Barley",3716
+2013,"Hisar","Uklana","Barley",2760
+2013,"Hisar","Agroha","Barley",2326
+2013,"Hisar","Adampur","Barley",4202
+2013,"Fatehabad","Ratia","Barley",4222
+2013,"Fatehabad","Fatehabad","Barley",4231
+2013,"Fatehabad","Bhattukalan","Barley",4678
+2013,"Fatehabad","Bhuna","Barley",4205
+2013,"Fatehabad","Tohana","Barley",4222
+2013,"Fatehabad","Jakhal","Barley",
+2013,"Sirsa","Sirsa","Barley",4111
+2013,"Sirsa","Nathusari","Barley",3622
+2013,"Sirsa","Baragudha","Barley",4497
+2013,"Sirsa","Rania","Barley",5102
+2013,"Sirsa","Ellenabad","Barley",4512
+2013,"Sirsa","Dabwali","Barley",4202
+2013,"Sirsa","Odhan","Barley",4524
+2013,"Sirsa","Sirsa","Barley",
+2013,"Bhiwani","Loharu","Barley",3920
+2013,"Bhiwani","Bhiwani","Barley",3104
+2013,"Bhiwani","Tosham","Barley",3317
+2013,"Bhiwani","Bawani Khera","Barley",4425
+2013,"Bhiwani","Dadri-I","Barley",4247
+2013,"Bhiwani","Dadri-II","Barley",4574
+2013,"Bhiwani","Badhra","Barley",3576
+2013,"Bhiwani","Siwani","Barley",3658
+2013,"Bhiwani","Kairu","Barley",3939
+2013,"Bhiwani","Behal","Barley",3952
+2013,"Rohtak","Lakhan Majra","Barley",3907
+2013,"Rohtak","Rohtak","Barley",3730
+2013,"Rohtak","Sampla","Barley",3907
+2013,"Rohtak","Meham","Barley",3357
+2013,"Rohtak","Kalanaur","Barley",3455
+2013,"Jhajjar","Jhajjar","Barley",4140
+2013,"Jhajjar","Beri","Barley",3052
+2013,"Jhajjar","Salhawas","Barley",3382
+2013,"Jhajjar","Matanhail","Barley",4735
+2013,"Jhajjar","Bahadurgarh","Barley",3957
+2013,"Sonepat","Sonepat","Barley",2851
+2013,"Sonepat","Rai","Barley",
+2013,"Sonepat","Kharkhoda","Barley",2799
+2013,"Sonepat","Gohana","Barley",2560
+2013,"Sonepat","Kathura","Barley",2599
+2013,"Sonepat","Mundlana","Barley",
+2013,"Sonepat","Ganaur","Barley",
+2013,"Gurgaon","Gurgaon","Barley",4740
+2013,"Gurgaon","Farrukh Nagar","Barley",4173
+2013,"Gurgaon","Sohna","Barley",4740
+2013,"Gurgaon","Pataudi","Barley",5306
+2013,"Mewat","Nuh","Barley",3732
+2013,"Mewat","Tauru","Barley",3751
+2013,"Mewat","Ferozpur Jhirka","Barley",4160
+2013,"Mewat","Nagina","Barley",3907
+2013,"Mewat","Punhana","Barley",4101
+2013,"Mewat","Mewat","Barley",
+2013,"Faridabad","Faridabad","Barley",3946
+2013,"Faridabad","B/garh","Barley",3956
+2013,"Palwal","Palwal","Barley",2624
+2013,"Palwal","Hodal","Barley",3188
+2013,"Palwal","Hassanpur","Barley",3606
+2013,"Palwal","Hathin","Barley",3897
+2013,"Panipat","Panipat","Barley",
+2013,"Panipat","Samalkha","Barley",
+2013,"Panipat","Matlauda","Barley",
+2013,"Panipat","Bapoli","Barley",
+2013,"Panipat","Israna","Barley",
+2013,"Karnal","Karnal","Barley",
+2013,"Karnal","Nissing","Barley",
+2013,"Karnal","Indri","Barley",
+2013,"Karnal","Gharaunda","Barley",
+2013,"Karnal","Assandh","Barley",
+2013,"Karnal","Nilokheri","Barley",
+2013,"Kurukshetra","Thanesar","Barley",
+2013,"Kurukshetra","Shahabad","Barley",
+2013,"Kurukshetra","Pehowa","Barley",
+2013,"Kurukshetra","Ladwa","Barley",
+2013,"Kurukshetra","Babain","Barley",
+2013,"Kaithal","Kaithal","Barley",
+2013,"Kaithal","Pundri","Barley",
+2013,"Kaithal","Kalayat","Barley",
+2013,"Kaithal","Rajound","Barley",
+2013,"Kaithal","Gulha","Barley",
+2013,"Kaithal","Siwan","Barley",
+2013,"Kaithal","Kaithal","Barley",
+2013,"Ambala","Ambala-I","Barley",
+2013,"Ambala","Ambala-II","Barley",
+2013,"Ambala","Barara","Barley",
+2013,"Ambala","Saha","Barley",
+2013,"Ambala","Naraingarh","Barley",
+2013,"Ambala","Sahazadpur","Barley",
+2013,"Panchkula","Morni","Barley",
+2013,"Panchkula","Barwala","Barley",
+2013,"Panchkula","Raipurrani","Barley",
+2013,"Panchkula","Pinjore","Barley",
+2013,"Yamuna Nagar","Jagadhari","Barley",
+2013,"Yamuna Nagar","Bilaspur","Barley",
+2013,"Yamuna Nagar","Radaur","Barley",
+2013,"Yamuna Nagar","Sadaura","Barley",
+2013,"Yamuna Nagar","Chhachhrauli","Barley",
+2013,"Yamuna Nagar","Mustafabad","Barley",
+2013,"Jind","Jind","Barley",3309
+2013,"Jind","Julana","Barley",3309
+2013,"Jind","Alewa","Barley",
+2013,"Jind","Safidon","Barley",
+2013,"Jind","Pillukhera","Barley",
+2013,"Jind","Uchana","Barley",3246
+2013,"Jind","Narwana","Barley",3275
+2013,"Mahendergarh","Kanina","Barley",3285
+2013,"Mahendergarh","Mahendergarh","Barley",3285
+2013,"Mahendergarh","Ateli","Barley",
+2013,"Mahendergarh","Narnaul","Barley",
+2013,"Mahendergarh","Nangal Chaudhary","Barley",3285
+2013,"Rewari","Rewari","Barley",4322
+2013,"Rewari","Khol","Barley",4373
+2013,"Rewari","Jatusana","Barley",4512
+2013,"Rewari","Bawal","Barley",4221
+2013,"Rewari","Nahar","Barley",3876
+2013,"Hisar","Hansi I","Paddy",2739
+2013,"Hisar","Hansi-II","Paddy",2193
+2013,"Hisar","Narnaund","Paddy",2930
+2013,"Hisar","Hisar I","Paddy",2483
+2013,"Hisar","Hisar II","Paddy",2722
+2013,"Hisar","Barwala","Paddy",3087
+2013,"Hisar","Uklana","Paddy",2363
+2013,"Hisar","Agroha","Paddy",2369
+2013,"Hisar","Adampur","Paddy",
+2013,"Fatehabad","Ratia","Paddy",4402
+2013,"Fatehabad","Fatehabad","Paddy",3208
+2013,"Fatehabad","Bhattukalan","Paddy",2294
+2013,"Fatehabad","Bhuna","Paddy",3806
+2013,"Fatehabad","Tohana","Paddy",3578
+2013,"Fatehabad","Jakhal","Paddy",4769
+2013,"Sirsa","Sirsa","Paddy",3665
+2013,"Sirsa","Nathusari","Paddy",3391
+2013,"Sirsa","Baragudha","Paddy",3793
+2013,"Sirsa","Rania","Paddy",3573
+2013,"Sirsa","Ellenabad","Paddy",4986
+2013,"Sirsa","Dabwali","Paddy",3289
+2013,"Sirsa","Odhan","Paddy",5179
+2013,"Sirsa","Sirsa","Paddy",
+2013,"Bhiwani","Loharu","Paddy",
+2013,"Bhiwani","Bhiwani","Paddy",1808
+2013,"Bhiwani","Tosham","Paddy",
+2013,"Bhiwani","Bawani Khera","Paddy",2520
+2013,"Bhiwani","Dadri-I","Paddy",2520
+2013,"Bhiwani","Dadri-II","Paddy",2164
+2013,"Bhiwani","Badhra","Paddy",
+2013,"Bhiwani","Siwani","Paddy",
+2013,"Bhiwani","Kairu","Paddy",2164
+2013,"Bhiwani","Behal","Paddy",
+2013,"Rohtak","Lakhan Majra","Paddy",3113
+2013,"Rohtak","Rohtak","Paddy",825
+2013,"Rohtak","Sampla","Paddy",2230
+2013,"Rohtak","Meham","Paddy",1827
+2013,"Rohtak","Kalanaur","Paddy",1942
+2013,"Jhajjar","Jhajjar","Paddy",1197
+2013,"Jhajjar","Beri","Paddy",2048
+2013,"Jhajjar","Salhawas","Paddy",4499
+2013,"Jhajjar","Matanhail","Paddy",1953
+2013,"Jhajjar","Bahadurgarh","Paddy",2520
+2013,"Sonepat","Sonepat","Paddy",2392
+2013,"Sonepat","Rai","Paddy",2702
+2013,"Sonepat","Kharkhoda","Paddy",2621
+2013,"Sonepat","Gohana","Paddy",2313
+2013,"Sonepat","Kathura","Paddy",2361
+2013,"Sonepat","Mundlana","Paddy",2520
+2013,"Sonepat","Ganaur","Paddy",2495
+2013,"Gurgaon","Gurgaon","Paddy",3256
+2013,"Gurgaon","Farrukh Nagar","Paddy",3256
+2013,"Gurgaon","Sohna","Paddy",3256
+2013,"Gurgaon","Pataudi","Paddy",3256
+2013,"Mewat","Nuh","Paddy",3256
+2013,"Mewat","Tauru","Paddy",3256
+2013,"Mewat","Ferozpur Jhirka","Paddy",
+2013,"Mewat","Nagina","Paddy",3256
+2013,"Mewat","Punhana","Paddy",3256
+2013,"Mewat","Mewat","Paddy",
+2013,"Faridabad","Faridabad","Paddy",2831
+2013,"Faridabad","B/garh","Paddy",2457
+2013,"Palwal","Palwal","Paddy",2789
+2013,"Palwal","Hodal","Paddy",2498
+2013,"Palwal","Hassanpur","Paddy",2576
+2013,"Palwal","Hathin","Paddy",2184
+2013,"Panipat","Panipat","Paddy",2660
+2013,"Panipat","Samalkha","Paddy",2601
+2013,"Panipat","Matlauda","Paddy",2394
+2013,"Panipat","Bapoli","Paddy",3097
+2013,"Panipat","Israna","Paddy",2322
+2013,"Karnal","Karnal","Paddy",4087
+2013,"Karnal","Nissing","Paddy",3819
+2013,"Karnal","Indri","Paddy",3669
+2013,"Karnal","Gharaunda","Paddy",3323
+2013,"Karnal","Assandh","Paddy",3404
+2013,"Karnal","Nilokheri","Paddy",2852
+2013,"Kurukshetra","Thanesar","Paddy",4211
+2013,"Kurukshetra","Shahabad","Paddy",4585
+2013,"Kurukshetra","Pehowa","Paddy",3952
+2013,"Kurukshetra","Ladwa","Paddy",3923
+2013,"Kurukshetra","Babain","Paddy",4229
+2013,"Kaithal","Kaithal","Paddy",3083
+2013,"Kaithal","Pundri","Paddy",3046
+2013,"Kaithal","Kalayat","Paddy",2812
+2013,"Kaithal","Rajound","Paddy",2760
+2013,"Kaithal","Gulha","Paddy",3585
+2013,"Kaithal","Siwan","Paddy",4313
+2013,"Kaithal","Kaithal","Paddy",
+2013,"Ambala","Ambala-I","Paddy",2843
+2013,"Ambala","Ambala-II","Paddy",4348
+2013,"Ambala","Barara","Paddy",3855
+2013,"Ambala","Saha","Paddy",4259
+2013,"Ambala","Naraingarh","Paddy",3741
+2013,"Ambala","Sahazadpur","Paddy",4307
+2013,"Panchkula","Morni","Paddy",2205
+2013,"Panchkula","Barwala","Paddy",4505
+2013,"Panchkula","Raipurrani","Paddy",4165
+2013,"Panchkula","Pinjore","Paddy",3188
+2013,"Yamuna Nagar","Jagadhari","Paddy",3201
+2013,"Yamuna Nagar","Bilaspur","Paddy",4113
+2013,"Yamuna Nagar","Radaur","Paddy",3922
+2013,"Yamuna Nagar","Sadaura","Paddy",4028
+2013,"Yamuna Nagar","Chhachhrauli","Paddy",3544
+2013,"Yamuna Nagar","Mustafabad","Paddy",3289
+2013,"Jind","Jind","Paddy",2559
+2013,"Jind","Julana","Paddy",2542
+2013,"Jind","Alewa","Paddy",2631
+2013,"Jind","Safidon","Paddy",2620
+2013,"Jind","Pillukhera","Paddy",2735
+2013,"Jind","Uchana","Paddy",2807
+2013,"Jind","Narwana","Paddy",2968
+2013,"Mahendergarh","Kanina","Paddy",
+2013,"Mahendergarh","Mahendergarh","Paddy",
+2013,"Mahendergarh","Ateli","Paddy",
+2013,"Mahendergarh","Narnaul","Paddy",
+2013,"Mahendergarh","Nangal Chaudhary","Paddy",
+2013,"Rewari","Rewari","Paddy",3256
+2013,"Rewari","Khol","Paddy",
+2013,"Rewari","Jatusana","Paddy",3256
+2013,"Rewari","Bawal","Paddy",
+2013,"Rewari","Nahar","Paddy",3256
+2013,"Hisar","Hansi I","Bajra",1517
+2013,"Hisar","Hansi-II","Bajra",1588
+2013,"Hisar","Narnaund","Bajra",2212
+2013,"Hisar","Hisar I","Bajra",1931
+2013,"Hisar","Hisar II","Bajra",2471
+2013,"Hisar","Barwala","Bajra",2247
+2013,"Hisar","Uklana","Bajra",1942
+2013,"Hisar","Agroha","Bajra",2257
+2013,"Hisar","Adampur","Bajra",1564
+2013,"Fatehabad","Ratia","Bajra",2233
+2013,"Fatehabad","Fatehabad","Bajra",2101
+2013,"Fatehabad","Bhattukalan","Bajra",1572
+2013,"Fatehabad","Bhuna","Bajra",2064
+2013,"Fatehabad","Tohana","Bajra",1703
+2013,"Fatehabad","Jakhal","Bajra",
+2013,"Sirsa","Sirsa","Bajra",1749
+2013,"Sirsa","Nathusari","Bajra",1482
+2013,"Sirsa","Baragudha","Bajra",
+2013,"Sirsa","Rania","Bajra",2003
+2013,"Sirsa","Ellenabad","Bajra",1992
+2013,"Sirsa","Dabwali","Bajra",1680
+2013,"Sirsa","Odhan","Bajra",
+2013,"Sirsa","Sirsa","Bajra",
+2013,"Bhiwani","Loharu","Bajra",1541
+2013,"Bhiwani","Bhiwani","Bajra",1524
+2013,"Bhiwani","Tosham","Bajra",1271
+2013,"Bhiwani","Bawani Khera","Bajra",2087
+2013,"Bhiwani","Dadri-I","Bajra",2027
+2013,"Bhiwani","Dadri-II","Bajra",1954
+2013,"Bhiwani","Badhra","Bajra",1217
+2013,"Bhiwani","Siwani","Bajra",1592
+2013,"Bhiwani","Kairu","Bajra",1499
+2013,"Bhiwani","Behal","Bajra",1583
+2013,"Rohtak","Lakhan Majra","Bajra",1295
+2013,"Rohtak","Rohtak","Bajra",1566
+2013,"Rohtak","Sampla","Bajra",620
+2013,"Rohtak","Meham","Bajra",1392
+2013,"Rohtak","Kalanaur","Bajra",1811
+2013,"Jhajjar","Jhajjar","Bajra",2167
+2013,"Jhajjar","Beri","Bajra",1390
+2013,"Jhajjar","Salhawas","Bajra",2039
+2013,"Jhajjar","Matanhail","Bajra",1883
+2013,"Jhajjar","Bahadurgarh","Bajra",1858
+2013,"Sonepat","Sonepat","Bajra",2370
+2013,"Sonepat","Rai","Bajra",2074
+2013,"Sonepat","Kharkhoda","Bajra",2681
+2013,"Sonepat","Gohana","Bajra",2057
+2013,"Sonepat","Kathura","Bajra",2128
+2013,"Sonepat","Mundlana","Bajra",1843
+2013,"Sonepat","Ganaur","Bajra",2290
+2013,"Gurgaon","Gurgaon","Bajra",2067
+2013,"Gurgaon","Farrukh Nagar","Bajra",2061
+2013,"Gurgaon","Sohna","Bajra",1798
+2013,"Gurgaon","Pataudi","Bajra",2396
+2013,"Mewat","Nuh","Bajra",2216
+2013,"Mewat","Tauru","Bajra",2740
+2013,"Mewat","Ferozpur Jhirka","Bajra",1754
+2013,"Mewat","Nagina","Bajra",1704
+2013,"Mewat","Punhana","Bajra",2007
+2013,"Mewat","Mewat","Bajra",
+2013,"Faridabad","Faridabad","Bajra",1765
+2013,"Faridabad","B/garh","Bajra",1854
+2013,"Palwal","Palwal","Bajra",2067
+2013,"Palwal","Hodal","Bajra",1744
+2013,"Palwal","Hassanpur","Bajra",2433
+2013,"Palwal","Hathin","Bajra",2249
+2013,"Panipat","Panipat","Bajra",
+2013,"Panipat","Samalkha","Bajra",2057
+2013,"Panipat","Matlauda","Bajra",
+2013,"Panipat","Bapoli","Bajra",2057
+2013,"Panipat","Israna","Bajra",2057
+2013,"Karnal","Karnal","Bajra",
+2013,"Karnal","Nissing","Bajra",2057
+2013,"Karnal","Indri","Bajra",
+2013,"Karnal","Gharaunda","Bajra",2057
+2013,"Karnal","Assandh","Bajra",2057
+2013,"Karnal","Nilokheri","Bajra",
+2013,"Kurukshetra","Thanesar","Bajra",
+2013,"Kurukshetra","Shahabad","Bajra",
+2013,"Kurukshetra","Pehowa","Bajra",2057
+2013,"Kurukshetra","Ladwa","Bajra",
+2013,"Kurukshetra","Babain","Bajra",
+2013,"Kaithal","Kaithal","Bajra",2469
+2013,"Kaithal","Pundri","Bajra",2452
+2013,"Kaithal","Kalayat","Bajra",2708
+2013,"Kaithal","Rajound","Bajra",2235
+2013,"Kaithal","Gulha","Bajra",
+2013,"Kaithal","Siwan","Bajra",
+2013,"Kaithal","Kaithal","Bajra",
+2013,"Ambala","Ambala-I","Bajra",
+2013,"Ambala","Ambala-II","Bajra",
+2013,"Ambala","Barara","Bajra",
+2013,"Ambala","Saha","Bajra",
+2013,"Ambala","Naraingarh","Bajra",2057
+2013,"Ambala","Sahazadpur","Bajra",2057
+2013,"Panchkula","Morni","Bajra",
+2013,"Panchkula","Barwala","Bajra",2057
+2013,"Panchkula","Raipurrani","Bajra",2057
+2013,"Panchkula","Pinjore","Bajra",
+2013,"Yamuna Nagar","Jagadhari","Bajra",
+2013,"Yamuna Nagar","Bilaspur","Bajra",2057
+2013,"Yamuna Nagar","Radaur","Bajra",
+2013,"Yamuna Nagar","Sadaura","Bajra",2057
+2013,"Yamuna Nagar","Chhachhrauli","Bajra",2057
+2013,"Yamuna Nagar","Mustafabad","Bajra",
+2013,"Jind","Jind","Bajra",2099
+2013,"Jind","Julana","Bajra",2387
+2013,"Jind","Alewa","Bajra",2153
+2013,"Jind","Safidon","Bajra",2019
+2013,"Jind","Pillukhera","Bajra",1505
+2013,"Jind","Uchana","Bajra",2450
+2013,"Jind","Narwana","Bajra",3042
+2013,"Mahendergarh","Kanina","Bajra",2693
+2013,"Mahendergarh","Mahendergarh","Bajra",1962
+2013,"Mahendergarh","Ateli","Bajra",2752
+2013,"Mahendergarh","Narnaul","Bajra",2392
+2013,"Mahendergarh","Nangal Chaudhary","Bajra",2469
+2013,"Rewari","Rewari","Bajra",2182
+2013,"Rewari","Khol","Bajra",2310
+2013,"Rewari","Jatusana","Bajra",2719
+2013,"Rewari","Bawal","Bajra",2354
+2013,"Rewari","Nahar","Bajra",2099
+2013,"Hisar","Hansi I","Maize",
+2013,"Hisar","Hansi-II","Maize",
+2013,"Hisar","Narnaund","Maize",
+2013,"Hisar","Hisar I","Maize",
+2013,"Hisar","Hisar II","Maize",
+2013,"Hisar","Barwala","Maize",
+2013,"Hisar","Uklana","Maize",
+2013,"Hisar","Agroha","Maize",
+2013,"Hisar","Adampur","Maize",
+2013,"Fatehabad","Ratia","Maize",
+2013,"Fatehabad","Fatehabad","Maize",
+2013,"Fatehabad","Bhattukalan","Maize",
+2013,"Fatehabad","Bhuna","Maize",
+2013,"Fatehabad","Tohana","Maize",
+2013,"Fatehabad","Jakhal","Maize",
+2013,"Sirsa","Sirsa","Maize",
+2013,"Sirsa","Nathusari","Maize",
+2013,"Sirsa","Baragudha","Maize",
+2013,"Sirsa","Rania","Maize",
+2013,"Sirsa","Ellenabad","Maize",
+2013,"Sirsa","Dabwali","Maize",
+2013,"Sirsa","Odhan","Maize",
+2013,"Sirsa","Sirsa","Maize",
+2013,"Bhiwani","Loharu","Maize",
+2013,"Bhiwani","Bhiwani","Maize",3000
+2013,"Bhiwani","Tosham","Maize",
+2013,"Bhiwani","Bawani Khera","Maize",
+2013,"Bhiwani","Dadri-I","Maize",
+2013,"Bhiwani","Dadri-II","Maize",
+2013,"Bhiwani","Badhra","Maize",
+2013,"Bhiwani","Siwani","Maize",
+2013,"Bhiwani","Kairu","Maize",
+2013,"Bhiwani","Behal","Maize",
+2013,"Rohtak","Lakhan Majra","Maize",3000
+2013,"Rohtak","Rohtak","Maize",3000
+2013,"Rohtak","Sampla","Maize",3000
+2013,"Rohtak","Meham","Maize",3000
+2013,"Rohtak","Kalanaur","Maize",
+2013,"Jhajjar","Jhajjar","Maize",3000
+2013,"Jhajjar","Beri","Maize",
+2013,"Jhajjar","Salhawas","Maize",
+2013,"Jhajjar","Matanhail","Maize",
+2013,"Jhajjar","Bahadurgarh","Maize",
+2013,"Sonepat","Sonepat","Maize",3000
+2013,"Sonepat","Rai","Maize",3000
+2013,"Sonepat","Kharkhoda","Maize",3000
+2013,"Sonepat","Gohana","Maize",
+2013,"Sonepat","Kathura","Maize",
+2013,"Sonepat","Mundlana","Maize",
+2013,"Sonepat","Ganaur","Maize",
+2013,"Gurgaon","Gurgaon","Maize",
+2013,"Gurgaon","Farrukh Nagar","Maize",
+2013,"Gurgaon","Sohna","Maize",
+2013,"Gurgaon","Pataudi","Maize",
+2013,"Mewat","Nuh","Maize",
+2013,"Mewat","Tauru","Maize",
+2013,"Mewat","Ferozpur Jhirka","Maize",
+2013,"Mewat","Nagina","Maize",
+2013,"Mewat","Punhana","Maize",
+2013,"Mewat","Mewat","Maize",
+2013,"Faridabad","Faridabad","Maize",
+2013,"Faridabad","B/garh","Maize",
+2013,"Palwal","Palwal","Maize",
+2013,"Palwal","Hodal","Maize",
+2013,"Palwal","Hassanpur","Maize",
+2013,"Palwal","Hathin","Maize",
+2013,"Panipat","Panipat","Maize",
+2013,"Panipat","Samalkha","Maize",
+2013,"Panipat","Matlauda","Maize",
+2013,"Panipat","Bapoli","Maize",
+2013,"Panipat","Israna","Maize",
+2013,"Karnal","Karnal","Maize",3000
+2013,"Karnal","Nissing","Maize",
+2013,"Karnal","Indri","Maize",
+2013,"Karnal","Gharaunda","Maize",3000
+2013,"Karnal","Assandh","Maize",
+2013,"Karnal","Nilokheri","Maize",
+2013,"Kurukshetra","Thanesar","Maize",3000
+2013,"Kurukshetra","Shahabad","Maize",
+2013,"Kurukshetra","Pehowa","Maize",
+2013,"Kurukshetra","Ladwa","Maize",
+2013,"Kurukshetra","Babain","Maize",
+2013,"Kaithal","Kaithal","Maize",
+2013,"Kaithal","Pundri","Maize",
+2013,"Kaithal","Kalayat","Maize",
+2013,"Kaithal","Rajound","Maize",
+2013,"Kaithal","Gulha","Maize",
+2013,"Kaithal","Siwan","Maize",
+2013,"Kaithal","Kaithal","Maize",
+2013,"Ambala","Ambala-I","Maize",
+2013,"Ambala","Ambala-II","Maize",
+2013,"Ambala","Barara","Maize",3967
+2013,"Ambala","Saha","Maize",3967
+2013,"Ambala","Naraingarh","Maize",4789
+2013,"Ambala","Sahazadpur","Maize",3579
+2013,"Panchkula","Morni","Maize",3547
+2013,"Panchkula","Barwala","Maize",2689
+2013,"Panchkula","Raipurrani","Maize",3369
+2013,"Panchkula","Pinjore","Maize",1881
+2013,"Yamuna Nagar","Jagadhari","Maize",2740
+2013,"Yamuna Nagar","Bilaspur","Maize",2576
+2013,"Yamuna Nagar","Radaur","Maize",
+2013,"Yamuna Nagar","Sadaura","Maize",2740
+2013,"Yamuna Nagar","Chhachhrauli","Maize",3112
+2013,"Yamuna Nagar","Mustafabad","Maize",
+2013,"Jind","Jind","Maize",
+2013,"Jind","Julana","Maize",
+2013,"Jind","Alewa","Maize",
+2013,"Jind","Safidon","Maize",
+2013,"Jind","Pillukhera","Maize",
+2013,"Jind","Uchana","Maize",
+2013,"Jind","Narwana","Maize",
+2013,"Mahendergarh","Kanina","Maize",
+2013,"Mahendergarh","Mahendergarh","Maize",
+2013,"Mahendergarh","Ateli","Maize",
+2013,"Mahendergarh","Narnaul","Maize",
+2013,"Mahendergarh","Nangal Chaudhary","Maize",
+2013,"Rewari","Rewari","Maize",
+2013,"Rewari","Khol","Maize",
+2013,"Rewari","Jatusana","Maize",
+2013,"Rewari","Bawal","Maize",
+2013,"Rewari","Nahar","Maize",
+2013,"Hisar","Hansi I","Sugarcane",72260
+2013,"Hisar","Hansi-II","Sugarcane",140000
+2013,"Hisar","Narnaund","Sugarcane",65000
+2013,"Hisar","Hisar I","Sugarcane",80880
+2013,"Hisar","Hisar II","Sugarcane",
+2013,"Hisar","Barwala","Sugarcane",
+2013,"Hisar","Uklana","Sugarcane",
+2013,"Hisar","Agroha","Sugarcane",
+2013,"Hisar","Adampur","Sugarcane",
+2013,"Fatehabad","Ratia","Sugarcane",
+2013,"Fatehabad","Fatehabad","Sugarcane",79014
+2013,"Fatehabad","Bhattukalan","Sugarcane",
+2013,"Fatehabad","Bhuna","Sugarcane",
+2013,"Fatehabad","Tohana","Sugarcane",
+2013,"Fatehabad","Jakhal","Sugarcane",
+2013,"Sirsa","Sirsa","Sugarcane",73520
+2013,"Sirsa","Nathusari","Sugarcane",
+2013,"Sirsa","Baragudha","Sugarcane",
+2013,"Sirsa","Rania","Sugarcane",
+2013,"Sirsa","Ellenabad","Sugarcane",
+2013,"Sirsa","Dabwali","Sugarcane",
+2013,"Sirsa","Odhan","Sugarcane",
+2013,"Sirsa","Sirsa","Sugarcane",
+2013,"Bhiwani","Loharu","Sugarcane",
+2013,"Bhiwani","Bhiwani","Sugarcane",64400
+2013,"Bhiwani","Tosham","Sugarcane",
+2013,"Bhiwani","Bawani Khera","Sugarcane",77800
+2013,"Bhiwani","Dadri-I","Sugarcane",75567
+2013,"Bhiwani","Dadri-II","Sugarcane",75567
+2013,"Bhiwani","Badhra","Sugarcane",
+2013,"Bhiwani","Siwani","Sugarcane",
+2013,"Bhiwani","Kairu","Sugarcane",
+2013,"Bhiwani","Behal","Sugarcane",
+2013,"Rohtak","Lakhan Majra","Sugarcane",68387
+2013,"Rohtak","Rohtak","Sugarcane",59123
+2013,"Rohtak","Sampla","Sugarcane",66450
+2013,"Rohtak","Meham","Sugarcane",60273
+2013,"Rohtak","Kalanaur","Sugarcane",65711
+2013,"Jhajjar","Jhajjar","Sugarcane",84600
+2013,"Jhajjar","Beri","Sugarcane",80860
+2013,"Jhajjar","Salhawas","Sugarcane",81929
+2013,"Jhajjar","Matanhail","Sugarcane",81929
+2013,"Jhajjar","Bahadurgarh","Sugarcane",81929
+2013,"Sonepat","Sonepat","Sugarcane",86200
+2013,"Sonepat","Rai","Sugarcane",88400
+2013,"Sonepat","Kharkhoda","Sugarcane",79914
+2013,"Sonepat","Gohana","Sugarcane",74733
+2013,"Sonepat","Kathura","Sugarcane",68025
+2013,"Sonepat","Mundlana","Sugarcane",72052
+2013,"Sonepat","Ganaur","Sugarcane",88700
+2013,"Gurgaon","Gurgaon","Sugarcane",
+2013,"Gurgaon","Farrukh Nagar","Sugarcane",
+2013,"Gurgaon","Sohna","Sugarcane",
+2013,"Gurgaon","Pataudi","Sugarcane",
+2013,"Mewat","Nuh","Sugarcane",73520
+2013,"Mewat","Tauru","Sugarcane",
+2013,"Mewat","Ferozpur Jhirka","Sugarcane",
+2013,"Mewat","Nagina","Sugarcane",73520
+2013,"Mewat","Punhana","Sugarcane",73520
+2013,"Mewat","Mewat","Sugarcane",
+2013,"Faridabad","Faridabad","Sugarcane",
+2013,"Faridabad","B/garh","Sugarcane",64400
+2013,"Palwal","Palwal","Sugarcane",48556
+2013,"Palwal","Hodal","Sugarcane",58400
+2013,"Palwal","Hassanpur","Sugarcane",64700
+2013,"Palwal","Hathin","Sugarcane",49667
+2013,"Panipat","Panipat","Sugarcane",73143
+2013,"Panipat","Samalkha","Sugarcane",75700
+2013,"Panipat","Matlauda","Sugarcane",86667
+2013,"Panipat","Bapoli","Sugarcane",79533
+2013,"Panipat","Israna","Sugarcane",73133
+2013,"Karnal","Karnal","Sugarcane",85967
+2013,"Karnal","Nissing","Sugarcane",61373
+2013,"Karnal","Indri","Sugarcane",83133
+2013,"Karnal","Gharaunda","Sugarcane",77300
+2013,"Karnal","Assandh","Sugarcane",89500
+2013,"Karnal","Nilokheri","Sugarcane",71220
+2013,"Kurukshetra","Thanesar","Sugarcane",75106
+2013,"Kurukshetra","Shahabad","Sugarcane",74432
+2013,"Kurukshetra","Pehowa","Sugarcane",82055
+2013,"Kurukshetra","Ladwa","Sugarcane",71740
+2013,"Kurukshetra","Babain","Sugarcane",75088
+2013,"Kaithal","Kaithal","Sugarcane",79535
+2013,"Kaithal","Pundri","Sugarcane",85620
+2013,"Kaithal","Kalayat","Sugarcane",46284
+2013,"Kaithal","Rajound","Sugarcane",46283
+2013,"Kaithal","Gulha","Sugarcane",84108
+2013,"Kaithal","Siwan","Sugarcane",74000
+2013,"Kaithal","Kaithal","Sugarcane",
+2013,"Ambala","Ambala-I","Sugarcane",78433
+2013,"Ambala","Ambala-II","Sugarcane",78013
+2013,"Ambala","Barara","Sugarcane",71044
+2013,"Ambala","Saha","Sugarcane",71175
+2013,"Ambala","Naraingarh","Sugarcane",65887
+2013,"Ambala","Sahazadpur","Sugarcane",64215
+2013,"Panchkula","Morni","Sugarcane",
+2013,"Panchkula","Barwala","Sugarcane",63200
+2013,"Panchkula","Raipurrani","Sugarcane",62433
+2013,"Panchkula","Pinjore","Sugarcane",
+2013,"Yamuna Nagar","Jagadhari","Sugarcane",72585
+2013,"Yamuna Nagar","Bilaspur","Sugarcane",70819
+2013,"Yamuna Nagar","Radaur","Sugarcane",73500
+2013,"Yamuna Nagar","Sadaura","Sugarcane",68664
+2013,"Yamuna Nagar","Chhachhrauli","Sugarcane",57145
+2013,"Yamuna Nagar","Mustafabad","Sugarcane",76914
+2013,"Jind","Jind","Sugarcane",80472
+2013,"Jind","Julana","Sugarcane",78467
+2013,"Jind","Alewa","Sugarcane",69800
+2013,"Jind","Safidon","Sugarcane",83867
+2013,"Jind","Pillukhera","Sugarcane",85600
+2013,"Jind","Uchana","Sugarcane",84700
+2013,"Jind","Narwana","Sugarcane",72600
+2013,"Mahendergarh","Kanina","Sugarcane",
+2013,"Mahendergarh","Mahendergarh","Sugarcane",
+2013,"Mahendergarh","Ateli","Sugarcane",
+2013,"Mahendergarh","Narnaul","Sugarcane",
+2013,"Mahendergarh","Nangal Chaudhary","Sugarcane",
+2013,"Rewari","Rewari","Sugarcane",
+2013,"Rewari","Khol","Sugarcane",
+2013,"Rewari","Jatusana","Sugarcane",
+2013,"Rewari","Bawal","Sugarcane",
+2013,"Rewari","Nahar","Sugarcane",
+2013,"Hisar","Hansi I","Cotton",321
+2013,"Hisar","Hansi-II","Cotton",437
+2013,"Hisar","Narnaund","Cotton",497
+2013,"Hisar","Hisar I","Cotton",413
+2013,"Hisar","Hisar II","Cotton",570
+2013,"Hisar","Barwala","Cotton",593
+2013,"Hisar","Uklana","Cotton",568
+2013,"Hisar","Agroha","Cotton",509
+2013,"Hisar","Adampur","Cotton",593
+2013,"Fatehabad","Ratia","Cotton",862
+2013,"Fatehabad","Fatehabad","Cotton",750
+2013,"Fatehabad","Bhattukalan","Cotton",628
+2013,"Fatehabad","Bhuna","Cotton",781
+2013,"Fatehabad","Tohana","Cotton",832
+2013,"Fatehabad","Jakhal","Cotton",756
+2013,"Sirsa","Sirsa","Cotton",778
+2013,"Sirsa","Nathusari","Cotton",718
+2013,"Sirsa","Baragudha","Cotton",678
+2013,"Sirsa","Rania","Cotton",678
+2013,"Sirsa","Ellenabad","Cotton",688
+2013,"Sirsa","Dabwali","Cotton",658
+2013,"Sirsa","Odhan","Cotton",682
+2013,"Sirsa","Sirsa","Cotton",
+2013,"Bhiwani","Loharu","Cotton",678
+2013,"Bhiwani","Bhiwani","Cotton",623
+2013,"Bhiwani","Tosham","Cotton",409
+2013,"Bhiwani","Bawani Khera","Cotton",581
+2013,"Bhiwani","Dadri-I","Cotton",435
+2013,"Bhiwani","Dadri-II","Cotton",511
+2013,"Bhiwani","Badhra","Cotton",316
+2013,"Bhiwani","Siwani","Cotton",620
+2013,"Bhiwani","Kairu","Cotton",498
+2013,"Bhiwani","Behal","Cotton",591
+2013,"Rohtak","Lakhan Majra","Cotton",423
+2013,"Rohtak","Rohtak","Cotton",302
+2013,"Rohtak","Sampla","Cotton",353
+2013,"Rohtak","Meham","Cotton",341
+2013,"Rohtak","Kalanaur","Cotton",367
+2013,"Jhajjar","Jhajjar","Cotton",436
+2013,"Jhajjar","Beri","Cotton",436
+2013,"Jhajjar","Salhawas","Cotton",436
+2013,"Jhajjar","Matanhail","Cotton",436
+2013,"Jhajjar","Bahadurgarh","Cotton",436
+2013,"Sonepat","Sonepat","Cotton",583
+2013,"Sonepat","Rai","Cotton",583
+2013,"Sonepat","Kharkhoda","Cotton",583
+2013,"Sonepat","Gohana","Cotton",412
+2013,"Sonepat","Kathura","Cotton",640
+2013,"Sonepat","Mundlana","Cotton",659
+2013,"Sonepat","Ganaur","Cotton",583
+2013,"Gurgaon","Gurgaon","Cotton",
+2013,"Gurgaon","Farrukh Nagar","Cotton",
+2013,"Gurgaon","Sohna","Cotton",
+2013,"Gurgaon","Pataudi","Cotton",608
+2013,"Mewat","Nuh","Cotton",608
+2013,"Mewat","Tauru","Cotton",
+2013,"Mewat","Ferozpur Jhirka","Cotton",
+2013,"Mewat","Nagina","Cotton",
+2013,"Mewat","Punhana","Cotton",
+2013,"Mewat","Mewat","Cotton",
+2013,"Faridabad","Faridabad","Cotton",
+2013,"Faridabad","B/garh","Cotton",608
+2013,"Palwal","Palwal","Cotton",608
+2013,"Palwal","Hodal","Cotton",608
+2013,"Palwal","Hassanpur","Cotton",608
+2013,"Palwal","Hathin","Cotton",608
+2013,"Panipat","Panipat","Cotton",
+2013,"Panipat","Samalkha","Cotton",
+2013,"Panipat","Matlauda","Cotton",
+2013,"Panipat","Bapoli","Cotton",
+2013,"Panipat","Israna","Cotton",
+2013,"Karnal","Karnal","Cotton",
+2013,"Karnal","Nissing","Cotton",
+2013,"Karnal","Indri","Cotton",
+2013,"Karnal","Gharaunda","Cotton",
+2013,"Karnal","Assandh","Cotton",
+2013,"Karnal","Nilokheri","Cotton",
+2013,"Kurukshetra","Thanesar","Cotton",
+2013,"Kurukshetra","Shahabad","Cotton",
+2013,"Kurukshetra","Pehowa","Cotton",
+2013,"Kurukshetra","Ladwa","Cotton",
+2013,"Kurukshetra","Babain","Cotton",
+2013,"Kaithal","Kaithal","Cotton",697
+2013,"Kaithal","Pundri","Cotton",726
+2013,"Kaithal","Kalayat","Cotton",720
+2013,"Kaithal","Rajound","Cotton",758
+2013,"Kaithal","Gulha","Cotton",
+2013,"Kaithal","Siwan","Cotton",
+2013,"Kaithal","Kaithal","Cotton",
+2013,"Ambala","Ambala-I","Cotton",
+2013,"Ambala","Ambala-II","Cotton",
+2013,"Ambala","Barara","Cotton",
+2013,"Ambala","Saha","Cotton",
+2013,"Ambala","Naraingarh","Cotton",
+2013,"Ambala","Sahazadpur","Cotton",
+2013,"Panchkula","Morni","Cotton",
+2013,"Panchkula","Barwala","Cotton",
+2013,"Panchkula","Raipurrani","Cotton",
+2013,"Panchkula","Pinjore","Cotton",
+2013,"Yamuna Nagar","Jagadhari","Cotton",
+2013,"Yamuna Nagar","Bilaspur","Cotton",
+2013,"Yamuna Nagar","Radaur","Cotton",
+2013,"Yamuna Nagar","Sadaura","Cotton",
+2013,"Yamuna Nagar","Chhachhrauli","Cotton",
+2013,"Yamuna Nagar","Mustafabad","Cotton",
+2013,"Jind","Jind","Cotton",526
+2013,"Jind","Julana","Cotton",389
+2013,"Jind","Alewa","Cotton",526
+2013,"Jind","Safidon","Cotton",537
+2013,"Jind","Pillukhera","Cotton",697
+2013,"Jind","Uchana","Cotton",590
+2013,"Jind","Narwana","Cotton",688
+2013,"Mahendergarh","Kanina","Cotton",490
+2013,"Mahendergarh","Mahendergarh","Cotton",490
+2013,"Mahendergarh","Ateli","Cotton",490
+2013,"Mahendergarh","Narnaul","Cotton",490
+2013,"Mahendergarh","Nangal Chaudhary","Cotton",490
+2013,"Rewari","Rewari","Cotton",
+2013,"Rewari","Khol","Cotton",486
+2013,"Rewari","Jatusana","Cotton",559
+2013,"Rewari","Bawal","Cotton",
+2013,"Rewari","Nahar","Cotton",471
+2014,"Hisar","Hansi I","Wheat",4025
+2014,"Hisar","Hansi-II","Wheat",3720
+2014,"Hisar","Narnaund","Wheat",3589
+2014,"Hisar","Hisar I","Wheat",4107
+2014,"Hisar","Hisar II","Wheat",4287
+2014,"Hisar","Barwala","Wheat",4648
+2014,"Hisar","Uklana","Wheat",4226
+2014,"Hisar","Agroha","Wheat",4419
+2014,"Hisar","Adampur","Wheat",4862
+2014,"Fatehabad","Ratia","Wheat",5309
+2014,"Fatehabad","Fatehabad","Wheat",4959
+2014,"Fatehabad","Bhattukalan","Wheat",4779
+2014,"Fatehabad","Bhuna","Wheat",4759
+2014,"Fatehabad","Tohana","Wheat",4010
+2014,"Fatehabad","Jakhal","Wheat",4706
+2014,"Sirsa","Sirsa","Wheat",4624
+2014,"Sirsa","Nathusari","Wheat",4926
+2014,"Sirsa","Baragudha","Wheat",4697
+2014,"Sirsa","Rania","Wheat",4524
+2014,"Sirsa","Ellenabad","Wheat",4591
+2014,"Sirsa","Dabwali","Wheat",4825
+2014,"Sirsa","Odhan","Wheat",4695
+2014,"Bhiwani","Loharu","Wheat",3648
+2014,"Bhiwani","Bhiwani","Wheat",3877
+2014,"Bhiwani","Tosham","Wheat",4394
+2014,"Bhiwani","Bawani Khera","Wheat",3759
+2014,"Bhiwani","Dadri-I","Wheat",3332
+2014,"Bhiwani","Dadri-II","Wheat",4272
+2014,"Bhiwani","Badhra","Wheat",3617
+2014,"Bhiwani","Siwani","Wheat",3744
+2014,"Bhiwani","Kairu","Wheat",3853
+2014,"Bhiwani","Behal","Wheat",4239
+2014,"Rohtak","Lakhan Majra","Wheat",2893
+2014,"Rohtak","Rohtak","Wheat",3618
+2014,"Rohtak","Sampla","Wheat",4038
+2014,"Rohtak","Meham","Wheat",3249
+2014,"Rohtak","Kalanaur","Wheat",3529
+2014,"Jhajjar","Jhajjar","Wheat",3247
+2014,"Jhajjar","Beri","Wheat",3816
+2014,"Jhajjar","Salhawas","Wheat",3286
+2014,"Jhajjar","Matanhail","Wheat",4219
+2014,"Jhajjar","Bahadurgarh","Wheat",3909
+2014,"Sonepat","Sonepat","Wheat",3879
+2014,"Sonepat","Rai","Wheat",3407
+2014,"Sonepat","Kharkhoda","Wheat",3755
+2014,"Sonepat","Gohana","Wheat",3896
+2014,"Sonepat","Kathura","Wheat",4181
+2014,"Sonepat","Mundlana","Wheat",3401
+2014,"Sonepat","Ganaur","Wheat",3686
+2014,"Gurgaon","Gurgaon","Wheat",2652
+2014,"Gurgaon","Farrukh Nagar","Wheat",3367
+2014,"Gurgaon","Sohna","Wheat",2573
+2014,"Gurgaon","Pataudi","Wheat",3995
+2014,"Mewat","Nuh","Wheat",2600
+2014,"Mewat","Tauru","Wheat",4227
+2014,"Mewat","Ferozpur Jhirka","Wheat",3468
+2014,"Mewat","Nagina","Wheat",3257
+2014,"Mewat","Punhana","Wheat",2999
+2014,"Faridabad","Faridabad","Wheat",3676
+2014,"Faridabad","B/garh","Wheat",3014
+2014,"Palwal","Palwal","Wheat",3589
+2014,"Palwal","Hodal","Wheat",3072
+2014,"Palwal","Hassanpur","Wheat",3674
+2014,"Palwal","Hathin","Wheat",3042
+2014,"Panipat","Panipat","Wheat",3042
+2014,"Panipat","Samalkha","Wheat",3821
+2014,"Panipat","Matlauda","Wheat",3572
+2014,"Panipat","Bapoli","Wheat",3573
+2014,"Panipat","Israna","Wheat",3525
+2014,"Karnal","Karnal","Wheat",4036
+2014,"Karnal","Nissing","Wheat",3850
+2014,"Karnal","Indri","Wheat",4432
+2014,"Karnal","Gharaunda","Wheat",3873
+2014,"Karnal","Assandh","Wheat",3935
+2014,"Karnal","Nilokheri","Wheat",4144
+2014,"Kurukshetra","Thanesar","Wheat",4077
+2014,"Kurukshetra","Shahabad","Wheat",4009
+2014,"Kurukshetra","Pehowa","Wheat",3707
+2014,"Kurukshetra","Ladwa","Wheat",4380
+2014,"Kurukshetra","Babain","Wheat",4626
+2014,"Kaithal","Kaithal","Wheat",4333
+2014,"Kaithal","Pundri","Wheat",4202
+2014,"Kaithal","Kalayat","Wheat",4343
+2014,"Kaithal","Rajound","Wheat",3500
+2014,"Kaithal","Gulha","Wheat",4188
+2014,"Kaithal","Siwan","Wheat",5134
+2014,"Ambala","Ambala-I","Wheat",3720
+2014,"Ambala","Ambala-II","Wheat",3782
+2014,"Ambala","Barara","Wheat",3265
+2014,"Ambala","Saha","Wheat",3788
+2014,"Ambala","Naraingarh","Wheat",3685
+2014,"Ambala","Sahazadpur","Wheat",3911
+2014,"Panchkula","Morni","Wheat",1890
+2014,"Panchkula","Barwala","Wheat",3144
+2014,"Panchkula","Raipurrani","Wheat",3179
+2014,"Panchkula","Pinjore","Wheat",3232
+2014,"Yamuna Nagar","Jagadhari","Wheat",4000
+2014,"Yamuna Nagar","Bilaspur","Wheat",3412
+2014,"Yamuna Nagar","Radaur","Wheat",4343
+2014,"Yamuna Nagar","Sadaura","Wheat",3563
+2014,"Yamuna Nagar","Chhachhrauli","Wheat",3615
+2014,"Yamuna Nagar","Mustafabad","Wheat",4079
+2014,"Jind","Jind","Wheat",3625
+2014,"Jind","Julana","Wheat",3710
+2014,"Jind","Alewa","Wheat",3485
+2014,"Jind","Safidon","Wheat",3494
+2014,"Jind","Pillukhera","Wheat",3051
+2014,"Jind","Uchana","Wheat",3889
+2014,"Jind","Narwana","Wheat",4067
+2014,"Mahendergarh","Kanina","Wheat",3717
+2014,"Mahendergarh","Mahendergarh","Wheat",3997
+2014,"Mahendergarh","Ateli","Wheat",4931
+2014,"Mahendergarh","Narnaul","Wheat",4891
+2014,"Mahendergarh","Nangal Chaudhary","Wheat",4230
+2014,"Rewari","Rewari","Wheat",3709
+2014,"Rewari","Khol","Wheat",4422
+2014,"Rewari","Jatusana","Wheat",3212
+2014,"Rewari","Bawal","Wheat",4088
+2014,"Rewari","Nahar","Wheat",2687
+2014,"Hisar","Hansi I","Gram",675
+2014,"Hisar","Hansi-II","Gram",
+2014,"Hisar","Narnaund","Gram",
+2014,"Hisar","Hisar I","Gram",711
+2014,"Hisar","Hisar II","Gram",540
+2014,"Hisar","Barwala","Gram",688
+2014,"Hisar","Uklana","Gram",
+2014,"Hisar","Agroha","Gram",449
+2014,"Hisar","Adampur","Gram",578
+2014,"Fatehabad","Ratia","Gram",1298
+2014,"Fatehabad","Fatehabad","Gram",1713
+2014,"Fatehabad","Bhattukalan","Gram",888
+2014,"Fatehabad","Bhuna","Gram",1293
+2014,"Fatehabad","Tohana","Gram",
+2014,"Fatehabad","Jakhal","Gram",
+2014,"Sirsa","Sirsa","Gram",1129
+2014,"Sirsa","Nathusari","Gram",961
+2014,"Sirsa","Baragudha","Gram",
+2014,"Sirsa","Rania","Gram",882
+2014,"Sirsa","Ellenabad","Gram",1002
+2014,"Sirsa","Dabwali","Gram",936
+2014,"Sirsa","Odhan","Gram",764
+2014,"Bhiwani","Loharu","Gram",682
+2014,"Bhiwani","Bhiwani","Gram",571
+2014,"Bhiwani","Tosham","Gram",557
+2014,"Bhiwani","Bawani Khera","Gram",780
+2014,"Bhiwani","Dadri-I","Gram",775
+2014,"Bhiwani","Dadri-II","Gram",945
+2014,"Bhiwani","Badhra","Gram",861
+2014,"Bhiwani","Siwani","Gram",165
+2014,"Bhiwani","Kairu","Gram",464
+2014,"Bhiwani","Behal","Gram",528
+2014,"Rohtak","Lakhan Majra","Gram",
+2014,"Rohtak","Rohtak","Gram",
+2014,"Rohtak","Sampla","Gram",958
+2014,"Rohtak","Meham","Gram",349
+2014,"Rohtak","Kalanaur","Gram",856
+2014,"Jhajjar","Jhajjar","Gram",955
+2014,"Jhajjar","Beri","Gram",1053
+2014,"Jhajjar","Salhawas","Gram",
+2014,"Jhajjar","Matanhail","Gram",1318
+2014,"Jhajjar","Bahadurgarh","Gram",401
+2014,"Sonepat","Sonepat","Gram",
+2014,"Sonepat","Rai","Gram",
+2014,"Sonepat","Kharkhoda","Gram",
+2014,"Sonepat","Gohana","Gram",
+2014,"Sonepat","Kathura","Gram",
+2014,"Sonepat","Mundlana","Gram",
+2014,"Sonepat","Ganaur","Gram",
+2014,"Gurgaon","Gurgaon","Gram",
+2014,"Gurgaon","Farrukh Nagar","Gram",
+2014,"Gurgaon","Sohna","Gram",
+2014,"Gurgaon","Pataudi","Gram",
+2014,"Mewat","Nuh","Gram",984
+2014,"Mewat","Tauru","Gram",
+2014,"Mewat","Ferozpur Jhirka","Gram",
+2014,"Mewat","Nagina","Gram",669
+2014,"Mewat","Punhana","Gram",
+2014,"Faridabad","Faridabad","Gram",
+2014,"Faridabad","B/garh","Gram",
+2014,"Palwal","Palwal","Gram",
+2014,"Palwal","Hodal","Gram",
+2014,"Palwal","Hassanpur","Gram",
+2014,"Palwal","Hathin","Gram",
+2014,"Panipat","Panipat","Gram",
+2014,"Panipat","Samalkha","Gram",
+2014,"Panipat","Matlauda","Gram",
+2014,"Panipat","Bapoli","Gram",
+2014,"Panipat","Israna","Gram",
+2014,"Karnal","Karnal","Gram",
+2014,"Karnal","Nissing","Gram",
+2014,"Karnal","Indri","Gram",
+2014,"Karnal","Gharaunda","Gram",
+2014,"Karnal","Assandh","Gram",646
+2014,"Karnal","Nilokheri","Gram",
+2014,"Kurukshetra","Thanesar","Gram",
+2014,"Kurukshetra","Shahabad","Gram",
+2014,"Kurukshetra","Pehowa","Gram",
+2014,"Kurukshetra","Ladwa","Gram",
+2014,"Kurukshetra","Babain","Gram",
+2014,"Kaithal","Kaithal","Gram",
+2014,"Kaithal","Pundri","Gram",
+2014,"Kaithal","Kalayat","Gram",
+2014,"Kaithal","Rajound","Gram",
+2014,"Kaithal","Gulha","Gram",646
+2014,"Kaithal","Siwan","Gram",
+2014,"Ambala","Ambala-I","Gram",
+2014,"Ambala","Ambala-II","Gram",
+2014,"Ambala","Barara","Gram",
+2014,"Ambala","Saha","Gram",
+2014,"Ambala","Naraingarh","Gram",
+2014,"Ambala","Sahazadpur","Gram",
+2014,"Panchkula","Morni","Gram",
+2014,"Panchkula","Barwala","Gram",
+2014,"Panchkula","Raipurrani","Gram",646
+2014,"Panchkula","Pinjore","Gram",646
+2014,"Yamuna Nagar","Jagadhari","Gram",
+2014,"Yamuna Nagar","Bilaspur","Gram",
+2014,"Yamuna Nagar","Radaur","Gram",
+2014,"Yamuna Nagar","Sadaura","Gram",646
+2014,"Yamuna Nagar","Chhachhrauli","Gram",
+2014,"Yamuna Nagar","Mustafabad","Gram",
+2014,"Jind","Jind","Gram",
+2014,"Jind","Julana","Gram",643
+2014,"Jind","Alewa","Gram",
+2014,"Jind","Safidon","Gram",
+2014,"Jind","Pillukhera","Gram",
+2014,"Jind","Uchana","Gram",
+2014,"Jind","Narwana","Gram",
+2014,"Mahendergarh","Kanina","Gram",373
+2014,"Mahendergarh","Mahendergarh","Gram",663
+2014,"Mahendergarh","Ateli","Gram",702
+2014,"Mahendergarh","Narnaul","Gram",582
+2014,"Mahendergarh","Nangal Chaudhary","Gram",305
+2014,"Rewari","Rewari","Gram",
+2014,"Rewari","Khol","Gram",
+2014,"Rewari","Jatusana","Gram",
+2014,"Rewari","Bawal","Gram",
+2014,"Rewari","Nahar","Gram",
+2014,"Hisar","Hansi I","Barley",3130
+2014,"Hisar","Hansi-II","Barley",3245
+2014,"Hisar","Narnaund","Barley",3052
+2014,"Hisar","Hisar I","Barley",2840
+2014,"Hisar","Hisar II","Barley",2109
+2014,"Hisar","Barwala","Barley",3507
+2014,"Hisar","Uklana","Barley",2993
+2014,"Hisar","Agroha","Barley",4024
+2014,"Hisar","Adampur","Barley",3874
+2014,"Fatehabad","Ratia","Barley",
+2014,"Fatehabad","Fatehabad","Barley",3334
+2014,"Fatehabad","Bhattukalan","Barley",4432
+2014,"Fatehabad","Bhuna","Barley",3224
+2014,"Fatehabad","Tohana","Barley",4143
+2014,"Fatehabad","Jakhal","Barley",
+2014,"Sirsa","Sirsa","Barley",3635
+2014,"Sirsa","Nathusari","Barley",3453
+2014,"Sirsa","Baragudha","Barley",4053
+2014,"Sirsa","Rania","Barley",4403
+2014,"Sirsa","Ellenabad","Barley",2381
+2014,"Sirsa","Dabwali","Barley",3849
+2014,"Sirsa","Odhan","Barley",3052
+2014,"Bhiwani","Loharu","Barley",3198
+2014,"Bhiwani","Bhiwani","Barley",2471
+2014,"Bhiwani","Tosham","Barley",3815
+2014,"Bhiwani","Bawani Khera","Barley",3516
+2014,"Bhiwani","Dadri-I","Barley",2141
+2014,"Bhiwani","Dadri-II","Barley",2819
+2014,"Bhiwani","Badhra","Barley",3531
+2014,"Bhiwani","Siwani","Barley",2184
+2014,"Bhiwani","Kairu","Barley",2770
+2014,"Bhiwani","Behal","Barley",3892
+2014,"Rohtak","Lakhan Majra","Barley",2178
+2014,"Rohtak","Rohtak","Barley",1199
+2014,"Rohtak","Sampla","Barley",2178
+2014,"Rohtak","Meham","Barley",3052
+2014,"Rohtak","Kalanaur","Barley",2257
+2014,"Jhajjar","Jhajjar","Barley",1970
+2014,"Jhajjar","Beri","Barley",2274
+2014,"Jhajjar","Salhawas","Barley",3081
+2014,"Jhajjar","Matanhail","Barley",4163
+2014,"Jhajjar","Bahadurgarh","Barley",2303
+2014,"Sonepat","Sonepat","Barley",4101
+2014,"Sonepat","Rai","Barley",
+2014,"Sonepat","Kharkhoda","Barley",2877
+2014,"Sonepat","Gohana","Barley",2250
+2014,"Sonepat","Kathura","Barley",
+2014,"Sonepat","Mundlana","Barley",
+2014,"Sonepat","Ganaur","Barley",
+2014,"Gurgaon","Gurgaon","Barley",3923
+2014,"Gurgaon","Farrukh Nagar","Barley",3233
+2014,"Gurgaon","Sohna","Barley",3923
+2014,"Gurgaon","Pataudi","Barley",4613
+2014,"Mewat","Nuh","Barley",2867
+2014,"Mewat","Tauru","Barley",3684
+2014,"Mewat","Ferozpur Jhirka","Barley",2550
+2014,"Mewat","Nagina","Barley",2080
+2014,"Mewat","Punhana","Barley",2041
+2014,"Faridabad","Faridabad","Barley",3023
+2014,"Faridabad","B/garh","Barley",1361
+2014,"Palwal","Palwal","Barley",3149
+2014,"Palwal","Hodal","Barley",1536
+2014,"Palwal","Hassanpur","Barley",2488
+2014,"Palwal","Hathin","Barley",4704
+2014,"Panipat","Panipat","Barley",
+2014,"Panipat","Samalkha","Barley",
+2014,"Panipat","Matlauda","Barley",
+2014,"Panipat","Bapoli","Barley",
+2014,"Panipat","Israna","Barley",
+2014,"Karnal","Karnal","Barley",
+2014,"Karnal","Nissing","Barley",
+2014,"Karnal","Indri","Barley",
+2014,"Karnal","Gharaunda","Barley",
+2014,"Karnal","Assandh","Barley",
+2014,"Karnal","Nilokheri","Barley",
+2014,"Kurukshetra","Thanesar","Barley",
+2014,"Kurukshetra","Shahabad","Barley",
+2014,"Kurukshetra","Pehowa","Barley",
+2014,"Kurukshetra","Ladwa","Barley",
+2014,"Kurukshetra","Babain","Barley",
+2014,"Kaithal","Kaithal","Barley",
+2014,"Kaithal","Pundri","Barley",
+2014,"Kaithal","Kalayat","Barley",
+2014,"Kaithal","Rajound","Barley",
+2014,"Kaithal","Gulha","Barley",
+2014,"Kaithal","Siwan","Barley",
+2014,"Ambala","Ambala-I","Barley",
+2014,"Ambala","Ambala-II","Barley",
+2014,"Ambala","Barara","Barley",
+2014,"Ambala","Saha","Barley",
+2014,"Ambala","Naraingarh","Barley",
+2014,"Ambala","Sahazadpur","Barley",
+2014,"Panchkula","Morni","Barley",
+2014,"Panchkula","Barwala","Barley",
+2014,"Panchkula","Raipurrani","Barley",3182
+2014,"Panchkula","Pinjore","Barley",
+2014,"Yamuna Nagar","Jagadhari","Barley",
+2014,"Yamuna Nagar","Bilaspur","Barley",
+2014,"Yamuna Nagar","Radaur","Barley",
+2014,"Yamuna Nagar","Sadaura","Barley",
+2014,"Yamuna Nagar","Chhachhrauli","Barley",
+2014,"Yamuna Nagar","Mustafabad","Barley",
+2014,"Jind","Jind","Barley",2386
+2014,"Jind","Julana","Barley",2386
+2014,"Jind","Alewa","Barley",
+2014,"Jind","Safidon","Barley",
+2014,"Jind","Pillukhera","Barley",
+2014,"Jind","Uchana","Barley",2386
+2014,"Jind","Narwana","Barley",2386
+2014,"Mahendergarh","Kanina","Barley",
+2014,"Mahendergarh","Mahendergarh","Barley",1594
+2014,"Mahendergarh","Ateli","Barley",
+2014,"Mahendergarh","Narnaul","Barley",
+2014,"Mahendergarh","Nangal Chaudhary","Barley",1594
+2014,"Rewari","Rewari","Barley",2710
+2014,"Rewari","Khol","Barley",3246
+2014,"Rewari","Jatusana","Barley",3433
+2014,"Rewari","Bawal","Barley",1885
+2014,"Rewari","Nahar","Barley",1763
+2014,"Hisar","Hansi I","Paddy",2423
+2014,"Hisar","Hansi-II","Paddy",1728
+2014,"Hisar","Narnaund","Paddy",2951
+2014,"Hisar","Hisar I","Paddy",2497
+2014,"Hisar","Hisar II","Paddy",6559
+2014,"Hisar","Barwala","Paddy",2573
+2014,"Hisar","Uklana","Paddy",2270
+2014,"Hisar","Agroha","Paddy",2510
+2014,"Hisar","Adampur","Paddy",
+2014,"Fatehabad","Ratia","Paddy",3762
+2014,"Fatehabad","Fatehabad","Paddy",3144
+2014,"Fatehabad","Bhattukalan","Paddy",2367
+2014,"Fatehabad","Bhuna","Paddy",2794
+2014,"Fatehabad","Tohana","Paddy",4318
+2014,"Fatehabad","Jakhal","Paddy",4406
+2014,"Sirsa","Sirsa","Paddy",3428
+2014,"Sirsa","Nathusari","Paddy",3037
+2014,"Sirsa","Baragudha","Paddy",2984
+2014,"Sirsa","Rania","Paddy",4006
+2014,"Sirsa","Ellenabad","Paddy",4295
+2014,"Sirsa","Dabwali","Paddy",4919
+2014,"Sirsa","Odhan","Paddy",3557
+2014,"Bhiwani","Loharu","Paddy",
+2014,"Bhiwani","Bhiwani","Paddy",1397
+2014,"Bhiwani","Tosham","Paddy",1434
+2014,"Bhiwani","Bawani Khera","Paddy",1186
+2014,"Bhiwani","Dadri-I","Paddy",1829
+2014,"Bhiwani","Dadri-II","Paddy",1434
+2014,"Bhiwani","Badhra","Paddy",
+2014,"Bhiwani","Siwani","Paddy",
+2014,"Bhiwani","Kairu","Paddy",1434
+2014,"Bhiwani","Behal","Paddy",
+2014,"Rohtak","Lakhan Majra","Paddy",2939
+2014,"Rohtak","Rohtak","Paddy",1551
+2014,"Rohtak","Sampla","Paddy",2674
+2014,"Rohtak","Meham","Paddy",1997
+2014,"Rohtak","Kalanaur","Paddy",2523
+2014,"Jhajjar","Jhajjar","Paddy",2838
+2014,"Jhajjar","Beri","Paddy",2683
+2014,"Jhajjar","Salhawas","Paddy",1614
+2014,"Jhajjar","Matanhail","Paddy",2220
+2014,"Jhajjar","Bahadurgarh","Paddy",2327
+2014,"Sonepat","Sonepat","Paddy",2814
+2014,"Sonepat","Rai","Paddy",2591
+2014,"Sonepat","Kharkhoda","Paddy",2590
+2014,"Sonepat","Gohana","Paddy",2401
+2014,"Sonepat","Kathura","Paddy",2273
+2014,"Sonepat","Mundlana","Paddy",2188
+2014,"Sonepat","Ganaur","Paddy",2729
+2014,"Gurgaon","Gurgaon","Paddy",3113
+2014,"Gurgaon","Farrukh Nagar","Paddy",3113
+2014,"Gurgaon","Sohna","Paddy",3113
+2014,"Gurgaon","Pataudi","Paddy",3113
+2014,"Mewat","Nuh","Paddy",3113
+2014,"Mewat","Tauru","Paddy",3113
+2014,"Mewat","Ferozpur Jhirka","Paddy",
+2014,"Mewat","Nagina","Paddy",3113
+2014,"Mewat","Punhana","Paddy",3113
+2014,"Faridabad","Faridabad","Paddy",2783
+2014,"Faridabad","B/garh","Paddy",2581
+2014,"Palwal","Palwal","Paddy",2820
+2014,"Palwal","Hodal","Paddy",2777
+2014,"Palwal","Hassanpur","Paddy",2687
+2014,"Palwal","Hathin","Paddy",2064
+2014,"Panipat","Panipat","Paddy",2631
+2014,"Panipat","Samalkha","Paddy",1367
+2014,"Panipat","Matlauda","Paddy",2804
+2014,"Panipat","Bapoli","Paddy",2884
+2014,"Panipat","Israna","Paddy",2900
+2014,"Karnal","Karnal","Paddy",3169
+2014,"Karnal","Nissing","Paddy",3377
+2014,"Karnal","Indri","Paddy",3457
+2014,"Karnal","Gharaunda","Paddy",3188
+2014,"Karnal","Assandh","Paddy",3304
+2014,"Karnal","Nilokheri","Paddy",2890
+2014,"Kurukshetra","Thanesar","Paddy",3594
+2014,"Kurukshetra","Shahabad","Paddy",3894
+2014,"Kurukshetra","Pehowa","Paddy",3102
+2014,"Kurukshetra","Ladwa","Paddy",3281
+2014,"Kurukshetra","Babain","Paddy",3935
+2014,"Kaithal","Kaithal","Paddy",2993
+2014,"Kaithal","Pundri","Paddy",2731
+2014,"Kaithal","Kalayat","Paddy",2565
+2014,"Kaithal","Rajound","Paddy",2693
+2014,"Kaithal","Gulha","Paddy",3721
+2014,"Kaithal","Siwan","Paddy",4400
+2014,"Ambala","Ambala-I","Paddy",2888
+2014,"Ambala","Ambala-II","Paddy",3889
+2014,"Ambala","Barara","Paddy",3650
+2014,"Ambala","Saha","Paddy",4150
+2014,"Ambala","Naraingarh","Paddy",3952
+2014,"Ambala","Sahazadpur","Paddy",3443
+2014,"Panchkula","Morni","Paddy",1514
+2014,"Panchkula","Barwala","Paddy",2995
+2014,"Panchkula","Raipurrani","Paddy",3282
+2014,"Panchkula","Pinjore","Paddy",5537
+2014,"Yamuna Nagar","Jagadhari","Paddy",3537
+2014,"Yamuna Nagar","Bilaspur","Paddy",3658
+2014,"Yamuna Nagar","Radaur","Paddy",4107
+2014,"Yamuna Nagar","Sadaura","Paddy",4246
+2014,"Yamuna Nagar","Chhachhrauli","Paddy",3678
+2014,"Yamuna Nagar","Mustafabad","Paddy",3642
+2014,"Jind","Jind","Paddy",2768
+2014,"Jind","Julana","Paddy",2694
+2014,"Jind","Alewa","Paddy",2951
+2014,"Jind","Safidon","Paddy",2799
+2014,"Jind","Pillukhera","Paddy",2147
+2014,"Jind","Uchana","Paddy",2742
+2014,"Jind","Narwana","Paddy",2793
+2014,"Mahendergarh","Kanina","Paddy",
+2014,"Mahendergarh","Mahendergarh","Paddy",
+2014,"Mahendergarh","Ateli","Paddy",
+2014,"Mahendergarh","Narnaul","Paddy",
+2014,"Mahendergarh","Nangal Chaudhary","Paddy",
+2014,"Rewari","Rewari","Paddy",3113
+2014,"Rewari","Khol","Paddy",3113
+2014,"Rewari","Jatusana","Paddy",3113
+2014,"Rewari","Bawal","Paddy",
+2014,"Rewari","Nahar","Paddy",
+2014,"Hisar","Hansi I","Bajra",1476
+2014,"Hisar","Hansi-II","Bajra",1625
+2014,"Hisar","Narnaund","Bajra",1657
+2014,"Hisar","Hisar I","Bajra",2095
+2014,"Hisar","Hisar II","Bajra",959
+2014,"Hisar","Barwala","Bajra",2029
+2014,"Hisar","Uklana","Bajra",1883
+2014,"Hisar","Agroha","Bajra",1708
+2014,"Hisar","Adampur","Bajra",1143
+2014,"Fatehabad","Ratia","Bajra",2595
+2014,"Fatehabad","Fatehabad","Bajra",2069
+2014,"Fatehabad","Bhattukalan","Bajra",2012
+2014,"Fatehabad","Bhuna","Bajra",1687
+2014,"Fatehabad","Tohana","Bajra",3003
+2014,"Fatehabad","Jakhal","Bajra",
+2014,"Sirsa","Sirsa","Bajra",1542
+2014,"Sirsa","Nathusari","Bajra",1548
+2014,"Sirsa","Baragudha","Bajra",
+2014,"Sirsa","Rania","Bajra",1316
+2014,"Sirsa","Ellenabad","Bajra",1785
+2014,"Sirsa","Dabwali","Bajra",2088
+2014,"Sirsa","Odhan","Bajra",
+2014,"Bhiwani","Loharu","Bajra",1784
+2014,"Bhiwani","Bhiwani","Bajra",1676
+2014,"Bhiwani","Tosham","Bajra",905
+2014,"Bhiwani","Bawani Khera","Bajra",1879
+2014,"Bhiwani","Dadri-I","Bajra",1416
+2014,"Bhiwani","Dadri-II","Bajra",1707
+2014,"Bhiwani","Badhra","Bajra",1009
+2014,"Bhiwani","Siwani","Bajra",705
+2014,"Bhiwani","Kairu","Bajra",1362
+2014,"Bhiwani","Behal","Bajra",1464
+2014,"Rohtak","Lakhan Majra","Bajra",1331
+2014,"Rohtak","Rohtak","Bajra",2080
+2014,"Rohtak","Sampla","Bajra",1708
+2014,"Rohtak","Meham","Bajra",1785
+2014,"Rohtak","Kalanaur","Bajra",1796
+2014,"Jhajjar","Jhajjar","Bajra",1603
+2014,"Jhajjar","Beri","Bajra",1174
+2014,"Jhajjar","Salhawas","Bajra",2084
+2014,"Jhajjar","Matanhail","Bajra",1716
+2014,"Jhajjar","Bahadurgarh","Bajra",2133
+2014,"Sonepat","Sonepat","Bajra",1943
+2014,"Sonepat","Rai","Bajra",2106
+2014,"Sonepat","Kharkhoda","Bajra",2192
+2014,"Sonepat","Gohana","Bajra",1870
+2014,"Sonepat","Kathura","Bajra",2293
+2014,"Sonepat","Mundlana","Bajra",1427
+2014,"Sonepat","Ganaur","Bajra",1680
+2014,"Gurgaon","Gurgaon","Bajra",2158
+2014,"Gurgaon","Farrukh Nagar","Bajra",1464
+2014,"Gurgaon","Sohna","Bajra",1142
+2014,"Gurgaon","Pataudi","Bajra",2348
+2014,"Mewat","Nuh","Bajra",1448
+2014,"Mewat","Tauru","Bajra",2041
+2014,"Mewat","Ferozpur Jhirka","Bajra",1529
+2014,"Mewat","Nagina","Bajra",1339
+2014,"Mewat","Punhana","Bajra",2187
+2014,"Faridabad","Faridabad","Bajra",2095
+2014,"Faridabad","B/garh","Bajra",1494
+2014,"Palwal","Palwal","Bajra",2405
+2014,"Palwal","Hodal","Bajra",1616
+2014,"Palwal","Hassanpur","Bajra",1719
+2014,"Palwal","Hathin","Bajra",1737
+2014,"Panipat","Panipat","Bajra",
+2014,"Panipat","Samalkha","Bajra",1749
+2014,"Panipat","Matlauda","Bajra",
+2014,"Panipat","Bapoli","Bajra",
+2014,"Panipat","Israna","Bajra",1749
+2014,"Karnal","Karnal","Bajra",
+2014,"Karnal","Nissing","Bajra",
+2014,"Karnal","Indri","Bajra",
+2014,"Karnal","Gharaunda","Bajra",1749
+2014,"Karnal","Assandh","Bajra",1749
+2014,"Karnal","Nilokheri","Bajra",
+2014,"Kurukshetra","Thanesar","Bajra",
+2014,"Kurukshetra","Shahabad","Bajra",
+2014,"Kurukshetra","Pehowa","Bajra",
+2014,"Kurukshetra","Ladwa","Bajra",
+2014,"Kurukshetra","Babain","Bajra",
+2014,"Kaithal","Kaithal","Bajra",2199
+2014,"Kaithal","Pundri","Bajra",2311
+2014,"Kaithal","Kalayat","Bajra",2737
+2014,"Kaithal","Rajound","Bajra",2139
+2014,"Kaithal","Gulha","Bajra",
+2014,"Kaithal","Siwan","Bajra",
+2014,"Ambala","Ambala-I","Bajra",
+2014,"Ambala","Ambala-II","Bajra",
+2014,"Ambala","Barara","Bajra",1749
+2014,"Ambala","Saha","Bajra",
+2014,"Ambala","Naraingarh","Bajra",1749
+2014,"Ambala","Sahazadpur","Bajra",1749
+2014,"Panchkula","Morni","Bajra",
+2014,"Panchkula","Barwala","Bajra",1749
+2014,"Panchkula","Raipurrani","Bajra",1749
+2014,"Panchkula","Pinjore","Bajra",
+2014,"Yamuna Nagar","Jagadhari","Bajra",
+2014,"Yamuna Nagar","Bilaspur","Bajra",1749
+2014,"Yamuna Nagar","Radaur","Bajra",
+2014,"Yamuna Nagar","Sadaura","Bajra",1749
+2014,"Yamuna Nagar","Chhachhrauli","Bajra",1749
+2014,"Yamuna Nagar","Mustafabad","Bajra",
+2014,"Jind","Jind","Bajra",1932
+2014,"Jind","Julana","Bajra",1326
+2014,"Jind","Alewa","Bajra",1943
+2014,"Jind","Safidon","Bajra",2073
+2014,"Jind","Pillukhera","Bajra",2077
+2014,"Jind","Uchana","Bajra",2466
+2014,"Jind","Narwana","Bajra",2230
+2014,"Mahendergarh","Kanina","Bajra",2189
+2014,"Mahendergarh","Mahendergarh","Bajra",1918
+2014,"Mahendergarh","Ateli","Bajra",1862
+2014,"Mahendergarh","Narnaul","Bajra",1351
+2014,"Mahendergarh","Nangal Chaudhary","Bajra",1233
+2014,"Rewari","Rewari","Bajra",2284
+2014,"Rewari","Khol","Bajra",1903
+2014,"Rewari","Jatusana","Bajra",2440
+2014,"Rewari","Bawal","Bajra",2535
+2014,"Rewari","Nahar","Bajra",2476
+2014,"Hisar","Hansi I","Maize",
+2014,"Hisar","Hansi-II","Maize",
+2014,"Hisar","Narnaund","Maize",
+2014,"Hisar","Hisar I","Maize",
+2014,"Hisar","Hisar II","Maize",
+2014,"Hisar","Barwala","Maize",
+2014,"Hisar","Uklana","Maize",
+2014,"Hisar","Agroha","Maize",
+2014,"Hisar","Adampur","Maize",
+2014,"Fatehabad","Ratia","Maize",
+2014,"Fatehabad","Fatehabad","Maize",
+2014,"Fatehabad","Bhattukalan","Maize",
+2014,"Fatehabad","Bhuna","Maize",
+2014,"Fatehabad","Tohana","Maize",
+2014,"Fatehabad","Jakhal","Maize",
+2014,"Sirsa","Sirsa","Maize",
+2014,"Sirsa","Nathusari","Maize",
+2014,"Sirsa","Baragudha","Maize",
+2014,"Sirsa","Rania","Maize",
+2014,"Sirsa","Ellenabad","Maize",
+2014,"Sirsa","Dabwali","Maize",
+2014,"Sirsa","Odhan","Maize",
+2014,"Bhiwani","Loharu","Maize",
+2014,"Bhiwani","Bhiwani","Maize",
+2014,"Bhiwani","Tosham","Maize",
+2014,"Bhiwani","Bawani Khera","Maize",
+2014,"Bhiwani","Dadri-I","Maize",
+2014,"Bhiwani","Dadri-II","Maize",
+2014,"Bhiwani","Badhra","Maize",
+2014,"Bhiwani","Siwani","Maize",
+2014,"Bhiwani","Kairu","Maize",
+2014,"Bhiwani","Behal","Maize",
+2014,"Rohtak","Lakhan Majra","Maize",2250
+2014,"Rohtak","Rohtak","Maize",2250
+2014,"Rohtak","Sampla","Maize",
+2014,"Rohtak","Meham","Maize",
+2014,"Rohtak","Kalanaur","Maize",2250
+2014,"Jhajjar","Jhajjar","Maize",
+2014,"Jhajjar","Beri","Maize",
+2014,"Jhajjar","Salhawas","Maize",
+2014,"Jhajjar","Matanhail","Maize",
+2014,"Jhajjar","Bahadurgarh","Maize",2250
+2014,"Sonepat","Sonepat","Maize",2250
+2014,"Sonepat","Rai","Maize",2250
+2014,"Sonepat","Kharkhoda","Maize",2250
+2014,"Sonepat","Gohana","Maize",
+2014,"Sonepat","Kathura","Maize",2250
+2014,"Sonepat","Mundlana","Maize",
+2014,"Sonepat","Ganaur","Maize",
+2014,"Gurgaon","Gurgaon","Maize",
+2014,"Gurgaon","Farrukh Nagar","Maize",
+2014,"Gurgaon","Sohna","Maize",
+2014,"Gurgaon","Pataudi","Maize",
+2014,"Mewat","Nuh","Maize",
+2014,"Mewat","Tauru","Maize",
+2014,"Mewat","Ferozpur Jhirka","Maize",
+2014,"Mewat","Nagina","Maize",
+2014,"Mewat","Punhana","Maize",
+2014,"Faridabad","Faridabad","Maize",
+2014,"Faridabad","B/garh","Maize",
+2014,"Palwal","Palwal","Maize",
+2014,"Palwal","Hodal","Maize",
+2014,"Palwal","Hassanpur","Maize",
+2014,"Palwal","Hathin","Maize",
+2014,"Panipat","Panipat","Maize",
+2014,"Panipat","Samalkha","Maize",
+2014,"Panipat","Matlauda","Maize",
+2014,"Panipat","Bapoli","Maize",
+2014,"Panipat","Israna","Maize",
+2014,"Karnal","Karnal","Maize",2250
+2014,"Karnal","Nissing","Maize",
+2014,"Karnal","Indri","Maize",
+2014,"Karnal","Gharaunda","Maize",2250
+2014,"Karnal","Assandh","Maize",
+2014,"Karnal","Nilokheri","Maize",
+2014,"Kurukshetra","Thanesar","Maize",
+2014,"Kurukshetra","Shahabad","Maize",
+2014,"Kurukshetra","Pehowa","Maize",
+2014,"Kurukshetra","Ladwa","Maize",
+2014,"Kurukshetra","Babain","Maize",
+2014,"Kaithal","Kaithal","Maize",2250
+2014,"Kaithal","Pundri","Maize",
+2014,"Kaithal","Kalayat","Maize",
+2014,"Kaithal","Rajound","Maize",
+2014,"Kaithal","Gulha","Maize",
+2014,"Kaithal","Siwan","Maize",
+2014,"Ambala","Ambala-I","Maize",
+2014,"Ambala","Ambala-II","Maize",
+2014,"Ambala","Barara","Maize",3722
+2014,"Ambala","Saha","Maize",
+2014,"Ambala","Naraingarh","Maize",4283
+2014,"Ambala","Sahazadpur","Maize",3373
+2014,"Panchkula","Morni","Maize",2912
+2014,"Panchkula","Barwala","Maize",1708
+2014,"Panchkula","Raipurrani","Maize",2009
+2014,"Panchkula","Pinjore","Maize",1766
+2014,"Yamuna Nagar","Jagadhari","Maize",
+2014,"Yamuna Nagar","Bilaspur","Maize",2139
+2014,"Yamuna Nagar","Radaur","Maize",
+2014,"Yamuna Nagar","Sadaura","Maize",2176
+2014,"Yamuna Nagar","Chhachhrauli","Maize",2303
+2014,"Yamuna Nagar","Mustafabad","Maize",
+2014,"Jind","Jind","Maize",
+2014,"Jind","Julana","Maize",
+2014,"Jind","Alewa","Maize",
+2014,"Jind","Safidon","Maize",
+2014,"Jind","Pillukhera","Maize",
+2014,"Jind","Uchana","Maize",
+2014,"Jind","Narwana","Maize",
+2014,"Mahendergarh","Kanina","Maize",
+2014,"Mahendergarh","Mahendergarh","Maize",
+2014,"Mahendergarh","Ateli","Maize",
+2014,"Mahendergarh","Narnaul","Maize",
+2014,"Mahendergarh","Nangal Chaudhary","Maize",
+2014,"Rewari","Rewari","Maize",
+2014,"Rewari","Khol","Maize",
+2014,"Rewari","Jatusana","Maize",
+2014,"Rewari","Bawal","Maize",
+2014,"Rewari","Nahar","Maize",
+2014,"Hisar","Hansi I","Sugarcane",72878
+2014,"Hisar","Hansi-II","Sugarcane",80138
+2014,"Hisar","Narnaund","Sugarcane",75000
+2014,"Hisar","Hisar I","Sugarcane",35400
+2014,"Hisar","Hisar II","Sugarcane",86000
+2014,"Hisar","Barwala","Sugarcane",17200
+2014,"Hisar","Uklana","Sugarcane",80060
+2014,"Hisar","Agroha","Sugarcane",63000
+2014,"Hisar","Adampur","Sugarcane",
+2014,"Fatehabad","Ratia","Sugarcane",
+2014,"Fatehabad","Fatehabad","Sugarcane",
+2014,"Fatehabad","Bhattukalan","Sugarcane",
+2014,"Fatehabad","Bhuna","Sugarcane",
+2014,"Fatehabad","Tohana","Sugarcane",
+2014,"Fatehabad","Jakhal","Sugarcane",
+2014,"Sirsa","Sirsa","Sugarcane",
+2014,"Sirsa","Nathusari","Sugarcane",
+2014,"Sirsa","Baragudha","Sugarcane",
+2014,"Sirsa","Rania","Sugarcane",
+2014,"Sirsa","Ellenabad","Sugarcane",
+2014,"Sirsa","Dabwali","Sugarcane",
+2014,"Sirsa","Odhan","Sugarcane",
+2014,"Bhiwani","Loharu","Sugarcane",
+2014,"Bhiwani","Bhiwani","Sugarcane",
+2014,"Bhiwani","Tosham","Sugarcane",
+2014,"Bhiwani","Bawani Khera","Sugarcane",
+2014,"Bhiwani","Dadri-I","Sugarcane",
+2014,"Bhiwani","Dadri-II","Sugarcane",
+2014,"Bhiwani","Badhra","Sugarcane",
+2014,"Bhiwani","Siwani","Sugarcane",
+2014,"Bhiwani","Kairu","Sugarcane",
+2014,"Bhiwani","Behal","Sugarcane",
+2014,"Rohtak","Lakhan Majra","Sugarcane",
+2014,"Rohtak","Rohtak","Sugarcane",
+2014,"Rohtak","Sampla","Sugarcane",
+2014,"Rohtak","Meham","Sugarcane",67145
+2014,"Rohtak","Kalanaur","Sugarcane",
+2014,"Jhajjar","Jhajjar","Sugarcane",
+2014,"Jhajjar","Beri","Sugarcane",
+2014,"Jhajjar","Salhawas","Sugarcane",
+2014,"Jhajjar","Matanhail","Sugarcane",
+2014,"Jhajjar","Bahadurgarh","Sugarcane",
+2014,"Sonepat","Sonepat","Sugarcane",
+2014,"Sonepat","Rai","Sugarcane",
+2014,"Sonepat","Kharkhoda","Sugarcane",
+2014,"Sonepat","Gohana","Sugarcane",
+2014,"Sonepat","Kathura","Sugarcane",
+2014,"Sonepat","Mundlana","Sugarcane",
+2014,"Sonepat","Ganaur","Sugarcane",
+2014,"Gurgaon","Gurgaon","Sugarcane",
+2014,"Gurgaon","Farrukh Nagar","Sugarcane",
+2014,"Gurgaon","Sohna","Sugarcane",
+2014,"Gurgaon","Pataudi","Sugarcane",
+2014,"Mewat","Nuh","Sugarcane",
+2014,"Mewat","Tauru","Sugarcane",
+2014,"Mewat","Ferozpur Jhirka","Sugarcane",
+2014,"Mewat","Nagina","Sugarcane",
+2014,"Mewat","Punhana","Sugarcane",
+2014,"Faridabad","Faridabad","Sugarcane",
+2014,"Faridabad","B/garh","Sugarcane",
+2014,"Palwal","Palwal","Sugarcane",
+2014,"Palwal","Hodal","Sugarcane",
+2014,"Palwal","Hassanpur","Sugarcane",
+2014,"Palwal","Hathin","Sugarcane",
+2014,"Panipat","Panipat","Sugarcane",
+2014,"Panipat","Samalkha","Sugarcane",
+2014,"Panipat","Matlauda","Sugarcane",
+2014,"Panipat","Bapoli","Sugarcane",
+2014,"Panipat","Israna","Sugarcane",
+2014,"Karnal","Karnal","Sugarcane",
+2014,"Karnal","Nissing","Sugarcane",
+2014,"Karnal","Indri","Sugarcane",
+2014,"Karnal","Gharaunda","Sugarcane",
+2014,"Karnal","Assandh","Sugarcane",
+2014,"Karnal","Nilokheri","Sugarcane",
+2014,"Kurukshetra","Thanesar","Sugarcane",
+2014,"Kurukshetra","Shahabad","Sugarcane",
+2014,"Kurukshetra","Pehowa","Sugarcane",
+2014,"Kurukshetra","Ladwa","Sugarcane",
+2014,"Kurukshetra","Babain","Sugarcane",
+2014,"Kaithal","Kaithal","Sugarcane",
+2014,"Kaithal","Pundri","Sugarcane",
+2014,"Kaithal","Kalayat","Sugarcane",
+2014,"Kaithal","Rajound","Sugarcane",
+2014,"Kaithal","Gulha","Sugarcane",
+2014,"Kaithal","Siwan","Sugarcane",
+2014,"Ambala","Ambala-I","Sugarcane",
+2014,"Ambala","Ambala-II","Sugarcane",
+2014,"Ambala","Barara","Sugarcane",
+2014,"Ambala","Saha","Sugarcane",
+2014,"Ambala","Naraingarh","Sugarcane",
+2014,"Ambala","Sahazadpur","Sugarcane",
+2014,"Panchkula","Morni","Sugarcane",
+2014,"Panchkula","Barwala","Sugarcane",
+2014,"Panchkula","Raipurrani","Sugarcane",
+2014,"Panchkula","Pinjore","Sugarcane",
+2014,"Yamuna Nagar","Jagadhari","Sugarcane",
+2014,"Yamuna Nagar","Bilaspur","Sugarcane",
+2014,"Yamuna Nagar","Radaur","Sugarcane",
+2014,"Yamuna Nagar","Sadaura","Sugarcane",
+2014,"Yamuna Nagar","Chhachhrauli","Sugarcane",
+2014,"Yamuna Nagar","Mustafabad","Sugarcane",
+2014,"Jind","Jind","Sugarcane",
+2014,"Jind","Julana","Sugarcane",
+2014,"Jind","Alewa","Sugarcane",
+2014,"Jind","Safidon","Sugarcane",
+2014,"Jind","Pillukhera","Sugarcane",
+2014,"Jind","Uchana","Sugarcane",
+2014,"Jind","Narwana","Sugarcane",
+2014,"Mahendergarh","Kanina","Sugarcane",
+2014,"Mahendergarh","Mahendergarh","Sugarcane",
+2014,"Mahendergarh","Ateli","Sugarcane",
+2014,"Mahendergarh","Narnaul","Sugarcane",
+2014,"Mahendergarh","Nangal Chaudhary","Sugarcane",
+2014,"Rewari","Rewari","Sugarcane",
+2014,"Rewari","Khol","Sugarcane",
+2014,"Rewari","Jatusana","Sugarcane",
+2014,"Rewari","Bawal","Sugarcane",
+2014,"Rewari","Nahar","Sugarcane",
+2014,"Hisar","Hansi I","Cotton",350
+2014,"Hisar","Hansi-II","Cotton",332
+2014,"Hisar","Narnaund","Cotton",343
+2014,"Hisar","Hisar I","Cotton",
+2014,"Hisar","Hisar II","Cotton",336
+2014,"Hisar","Barwala","Cotton",487
+2014,"Hisar","Uklana","Cotton",366
+2014,"Hisar","Agroha","Cotton",550
+2014,"Hisar","Adampur","Cotton",357
+2014,"Fatehabad","Ratia","Cotton",725
+2014,"Fatehabad","Fatehabad","Cotton",702
+2014,"Fatehabad","Bhattukalan","Cotton",648
+2014,"Fatehabad","Bhuna","Cotton",709
+2014,"Fatehabad","Tohana","Cotton",631
+2014,"Fatehabad","Jakhal","Cotton",523
+2014,"Sirsa","Sirsa","Cotton",721
+2014,"Sirsa","Nathusari","Cotton",619
+2014,"Sirsa","Baragudha","Cotton",583
+2014,"Sirsa","Rania","Cotton",622
+2014,"Sirsa","Ellenabad","Cotton",641
+2014,"Sirsa","Dabwali","Cotton",579
+2014,"Sirsa","Odhan","Cotton",586
+2014,"Bhiwani","Loharu","Cotton",605
+2014,"Bhiwani","Bhiwani","Cotton",256
+2014,"Bhiwani","Tosham","Cotton",379
+2014,"Bhiwani","Bawani Khera","Cotton",337
+2014,"Bhiwani","Dadri-I","Cotton",433
+2014,"Bhiwani","Dadri-II","Cotton",543
+2014,"Bhiwani","Badhra","Cotton",447
+2014,"Bhiwani","Siwani","Cotton",426
+2014,"Bhiwani","Kairu","Cotton",402
+2014,"Bhiwani","Behal","Cotton",511
+2014,"Rohtak","Lakhan Majra","Cotton",241
+2014,"Rohtak","Rohtak","Cotton",450
+2014,"Rohtak","Sampla","Cotton",337
+2014,"Rohtak","Meham","Cotton",272
+2014,"Rohtak","Kalanaur","Cotton",456
+2014,"Jhajjar","Jhajjar","Cotton",501
+2014,"Jhajjar","Beri","Cotton",501
+2014,"Jhajjar","Salhawas","Cotton",501
+2014,"Jhajjar","Matanhail","Cotton",501
+2014,"Jhajjar","Bahadurgarh","Cotton",501
+2014,"Sonepat","Sonepat","Cotton",482
+2014,"Sonepat","Rai","Cotton",482
+2014,"Sonepat","Kharkhoda","Cotton",482
+2014,"Sonepat","Gohana","Cotton",500
+2014,"Sonepat","Kathura","Cotton",589
+2014,"Sonepat","Mundlana","Cotton",358
+2014,"Sonepat","Ganaur","Cotton",482
+2014,"Gurgaon","Gurgaon","Cotton",
+2014,"Gurgaon","Farrukh Nagar","Cotton",510
+2014,"Gurgaon","Sohna","Cotton",
+2014,"Gurgaon","Pataudi","Cotton",510
+2014,"Mewat","Nuh","Cotton",510
+2014,"Mewat","Tauru","Cotton",510
+2014,"Mewat","Ferozpur Jhirka","Cotton",510
+2014,"Mewat","Nagina","Cotton",
+2014,"Mewat","Punhana","Cotton",510
+2014,"Faridabad","Faridabad","Cotton",
+2014,"Faridabad","B/garh","Cotton",510
+2014,"Palwal","Palwal","Cotton",510
+2014,"Palwal","Hodal","Cotton",510
+2014,"Palwal","Hassanpur","Cotton",510
+2014,"Palwal","Hathin","Cotton",510
+2014,"Panipat","Panipat","Cotton",
+2014,"Panipat","Samalkha","Cotton",
+2014,"Panipat","Matlauda","Cotton",
+2014,"Panipat","Bapoli","Cotton",
+2014,"Panipat","Israna","Cotton",
+2014,"Karnal","Karnal","Cotton",
+2014,"Karnal","Nissing","Cotton",
+2014,"Karnal","Indri","Cotton",
+2014,"Karnal","Gharaunda","Cotton",
+2014,"Karnal","Assandh","Cotton",
+2014,"Karnal","Nilokheri","Cotton",
+2014,"Kurukshetra","Thanesar","Cotton",
+2014,"Kurukshetra","Shahabad","Cotton",
+2014,"Kurukshetra","Pehowa","Cotton",
+2014,"Kurukshetra","Ladwa","Cotton",
+2014,"Kurukshetra","Babain","Cotton",
+2014,"Kaithal","Kaithal","Cotton",472
+2014,"Kaithal","Pundri","Cotton",558
+2014,"Kaithal","Kalayat","Cotton",585
+2014,"Kaithal","Rajound","Cotton",599
+2014,"Kaithal","Gulha","Cotton",
+2014,"Kaithal","Siwan","Cotton",
+2014,"Ambala","Ambala-I","Cotton",
+2014,"Ambala","Ambala-II","Cotton",
+2014,"Ambala","Barara","Cotton",
+2014,"Ambala","Saha","Cotton",
+2014,"Ambala","Naraingarh","Cotton",
+2014,"Ambala","Sahazadpur","Cotton",
+2014,"Panchkula","Morni","Cotton",
+2014,"Panchkula","Barwala","Cotton",
+2014,"Panchkula","Raipurrani","Cotton",
+2014,"Panchkula","Pinjore","Cotton",
+2014,"Yamuna Nagar","Jagadhari","Cotton",
+2014,"Yamuna Nagar","Bilaspur","Cotton",
+2014,"Yamuna Nagar","Radaur","Cotton",
+2014,"Yamuna Nagar","Sadaura","Cotton",
+2014,"Yamuna Nagar","Chhachhrauli","Cotton",
+2014,"Yamuna Nagar","Mustafabad","Cotton",
+2014,"Jind","Jind","Cotton",272
+2014,"Jind","Julana","Cotton",381
+2014,"Jind","Alewa","Cotton",455
+2014,"Jind","Safidon","Cotton",478
+2014,"Jind","Pillukhera","Cotton",485
+2014,"Jind","Uchana","Cotton",557
+2014,"Jind","Narwana","Cotton",617
+2014,"Mahendergarh","Kanina","Cotton",539
+2014,"Mahendergarh","Mahendergarh","Cotton",539
+2014,"Mahendergarh","Ateli","Cotton",539
+2014,"Mahendergarh","Narnaul","Cotton",539
+2014,"Mahendergarh","Nangal Chaudhary","Cotton",539
+2014,"Rewari","Rewari","Cotton",435
+2014,"Rewari","Khol","Cotton",435
+2014,"Rewari","Jatusana","Cotton",582
+2014,"Rewari","Bawal","Cotton",435
+2014,"Rewari","Nahar","Cotton",406
+2015,"Hisar","Hansi I","Wheat",4877
+2015,"Hisar","Hansi-II","Wheat",4273
+2015,"Hisar","Narnaund","Wheat",4722
+2015,"Hisar","Hisar I","Wheat",4711
+2015,"Hisar","Hisar II","Wheat",4676
+2015,"Hisar","Barwala","Wheat",4781
+2015,"Hisar","Uklana","Wheat",4391
+2015,"Hisar","Agroha","Wheat",4630
+2015,"Hisar","Adampur","Wheat",4618
+2015,"Fatehabad","Ratia","Wheat",4863
+2015,"Fatehabad","Fatehabad","Wheat",4664
+2015,"Fatehabad","Bhattukalan","Wheat",4358
+2015,"Fatehabad","Bhuna","Wheat",4228
+2015,"Fatehabad","Tohana","Wheat",4572
+2015,"Fatehabad","Jakhal","Wheat",4314
+2015,"Sirsa","Sirsa","Wheat",4870
+2015,"Sirsa","Nathusari","Wheat",4841
+2015,"Sirsa","Baragudha","Wheat",4945
+2015,"Sirsa","Rania","Wheat",4876
+2015,"Sirsa","Ellenabad","Wheat",4957
+2015,"Sirsa","Dabwali","Wheat",4766
+2015,"Sirsa","Odhan","Wheat",4582
+2015,"Bhiwani","Loharu","Wheat",4941
+2015,"Bhiwani","Bhiwani","Wheat",3861
+2015,"Bhiwani","Tosham","Wheat",4144
+2015,"Bhiwani","Bawani Khera","Wheat",4325
+2015,"Bhiwani","Dadri-I","Wheat",4064
+2015,"Bhiwani","Dadri-II","Wheat",3890
+2015,"Bhiwani","Badhra","Wheat",3686
+2015,"Bhiwani","Siwani","Wheat",3675
+2015,"Bhiwani","Kairu","Wheat",4059
+2015,"Bhiwani","Behal","Wheat",2971
+2015,"Rohtak","Lakhan Majra","Wheat",3928
+2015,"Rohtak","Rohtak","Wheat",3935
+2015,"Rohtak","Sampla","Wheat",3524
+2015,"Rohtak","Meham","Wheat",4176
+2015,"Rohtak","Kalanaur","Wheat",3831
+2015,"Jhajjar","Jhajjar","Wheat",3722
+2015,"Jhajjar","Beri","Wheat",4212
+2015,"Jhajjar","Salhawas","Wheat",4129
+2015,"Jhajjar","Matanhail","Wheat",4183
+2015,"Jhajjar","Bahadurgarh","Wheat",3430
+2015,"Sonepat","Sonepat","Wheat",4390
+2015,"Sonepat","Rai","Wheat",4671
+2015,"Sonepat","Kharkhoda","Wheat",4299
+2015,"Sonepat","Gohana","Wheat",4548
+2015,"Sonepat","Kathura","Wheat",4333
+2015,"Sonepat","Mundlana","Wheat",3732
+2015,"Sonepat","Ganaur","Wheat",4220
+2015,"Gurgaon","Gurgaon","Wheat",4461
+2015,"Gurgaon","Farrukh Nagar","Wheat",4079
+2015,"Gurgaon","Sohna","Wheat",3960
+2015,"Gurgaon","Pataudi","Wheat",4763
+2015,"Mewat","Nuh","Wheat",4037
+2015,"Mewat","Tauru","Wheat",4718
+2015,"Mewat","Ferozpur Jhirka","Wheat",3716
+2015,"Mewat","Nagina","Wheat",3496
+2015,"Mewat","Punhana","Wheat",3951
+2015,"Faridabad","Faridabad","Wheat",3651
+2015,"Faridabad","B/garh","Wheat",3323
+2015,"Palwal","Palwal","Wheat",4090
+2015,"Palwal","Hodal","Wheat",3882
+2015,"Palwal","Hassanpur","Wheat",4349
+2015,"Palwal","Hathin","Wheat",3749
+2015,"Panipat","Panipat","Wheat",4274
+2015,"Panipat","Samalkha","Wheat",4266
+2015,"Panipat","Matlauda","Wheat",4469
+2015,"Panipat","Bapoli","Wheat",4930
+2015,"Panipat","Israna","Wheat",4258
+2015,"Karnal","Karnal","Wheat",6326
+2015,"Karnal","Nissing","Wheat",4532
+2015,"Karnal","Indri","Wheat",4693
+2015,"Karnal","Gharaunda","Wheat",4555
+2015,"Karnal","Assandh","Wheat",4782
+2015,"Karnal","Nilokheri","Wheat",4664
+2015,"Kurukshetra","Thanesar","Wheat",4314
+2015,"Kurukshetra","Shahabad","Wheat",4455
+2015,"Kurukshetra","Pehowa","Wheat",4652
+2015,"Kurukshetra","Ladwa","Wheat",4691
+2015,"Kurukshetra","Babain","Wheat",4688
+2015,"Kaithal","Kaithal","Wheat",4565
+2015,"Kaithal","Pundri","Wheat",4872
+2015,"Kaithal","Kalayat","Wheat",4339
+2015,"Kaithal","Rajound","Wheat",4549
+2015,"Kaithal","Gulha","Wheat",4520
+2015,"Kaithal","Siwan","Wheat",4517
+2015,"Ambala","Ambala-I","Wheat",4120
+2015,"Ambala","Ambala-II","Wheat",4299
+2015,"Ambala","Barara","Wheat",4418
+2015,"Ambala","Saha","Wheat",4992
+2015,"Ambala","Naraingarh","Wheat",4016
+2015,"Ambala","Sahazadpur","Wheat",3905
+2015,"Panchkula","Morni","Wheat",1373
+2015,"Panchkula","Barwala","Wheat",4553
+2015,"Panchkula","Raipurrani","Wheat",3480
+2015,"Panchkula","Pinjore","Wheat",3255
+2015,"Yamuna Nagar","Jagadhari","Wheat",4723
+2015,"Yamuna Nagar","Bilaspur","Wheat",3911
+2015,"Yamuna Nagar","Radaur","Wheat",5110
+2015,"Yamuna Nagar","Sadaura","Wheat",3781
+2015,"Yamuna Nagar","Chhachhrauli","Wheat",4675
+2015,"Yamuna Nagar","Mustafabad","Wheat",4692
+2015,"Jind","Jind","Wheat",4565
+2015,"Jind","Julana","Wheat",3786
+2015,"Jind","Alewa","Wheat",3987
+2015,"Jind","Safidon","Wheat",4516
+2015,"Jind","Pillukhera","Wheat",4228
+2015,"Jind","Uchana","Wheat",4622
+2015,"Jind","Narwana","Wheat",4318
+2015,"Mahendergarh","Kanina","Wheat",4546
+2015,"Mahendergarh","Sihma","Wheat",4066
+2015,"Mahendergarh","Nijampur","Wheat",4066
+2015,"Mahendergarh","Mahendergarh","Wheat",4218
+2015,"Mahendergarh","Satnali","Wheat",4066
+2015,"Mahendergarh","Ateli","Wheat",3931
+2015,"Mahendergarh","Narnaul","Wheat",3397
+2015,"Mahendergarh","Nangal Chaudhary","Wheat",3723
+2015,"Rewari","Rewari","Wheat",4232
+2015,"Rewari","Khol","Wheat",4302
+2015,"Rewari","Jatusana","Wheat",4602
+2015,"Rewari","Bawal","Wheat",4452
+2015,"Rewari","Nahar","Wheat",4555
+2015,"Hisar","Hansi I","Gram",636
+2015,"Hisar","Hansi-II","Gram",
+2015,"Hisar","Narnaund","Gram",695
+2015,"Hisar","Hisar I","Gram",645
+2015,"Hisar","Hisar II","Gram",636
+2015,"Hisar","Barwala","Gram",707
+2015,"Hisar","Uklana","Gram",707
+2015,"Hisar","Agroha","Gram",
+2015,"Hisar","Adampur","Gram",695
+2015,"Fatehabad","Ratia","Gram",
+2015,"Fatehabad","Fatehabad","Gram",
+2015,"Fatehabad","Bhattukalan","Gram",711
+2015,"Fatehabad","Bhuna","Gram",
+2015,"Fatehabad","Tohana","Gram",
+2015,"Fatehabad","Jakhal","Gram",
+2015,"Sirsa","Sirsa","Gram",
+2015,"Sirsa","Nathusari","Gram",934
+2015,"Sirsa","Baragudha","Gram",
+2015,"Sirsa","Rania","Gram",884
+2015,"Sirsa","Ellenabad","Gram",1226
+2015,"Sirsa","Dabwali","Gram",766
+2015,"Sirsa","Odhan","Gram",
+2015,"Bhiwani","Loharu","Gram",447
+2015,"Bhiwani","Bhiwani","Gram",415
+2015,"Bhiwani","Tosham","Gram",576
+2015,"Bhiwani","Bawani Khera","Gram",639
+2015,"Bhiwani","Dadri-I","Gram",551
+2015,"Bhiwani","Dadri-II","Gram",839
+2015,"Bhiwani","Badhra","Gram",1151
+2015,"Bhiwani","Siwani","Gram",74
+2015,"Bhiwani","Kairu","Gram",465
+2015,"Bhiwani","Behal","Gram",424
+2015,"Rohtak","Lakhan Majra","Gram",
+2015,"Rohtak","Rohtak","Gram",
+2015,"Rohtak","Sampla","Gram",
+2015,"Rohtak","Meham","Gram",931
+2015,"Rohtak","Kalanaur","Gram",561
+2015,"Jhajjar","Jhajjar","Gram",
+2015,"Jhajjar","Beri","Gram",619
+2015,"Jhajjar","Salhawas","Gram",
+2015,"Jhajjar","Matanhail","Gram",
+2015,"Jhajjar","Bahadurgarh","Gram",
+2015,"Sonepat","Sonepat","Gram",
+2015,"Sonepat","Rai","Gram",
+2015,"Sonepat","Kharkhoda","Gram",
+2015,"Sonepat","Gohana","Gram",
+2015,"Sonepat","Kathura","Gram",
+2015,"Sonepat","Mundlana","Gram",
+2015,"Sonepat","Ganaur","Gram",
+2015,"Gurgaon","Gurgaon","Gram",
+2015,"Gurgaon","Farrukh Nagar","Gram",
+2015,"Gurgaon","Sohna","Gram",
+2015,"Gurgaon","Pataudi","Gram",
+2015,"Mewat","Nuh","Gram",
+2015,"Mewat","Tauru","Gram",
+2015,"Mewat","Ferozpur Jhirka","Gram",
+2015,"Mewat","Nagina","Gram",619
+2015,"Mewat","Punhana","Gram",
+2015,"Faridabad","Faridabad","Gram",
+2015,"Faridabad","B/garh","Gram",
+2015,"Palwal","Palwal","Gram",
+2015,"Palwal","Hodal","Gram",
+2015,"Palwal","Hassanpur","Gram",
+2015,"Palwal","Hathin","Gram",
+2015,"Panipat","Panipat","Gram",
+2015,"Panipat","Samalkha","Gram",
+2015,"Panipat","Matlauda","Gram",
+2015,"Panipat","Bapoli","Gram",
+2015,"Panipat","Israna","Gram",
+2015,"Karnal","Karnal","Gram",
+2015,"Karnal","Nissing","Gram",
+2015,"Karnal","Indri","Gram",
+2015,"Karnal","Gharaunda","Gram",
+2015,"Karnal","Assandh","Gram",
+2015,"Karnal","Nilokheri","Gram",
+2015,"Kurukshetra","Thanesar","Gram",
+2015,"Kurukshetra","Shahabad","Gram",
+2015,"Kurukshetra","Pehowa","Gram",
+2015,"Kurukshetra","Ladwa","Gram",
+2015,"Kurukshetra","Babain","Gram",
+2015,"Kaithal","Kaithal","Gram",
+2015,"Kaithal","Pundri","Gram",
+2015,"Kaithal","Kalayat","Gram",
+2015,"Kaithal","Rajound","Gram",
+2015,"Kaithal","Gulha","Gram",
+2015,"Kaithal","Siwan","Gram",
+2015,"Ambala","Ambala-I","Gram",
+2015,"Ambala","Ambala-II","Gram",
+2015,"Ambala","Barara","Gram",
+2015,"Ambala","Saha","Gram",
+2015,"Ambala","Naraingarh","Gram",
+2015,"Ambala","Sahazadpur","Gram",
+2015,"Panchkula","Morni","Gram",
+2015,"Panchkula","Barwala","Gram",
+2015,"Panchkula","Raipurrani","Gram",619
+2015,"Panchkula","Pinjore","Gram",
+2015,"Yamuna Nagar","Jagadhari","Gram",
+2015,"Yamuna Nagar","Bilaspur","Gram",
+2015,"Yamuna Nagar","Radaur","Gram",
+2015,"Yamuna Nagar","Sadaura","Gram",
+2015,"Yamuna Nagar","Chhachhrauli","Gram",
+2015,"Yamuna Nagar","Mustafabad","Gram",
+2015,"Jind","Jind","Gram",
+2015,"Jind","Julana","Gram",
+2015,"Jind","Alewa","Gram",
+2015,"Jind","Safidon","Gram",
+2015,"Jind","Pillukhera","Gram",
+2015,"Jind","Uchana","Gram",
+2015,"Jind","Narwana","Gram",
+2015,"Mahendergarh","Kanina","Gram",
+2015,"Mahendergarh","Sihma","Gram",
+2015,"Mahendergarh","Nijampur","Gram",
+2015,"Mahendergarh","Mahendergarh","Gram",1163
+2015,"Mahendergarh","Satnali","Gram",656
+2015,"Mahendergarh","Ateli","Gram",
+2015,"Mahendergarh","Narnaul","Gram",529
+2015,"Mahendergarh","Nangal Chaudhary","Gram",347
+2015,"Rewari","Rewari","Gram",
+2015,"Rewari","Khol","Gram",
+2015,"Rewari","Jatusana","Gram",
+2015,"Rewari","Bawal","Gram",
+2015,"Rewari","Nahar","Gram",
+2015,"Hisar","Hansi I","Barley",3740
+2015,"Hisar","Hansi-II","Barley",3399
+2015,"Hisar","Narnaund","Barley",3118
+2015,"Hisar","Hisar I","Barley",3643
+2015,"Hisar","Hisar II","Barley",3279
+2015,"Hisar","Barwala","Barley",3752
+2015,"Hisar","Uklana","Barley",4001
+2015,"Hisar","Agroha","Barley",3646
+2015,"Hisar","Adampur","Barley",2565
+2015,"Fatehabad","Ratia","Barley",2856
+2015,"Fatehabad","Fatehabad","Barley",3401
+2015,"Fatehabad","Bhattukalan","Barley",2483
+2015,"Fatehabad","Bhuna","Barley",2815
+2015,"Fatehabad","Tohana","Barley",2856
+2015,"Fatehabad","Jakhal","Barley",
+2015,"Sirsa","Sirsa","Barley",4115
+2015,"Sirsa","Nathusari","Barley",3286
+2015,"Sirsa","Baragudha","Barley",4213
+2015,"Sirsa","Rania","Barley",3813
+2015,"Sirsa","Ellenabad","Barley",3702
+2015,"Sirsa","Dabwali","Barley",2592
+2015,"Sirsa","Odhan","Barley",3828
+2015,"Bhiwani","Loharu","Barley",3183
+2015,"Bhiwani","Bhiwani","Barley",2432
+2015,"Bhiwani","Tosham","Barley",3177
+2015,"Bhiwani","Bawani Khera","Barley",2853
+2015,"Bhiwani","Dadri-I","Barley",2894
+2015,"Bhiwani","Dadri-II","Barley",2936
+2015,"Bhiwani","Badhra","Barley",3530
+2015,"Bhiwani","Siwani","Barley",2454
+2015,"Bhiwani","Kairu","Barley",1446
+2015,"Bhiwani","Behal","Barley",3579
+2015,"Rohtak","Lakhan Majra","Barley",2478
+2015,"Rohtak","Rohtak","Barley",2575
+2015,"Rohtak","Sampla","Barley",2478
+2015,"Rohtak","Meham","Barley",2931
+2015,"Rohtak","Kalanaur","Barley",1421
+2015,"Jhajjar","Jhajjar","Barley",2746
+2015,"Jhajjar","Beri","Barley",3549
+2015,"Jhajjar","Salhawas","Barley",4006
+2015,"Jhajjar","Matanhail","Barley",4324
+2015,"Jhajjar","Bahadurgarh","Barley",3524
+2015,"Sonepat","Sonepat","Barley",
+2015,"Sonepat","Rai","Barley",
+2015,"Sonepat","Kharkhoda","Barley",
+2015,"Sonepat","Gohana","Barley",
+2015,"Sonepat","Kathura","Barley",
+2015,"Sonepat","Mundlana","Barley",
+2015,"Sonepat","Ganaur","Barley",
+2015,"Gurgaon","Gurgaon","Barley",4094
+2015,"Gurgaon","Farrukh Nagar","Barley",4216
+2015,"Gurgaon","Sohna","Barley",4094
+2015,"Gurgaon","Pataudi","Barley",4038
+2015,"Mewat","Nuh","Barley",4046
+2015,"Mewat","Tauru","Barley",3809
+2015,"Mewat","Ferozpur Jhirka","Barley",3325
+2015,"Mewat","Nagina","Barley",2891
+2015,"Mewat","Punhana","Barley",3465
+2015,"Faridabad","Faridabad","Barley",3414
+2015,"Faridabad","B/garh","Barley",3414
+2015,"Palwal","Palwal","Barley",3069
+2015,"Palwal","Hodal","Barley",3463
+2015,"Palwal","Hassanpur","Barley",3463
+2015,"Palwal","Hathin","Barley",2960
+2015,"Panipat","Panipat","Barley",
+2015,"Panipat","Samalkha","Barley",
+2015,"Panipat","Matlauda","Barley",
+2015,"Panipat","Bapoli","Barley",
+2015,"Panipat","Israna","Barley",
+2015,"Karnal","Karnal","Barley",
+2015,"Karnal","Nissing","Barley",
+2015,"Karnal","Indri","Barley",
+2015,"Karnal","Gharaunda","Barley",
+2015,"Karnal","Assandh","Barley",
+2015,"Karnal","Nilokheri","Barley",
+2015,"Kurukshetra","Thanesar","Barley",
+2015,"Kurukshetra","Shahabad","Barley",
+2015,"Kurukshetra","Pehowa","Barley",
+2015,"Kurukshetra","Ladwa","Barley",
+2015,"Kurukshetra","Babain","Barley",
+2015,"Kaithal","Kaithal","Barley",
+2015,"Kaithal","Pundri","Barley",
+2015,"Kaithal","Kalayat","Barley",
+2015,"Kaithal","Rajound","Barley",
+2015,"Kaithal","Gulha","Barley",
+2015,"Kaithal","Siwan","Barley",
+2015,"Ambala","Ambala-I","Barley",
+2015,"Ambala","Ambala-II","Barley",
+2015,"Ambala","Barara","Barley",
+2015,"Ambala","Saha","Barley",
+2015,"Ambala","Naraingarh","Barley",
+2015,"Ambala","Sahazadpur","Barley",
+2015,"Panchkula","Morni","Barley",
+2015,"Panchkula","Barwala","Barley",
+2015,"Panchkula","Raipurrani","Barley",
+2015,"Panchkula","Pinjore","Barley",
+2015,"Yamuna Nagar","Jagadhari","Barley",
+2015,"Yamuna Nagar","Bilaspur","Barley",
+2015,"Yamuna Nagar","Radaur","Barley",
+2015,"Yamuna Nagar","Sadaura","Barley",
+2015,"Yamuna Nagar","Chhachhrauli","Barley",
+2015,"Yamuna Nagar","Mustafabad","Barley",
+2015,"Jind","Jind","Barley",
+2015,"Jind","Julana","Barley",3463
+2015,"Jind","Alewa","Barley",
+2015,"Jind","Safidon","Barley",
+2015,"Jind","Pillukhera","Barley",
+2015,"Jind","Uchana","Barley",3463
+2015,"Jind","Narwana","Barley",3463
+2015,"Mahendergarh","Kanina","Barley",
+2015,"Mahendergarh","Sihma","Barley",
+2015,"Mahendergarh","Nijampur","Barley",
+2015,"Mahendergarh","Mahendergarh","Barley",3439
+2015,"Mahendergarh","Satnali","Barley",3439
+2015,"Mahendergarh","Ateli","Barley",
+2015,"Mahendergarh","Narnaul","Barley",
+2015,"Mahendergarh","Nangal Chaudhary","Barley",
+2015,"Rewari","Rewari","Barley",2427
+2015,"Rewari","Khol","Barley",3444
+2015,"Rewari","Jatusana","Barley",4450
+2015,"Rewari","Bawal","Barley",3611
+2015,"Rewari","Nahar","Barley",3444
+2015,"Hisar","Hansi I","Paddy",2527
+2015,"Hisar","Hansi-II","Paddy",2422
+2015,"Hisar","Narnaund","Paddy",2423
+2015,"Hisar","Hisar I","Paddy",2838
+2015,"Hisar","Hisar II","Paddy",2319
+2015,"Hisar","Barwala","Paddy",2459
+2015,"Hisar","Uklana","Paddy",2214
+2015,"Hisar","Agroha","Paddy",3216
+2015,"Hisar","Adampur","Paddy",2319
+2015,"Fatehabad","Ratia","Paddy",4236
+2015,"Fatehabad","Fatehabad","Paddy",3486
+2015,"Fatehabad","Bhattukalan","Paddy",3040
+2015,"Fatehabad","Bhuna","Paddy",4768
+2015,"Fatehabad","Tohana","Paddy",3784
+2015,"Fatehabad","Jakhal","Paddy",4679
+2015,"Sirsa","Sirsa","Paddy",3537
+2015,"Sirsa","Nathusari","Paddy",3042
+2015,"Sirsa","Baragudha","Paddy",3118
+2015,"Sirsa","Rania","Paddy",2701
+2015,"Sirsa","Ellenabad","Paddy",3624
+2015,"Sirsa","Dabwali","Paddy",2599
+2015,"Sirsa","Odhan","Paddy",2106
+2015,"Bhiwani","Loharu","Paddy",2106
+2015,"Bhiwani","Bhiwani","Paddy",1747
+2015,"Bhiwani","Tosham","Paddy",2106
+2015,"Bhiwani","Bawani Khera","Paddy",2850
+2015,"Bhiwani","Dadri-I","Paddy",2094
+2015,"Bhiwani","Dadri-II","Paddy",2106
+2015,"Bhiwani","Badhra","Paddy",2094
+2015,"Bhiwani","Siwani","Paddy",2106
+2015,"Bhiwani","Kairu","Paddy",2106
+2015,"Bhiwani","Behal","Paddy",2106
+2015,"Rohtak","Lakhan Majra","Paddy",2535
+2015,"Rohtak","Rohtak","Paddy",788
+2015,"Rohtak","Sampla","Paddy",3393
+2015,"Rohtak","Meham","Paddy",1928
+2015,"Rohtak","Kalanaur","Paddy",2083
+2015,"Jhajjar","Jhajjar","Paddy",2623
+2015,"Jhajjar","Beri","Paddy",3106
+2015,"Jhajjar","Salhawas","Paddy",1955
+2015,"Jhajjar","Matanhail","Paddy",2239
+2015,"Jhajjar","Bahadurgarh","Paddy",2668
+2015,"Sonepat","Sonepat","Paddy",2623
+2015,"Sonepat","Rai","Paddy",2806
+2015,"Sonepat","Kharkhoda","Paddy",2506
+2015,"Sonepat","Gohana","Paddy",2543
+2015,"Sonepat","Kathura","Paddy",2447
+2015,"Sonepat","Mundlana","Paddy",2723
+2015,"Sonepat","Ganaur","Paddy",2639
+2015,"Gurgaon","Gurgaon","Paddy",3061
+2015,"Gurgaon","Farrukh Nagar","Paddy",3061
+2015,"Gurgaon","Sohna","Paddy",3061
+2015,"Gurgaon","Pataudi","Paddy",3061
+2015,"Mewat","Nuh","Paddy",3601
+2015,"Mewat","Tauru","Paddy",3061
+2015,"Mewat","Ferozpur Jhirka","Paddy",3061
+2015,"Mewat","Nagina","Paddy",3061
+2015,"Mewat","Punhana","Paddy",3061
+2015,"Faridabad","Faridabad","Paddy",2577
+2015,"Faridabad","B/garh","Paddy",2842
+2015,"Palwal","Palwal","Paddy",2072
+2015,"Palwal","Hodal","Paddy",2607
+2015,"Palwal","Hassanpur","Paddy",2274
+2015,"Palwal","Hathin","Paddy",1982
+2015,"Panipat","Panipat","Paddy",2487
+2015,"Panipat","Samalkha","Paddy",2953
+2015,"Panipat","Matlauda","Paddy",2775
+2015,"Panipat","Bapoli","Paddy",2604
+2015,"Panipat","Israna","Paddy",2437
+2015,"Karnal","Karnal","Paddy",4124
+2015,"Karnal","Nissing","Paddy",3057
+2015,"Karnal","Indri","Paddy",3638
+2015,"Karnal","Gharaunda","Paddy",3158
+2015,"Karnal","Assandh","Paddy",2999
+2015,"Karnal","Nilokheri","Paddy",2295
+2015,"Kurukshetra","Thanesar","Paddy",3471
+2015,"Kurukshetra","Shahabad","Paddy",4519
+2015,"Kurukshetra","Pehowa","Paddy",3457
+2015,"Kurukshetra","Ladwa","Paddy",3333
+2015,"Kurukshetra","Babain","Paddy",4351
+2015,"Kaithal","Kaithal","Paddy",2906
+2015,"Kaithal","Pundri","Paddy",3105
+2015,"Kaithal","Kalayat","Paddy",2535
+2015,"Kaithal","Rajound","Paddy",2478
+2015,"Kaithal","Gulha","Paddy",3432
+2015,"Kaithal","Siwan","Paddy",3696
+2015,"Ambala","Ambala-I","Paddy",2579
+2015,"Ambala","Ambala-II","Paddy",4086
+2015,"Ambala","Barara","Paddy",3854
+2015,"Ambala","Saha","Paddy",4257
+2015,"Ambala","Naraingarh","Paddy",4297
+2015,"Ambala","Sahazadpur","Paddy",3666
+2015,"Panchkula","Morni","Paddy",2951
+2015,"Panchkula","Barwala","Paddy",3806
+2015,"Panchkula","Raipurrani","Paddy",3771
+2015,"Panchkula","Pinjore","Paddy",4793
+2015,"Yamuna Nagar","Jagadhari","Paddy",3502
+2015,"Yamuna Nagar","Bilaspur","Paddy",4211
+2015,"Yamuna Nagar","Radaur","Paddy",3457
+2015,"Yamuna Nagar","Sadaura","Paddy",3944
+2015,"Yamuna Nagar","Chhachhrauli","Paddy",4058
+2015,"Yamuna Nagar","Mustafabad","Paddy",3713
+2015,"Jind","Jind","Paddy",2248
+2015,"Jind","Julana","Paddy",2446
+2015,"Jind","Alewa","Paddy",1933
+2015,"Jind","Safidon","Paddy",2506
+2015,"Jind","Pillukhera","Paddy",2339
+2015,"Jind","Uchana","Paddy",2669
+2015,"Jind","Narwana","Paddy",2664
+2015,"Mahendergarh","Kanina","Paddy",
+2015,"Mahendergarh","Sihma","Paddy",
+2015,"Mahendergarh","Nijampur","Paddy",
+2015,"Mahendergarh","Mahendergarh","Paddy",
+2015,"Mahendergarh","Satnali","Paddy",
+2015,"Mahendergarh","Ateli","Paddy",
+2015,"Mahendergarh","Narnaul","Paddy",
+2015,"Mahendergarh","Nangal Chaudhary","Paddy",
+2015,"Rewari","Rewari","Paddy",3061
+2015,"Rewari","Khol","Paddy",3061
+2015,"Rewari","Jatusana","Paddy",3061
+2015,"Rewari","Bawal","Paddy",3061
+2015,"Rewari","Nahar","Paddy",3061
+2015,"Hisar","Hansi I","Bajra",1086
+2015,"Hisar","Hansi-II","Bajra",1840
+2015,"Hisar","Narnaund","Bajra",1803
+2015,"Hisar","Hisar I","Bajra",2180
+2015,"Hisar","Hisar II","Bajra",1790
+2015,"Hisar","Barwala","Bajra",2188
+2015,"Hisar","Uklana","Bajra",1810
+2015,"Hisar","Agroha","Bajra",1247
+2015,"Hisar","Adampur","Bajra",1080
+2015,"Fatehabad","Ratia","Bajra",3071
+2015,"Fatehabad","Fatehabad","Bajra",2002
+2015,"Fatehabad","Bhattukalan","Bajra",1490
+2015,"Fatehabad","Bhuna","Bajra",1226
+2015,"Fatehabad","Tohana","Bajra",1930
+2015,"Fatehabad","Jakhal","Bajra",
+2015,"Sirsa","Sirsa","Bajra",
+2015,"Sirsa","Nathusari","Bajra",1299
+2015,"Sirsa","Baragudha","Bajra",
+2015,"Sirsa","Rania","Bajra",1488
+2015,"Sirsa","Ellenabad","Bajra",1765
+2015,"Sirsa","Dabwali","Bajra",695
+2015,"Sirsa","Odhan","Bajra",
+2015,"Bhiwani","Loharu","Bajra",1383
+2015,"Bhiwani","Bhiwani","Bajra",1235
+2015,"Bhiwani","Tosham","Bajra",904
+2015,"Bhiwani","Bawani Khera","Bajra",1714
+2015,"Bhiwani","Dadri-I","Bajra",1959
+2015,"Bhiwani","Dadri-II","Bajra",1694
+2015,"Bhiwani","Badhra","Bajra",1479
+2015,"Bhiwani","Siwani","Bajra",1021
+2015,"Bhiwani","Kairu","Bajra",966
+2015,"Bhiwani","Behal","Bajra",894
+2015,"Rohtak","Lakhan Majra","Bajra",1168
+2015,"Rohtak","Rohtak","Bajra",2145
+2015,"Rohtak","Sampla","Bajra",2199
+2015,"Rohtak","Meham","Bajra",1197
+2015,"Rohtak","Kalanaur","Bajra",1757
+2015,"Jhajjar","Jhajjar","Bajra",2387
+2015,"Jhajjar","Beri","Bajra",2507
+2015,"Jhajjar","Salhawas","Bajra",2630
+2015,"Jhajjar","Matanhail","Bajra",1640
+2015,"Jhajjar","Bahadurgarh","Bajra",2442
+2015,"Sonepat","Sonepat","Bajra",2338
+2015,"Sonepat","Rai","Bajra",2069
+2015,"Sonepat","Kharkhoda","Bajra",2071
+2015,"Sonepat","Gohana","Bajra",1936
+2015,"Sonepat","Kathura","Bajra",2193
+2015,"Sonepat","Mundlana","Bajra",2665
+2015,"Sonepat","Ganaur","Bajra",1910
+2015,"Gurgaon","Gurgaon","Bajra",2017
+2015,"Gurgaon","Farrukh Nagar","Bajra",2095
+2015,"Gurgaon","Sohna","Bajra",1419
+2015,"Gurgaon","Pataudi","Bajra",2185
+2015,"Mewat","Nuh","Bajra",1830
+2015,"Mewat","Tauru","Bajra",2530
+2015,"Mewat","Ferozpur Jhirka","Bajra",1573
+2015,"Mewat","Nagina","Bajra",1754
+2015,"Mewat","Punhana","Bajra",1947
+2015,"Faridabad","Faridabad","Bajra",2065
+2015,"Faridabad","B/garh","Bajra",1644
+2015,"Palwal","Palwal","Bajra",1190
+2015,"Palwal","Hodal","Bajra",1294
+2015,"Palwal","Hassanpur","Bajra",1368
+2015,"Palwal","Hathin","Bajra",2017
+2015,"Panipat","Panipat","Bajra",
+2015,"Panipat","Samalkha","Bajra",1762
+2015,"Panipat","Matlauda","Bajra",
+2015,"Panipat","Bapoli","Bajra",
+2015,"Panipat","Israna","Bajra",1762
+2015,"Karnal","Karnal","Bajra",
+2015,"Karnal","Nissing","Bajra",
+2015,"Karnal","Indri","Bajra",
+2015,"Karnal","Gharaunda","Bajra",1762
+2015,"Karnal","Assandh","Bajra",1762
+2015,"Karnal","Nilokheri","Bajra",
+2015,"Kurukshetra","Thanesar","Bajra",
+2015,"Kurukshetra","Shahabad","Bajra",
+2015,"Kurukshetra","Pehowa","Bajra",
+2015,"Kurukshetra","Ladwa","Bajra",
+2015,"Kurukshetra","Babain","Bajra",
+2015,"Kaithal","Kaithal","Bajra",2279
+2015,"Kaithal","Pundri","Bajra",2279
+2015,"Kaithal","Kalayat","Bajra",2809
+2015,"Kaithal","Rajound","Bajra",1801
+2015,"Kaithal","Gulha","Bajra",
+2015,"Kaithal","Siwan","Bajra",
+2015,"Ambala","Ambala-I","Bajra",
+2015,"Ambala","Ambala-II","Bajra",
+2015,"Ambala","Barara","Bajra",
+2015,"Ambala","Saha","Bajra",
+2015,"Ambala","Naraingarh","Bajra",
+2015,"Ambala","Sahazadpur","Bajra",
+2015,"Panchkula","Morni","Bajra",
+2015,"Panchkula","Barwala","Bajra",1762
+2015,"Panchkula","Raipurrani","Bajra",1762
+2015,"Panchkula","Pinjore","Bajra",1762
+2015,"Yamuna Nagar","Jagadhari","Bajra",
+2015,"Yamuna Nagar","Bilaspur","Bajra",
+2015,"Yamuna Nagar","Radaur","Bajra",
+2015,"Yamuna Nagar","Sadaura","Bajra",
+2015,"Yamuna Nagar","Chhachhrauli","Bajra",
+2015,"Yamuna Nagar","Mustafabad","Bajra",
+2015,"Jind","Jind","Bajra",2046
+2015,"Jind","Julana","Bajra",1360
+2015,"Jind","Alewa","Bajra",1739
+2015,"Jind","Safidon","Bajra",1989
+2015,"Jind","Pillukhera","Bajra",1843
+2015,"Jind","Uchana","Bajra",2593
+2015,"Jind","Narwana","Bajra",1603
+2015,"Mahendergarh","Kanina","Bajra",2153
+2015,"Mahendergarh","Sihma","Bajra",1538
+2015,"Mahendergarh","Nijampur","Bajra",1894
+2015,"Mahendergarh","Mahendergarh","Bajra",921
+2015,"Mahendergarh","Satnali","Bajra",1196
+2015,"Mahendergarh","Ateli","Bajra",1540
+2015,"Mahendergarh","Narnaul","Bajra",1540
+2015,"Mahendergarh","Nangal Chaudhary","Bajra",1540
+2015,"Rewari","Rewari","Bajra",2025
+2015,"Rewari","Khol","Bajra",1612
+2015,"Rewari","Jatusana","Bajra",2631
+2015,"Rewari","Bawal","Bajra",1965
+2015,"Rewari","Nahar","Bajra",2541
+2015,"Hisar","Hansi I","Maize",
+2015,"Hisar","Hansi-II","Maize",
+2015,"Hisar","Narnaund","Maize",
+2015,"Hisar","Hisar I","Maize",
+2015,"Hisar","Hisar II","Maize",
+2015,"Hisar","Barwala","Maize",
+2015,"Hisar","Uklana","Maize",
+2015,"Hisar","Agroha","Maize",
+2015,"Hisar","Adampur","Maize",
+2015,"Fatehabad","Ratia","Maize",
+2015,"Fatehabad","Fatehabad","Maize",
+2015,"Fatehabad","Bhattukalan","Maize",
+2015,"Fatehabad","Bhuna","Maize",
+2015,"Fatehabad","Tohana","Maize",
+2015,"Fatehabad","Jakhal","Maize",
+2015,"Sirsa","Sirsa","Maize",
+2015,"Sirsa","Nathusari","Maize",
+2015,"Sirsa","Baragudha","Maize",
+2015,"Sirsa","Rania","Maize",
+2015,"Sirsa","Ellenabad","Maize",
+2015,"Sirsa","Dabwali","Maize",
+2015,"Sirsa","Odhan","Maize",
+2015,"Bhiwani","Loharu","Maize",
+2015,"Bhiwani","Bhiwani","Maize",
+2015,"Bhiwani","Tosham","Maize",
+2015,"Bhiwani","Bawani Khera","Maize",
+2015,"Bhiwani","Dadri-I","Maize",
+2015,"Bhiwani","Dadri-II","Maize",
+2015,"Bhiwani","Badhra","Maize",
+2015,"Bhiwani","Siwani","Maize",
+2015,"Bhiwani","Kairu","Maize",
+2015,"Bhiwani","Behal","Maize",
+2015,"Rohtak","Lakhan Majra","Maize",2833
+2015,"Rohtak","Rohtak","Maize",2833
+2015,"Rohtak","Sampla","Maize",
+2015,"Rohtak","Meham","Maize",2833
+2015,"Rohtak","Kalanaur","Maize",2833
+2015,"Jhajjar","Jhajjar","Maize",2833
+2015,"Jhajjar","Beri","Maize",
+2015,"Jhajjar","Salhawas","Maize",
+2015,"Jhajjar","Matanhail","Maize",
+2015,"Jhajjar","Bahadurgarh","Maize",2833
+2015,"Sonepat","Sonepat","Maize",2833
+2015,"Sonepat","Rai","Maize",
+2015,"Sonepat","Kharkhoda","Maize",
+2015,"Sonepat","Gohana","Maize",
+2015,"Sonepat","Kathura","Maize",
+2015,"Sonepat","Mundlana","Maize",
+2015,"Sonepat","Ganaur","Maize",
+2015,"Gurgaon","Gurgaon","Maize",
+2015,"Gurgaon","Farrukh Nagar","Maize",
+2015,"Gurgaon","Sohna","Maize",
+2015,"Gurgaon","Pataudi","Maize",
+2015,"Mewat","Nuh","Maize",
+2015,"Mewat","Tauru","Maize",
+2015,"Mewat","Ferozpur Jhirka","Maize",
+2015,"Mewat","Nagina","Maize",
+2015,"Mewat","Punhana","Maize",
+2015,"Faridabad","Faridabad","Maize",
+2015,"Faridabad","B/garh","Maize",
+2015,"Palwal","Palwal","Maize",
+2015,"Palwal","Hodal","Maize",
+2015,"Palwal","Hassanpur","Maize",
+2015,"Palwal","Hathin","Maize",
+2015,"Panipat","Panipat","Maize",
+2015,"Panipat","Samalkha","Maize",
+2015,"Panipat","Matlauda","Maize",
+2015,"Panipat","Bapoli","Maize",
+2015,"Panipat","Israna","Maize",
+2015,"Karnal","Karnal","Maize",
+2015,"Karnal","Nissing","Maize",
+2015,"Karnal","Indri","Maize",
+2015,"Karnal","Gharaunda","Maize",2833
+2015,"Karnal","Assandh","Maize",
+2015,"Karnal","Nilokheri","Maize",
+2015,"Kurukshetra","Thanesar","Maize",3439
+2015,"Kurukshetra","Shahabad","Maize",3156
+2015,"Kurukshetra","Pehowa","Maize",3539
+2015,"Kurukshetra","Ladwa","Maize",2476
+2015,"Kurukshetra","Babain","Maize",3472
+2015,"Kaithal","Kaithal","Maize",
+2015,"Kaithal","Pundri","Maize",
+2015,"Kaithal","Kalayat","Maize",
+2015,"Kaithal","Rajound","Maize",
+2015,"Kaithal","Gulha","Maize",
+2015,"Kaithal","Siwan","Maize",
+2015,"Ambala","Ambala-I","Maize",2405
+2015,"Ambala","Ambala-II","Maize",2405
+2015,"Ambala","Barara","Maize",2405
+2015,"Ambala","Saha","Maize",2405
+2015,"Ambala","Naraingarh","Maize",2359
+2015,"Ambala","Sahazadpur","Maize",2519
+2015,"Panchkula","Morni","Maize",3228
+2015,"Panchkula","Barwala","Maize",2990
+2015,"Panchkula","Raipurrani","Maize",4442
+2015,"Panchkula","Pinjore","Maize",3177
+2015,"Yamuna Nagar","Jagadhari","Maize",3021
+2015,"Yamuna Nagar","Bilaspur","Maize",2217
+2015,"Yamuna Nagar","Radaur","Maize",3021
+2015,"Yamuna Nagar","Sadaura","Maize",3021
+2015,"Yamuna Nagar","Chhachhrauli","Maize",4146
+2015,"Yamuna Nagar","Mustafabad","Maize",3021
+2015,"Jind","Jind","Maize",
+2015,"Jind","Julana","Maize",2833
+2015,"Jind","Alewa","Maize",
+2015,"Jind","Safidon","Maize",
+2015,"Jind","Pillukhera","Maize",
+2015,"Jind","Uchana","Maize",
+2015,"Jind","Narwana","Maize",
+2015,"Mahendergarh","Kanina","Maize",
+2015,"Mahendergarh","Sihma","Maize",
+2015,"Mahendergarh","Nijampur","Maize",
+2015,"Mahendergarh","Mahendergarh","Maize",
+2015,"Mahendergarh","Satnali","Maize",
+2015,"Mahendergarh","Ateli","Maize",
+2015,"Mahendergarh","Narnaul","Maize",
+2015,"Mahendergarh","Nangal Chaudhary","Maize",
+2015,"Rewari","Rewari","Maize",
+2015,"Rewari","Khol","Maize",
+2015,"Rewari","Jatusana","Maize",
+2015,"Rewari","Bawal","Maize",
+2015,"Rewari","Nahar","Maize",
+2015,"Hisar","Hansi I","Sugarcane",63388
+2015,"Hisar","Hansi-II","Sugarcane",62000
+2015,"Hisar","Narnaund","Sugarcane",68467
+2015,"Hisar","Hisar I","Sugarcane",64128
+2015,"Hisar","Hisar II","Sugarcane",70000
+2015,"Hisar","Barwala","Sugarcane",64128
+2015,"Hisar","Uklana","Sugarcane",53000
+2015,"Hisar","Agroha","Sugarcane",70800
+2015,"Hisar","Adampur","Sugarcane",
+2015,"Fatehabad","Ratia","Sugarcane",84100
+2015,"Fatehabad","Fatehabad","Sugarcane",66530
+2015,"Fatehabad","Bhattukalan","Sugarcane",70343
+2015,"Fatehabad","Bhuna","Sugarcane",67520
+2015,"Fatehabad","Tohana","Sugarcane",75360
+2015,"Fatehabad","Jakhal","Sugarcane",57000
+2015,"Sirsa","Sirsa","Sugarcane",
+2015,"Sirsa","Nathusari","Sugarcane",
+2015,"Sirsa","Baragudha","Sugarcane",
+2015,"Sirsa","Rania","Sugarcane",
+2015,"Sirsa","Ellenabad","Sugarcane",
+2015,"Sirsa","Dabwali","Sugarcane",
+2015,"Sirsa","Odhan","Sugarcane",
+2015,"Bhiwani","Loharu","Sugarcane",
+2015,"Bhiwani","Bhiwani","Sugarcane",71000
+2015,"Bhiwani","Tosham","Sugarcane",
+2015,"Bhiwani","Bawani Khera","Sugarcane",70343
+2015,"Bhiwani","Dadri-I","Sugarcane",71850
+2015,"Bhiwani","Dadri-II","Sugarcane",71850
+2015,"Bhiwani","Badhra","Sugarcane",71850
+2015,"Bhiwani","Siwani","Sugarcane",
+2015,"Bhiwani","Kairu","Sugarcane",
+2015,"Bhiwani","Behal","Sugarcane",
+2015,"Rohtak","Lakhan Majra","Sugarcane",80888
+2015,"Rohtak","Rohtak","Sugarcane",64870
+2015,"Rohtak","Sampla","Sugarcane",65240
+2015,"Rohtak","Meham","Sugarcane",72138
+2015,"Rohtak","Kalanaur","Sugarcane",59712
+2015,"Jhajjar","Jhajjar","Sugarcane",72300
+2015,"Jhajjar","Beri","Sugarcane",78743
+2015,"Jhajjar","Salhawas","Sugarcane",52500
+2015,"Jhajjar","Matanhail","Sugarcane",76391
+2015,"Jhajjar","Bahadurgarh","Sugarcane",92867
+2015,"Sonepat","Sonepat","Sugarcane",91233
+2015,"Sonepat","Rai","Sugarcane",85982
+2015,"Sonepat","Kharkhoda","Sugarcane",59200
+2015,"Sonepat","Gohana","Sugarcane",54000
+2015,"Sonepat","Kathura","Sugarcane",73800
+2015,"Sonepat","Mundlana","Sugarcane",64000
+2015,"Sonepat","Ganaur","Sugarcane",91489
+2015,"Gurgaon","Gurgaon","Sugarcane",
+2015,"Gurgaon","Farrukh Nagar","Sugarcane",
+2015,"Gurgaon","Sohna","Sugarcane",
+2015,"Gurgaon","Pataudi","Sugarcane",
+2015,"Mewat","Nuh","Sugarcane",75183
+2015,"Mewat","Tauru","Sugarcane",
+2015,"Mewat","Ferozpur Jhirka","Sugarcane",
+2015,"Mewat","Nagina","Sugarcane",
+2015,"Mewat","Punhana","Sugarcane",
+2015,"Faridabad","Faridabad","Sugarcane",
+2015,"Faridabad","B/garh","Sugarcane",
+2015,"Palwal","Palwal","Sugarcane",44625
+2015,"Palwal","Hodal","Sugarcane",54916
+2015,"Palwal","Hassanpur","Sugarcane",42200
+2015,"Palwal","Hathin","Sugarcane",51136
+2015,"Panipat","Panipat","Sugarcane",80272
+2015,"Panipat","Samalkha","Sugarcane",77200
+2015,"Panipat","Matlauda","Sugarcane",103000
+2015,"Panipat","Bapoli","Sugarcane",76467
+2015,"Panipat","Israna","Sugarcane",88467
+2015,"Karnal","Karnal","Sugarcane",86778
+2015,"Karnal","Nissing","Sugarcane",119600
+2015,"Karnal","Indri","Sugarcane",81650
+2015,"Karnal","Gharaunda","Sugarcane",76514
+2015,"Karnal","Assandh","Sugarcane",56000
+2015,"Karnal","Nilokheri","Sugarcane",85733
+2015,"Kurukshetra","Thanesar","Sugarcane",91463
+2015,"Kurukshetra","Shahabad","Sugarcane",72115
+2015,"Kurukshetra","Pehowa","Sugarcane",84300
+2015,"Kurukshetra","Ladwa","Sugarcane",89680
+2015,"Kurukshetra","Babain","Sugarcane",75200
+2015,"Kaithal","Kaithal","Sugarcane",94485
+2015,"Kaithal","Pundri","Sugarcane",98945
+2015,"Kaithal","Kalayat","Sugarcane",91638
+2015,"Kaithal","Rajound","Sugarcane",100200
+2015,"Kaithal","Gulha","Sugarcane",91638
+2015,"Kaithal","Siwan","Sugarcane",74357
+2015,"Ambala","Ambala-I","Sugarcane",67479
+2015,"Ambala","Ambala-II","Sugarcane",66833
+2015,"Ambala","Barara","Sugarcane",72029
+2015,"Ambala","Saha","Sugarcane",65412
+2015,"Ambala","Naraingarh","Sugarcane",69250
+2015,"Ambala","Sahazadpur","Sugarcane",63400
+2015,"Panchkula","Morni","Sugarcane",
+2015,"Panchkula","Barwala","Sugarcane",56160
+2015,"Panchkula","Raipurrani","Sugarcane",70600
+2015,"Panchkula","Pinjore","Sugarcane",
+2015,"Yamuna Nagar","Jagadhari","Sugarcane",69924
+2015,"Yamuna Nagar","Bilaspur","Sugarcane",69288
+2015,"Yamuna Nagar","Radaur","Sugarcane",83960
+2015,"Yamuna Nagar","Sadaura","Sugarcane",71578
+2015,"Yamuna Nagar","Chhachhrauli","Sugarcane",56900
+2015,"Yamuna Nagar","Mustafabad","Sugarcane",68917
+2015,"Jind","Jind","Sugarcane",73436
+2015,"Jind","Julana","Sugarcane",70667
+2015,"Jind","Alewa","Sugarcane",51000
+2015,"Jind","Safidon","Sugarcane",90520
+2015,"Jind","Pillukhera","Sugarcane",59900
+2015,"Jind","Uchana","Sugarcane",85100
+2015,"Jind","Narwana","Sugarcane",61000
+2015,"Mahendergarh","Kanina","Sugarcane",
+2015,"Mahendergarh","Sihma","Sugarcane",
+2015,"Mahendergarh","Nijampur","Sugarcane",
+2015,"Mahendergarh","Mahendergarh","Sugarcane",
+2015,"Mahendergarh","Satnali","Sugarcane",
+2015,"Mahendergarh","Ateli","Sugarcane",
+2015,"Mahendergarh","Narnaul","Sugarcane",
+2015,"Mahendergarh","Nangal Chaudhary","Sugarcane",
+2015,"Rewari","Rewari","Sugarcane",
+2015,"Rewari","Khol","Sugarcane",
+2015,"Rewari","Jatusana","Sugarcane",
+2015,"Rewari","Bawal","Sugarcane",
+2015,"Rewari","Nahar","Sugarcane",
+2015,"Hisar","Hansi I","Cotton",270
+2015,"Hisar","Hansi-II","Cotton",182
+2015,"Hisar","Narnaund","Cotton",185
+2015,"Hisar","Hisar I","Cotton",212
+2015,"Hisar","Hisar II","Cotton",281
+2015,"Hisar","Barwala","Cotton",426
+2015,"Hisar","Uklana","Cotton",469
+2015,"Hisar","Agroha","Cotton",225
+2015,"Hisar","Adampur","Cotton",225
+2015,"Fatehabad","Ratia","Cotton",149
+2015,"Fatehabad","Fatehabad","Cotton",277
+2015,"Fatehabad","Bhattukalan","Cotton",239
+2015,"Fatehabad","Bhuna","Cotton",302
+2015,"Fatehabad","Tohana","Cotton",168
+2015,"Fatehabad","Jakhal","Cotton",120
+2015,"Sirsa","Sirsa","Cotton",301
+2015,"Sirsa","Nathusari","Cotton",282
+2015,"Sirsa","Baragudha","Cotton",308
+2015,"Sirsa","Rania","Cotton",430
+2015,"Sirsa","Ellenabad","Cotton",310
+2015,"Sirsa","Dabwali","Cotton",205
+2015,"Sirsa","Odhan","Cotton",226
+2015,"Bhiwani","Loharu","Cotton",535
+2015,"Bhiwani","Bhiwani","Cotton",239
+2015,"Bhiwani","Tosham","Cotton",273
+2015,"Bhiwani","Bawani Khera","Cotton",119
+2015,"Bhiwani","Dadri-I","Cotton",264
+2015,"Bhiwani","Dadri-II","Cotton",301
+2015,"Bhiwani","Badhra","Cotton",395
+2015,"Bhiwani","Siwani","Cotton",445
+2015,"Bhiwani","Kairu","Cotton",334
+2015,"Bhiwani","Behal","Cotton",327
+2015,"Rohtak","Lakhan Majra","Cotton",374
+2015,"Rohtak","Rohtak","Cotton",447
+2015,"Rohtak","Sampla","Cotton",315
+2015,"Rohtak","Meham","Cotton",163
+2015,"Rohtak","Kalanaur","Cotton",280
+2015,"Jhajjar","Jhajjar","Cotton",433
+2015,"Jhajjar","Beri","Cotton",433
+2015,"Jhajjar","Salhawas","Cotton",433
+2015,"Jhajjar","Matanhail","Cotton",433
+2015,"Jhajjar","Bahadurgarh","Cotton",433
+2015,"Sonepat","Sonepat","Cotton",404
+2015,"Sonepat","Rai","Cotton",404
+2015,"Sonepat","Kharkhoda","Cotton",404
+2015,"Sonepat","Gohana","Cotton",269
+2015,"Sonepat","Kathura","Cotton",542
+2015,"Sonepat","Mundlana","Cotton",402
+2015,"Sonepat","Ganaur","Cotton",404
+2015,"Gurgaon","Gurgaon","Cotton",274
+2015,"Gurgaon","Farrukh Nagar","Cotton",274
+2015,"Gurgaon","Sohna","Cotton",274
+2015,"Gurgaon","Pataudi","Cotton",274
+2015,"Mewat","Nuh","Cotton",274
+2015,"Mewat","Tauru","Cotton",274
+2015,"Mewat","Ferozpur Jhirka","Cotton",274
+2015,"Mewat","Nagina","Cotton",274
+2015,"Mewat","Punhana","Cotton",274
+2015,"Faridabad","Faridabad","Cotton",274
+2015,"Faridabad","B/garh","Cotton",274
+2015,"Palwal","Palwal","Cotton",274
+2015,"Palwal","Hodal","Cotton",274
+2015,"Palwal","Hassanpur","Cotton",274
+2015,"Palwal","Hathin","Cotton",274
+2015,"Panipat","Panipat","Cotton",274
+2015,"Panipat","Samalkha","Cotton",274
+2015,"Panipat","Matlauda","Cotton",274
+2015,"Panipat","Bapoli","Cotton",274
+2015,"Panipat","Israna","Cotton",274
+2015,"Karnal","Karnal","Cotton",274
+2015,"Karnal","Nissing","Cotton",274
+2015,"Karnal","Indri","Cotton",274
+2015,"Karnal","Gharaunda","Cotton",274
+2015,"Karnal","Assandh","Cotton",274
+2015,"Karnal","Nilokheri","Cotton",274
+2015,"Kurukshetra","Thanesar","Cotton",274
+2015,"Kurukshetra","Shahabad","Cotton",274
+2015,"Kurukshetra","Pehowa","Cotton",274
+2015,"Kurukshetra","Ladwa","Cotton",274
+2015,"Kurukshetra","Babain","Cotton",274
+2015,"Kaithal","Kaithal","Cotton",332
+2015,"Kaithal","Pundri","Cotton",208
+2015,"Kaithal","Kalayat","Cotton",174
+2015,"Kaithal","Rajound","Cotton",192
+2015,"Kaithal","Gulha","Cotton",208
+2015,"Kaithal","Siwan","Cotton",208
+2015,"Ambala","Ambala-I","Cotton",
+2015,"Ambala","Ambala-II","Cotton",
+2015,"Ambala","Barara","Cotton",
+2015,"Ambala","Saha","Cotton",
+2015,"Ambala","Naraingarh","Cotton",
+2015,"Ambala","Sahazadpur","Cotton",
+2015,"Panchkula","Morni","Cotton",
+2015,"Panchkula","Barwala","Cotton",
+2015,"Panchkula","Raipurrani","Cotton",
+2015,"Panchkula","Pinjore","Cotton",
+2015,"Yamuna Nagar","Jagadhari","Cotton",
+2015,"Yamuna Nagar","Bilaspur","Cotton",
+2015,"Yamuna Nagar","Radaur","Cotton",
+2015,"Yamuna Nagar","Sadaura","Cotton",
+2015,"Yamuna Nagar","Chhachhrauli","Cotton",
+2015,"Yamuna Nagar","Mustafabad","Cotton",
+2015,"Jind","Jind","Cotton",174
+2015,"Jind","Julana","Cotton",237
+2015,"Jind","Alewa","Cotton",234
+2015,"Jind","Safidon","Cotton",177
+2015,"Jind","Pillukhera","Cotton",151
+2015,"Jind","Uchana","Cotton",149
+2015,"Jind","Narwana","Cotton",104
+2015,"Mahendergarh","Kanina","Cotton",347
+2015,"Mahendergarh","Sihma","Cotton",347
+2015,"Mahendergarh","Nijampur","Cotton",347
+2015,"Mahendergarh","Mahendergarh","Cotton",347
+2015,"Mahendergarh","Satnali","Cotton",347
+2015,"Mahendergarh","Ateli","Cotton",347
+2015,"Mahendergarh","Narnaul","Cotton",347
+2015,"Mahendergarh","Nangal Chaudhary","Cotton",347
+2015,"Rewari","Rewari","Cotton",189
+2015,"Rewari","Khol","Cotton",189
+2015,"Rewari","Jatusana","Cotton",221
+2015,"Rewari","Bawal","Cotton",189
+2015,"Rewari","Nahar","Cotton",183
+2016,"Hisar","Hansi I","Wheat",4672
+2016,"Hisar","Hansi-II","Wheat",4755
+2016,"Hisar","Narnaund","Wheat",4226
+2016,"Hisar","Hisar I","Wheat",4783
+2016,"Hisar","Hisar II","Wheat",4658
+2016,"Hisar","Barwala","Wheat",4985
+2016,"Hisar","Uklana","Wheat",5279
+2016,"Hisar","Agroha","Wheat",4987
+2016,"Hisar","Adampur","Wheat",4885
+2016,"Fatehabad","Ratia","Wheat",5456
+2016,"Fatehabad","Fatehabad","Wheat",5308
+2016,"Fatehabad","Bhattukalan","Wheat",4926
+2016,"Fatehabad","Bhuna","Wheat",4847
+2016,"Fatehabad","Tohana","Wheat",5234
+2016,"Fatehabad","Jakhal","Wheat",5484
+2016,"Sirsa","Sirsa","Wheat",5427
+2016,"Sirsa","Nathusari","Wheat",4765
+2016,"Sirsa","Baragudha","Wheat",5225
+2016,"Sirsa","Rania","Wheat",5341
+2016,"Sirsa","Ellenabad","Wheat",5306
+2016,"Sirsa","Dabwali","Wheat",4833
+2016,"Sirsa","Odhan","Wheat",4608
+2016,"Bhiwani","Loharu","Wheat",4246
+2016,"Bhiwani","Bhiwani","Wheat",3720
+2016,"Bhiwani","Tosham","Wheat",4422
+2016,"Bhiwani","Bawani Khera","Wheat",4438
+2016,"Bhiwani","Dadri-I","Wheat",4618
+2016,"Bhiwani","Dadri-II","Wheat",4868
+2016,"Bhiwani","Badhra","Wheat",4709
+2016,"Bhiwani","Siwani","Wheat",3510
+2016,"Bhiwani","Kairu","Wheat",4073
+2016,"Bhiwani","Behal","Wheat",4447
+2016,"Rohtak","Lakhan Majra","Wheat",4520
+2016,"Rohtak","Rohtak","Wheat",4451
+2016,"Rohtak","Sampla","Wheat",5037
+2016,"Rohtak","Meham","Wheat",4661
+2016,"Rohtak","Kalanaur","Wheat",4483
+2016,"Jhajjar","Jhajjar","Wheat",5427
+2016,"Jhajjar","Beri","Wheat",4993
+2016,"Jhajjar","Salhawas","Wheat",5427
+2016,"Jhajjar","Matanhail","Wheat",5316
+2016,"Jhajjar","Bahadurgarh","Wheat",4777
+2016,"Sonepat","Sonepat","Wheat",5256
+2016,"Sonepat","Rai","Wheat",5086
+2016,"Sonepat","Kharkhoda","Wheat",5202
+2016,"Sonepat","Gohana","Wheat",5270
+2016,"Sonepat","Kathura","Wheat",4810
+2016,"Sonepat","Mundlana","Wheat",5087
+2016,"Sonepat","Ganaur","Wheat",5199
+2016,"Gurgaon","Gurgaon","Wheat",4264
+2016,"Gurgaon","Farrukh Nagar","Wheat",5033
+2016,"Gurgaon","Sohna","Wheat",4264
+2016,"Gurgaon","Pataudi","Wheat",5094
+2016,"Mewat","Nuh","Wheat",4182
+2016,"Mewat","Tauru","Wheat",4600
+2016,"Mewat","Ferozpur Jhirka","Wheat",4042
+2016,"Mewat","Nagina","Wheat",3801
+2016,"Mewat","Punhana","Wheat",4397
+2016,"Faridabad","Faridabad","Wheat",4777
+2016,"Faridabad","B/garh","Wheat",4651
+2016,"Palwal","Palwal","Wheat",4335
+2016,"Palwal","Hodal","Wheat",4710
+2016,"Palwal","Hassanpur","Wheat",4686
+2016,"Palwal","Hathin","Wheat",4159
+2016,"Panipat","Panipat","Wheat",5134
+2016,"Panipat","Samalkha","Wheat",5244
+2016,"Panipat","Matlauda","Wheat",5408
+2016,"Panipat","Bapoli","Wheat",4976
+2016,"Panipat","Israna","Wheat",4847
+2016,"Karnal","Karnal","Wheat",5377
+2016,"Karnal","Nissing","Wheat",5293
+2016,"Karnal","Indri","Wheat",5431
+2016,"Karnal","Gharaunda","Wheat",5519
+2016,"Karnal","Assandh","Wheat",5075
+2016,"Karnal","Nilokheri","Wheat",4547
+2016,"Kurukshetra","Thanesar","Wheat",4478
+2016,"Kurukshetra","Shahabad","Wheat",4827
+2016,"Kurukshetra","Pehowa","Wheat",4950
+2016,"Kurukshetra","Ladwa","Wheat",4996
+2016,"Kurukshetra","Babain","Wheat",4623
+2016,"Kaithal","Kaithal","Wheat",5006
+2016,"Kaithal","Pundri","Wheat",5110
+2016,"Kaithal","Kalayat","Wheat",5161
+2016,"Kaithal","Rajound","Wheat",4721
+2016,"Kaithal","Gulha","Wheat",4740
+2016,"Kaithal","Siwan","Wheat",5395
+2016,"Ambala","Ambala-I","Wheat",4585
+2016,"Ambala","Ambala-II","Wheat",4825
+2016,"Ambala","Barara","Wheat",4564
+2016,"Ambala","Saha","Wheat",4844
+2016,"Ambala","Naraingarh","Wheat",4098
+2016,"Ambala","Sahazadpur","Wheat",4324
+2016,"Panchkula","Morni","Wheat",1960
+2016,"Panchkula","Barwala","Wheat",4595
+2016,"Panchkula","Raipurrani","Wheat",4678
+2016,"Panchkula","Pinjore","Wheat",3277
+2016,"Yamuna Nagar","Jagadhari","Wheat",4774
+2016,"Yamuna Nagar","Bilaspur","Wheat",4355
+2016,"Yamuna Nagar","Radaur","Wheat",4919
+2016,"Yamuna Nagar","Sadaura","Wheat",3872
+2016,"Yamuna Nagar","Chhachhrauli","Wheat",4538
+2016,"Yamuna Nagar","Mustafabad","Wheat",4182
+2016,"Jind","Jind","Wheat",4900
+2016,"Jind","Julana","Wheat",4812
+2016,"Jind","Alewa","Wheat",4101
+2016,"Jind","Safidon","Wheat",4965
+2016,"Jind","Pillukhera","Wheat",5029
+2016,"Jind","Uchana","Wheat",5147
+2016,"Jind","Narwana","Wheat",5124
+2016,"Mahendergarh","Kanina","Wheat",4752
+2016,"Mahendergarh","Mahendergarh","Wheat",4466
+2016,"Mahendergarh","Satnali","Wheat",4711
+2016,"Mahendergarh","Ateli","Wheat",5421
+2016,"Mahendergarh","Narnaul","Wheat",4598
+2016,"Mahendergarh","Nijampur","Wheat",4711
+2016,"Mahendergarh","Sihma","Wheat",4711
+2016,"Mahendergarh","Nangal Chaudhary","Wheat",4170
+2016,"Rewari","Rewari","Wheat",5012
+2016,"Rewari","Khol","Wheat",4702
+2016,"Rewari","Jatusana","Wheat",5258
+2016,"Rewari","Bawal","Wheat",5242
+2016,"Rewari","Nahar","Wheat",5135
+2016,"Hisar","Hansi I","Gram",1062
+2016,"Hisar","Hansi-II","Gram",1294
+2016,"Hisar","Narnaund","Gram",1647
+2016,"Hisar","Hisar I","Gram",1355
+2016,"Hisar","Hisar II","Gram",1123
+2016,"Hisar","Barwala","Gram",1213
+2016,"Hisar","Uklana","Gram",1364
+2016,"Hisar","Agroha","Gram",1055
+2016,"Hisar","Adampur","Gram",1706
+2016,"Fatehabad","Ratia","Gram",2017
+2016,"Fatehabad","Fatehabad","Gram",1782
+2016,"Fatehabad","Bhattukalan","Gram",1552
+2016,"Fatehabad","Bhuna","Gram",1824
+2016,"Fatehabad","Tohana","Gram",1671
+2016,"Fatehabad","Jakhal","Gram",1667
+2016,"Sirsa","Sirsa","Gram",1658
+2016,"Sirsa","Nathusari","Gram",1307
+2016,"Sirsa","Baragudha","Gram",1469
+2016,"Sirsa","Rania","Gram",1410
+2016,"Sirsa","Ellenabad","Gram",1501
+2016,"Sirsa","Dabwali","Gram",1134
+2016,"Sirsa","Odhan","Gram",1156
+2016,"Bhiwani","Loharu","Gram",1219
+2016,"Bhiwani","Bhiwani","Gram",837
+2016,"Bhiwani","Tosham","Gram",465
+2016,"Bhiwani","Bawani Khera","Gram",1236
+2016,"Bhiwani","Dadri-I","Gram",1350
+2016,"Bhiwani","Dadri-II","Gram",1323
+2016,"Bhiwani","Badhra","Gram",1413
+2016,"Bhiwani","Siwani","Gram",481
+2016,"Bhiwani","Kairu","Gram",713
+2016,"Bhiwani","Behal","Gram",1034
+2016,"Rohtak","Lakhan Majra","Gram",
+2016,"Rohtak","Rohtak","Gram",1292
+2016,"Rohtak","Sampla","Gram",1482
+2016,"Rohtak","Meham","Gram",2185
+2016,"Rohtak","Kalanaur","Gram",1300
+2016,"Jhajjar","Jhajjar","Gram",1090
+2016,"Jhajjar","Beri","Gram",2858
+2016,"Jhajjar","Salhawas","Gram",
+2016,"Jhajjar","Matanhail","Gram",1240
+2016,"Jhajjar","Bahadurgarh","Gram",1621
+2016,"Sonepat","Sonepat","Gram",
+2016,"Sonepat","Rai","Gram",
+2016,"Sonepat","Kharkhoda","Gram",1984
+2016,"Sonepat","Gohana","Gram",
+2016,"Sonepat","Kathura","Gram",
+2016,"Sonepat","Mundlana","Gram",
+2016,"Sonepat","Ganaur","Gram",
+2016,"Gurgaon","Gurgaon","Gram",
+2016,"Gurgaon","Farrukh Nagar","Gram",
+2016,"Gurgaon","Sohna","Gram",
+2016,"Gurgaon","Pataudi","Gram",
+2016,"Mewat","Nuh","Gram",
+2016,"Mewat","Tauru","Gram",1857
+2016,"Mewat","Ferozpur Jhirka","Gram",1136
+2016,"Mewat","Nagina","Gram",1386
+2016,"Mewat","Punhana","Gram",
+2016,"Faridabad","Faridabad","Gram",
+2016,"Faridabad","B/garh","Gram",
+2016,"Palwal","Palwal","Gram",
+2016,"Palwal","Hodal","Gram",
+2016,"Palwal","Hassanpur","Gram",
+2016,"Palwal","Hathin","Gram",
+2016,"Panipat","Panipat","Gram",2405
+2016,"Panipat","Samalkha","Gram",
+2016,"Panipat","Matlauda","Gram",1924
+2016,"Panipat","Bapoli","Gram",
+2016,"Panipat","Israna","Gram",
+2016,"Karnal","Karnal","Gram",
+2016,"Karnal","Nissing","Gram",
+2016,"Karnal","Indri","Gram",
+2016,"Karnal","Gharaunda","Gram",
+2016,"Karnal","Assandh","Gram",
+2016,"Karnal","Nilokheri","Gram",
+2016,"Kurukshetra","Thanesar","Gram",
+2016,"Kurukshetra","Shahabad","Gram",
+2016,"Kurukshetra","Pehowa","Gram",
+2016,"Kurukshetra","Ladwa","Gram",
+2016,"Kurukshetra","Babain","Gram",
+2016,"Kaithal","Kaithal","Gram",1011
+2016,"Kaithal","Pundri","Gram",1640
+2016,"Kaithal","Kalayat","Gram",
+2016,"Kaithal","Rajound","Gram",1346
+2016,"Kaithal","Gulha","Gram",2358
+2016,"Kaithal","Siwan","Gram",
+2016,"Ambala","Ambala-I","Gram",
+2016,"Ambala","Ambala-II","Gram",
+2016,"Ambala","Barara","Gram",
+2016,"Ambala","Saha","Gram",
+2016,"Ambala","Naraingarh","Gram",
+2016,"Ambala","Sahazadpur","Gram",
+2016,"Panchkula","Morni","Gram",
+2016,"Panchkula","Barwala","Gram",
+2016,"Panchkula","Raipurrani","Gram",
+2016,"Panchkula","Pinjore","Gram",662
+2016,"Yamuna Nagar","Jagadhari","Gram",
+2016,"Yamuna Nagar","Bilaspur","Gram",1760
+2016,"Yamuna Nagar","Radaur","Gram",
+2016,"Yamuna Nagar","Sadaura","Gram",1383
+2016,"Yamuna Nagar","Chhachhrauli","Gram",1267
+2016,"Yamuna Nagar","Mustafabad","Gram",
+2016,"Jind","Jind","Gram",1004
+2016,"Jind","Julana","Gram",950
+2016,"Jind","Alewa","Gram",
+2016,"Jind","Safidon","Gram",1035
+2016,"Jind","Pillukhera","Gram",1848
+2016,"Jind","Uchana","Gram",2356
+2016,"Jind","Narwana","Gram",1089
+2016,"Mahendergarh","Kanina","Gram",2943
+2016,"Mahendergarh","Mahendergarh","Gram",1507
+2016,"Mahendergarh","Satnali","Gram",1285
+2016,"Mahendergarh","Ateli","Gram",2080
+2016,"Mahendergarh","Narnaul","Gram",1572
+2016,"Mahendergarh","Nijampur","Gram",1285
+2016,"Mahendergarh","Sihma","Gram",1285
+2016,"Mahendergarh","Nangal Chaudhary","Gram",898
+2016,"Rewari","Rewari","Gram",
+2016,"Rewari","Khol","Gram",1430
+2016,"Rewari","Jatusana","Gram",
+2016,"Rewari","Bawal","Gram",1984
+2016,"Rewari","Nahar","Gram",
+2016,"Hisar","Hansi I","Barley",3228
+2016,"Hisar","Hansi-II","Barley",3005
+2016,"Hisar","Narnaund","Barley",2893
+2016,"Hisar","Hisar I","Barley",4022
+2016,"Hisar","Hisar II","Barley",3905
+2016,"Hisar","Barwala","Barley",3600
+2016,"Hisar","Uklana","Barley",3570
+2016,"Hisar","Agroha","Barley",4201
+2016,"Hisar","Adampur","Barley",3788
+2016,"Fatehabad","Ratia","Barley",3988
+2016,"Fatehabad","Fatehabad","Barley",3894
+2016,"Fatehabad","Bhattukalan","Barley",3663
+2016,"Fatehabad","Bhuna","Barley",3707
+2016,"Fatehabad","Tohana","Barley",3755
+2016,"Fatehabad","Jakhal","Barley",3177
+2016,"Sirsa","Sirsa","Barley",4024
+2016,"Sirsa","Nathusari","Barley",3221
+2016,"Sirsa","Baragudha","Barley",4121
+2016,"Sirsa","Rania","Barley",3902
+2016,"Sirsa","Ellenabad","Barley",3845
+2016,"Sirsa","Dabwali","Barley",3382
+2016,"Sirsa","Odhan","Barley",3884
+2016,"Bhiwani","Loharu","Barley",3881
+2016,"Bhiwani","Bhiwani","Barley",2974
+2016,"Bhiwani","Tosham","Barley",3460
+2016,"Bhiwani","Bawani Khera","Barley",4041
+2016,"Bhiwani","Dadri-I","Barley",3485
+2016,"Bhiwani","Dadri-II","Barley",4050
+2016,"Bhiwani","Badhra","Barley",4344
+2016,"Bhiwani","Siwani","Barley",2661
+2016,"Bhiwani","Kairu","Barley",3124
+2016,"Bhiwani","Behal","Barley",3715
+2016,"Rohtak","Lakhan Majra","Barley",1455
+2016,"Rohtak","Rohtak","Barley",2790
+2016,"Rohtak","Sampla","Barley",3535
+2016,"Rohtak","Meham","Barley",2469
+2016,"Rohtak","Kalanaur","Barley",3077
+2016,"Jhajjar","Jhajjar","Barley",3913
+2016,"Jhajjar","Beri","Barley",3316
+2016,"Jhajjar","Salhawas","Barley",4599
+2016,"Jhajjar","Matanhail","Barley",4746
+2016,"Jhajjar","Bahadurgarh","Barley",3806
+2016,"Sonepat","Sonepat","Barley",
+2016,"Sonepat","Rai","Barley",3896
+2016,"Sonepat","Kharkhoda","Barley",3896
+2016,"Sonepat","Gohana","Barley",
+2016,"Sonepat","Kathura","Barley",
+2016,"Sonepat","Mundlana","Barley",
+2016,"Sonepat","Ganaur","Barley",
+2016,"Gurgaon","Gurgaon","Barley",3397
+2016,"Gurgaon","Farrukh Nagar","Barley",5233
+2016,"Gurgaon","Sohna","Barley",3415
+2016,"Gurgaon","Pataudi","Barley",5457
+2016,"Mewat","Nuh","Barley",3206
+2016,"Mewat","Tauru","Barley",3974
+2016,"Mewat","Ferozpur Jhirka","Barley",3294
+2016,"Mewat","Nagina","Barley",3259
+2016,"Mewat","Punhana","Barley",4056
+2016,"Faridabad","Faridabad","Barley",3658
+2016,"Faridabad","B/garh","Barley",3658
+2016,"Palwal","Palwal","Barley",3285
+2016,"Palwal","Hodal","Barley",3837
+2016,"Palwal","Hassanpur","Barley",2965
+2016,"Palwal","Hathin","Barley",2319
+2016,"Panipat","Panipat","Barley",
+2016,"Panipat","Samalkha","Barley",
+2016,"Panipat","Matlauda","Barley",
+2016,"Panipat","Bapoli","Barley",
+2016,"Panipat","Israna","Barley",
+2016,"Karnal","Karnal","Barley",
+2016,"Karnal","Nissing","Barley",
+2016,"Karnal","Indri","Barley",
+2016,"Karnal","Gharaunda","Barley",3658
+2016,"Karnal","Assandh","Barley",
+2016,"Karnal","Nilokheri","Barley",
+2016,"Kurukshetra","Thanesar","Barley",
+2016,"Kurukshetra","Shahabad","Barley",
+2016,"Kurukshetra","Pehowa","Barley",
+2016,"Kurukshetra","Ladwa","Barley",
+2016,"Kurukshetra","Babain","Barley",
+2016,"Kaithal","Kaithal","Barley",
+2016,"Kaithal","Pundri","Barley",
+2016,"Kaithal","Kalayat","Barley",
+2016,"Kaithal","Rajound","Barley",3009
+2016,"Kaithal","Gulha","Barley",2839
+2016,"Kaithal","Siwan","Barley",
+2016,"Ambala","Ambala-I","Barley",
+2016,"Ambala","Ambala-II","Barley",
+2016,"Ambala","Barara","Barley",
+2016,"Ambala","Saha","Barley",
+2016,"Ambala","Naraingarh","Barley",
+2016,"Ambala","Sahazadpur","Barley",
+2016,"Panchkula","Morni","Barley",
+2016,"Panchkula","Barwala","Barley",
+2016,"Panchkula","Raipurrani","Barley",
+2016,"Panchkula","Pinjore","Barley",574
+2016,"Yamuna Nagar","Jagadhari","Barley",
+2016,"Yamuna Nagar","Bilaspur","Barley",
+2016,"Yamuna Nagar","Radaur","Barley",
+2016,"Yamuna Nagar","Sadaura","Barley",
+2016,"Yamuna Nagar","Chhachhrauli","Barley",
+2016,"Yamuna Nagar","Mustafabad","Barley",
+2016,"Jind","Jind","Barley",3746
+2016,"Jind","Julana","Barley",3659
+2016,"Jind","Alewa","Barley",
+2016,"Jind","Safidon","Barley",
+2016,"Jind","Pillukhera","Barley",
+2016,"Jind","Uchana","Barley",3870
+2016,"Jind","Narwana","Barley",3820
+2016,"Mahendergarh","Kanina","Barley",3956
+2016,"Mahendergarh","Mahendergarh","Barley",3129
+2016,"Mahendergarh","Satnali","Barley",3279
+2016,"Mahendergarh","Ateli","Barley",4269
+2016,"Mahendergarh","Narnaul","Barley",3564
+2016,"Mahendergarh","Nijampur","Barley",
+2016,"Mahendergarh","Sihma","Barley",
+2016,"Mahendergarh","Nangal Chaudhary","Barley",2721
+2016,"Rewari","Rewari","Barley",4969
+2016,"Rewari","Khol","Barley",3365
+2016,"Rewari","Jatusana","Barley",4794
+2016,"Rewari","Bawal","Barley",4435
+2016,"Rewari","Nahar","Barley",4761
+2016,"Hisar","Hansi I","Paddy",2770
+2016,"Hisar","Hansi-II","Paddy",2544
+2016,"Hisar","Narnaund","Paddy",2107
+2016,"Hisar","Hisar I","Paddy",2614
+2016,"Hisar","Hisar II","Paddy",2766
+2016,"Hisar","Barwala","Paddy",2969
+2016,"Hisar","Uklana","Paddy",3327
+2016,"Hisar","Agroha","Paddy",2729
+2016,"Hisar","Adampur","Paddy",3626
+2016,"Fatehabad","Ratia","Paddy",4904
+2016,"Fatehabad","Fatehabad","Paddy",3739
+2016,"Fatehabad","Bhattukalan","Paddy",2969
+2016,"Fatehabad","Bhuna","Paddy",3838
+2016,"Fatehabad","Tohana","Paddy",4351
+2016,"Fatehabad","Jakhal","Paddy",5267
+2016,"Sirsa","Sirsa","Paddy",3744
+2016,"Sirsa","Nathusari","Paddy",2959
+2016,"Sirsa","Baragudha","Paddy",3789
+2016,"Sirsa","Rania","Paddy",3794
+2016,"Sirsa","Ellenabad","Paddy",3629
+2016,"Sirsa","Dabwali","Paddy",3766
+2016,"Sirsa","Odhan","Paddy",3834
+2016,"Bhiwani","Loharu","Paddy",
+2016,"Bhiwani","Bhiwani","Paddy",1931
+2016,"Bhiwani","Tosham","Paddy",2757
+2016,"Bhiwani","Bawani Khera","Paddy",2829
+2016,"Bhiwani","Dadri-I","Paddy",2212
+2016,"Bhiwani","Dadri-II","Paddy",2252
+2016,"Bhiwani","Badhra","Paddy",
+2016,"Bhiwani","Siwani","Paddy",3360
+2016,"Bhiwani","Kairu","Paddy",2273
+2016,"Bhiwani","Behal","Paddy",
+2016,"Rohtak","Lakhan Majra","Paddy",2120
+2016,"Rohtak","Rohtak","Paddy",1827
+2016,"Rohtak","Sampla","Paddy",1935
+2016,"Rohtak","Meham","Paddy",1945
+2016,"Rohtak","Kalanaur","Paddy",1977
+2016,"Jhajjar","Jhajjar","Paddy",2048
+2016,"Jhajjar","Beri","Paddy",2329
+2016,"Jhajjar","Salhawas","Paddy",1815
+2016,"Jhajjar","Matanhail","Paddy",2312
+2016,"Jhajjar","Bahadurgarh","Paddy",2283
+2016,"Sonepat","Sonepat","Paddy",2505
+2016,"Sonepat","Rai","Paddy",2604
+2016,"Sonepat","Kharkhoda","Paddy",2313
+2016,"Sonepat","Gohana","Paddy",2106
+2016,"Sonepat","Kathura","Paddy",2059
+2016,"Sonepat","Mundlana","Paddy",2242
+2016,"Sonepat","Ganaur","Paddy",2595
+2016,"Gurgaon","Gurgaon","Paddy",2371
+2016,"Gurgaon","Farrukh Nagar","Paddy",2703
+2016,"Gurgaon","Sohna","Paddy",2311
+2016,"Gurgaon","Pataudi","Paddy",2328
+2016,"Mewat","Nuh","Paddy",2315
+2016,"Mewat","Tauru","Paddy",2434
+2016,"Mewat","Ferozpur Jhirka","Paddy",
+2016,"Mewat","Nagina","Paddy",1943
+2016,"Mewat","Punhana","Paddy",2631
+2016,"Faridabad","Faridabad","Paddy",2568
+2016,"Faridabad","B/garh","Paddy",2866
+2016,"Palwal","Palwal","Paddy",2676
+2016,"Palwal","Hodal","Paddy",2378
+2016,"Palwal","Hassanpur","Paddy",3032
+2016,"Palwal","Hathin","Paddy",2623
+2016,"Panipat","Panipat","Paddy",2635
+2016,"Panipat","Samalkha","Paddy",2576
+2016,"Panipat","Matlauda","Paddy",2507
+2016,"Panipat","Bapoli","Paddy",2782
+2016,"Panipat","Israna","Paddy",2470
+2016,"Karnal","Karnal","Paddy",3956
+2016,"Karnal","Nissing","Paddy",4640
+2016,"Karnal","Indri","Paddy",4010
+2016,"Karnal","Gharaunda","Paddy",3419
+2016,"Karnal","Assandh","Paddy",3047
+2016,"Karnal","Nilokheri","Paddy",2865
+2016,"Kurukshetra","Thanesar","Paddy",4149
+2016,"Kurukshetra","Shahabad","Paddy",4537
+2016,"Kurukshetra","Pehowa","Paddy",3806
+2016,"Kurukshetra","Ladwa","Paddy",4216
+2016,"Kurukshetra","Babain","Paddy",4353
+2016,"Kaithal","Kaithal","Paddy",2894
+2016,"Kaithal","Pundri","Paddy",2866
+2016,"Kaithal","Kalayat","Paddy",2815
+2016,"Kaithal","Rajound","Paddy",2692
+2016,"Kaithal","Gulha","Paddy",4002
+2016,"Kaithal","Siwan","Paddy",4919
+2016,"Ambala","Ambala-I","Paddy",3205
+2016,"Ambala","Ambala-II","Paddy",3935
+2016,"Ambala","Barara","Paddy",4274
+2016,"Ambala","Saha","Paddy",3849
+2016,"Ambala","Naraingarh","Paddy",4099
+2016,"Ambala","Sahazadpur","Paddy",3682
+2016,"Panchkula","Morni","Paddy",2834
+2016,"Panchkula","Barwala","Paddy",4090
+2016,"Panchkula","Raipurrani","Paddy",3946
+2016,"Panchkula","Pinjore","Paddy",2896
+2016,"Yamuna Nagar","Jagadhari","Paddy",3944
+2016,"Yamuna Nagar","Bilaspur","Paddy",4074
+2016,"Yamuna Nagar","Radaur","Paddy",3813
+2016,"Yamuna Nagar","Sadaura","Paddy",4168
+2016,"Yamuna Nagar","Chhachhrauli","Paddy",4036
+2016,"Yamuna Nagar","Mustafabad","Paddy",3508
+2016,"Jind","Jind","Paddy",2280
+2016,"Jind","Julana","Paddy",2356
+2016,"Jind","Alewa","Paddy",2281
+2016,"Jind","Safidon","Paddy",2454
+2016,"Jind","Pillukhera","Paddy",2279
+2016,"Jind","Uchana","Paddy",3257
+2016,"Jind","Narwana","Paddy",2804
+2016,"Mahendergarh","Kanina","Paddy",
+2016,"Mahendergarh","Mahendergarh","Paddy",
+2016,"Mahendergarh","Satnali","Paddy",
+2016,"Mahendergarh","Ateli","Paddy",
+2016,"Mahendergarh","Narnaul","Paddy",
+2016,"Mahendergarh","Nijampur","Paddy",
+2016,"Mahendergarh","Sihma","Paddy",
+2016,"Mahendergarh","Nangal Chaudhary","Paddy",
+2016,"Rewari","Rewari","Paddy",2286
+2016,"Rewari","Khol","Paddy",1903
+2016,"Rewari","Jatusana","Paddy",1921
+2016,"Rewari","Bawal","Paddy",
+2016,"Rewari","Nahar","Paddy",
+2016,"Hisar","Hansi I","Bajra",1732
+2016,"Hisar","Hansi-II","Bajra",1724
+2016,"Hisar","Narnaund","Bajra",1529
+2016,"Hisar","Hisar I","Bajra",1972
+2016,"Hisar","Hisar II","Bajra",1829
+2016,"Hisar","Barwala","Bajra",2117
+2016,"Hisar","Uklana","Bajra",2165
+2016,"Hisar","Agroha","Bajra",2272
+2016,"Hisar","Adampur","Bajra",2187
+2016,"Fatehabad","Ratia","Bajra",1708
+2016,"Fatehabad","Fatehabad","Bajra",2519
+2016,"Fatehabad","Bhattukalan","Bajra",2449
+2016,"Fatehabad","Bhuna","Bajra",2224
+2016,"Fatehabad","Tohana","Bajra",2669
+2016,"Fatehabad","Jakhal","Bajra",2213
+2016,"Sirsa","Sirsa","Bajra",1996
+2016,"Sirsa","Nathusari","Bajra",2015
+2016,"Sirsa","Baragudha","Bajra",2356
+2016,"Sirsa","Rania","Bajra",2558
+2016,"Sirsa","Ellenabad","Bajra",2116
+2016,"Sirsa","Dabwali","Bajra",2942
+2016,"Sirsa","Odhan","Bajra",2750
+2016,"Bhiwani","Loharu","Bajra",1927
+2016,"Bhiwani","Bhiwani","Bajra",1595
+2016,"Bhiwani","Tosham","Bajra",1400
+2016,"Bhiwani","Bawani Khera","Bajra",1942
+2016,"Bhiwani","Dadri-I","Bajra",2154
+2016,"Bhiwani","Dadri-II","Bajra",1848
+2016,"Bhiwani","Badhra","Bajra",1815
+2016,"Bhiwani","Siwani","Bajra",1192
+2016,"Bhiwani","Kairu","Bajra",1659
+2016,"Bhiwani","Behal","Bajra",1262
+2016,"Rohtak","Lakhan Majra","Bajra",1777
+2016,"Rohtak","Rohtak","Bajra",2051
+2016,"Rohtak","Sampla","Bajra",2070
+2016,"Rohtak","Meham","Bajra",1740
+2016,"Rohtak","Kalanaur","Bajra",1856
+2016,"Jhajjar","Jhajjar","Bajra",2247
+2016,"Jhajjar","Beri","Bajra",2785
+2016,"Jhajjar","Salhawas","Bajra",1894
+2016,"Jhajjar","Matanhail","Bajra",1583
+2016,"Jhajjar","Bahadurgarh","Bajra",2393
+2016,"Sonepat","Sonepat","Bajra",2052
+2016,"Sonepat","Rai","Bajra",2182
+2016,"Sonepat","Kharkhoda","Bajra",2150
+2016,"Sonepat","Gohana","Bajra",1727
+2016,"Sonepat","Kathura","Bajra",1982
+2016,"Sonepat","Mundlana","Bajra",1616
+2016,"Sonepat","Ganaur","Bajra",2132
+2016,"Gurgaon","Gurgaon","Bajra",2142
+2016,"Gurgaon","Farrukh Nagar","Bajra",2159
+2016,"Gurgaon","Sohna","Bajra",1459
+2016,"Gurgaon","Pataudi","Bajra",2383
+2016,"Mewat","Nuh","Bajra",2026
+2016,"Mewat","Tauru","Bajra",2218
+2016,"Mewat","Ferozpur Jhirka","Bajra",1880
+2016,"Mewat","Nagina","Bajra",1794
+2016,"Mewat","Punhana","Bajra",2109
+2016,"Faridabad","Faridabad","Bajra",2648
+2016,"Faridabad","B/garh","Bajra",1776
+2016,"Palwal","Palwal","Bajra",1833
+2016,"Palwal","Hodal","Bajra",1609
+2016,"Palwal","Hassanpur","Bajra",1740
+2016,"Palwal","Hathin","Bajra",2111
+2016,"Panipat","Panipat","Bajra",
+2016,"Panipat","Samalkha","Bajra",1092
+2016,"Panipat","Matlauda","Bajra",2025
+2016,"Panipat","Bapoli","Bajra",1459
+2016,"Panipat","Israna","Bajra",1971
+2016,"Karnal","Karnal","Bajra",
+2016,"Karnal","Nissing","Bajra",
+2016,"Karnal","Indri","Bajra",
+2016,"Karnal","Gharaunda","Bajra",
+2016,"Karnal","Assandh","Bajra",2017
+2016,"Karnal","Nilokheri","Bajra",
+2016,"Kurukshetra","Thanesar","Bajra",
+2016,"Kurukshetra","Shahabad","Bajra",
+2016,"Kurukshetra","Pehowa","Bajra",
+2016,"Kurukshetra","Ladwa","Bajra",
+2016,"Kurukshetra","Babain","Bajra",
+2016,"Kaithal","Kaithal","Bajra",1786
+2016,"Kaithal","Pundri","Bajra",1380
+2016,"Kaithal","Kalayat","Bajra",1948
+2016,"Kaithal","Rajound","Bajra",2290
+2016,"Kaithal","Gulha","Bajra",2065
+2016,"Kaithal","Siwan","Bajra",
+2016,"Ambala","Ambala-I","Bajra",
+2016,"Ambala","Ambala-II","Bajra",
+2016,"Ambala","Barara","Bajra",
+2016,"Ambala","Saha","Bajra",
+2016,"Ambala","Naraingarh","Bajra",
+2016,"Ambala","Sahazadpur","Bajra",
+2016,"Panchkula","Morni","Bajra",
+2016,"Panchkula","Barwala","Bajra",3749
+2016,"Panchkula","Raipurrani","Bajra",2551
+2016,"Panchkula","Pinjore","Bajra",1281
+2016,"Yamuna Nagar","Jagadhari","Bajra",
+2016,"Yamuna Nagar","Bilaspur","Bajra",
+2016,"Yamuna Nagar","Radaur","Bajra",
+2016,"Yamuna Nagar","Sadaura","Bajra",
+2016,"Yamuna Nagar","Chhachhrauli","Bajra",
+2016,"Yamuna Nagar","Mustafabad","Bajra",
+2016,"Jind","Jind","Bajra",1821
+2016,"Jind","Julana","Bajra",1670
+2016,"Jind","Alewa","Bajra",1481
+2016,"Jind","Safidon","Bajra",2227
+2016,"Jind","Pillukhera","Bajra",1771
+2016,"Jind","Uchana","Bajra",1675
+2016,"Jind","Narwana","Bajra",1928
+2016,"Mahendergarh","Kanina","Bajra",2439
+2016,"Mahendergarh","Mahendergarh","Bajra",1934
+2016,"Mahendergarh","Satnali","Bajra",2472
+2016,"Mahendergarh","Ateli","Bajra",2494
+2016,"Mahendergarh","Narnaul","Bajra",2344
+2016,"Mahendergarh","Nijampur","Bajra",2300
+2016,"Mahendergarh","Sihma","Bajra",2300
+2016,"Mahendergarh","Nangal Chaudhary","Bajra",2300
+2016,"Rewari","Rewari","Bajra",2291
+2016,"Rewari","Khol","Bajra",1851
+2016,"Rewari","Jatusana","Bajra",2437
+2016,"Rewari","Bawal","Bajra",2164
+2016,"Rewari","Nahar","Bajra",2093
+2016,"Hisar","Hansi I","Maize",
+2016,"Hisar","Hansi-II","Maize",
+2016,"Hisar","Narnaund","Maize",
+2016,"Hisar","Hisar I","Maize",4267
+2016,"Hisar","Hisar II","Maize",1949
+2016,"Hisar","Barwala","Maize",
+2016,"Hisar","Uklana","Maize",3376
+2016,"Hisar","Agroha","Maize",3491
+2016,"Hisar","Adampur","Maize",4127
+2016,"Fatehabad","Ratia","Maize",
+2016,"Fatehabad","Fatehabad","Maize",
+2016,"Fatehabad","Bhattukalan","Maize",3498
+2016,"Fatehabad","Bhuna","Maize",
+2016,"Fatehabad","Tohana","Maize",
+2016,"Fatehabad","Jakhal","Maize",
+2016,"Sirsa","Sirsa","Maize",2731
+2016,"Sirsa","Nathusari","Maize",2950
+2016,"Sirsa","Baragudha","Maize",4778
+2016,"Sirsa","Rania","Maize",3496
+2016,"Sirsa","Ellenabad","Maize",2355
+2016,"Sirsa","Dabwali","Maize",2839
+2016,"Sirsa","Odhan","Maize",2610
+2016,"Bhiwani","Loharu","Maize",
+2016,"Bhiwani","Bhiwani","Maize",3681
+2016,"Bhiwani","Tosham","Maize",
+2016,"Bhiwani","Bawani Khera","Maize",4597
+2016,"Bhiwani","Dadri-I","Maize",
+2016,"Bhiwani","Dadri-II","Maize",
+2016,"Bhiwani","Badhra","Maize",
+2016,"Bhiwani","Siwani","Maize",
+2016,"Bhiwani","Kairu","Maize",
+2016,"Bhiwani","Behal","Maize",
+2016,"Rohtak","Lakhan Majra","Maize",3400
+2016,"Rohtak","Rohtak","Maize",3400
+2016,"Rohtak","Sampla","Maize",
+2016,"Rohtak","Meham","Maize",3400
+2016,"Rohtak","Kalanaur","Maize",3400
+2016,"Jhajjar","Jhajjar","Maize",3400
+2016,"Jhajjar","Beri","Maize",
+2016,"Jhajjar","Salhawas","Maize",
+2016,"Jhajjar","Matanhail","Maize",
+2016,"Jhajjar","Bahadurgarh","Maize",3400
+2016,"Sonepat","Sonepat","Maize",4633
+2016,"Sonepat","Rai","Maize",4945
+2016,"Sonepat","Kharkhoda","Maize",4782
+2016,"Sonepat","Gohana","Maize",
+2016,"Sonepat","Kathura","Maize",
+2016,"Sonepat","Mundlana","Maize",
+2016,"Sonepat","Ganaur","Maize",
+2016,"Gurgaon","Gurgaon","Maize",
+2016,"Gurgaon","Farrukh Nagar","Maize",
+2016,"Gurgaon","Sohna","Maize",
+2016,"Gurgaon","Pataudi","Maize",
+2016,"Mewat","Nuh","Maize",
+2016,"Mewat","Tauru","Maize",
+2016,"Mewat","Ferozpur Jhirka","Maize",
+2016,"Mewat","Nagina","Maize",
+2016,"Mewat","Punhana","Maize",
+2016,"Faridabad","Faridabad","Maize",
+2016,"Faridabad","B/garh","Maize",
+2016,"Palwal","Palwal","Maize",
+2016,"Palwal","Hodal","Maize",
+2016,"Palwal","Hassanpur","Maize",
+2016,"Palwal","Hathin","Maize",
+2016,"Panipat","Panipat","Maize",
+2016,"Panipat","Samalkha","Maize",
+2016,"Panipat","Matlauda","Maize",
+2016,"Panipat","Bapoli","Maize",
+2016,"Panipat","Israna","Maize",
+2016,"Karnal","Karnal","Maize",3400
+2016,"Karnal","Nissing","Maize",
+2016,"Karnal","Indri","Maize",
+2016,"Karnal","Gharaunda","Maize",
+2016,"Karnal","Assandh","Maize",
+2016,"Karnal","Nilokheri","Maize",
+2016,"Kurukshetra","Thanesar","Maize",
+2016,"Kurukshetra","Shahabad","Maize",
+2016,"Kurukshetra","Pehowa","Maize",
+2016,"Kurukshetra","Ladwa","Maize",
+2016,"Kurukshetra","Babain","Maize",
+2016,"Kaithal","Kaithal","Maize",
+2016,"Kaithal","Pundri","Maize",
+2016,"Kaithal","Kalayat","Maize",
+2016,"Kaithal","Rajound","Maize",
+2016,"Kaithal","Gulha","Maize",
+2016,"Kaithal","Siwan","Maize",
+2016,"Ambala","Ambala-I","Maize",
+2016,"Ambala","Ambala-II","Maize",
+2016,"Ambala","Barara","Maize",
+2016,"Ambala","Saha","Maize",2220
+2016,"Ambala","Naraingarh","Maize",2220
+2016,"Ambala","Sahazadpur","Maize",2220
+2016,"Panchkula","Morni","Maize",2868
+2016,"Panchkula","Barwala","Maize",3441
+2016,"Panchkula","Raipurrani","Maize",3246
+2016,"Panchkula","Pinjore","Maize",2705
+2016,"Yamuna Nagar","Jagadhari","Maize",
+2016,"Yamuna Nagar","Bilaspur","Maize",
+2016,"Yamuna Nagar","Radaur","Maize",
+2016,"Yamuna Nagar","Sadaura","Maize",3400
+2016,"Yamuna Nagar","Chhachhrauli","Maize",
+2016,"Yamuna Nagar","Mustafabad","Maize",
+2016,"Jind","Jind","Maize",705
+2016,"Jind","Julana","Maize",3400
+2016,"Jind","Alewa","Maize",3815
+2016,"Jind","Safidon","Maize",
+2016,"Jind","Pillukhera","Maize",
+2016,"Jind","Uchana","Maize",1178
+2016,"Jind","Narwana","Maize",2011
+2016,"Mahendergarh","Kanina","Maize",
+2016,"Mahendergarh","Mahendergarh","Maize",
+2016,"Mahendergarh","Satnali","Maize",
+2016,"Mahendergarh","Ateli","Maize",
+2016,"Mahendergarh","Narnaul","Maize",
+2016,"Mahendergarh","Nijampur","Maize",
+2016,"Mahendergarh","Sihma","Maize",
+2016,"Mahendergarh","Nangal Chaudhary","Maize",
+2016,"Rewari","Rewari","Maize",
+2016,"Rewari","Khol","Maize",
+2016,"Rewari","Jatusana","Maize",
+2016,"Rewari","Bawal","Maize",
+2016,"Rewari","Nahar","Maize",
+2016,"Hisar","Hansi I","Sugarcane",69200
+2016,"Hisar","Hansi-II","Sugarcane",71828
+2016,"Hisar","Narnaund","Sugarcane",56800
+2016,"Hisar","Hisar I","Sugarcane",67122
+2016,"Hisar","Hisar II","Sugarcane",67122
+2016,"Hisar","Barwala","Sugarcane",57400
+2016,"Hisar","Uklana","Sugarcane",67122
+2016,"Hisar","Agroha","Sugarcane",67122
+2016,"Hisar","Adampur","Sugarcane",
+2016,"Fatehabad","Ratia","Sugarcane",
+2016,"Fatehabad","Fatehabad","Sugarcane",61260
+2016,"Fatehabad","Bhattukalan","Sugarcane",
+2016,"Fatehabad","Bhuna","Sugarcane",61260
+2016,"Fatehabad","Tohana","Sugarcane",61260
+2016,"Fatehabad","Jakhal","Sugarcane",
+2016,"Sirsa","Sirsa","Sugarcane",
+2016,"Sirsa","Nathusari","Sugarcane",80614
+2016,"Sirsa","Baragudha","Sugarcane",
+2016,"Sirsa","Rania","Sugarcane",
+2016,"Sirsa","Ellenabad","Sugarcane",
+2016,"Sirsa","Dabwali","Sugarcane",
+2016,"Sirsa","Odhan","Sugarcane",
+2016,"Bhiwani","Loharu","Sugarcane",64400
+2016,"Bhiwani","Bhiwani","Sugarcane",62480
+2016,"Bhiwani","Tosham","Sugarcane",
+2016,"Bhiwani","Bawani Khera","Sugarcane",71400
+2016,"Bhiwani","Dadri-I","Sugarcane",51560
+2016,"Bhiwani","Dadri-II","Sugarcane",62480
+2016,"Bhiwani","Badhra","Sugarcane",
+2016,"Bhiwani","Siwani","Sugarcane",
+2016,"Bhiwani","Kairu","Sugarcane",
+2016,"Bhiwani","Behal","Sugarcane",
+2016,"Rohtak","Lakhan Majra","Sugarcane",72839
+2016,"Rohtak","Rohtak","Sugarcane",68926
+2016,"Rohtak","Sampla","Sugarcane",77400
+2016,"Rohtak","Meham","Sugarcane",69354
+2016,"Rohtak","Kalanaur","Sugarcane",71200
+2016,"Jhajjar","Jhajjar","Sugarcane",87200
+2016,"Jhajjar","Beri","Sugarcane",78120
+2016,"Jhajjar","Salhawas","Sugarcane",25400
+2016,"Jhajjar","Matanhail","Sugarcane",75613
+2016,"Jhajjar","Bahadurgarh","Sugarcane",62980
+2016,"Sonepat","Sonepat","Sugarcane",89071
+2016,"Sonepat","Rai","Sugarcane",1e+05
+2016,"Sonepat","Kharkhoda","Sugarcane",86176
+2016,"Sonepat","Gohana","Sugarcane",83800
+2016,"Sonepat","Kathura","Sugarcane",67980
+2016,"Sonepat","Mundlana","Sugarcane",85500
+2016,"Sonepat","Ganaur","Sugarcane",98969
+2016,"Gurgaon","Gurgaon","Sugarcane",
+2016,"Gurgaon","Farrukh Nagar","Sugarcane",
+2016,"Gurgaon","Sohna","Sugarcane",
+2016,"Gurgaon","Pataudi","Sugarcane",
+2016,"Mewat","Nuh","Sugarcane",80614
+2016,"Mewat","Tauru","Sugarcane",
+2016,"Mewat","Ferozpur Jhirka","Sugarcane",
+2016,"Mewat","Nagina","Sugarcane",
+2016,"Mewat","Punhana","Sugarcane",80614
+2016,"Faridabad","Faridabad","Sugarcane",
+2016,"Faridabad","B/garh","Sugarcane",80614
+2016,"Palwal","Palwal","Sugarcane",44803
+2016,"Palwal","Hodal","Sugarcane",50500
+2016,"Palwal","Hassanpur","Sugarcane",67060
+2016,"Palwal","Hathin","Sugarcane",50412
+2016,"Panipat","Panipat","Sugarcane",85000
+2016,"Panipat","Samalkha","Sugarcane",68272
+2016,"Panipat","Matlauda","Sugarcane",93642
+2016,"Panipat","Bapoli","Sugarcane",78622
+2016,"Panipat","Israna","Sugarcane",90625
+2016,"Karnal","Karnal","Sugarcane",88500
+2016,"Karnal","Nissing","Sugarcane",93400
+2016,"Karnal","Indri","Sugarcane",98050
+2016,"Karnal","Gharaunda","Sugarcane",92859
+2016,"Karnal","Assandh","Sugarcane",97600
+2016,"Karnal","Nilokheri","Sugarcane",93517
+2016,"Kurukshetra","Thanesar","Sugarcane",96890
+2016,"Kurukshetra","Shahabad","Sugarcane",81848
+2016,"Kurukshetra","Pehowa","Sugarcane",75960
+2016,"Kurukshetra","Ladwa","Sugarcane",94731
+2016,"Kurukshetra","Babain","Sugarcane",85586
+2016,"Kaithal","Kaithal","Sugarcane",95713
+2016,"Kaithal","Pundri","Sugarcane",93082
+2016,"Kaithal","Kalayat","Sugarcane",97000
+2016,"Kaithal","Rajound","Sugarcane",102000
+2016,"Kaithal","Gulha","Sugarcane",95004
+2016,"Kaithal","Siwan","Sugarcane",95004
+2016,"Ambala","Ambala-I","Sugarcane",71422
+2016,"Ambala","Ambala-II","Sugarcane",78128
+2016,"Ambala","Barara","Sugarcane",79223
+2016,"Ambala","Saha","Sugarcane",80003
+2016,"Ambala","Naraingarh","Sugarcane",93700
+2016,"Ambala","Sahazadpur","Sugarcane",66500
+2016,"Panchkula","Morni","Sugarcane",
+2016,"Panchkula","Barwala","Sugarcane",91330
+2016,"Panchkula","Raipurrani","Sugarcane",88600
+2016,"Panchkula","Pinjore","Sugarcane",
+2016,"Yamuna Nagar","Jagadhari","Sugarcane",73912
+2016,"Yamuna Nagar","Bilaspur","Sugarcane",75458
+2016,"Yamuna Nagar","Radaur","Sugarcane",88581
+2016,"Yamuna Nagar","Sadaura","Sugarcane",91529
+2016,"Yamuna Nagar","Chhachhrauli","Sugarcane",77724
+2016,"Yamuna Nagar","Mustafabad","Sugarcane",75285
+2016,"Jind","Jind","Sugarcane",78519
+2016,"Jind","Julana","Sugarcane",68520
+2016,"Jind","Alewa","Sugarcane",73000
+2016,"Jind","Safidon","Sugarcane",74528
+2016,"Jind","Pillukhera","Sugarcane",84750
+2016,"Jind","Uchana","Sugarcane",
+2016,"Jind","Narwana","Sugarcane",64250
+2016,"Mahendergarh","Kanina","Sugarcane",
+2016,"Mahendergarh","Mahendergarh","Sugarcane",
+2016,"Mahendergarh","Satnali","Sugarcane",
+2016,"Mahendergarh","Ateli","Sugarcane",
+2016,"Mahendergarh","Narnaul","Sugarcane",
+2016,"Mahendergarh","Nijampur","Sugarcane",
+2016,"Mahendergarh","Sihma","Sugarcane",
+2016,"Mahendergarh","Nangal Chaudhary","Sugarcane",
+2016,"Rewari","Rewari","Sugarcane",
+2016,"Rewari","Khol","Sugarcane",
+2016,"Rewari","Jatusana","Sugarcane",
+2016,"Rewari","Bawal","Sugarcane",
+2016,"Rewari","Nahar","Sugarcane",
+2016,"Hisar","Hansi I","Cotton",537
+2016,"Hisar","Hansi-II","Cotton",585
+2016,"Hisar","Narnaund","Cotton",401
+2016,"Hisar","Hisar I","Cotton",624
+2016,"Hisar","Hisar II","Cotton",696
+2016,"Hisar","Barwala","Cotton",693
+2016,"Hisar","Uklana","Cotton",699
+2016,"Hisar","Agroha","Cotton",686
+2016,"Hisar","Adampur","Cotton",728
+2016,"Fatehabad","Ratia","Cotton",656
+2016,"Fatehabad","Fatehabad","Cotton",677
+2016,"Fatehabad","Bhattukalan","Cotton",726
+2016,"Fatehabad","Bhuna","Cotton",807
+2016,"Fatehabad","Tohana","Cotton",601
+2016,"Fatehabad","Jakhal","Cotton",650
+2016,"Sirsa","Sirsa","Cotton",742
+2016,"Sirsa","Nathusari","Cotton",622
+2016,"Sirsa","Baragudha","Cotton",717
+2016,"Sirsa","Rania","Cotton",679
+2016,"Sirsa","Ellenabad","Cotton",610
+2016,"Sirsa","Dabwali","Cotton",724
+2016,"Sirsa","Odhan","Cotton",756
+2016,"Bhiwani","Loharu","Cotton",524
+2016,"Bhiwani","Bhiwani","Cotton",462
+2016,"Bhiwani","Tosham","Cotton",641
+2016,"Bhiwani","Bawani Khera","Cotton",516
+2016,"Bhiwani","Dadri-I","Cotton",517
+2016,"Bhiwani","Dadri-II","Cotton",564
+2016,"Bhiwani","Badhra","Cotton",442
+2016,"Bhiwani","Siwani","Cotton",608
+2016,"Bhiwani","Kairu","Cotton",450
+2016,"Bhiwani","Behal","Cotton",497
+2016,"Rohtak","Lakhan Majra","Cotton",295
+2016,"Rohtak","Rohtak","Cotton",493
+2016,"Rohtak","Sampla","Cotton",499
+2016,"Rohtak","Meham","Cotton",235
+2016,"Rohtak","Kalanaur","Cotton",341
+2016,"Jhajjar","Jhajjar","Cotton",504
+2016,"Jhajjar","Beri","Cotton",601
+2016,"Jhajjar","Salhawas","Cotton",648
+2016,"Jhajjar","Matanhail","Cotton",478
+2016,"Jhajjar","Bahadurgarh","Cotton",484
+2016,"Sonepat","Sonepat","Cotton",645
+2016,"Sonepat","Rai","Cotton",627
+2016,"Sonepat","Kharkhoda","Cotton",591
+2016,"Sonepat","Gohana","Cotton",592
+2016,"Sonepat","Kathura","Cotton",542
+2016,"Sonepat","Mundlana","Cotton",641
+2016,"Sonepat","Ganaur","Cotton",603
+2016,"Gurgaon","Gurgaon","Cotton",
+2016,"Gurgaon","Farrukh Nagar","Cotton",170
+2016,"Gurgaon","Sohna","Cotton",406
+2016,"Gurgaon","Pataudi","Cotton",272
+2016,"Mewat","Nuh","Cotton",494
+2016,"Mewat","Tauru","Cotton",360
+2016,"Mewat","Ferozpur Jhirka","Cotton",225
+2016,"Mewat","Nagina","Cotton",714
+2016,"Mewat","Punhana","Cotton",461
+2016,"Faridabad","Faridabad","Cotton",
+2016,"Faridabad","B/garh","Cotton",1003
+2016,"Palwal","Palwal","Cotton",578
+2016,"Palwal","Hodal","Cotton",413
+2016,"Palwal","Hassanpur","Cotton",548
+2016,"Palwal","Hathin","Cotton",492
+2016,"Panipat","Panipat","Cotton",
+2016,"Panipat","Samalkha","Cotton",
+2016,"Panipat","Matlauda","Cotton",
+2016,"Panipat","Bapoli","Cotton",
+2016,"Panipat","Israna","Cotton",
+2016,"Karnal","Karnal","Cotton",
+2016,"Karnal","Nissing","Cotton",
+2016,"Karnal","Indri","Cotton",
+2016,"Karnal","Gharaunda","Cotton",
+2016,"Karnal","Assandh","Cotton",609
+2016,"Karnal","Nilokheri","Cotton",
+2016,"Kurukshetra","Thanesar","Cotton",
+2016,"Kurukshetra","Shahabad","Cotton",
+2016,"Kurukshetra","Pehowa","Cotton",
+2016,"Kurukshetra","Ladwa","Cotton",
+2016,"Kurukshetra","Babain","Cotton",
+2016,"Kaithal","Kaithal","Cotton",190
+2016,"Kaithal","Pundri","Cotton",579
+2016,"Kaithal","Kalayat","Cotton",537
+2016,"Kaithal","Rajound","Cotton",423
+2016,"Kaithal","Gulha","Cotton",
+2016,"Kaithal","Siwan","Cotton",
+2016,"Ambala","Ambala-I","Cotton",
+2016,"Ambala","Ambala-II","Cotton",
+2016,"Ambala","Barara","Cotton",
+2016,"Ambala","Saha","Cotton",
+2016,"Ambala","Naraingarh","Cotton",
+2016,"Ambala","Sahazadpur","Cotton",
+2016,"Panchkula","Morni","Cotton",
+2016,"Panchkula","Barwala","Cotton",
+2016,"Panchkula","Raipurrani","Cotton",
+2016,"Panchkula","Pinjore","Cotton",
+2016,"Yamuna Nagar","Jagadhari","Cotton",
+2016,"Yamuna Nagar","Bilaspur","Cotton",
+2016,"Yamuna Nagar","Radaur","Cotton",
+2016,"Yamuna Nagar","Sadaura","Cotton",
+2016,"Yamuna Nagar","Chhachhrauli","Cotton",
+2016,"Yamuna Nagar","Mustafabad","Cotton",
+2016,"Jind","Jind","Cotton",395
+2016,"Jind","Julana","Cotton",484
+2016,"Jind","Alewa","Cotton",429
+2016,"Jind","Safidon","Cotton",400
+2016,"Jind","Pillukhera","Cotton",394
+2016,"Jind","Uchana","Cotton",580
+2016,"Jind","Narwana","Cotton",658
+2016,"Mahendergarh","Kanina","Cotton",599
+2016,"Mahendergarh","Mahendergarh","Cotton",545
+2016,"Mahendergarh","Satnali","Cotton",659
+2016,"Mahendergarh","Ateli","Cotton",698
+2016,"Mahendergarh","Narnaul","Cotton",597
+2016,"Mahendergarh","Nijampur","Cotton",588
+2016,"Mahendergarh","Sihma","Cotton",588
+2016,"Mahendergarh","Nangal Chaudhary","Cotton",588
+2016,"Rewari","Rewari","Cotton",443
+2016,"Rewari","Khol","Cotton",432
+2016,"Rewari","Jatusana","Cotton",444
+2016,"Rewari","Bawal","Cotton",570
+2016,"Rewari","Nahar","Cotton",458

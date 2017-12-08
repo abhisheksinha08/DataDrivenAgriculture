@@ -44,7 +44,7 @@ The dataset has yield (produced/output in tonnes per hectare). The data is granu
 missingYield <- prop.table(table(is.na(yield_db$Yield==0))) * 100
 
 ```
-`r missingYield[1]`% missing values in yield date.
+`r missingYield[2]`% missing values in yield date.
 
 IMPORTANT: How to tackle missing data. Best approach here will be remove these rows.
 

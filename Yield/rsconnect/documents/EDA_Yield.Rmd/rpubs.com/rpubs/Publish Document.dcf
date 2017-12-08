@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/339139/32ad0bcd315744d1925a41afdc42bd8d
+bundleId: https://api.rpubs.com/api/v1/document/339139/32ad0bcd315744d1925a41afdc42bd8d
+url: http://rpubs.com/abhishek08/339139
+when: 1512750479.84199

@@ -7,16 +7,16 @@ library(stringr)
 setwd('./WaterTableDataExtracter/DepthQuarterly')
 
 # Describe the input CSV
-raw.input.csv.file.name <- "water_table_depth_quarterly_2014_2015_untidy.csv"
-tidy.output.csv.file.name <- "water_table_depth_quarterly_2014_2015.csv"
+raw.input.csv.file.name <- "water_table_depth_quarterly_2013_2014_untidy.csv"
+tidy.output.csv.file.name <- "water_table_depth_quarterly_2013_2014.csv"
 
-quarterly.column.names <- c('District',  'Location', "May 2014", "August 2014", "November 2014" , "January 2015")
+quarterly.column.names <- c('District',  'Location', "May 2013", "August 2013", "November 2013" , "January 2014")
 
 input.col_types = cols(
-    `May 2014` = col_double(),
-    `August 2014` = col_double(),   
-    `November 2014` = col_double(),
-    `January 2015` = col_double(),
+    `May 2013` = col_double(),
+    `August 2013` = col_double(),   
+    `November 2013` = col_double(),
+    `January 2014` = col_double(),
     `Sl. No.` = col_skip())
 # End of input CSV description. No more changes should be required in script below.
 

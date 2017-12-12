@@ -1,0 +1,87 @@
+---
+title: "Exploratory Data Analysis for Water Table Depth"
+author: "Madhup Kumar"
+date: "December 8, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse, quietly = T)
+library(plotly, quietly = T)
+```
+
+
+Exploratory data analysis of quarterly data for water table depth in Haryana for the period 2012-2016.
+
+## Loading Data
+
+Loading data
+
+```{r depthload}
+depth_db <- read.csv("water_table_depth_quarterly_2015_2016.csv")
+summary(depth_db)
+```
+
+
+```{r}
+depth_db$Depth <- as.double(as.character(depth_db$Depth))
+depth_db$Quarter <- as.factor(depth_db$Quarter)
+
+# Replace 0 to NA for Depth
+depth_db$Depth[depth_db$Depth==0] <- NA
+depth_db$Depth[depth_db$Depth==99.000] <- NA
+str(depth_db)
+```
+
+
+The dataset has water table depth (in meters) averaged over all wells of a Block. The depth is measured in the months of May, August, November and January.
+
+##Missing Data
+
+```{r}
+missingDepth <- prop.table(table(is.na(depth_db$Depth)))
+
+```
+`r missingDepth[2]`% missing values.
+
+IMPORTANT: How to tackle missing data. Best approach here will be to check against well-wise data.
+
+## Counts
+
+Number of records per qtr and per district
+```{r}
+table(depth_db$Quarter)
+table(depth_db$District)
+```
+
+```{r}
+prop.table(table(depth_db$District))
+```
+
+
+
+
+###Outlier Analysis
+
+Box plot of all qtrs
+```{r}
+ggplotly(ggplot(data=depth_db[,], aes(x=Quarter, y=Depth, fill=Quarter)) + geom_boxplot())
+```
+
+###Average Depth by Qtr
+
+```{r}
+avg_depth_qtr <- depth_db %>% group_by_(.dots=c("Quarter")) %>% dplyr::summarize(Mean = mean(Depth, na.rm = T))
+avg_depth_qtr <- as.data.frame(avg_depth_qtr)
+avg_depth_qtr
+```
+
+For all qtrs
+```{r fig.width=10,fig.height=20}
+ggplotly(ggplot(data = depth_db[,], aes(x=District, y=Depth, fill=District)) + geom_boxplot() + facet_grid(Quarter~., scales = "free_y") + ylab("Quarterly Average Depth"))
+```
+
+
+IMPORTANT: Outliers need to be tackled using well-wise depth data (which is also available)
+

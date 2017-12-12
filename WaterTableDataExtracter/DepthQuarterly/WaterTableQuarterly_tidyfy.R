@@ -37,42 +37,31 @@ head(water.table.df)
 
 
 # Create a logical vector with all rows that appear in the dataset first in the district
-has.district.names.flag <- as.vector( sapply(water.table.df['[District:]Location'] ,   str_detect, regex(":") ) )
+has.district.names.flag <- as.vector(! sapply(water.table.df['District'] ,  is.na ) )
 head(has.district.names.flag, 15)
 
 # Print summary. Note that Total number of TRUE values = the number of districts = 18
 summary(has.district.names.flag)
 
 # Find and flag all the first occurring Locations of each district
-water.table.df <- cbind(has.district.names.flag, water.table.df)
-
 total.rows <- nrow(water.table.df)
 current.district.name <- NA
-current.location.name <- NA
-district.name <- vector(mode = "character", length = total.rows )
-location.name <- vector(mode = "character", length = total.rows)
+water.table.df.0 <- cbind(has.district.names.flag, water.table.df)
 
 # Assign a district to each row. 
 for(i in 1:total.rows) {
-  row <- water.table.df[i,]
+  row <- water.table.df.0[i,]
   
-  district.location <- row[['[District:]Location']]
-  current.location.name <- district.location
   if(row['has.district.names.flag'] == TRUE){
-    colon.index <- str_locate(district.location , regex(":"))
-    current.district.name <- substr ( district.location , 1 , (colon.index - 1) )
-    current.location.name <- substr ( district.location , (colon.index + 1) , str_length(district.location))
+    district.name.allcaps <-    row[['District']]
+    district.name.first.char <- substr (district.name.allcaps, 1, 1)
+    district.name.tail <- substr( district.name.allcaps, 2, str_length(district.name.allcaps))
+    current.district.name <- paste( district.name.first.char,str_to_lower(district.name.tail), sep = '')
   }
-  # print(paste(current.district.name, '  :  ' , current.location.name)) 
-  district.name[i] <- current.district.name 
-  location.name[i] <- current.location.name 
+  water.table.df.0[i,][['District']] <- current.district.name
 }
-
-water.table.df.0 <- cbind(water.table.df, district.name, location.name)
-names(water.table.df.0)[names(water.table.df.0) == 'district.name'] <- quarterly.column.names[1]
-names(water.table.df.0)[names(water.table.df.0) == 'location.name'] <- quarterly.column.names[2]
 # End of district value population for all locations.
-
+head(water.table.df.0, 15)
 
 # There is a column for each quarter dimension i.e. 4 columns. This we need to tidyfy so that there is only one column specifying the quarter
 # - thus normalizing 1 row into 4 rows with each row containing only one fact column.

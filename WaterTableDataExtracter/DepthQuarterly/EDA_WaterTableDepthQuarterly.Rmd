@@ -80,7 +80,8 @@ avg_depth_qtr
 
 For all qtrs
 ```{r fig.width=10,fig.height=50}
-ggplotly(ggplot(data = depth_db[,], aes(x=District, y=Depth, fill=District)) + geom_boxplot() + facet_grid(Quarter~., scales = "free_y") + ylab("Quarterly Average Depth"))
+ggplotly(ggplot(data = depth_db[,], aes(x=District, y=Depth, fill=District)) + geom_boxplot() + ylim(0,50) + facet_grid(Quarter~.) + ylab("Quarterly Average Depth"))
+
 ```
 
 

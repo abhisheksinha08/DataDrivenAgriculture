@@ -1,0 +1,486 @@
+"","X","Year","District","Block","Crop","Yield"
+"1",971,2013,"Hisar","Hansi I","Maize",-0.528826495540645
+"2",972,2013,"Hisar","Hansi-II","Maize",-0.528826495540645
+"3",973,2013,"Hisar","Narnaund","Maize",-0.528826495540645
+"4",974,2013,"Hisar","Hisar I","Maize",-0.528826495540645
+"5",975,2013,"Hisar","Hisar II","Maize",-0.528826495540645
+"6",976,2013,"Hisar","Barwala","Maize",-0.528826495540645
+"7",977,2013,"Hisar","Uklana","Maize",-0.528826495540645
+"8",978,2013,"Hisar","Agroha","Maize",-0.528826495540645
+"9",979,2013,"Hisar","Adampur","Maize",-0.528826495540645
+"10",980,2013,"Fatehabad","Ratia","Maize",-0.528826495540645
+"11",981,2013,"Fatehabad","Fatehabad","Maize",-0.528826495540645
+"12",982,2013,"Fatehabad","Bhattukalan","Maize",-0.528826495540645
+"13",983,2013,"Fatehabad","Bhuna","Maize",-0.528826495540645
+"14",984,2013,"Fatehabad","Tohana","Maize",-0.528826495540645
+"15",985,2013,"Fatehabad","Jakhal","Maize",-0.528826495540645
+"16",986,2013,"Sirsa","Sirsa","Maize",-0.528826495540645
+"17",987,2013,"Sirsa","Nathusari","Maize",-0.528826495540645
+"18",988,2013,"Sirsa","Baragudha","Maize",-0.528826495540645
+"19",989,2013,"Sirsa","Rania","Maize",-0.528826495540645
+"20",990,2013,"Sirsa","Ellenabad","Maize",-0.528826495540645
+"21",991,2013,"Sirsa","Dabwali","Maize",-0.528826495540645
+"22",992,2013,"Sirsa","Odhan","Maize",-0.528826495540645
+"23",993,2013,"Sirsa","Sirsa","Maize",-0.528826495540645
+"24",994,2013,"Bhiwani","Loharu","Maize",-0.528826495540645
+"25",995,2013,"Bhiwani","Bhiwani","Maize",1.75579591535878
+"26",996,2013,"Bhiwani","Tosham","Maize",-0.528826495540645
+"27",997,2013,"Bhiwani","Bawani Khera","Maize",-0.528826495540645
+"28",998,2013,"Bhiwani","Dadri-I","Maize",-0.528826495540645
+"29",999,2013,"Bhiwani","Dadri-II","Maize",-0.528826495540645
+"30",1000,2013,"Bhiwani","Badhra","Maize",-0.528826495540645
+"31",1001,2013,"Bhiwani","Siwani","Maize",-0.528826495540645
+"32",1002,2013,"Bhiwani","Kairu","Maize",-0.528826495540645
+"33",1003,2013,"Bhiwani","Behal","Maize",-0.528826495540645
+"34",1004,2013,"Rohtak","Lakhan Majra","Maize",1.75579591535878
+"35",1005,2013,"Rohtak","Rohtak","Maize",1.75579591535878
+"36",1006,2013,"Rohtak","Sampla","Maize",1.75579591535878
+"37",1007,2013,"Rohtak","Meham","Maize",1.75579591535878
+"38",1008,2013,"Rohtak","Kalanaur","Maize",-0.528826495540645
+"39",1009,2013,"Jhajjar","Jhajjar","Maize",1.75579591535878
+"40",1010,2013,"Jhajjar","Beri","Maize",-0.528826495540645
+"41",1011,2013,"Jhajjar","Salhawas","Maize",-0.528826495540645
+"42",1012,2013,"Jhajjar","Matanhail","Maize",-0.528826495540645
+"43",1013,2013,"Jhajjar","Bahadurgarh","Maize",-0.528826495540645
+"44",1014,2013,"Sonepat","Sonepat","Maize",1.75579591535878
+"45",1015,2013,"Sonepat","Rai","Maize",1.75579591535878
+"46",1016,2013,"Sonepat","Kharkhoda","Maize",1.75579591535878
+"47",1017,2013,"Sonepat","Gohana","Maize",-0.528826495540645
+"48",1018,2013,"Sonepat","Kathura","Maize",-0.528826495540645
+"49",1019,2013,"Sonepat","Mundlana","Maize",-0.528826495540645
+"50",1020,2013,"Sonepat","Ganaur","Maize",-0.528826495540645
+"51",1021,2013,"Gurgaon","Gurgaon","Maize",-0.528826495540645
+"52",1022,2013,"Gurgaon","Farrukh Nagar","Maize",-0.528826495540645
+"53",1023,2013,"Gurgaon","Sohna","Maize",-0.528826495540645
+"54",1024,2013,"Gurgaon","Pataudi","Maize",-0.528826495540645
+"55",1025,2013,"Mewat","Nuh","Maize",-0.528826495540645
+"56",1026,2013,"Mewat","Tauru","Maize",-0.528826495540645
+"57",1027,2013,"Mewat","Ferozpur Jhirka","Maize",-0.528826495540645
+"58",1028,2013,"Mewat","Nagina","Maize",-0.528826495540645
+"59",1029,2013,"Mewat","Punhana","Maize",-0.528826495540645
+"60",1030,2013,"Mewat","Mewat","Maize",-0.528826495540645
+"61",1031,2013,"Faridabad","Faridabad","Maize",-0.528826495540645
+"62",1032,2013,"Faridabad","B/garh","Maize",-0.528826495540645
+"63",1033,2013,"Palwal","Palwal","Maize",-0.528826495540645
+"64",1034,2013,"Palwal","Hodal","Maize",-0.528826495540645
+"65",1035,2013,"Palwal","Hassanpur","Maize",-0.528826495540645
+"66",1036,2013,"Palwal","Hathin","Maize",-0.528826495540645
+"67",1037,2013,"Panipat","Panipat","Maize",-0.528826495540645
+"68",1038,2013,"Panipat","Samalkha","Maize",-0.528826495540645
+"69",1039,2013,"Panipat","Matlauda","Maize",-0.528826495540645
+"70",1040,2013,"Panipat","Bapoli","Maize",-0.528826495540645
+"71",1041,2013,"Panipat","Israna","Maize",-0.528826495540645
+"72",1042,2013,"Karnal","Karnal","Maize",1.75579591535878
+"73",1043,2013,"Karnal","Nissing","Maize",-0.528826495540645
+"74",1044,2013,"Karnal","Indri","Maize",-0.528826495540645
+"75",1045,2013,"Karnal","Gharaunda","Maize",1.75579591535878
+"76",1046,2013,"Karnal","Assandh","Maize",-0.528826495540645
+"77",1047,2013,"Karnal","Nilokheri","Maize",-0.528826495540645
+"78",1048,2013,"Kurukshetra","Thanesar","Maize",1.75579591535878
+"79",1049,2013,"Kurukshetra","Shahabad","Maize",-0.528826495540645
+"80",1050,2013,"Kurukshetra","Pehowa","Maize",-0.528826495540645
+"81",1051,2013,"Kurukshetra","Ladwa","Maize",-0.528826495540645
+"82",1052,2013,"Kurukshetra","Babain","Maize",-0.528826495540645
+"83",1053,2013,"Kaithal","Kaithal","Maize",-0.528826495540645
+"84",1054,2013,"Kaithal","Pundri","Maize",-0.528826495540645
+"85",1055,2013,"Kaithal","Kalayat","Maize",-0.528826495540645
+"86",1056,2013,"Kaithal","Rajound","Maize",-0.528826495540645
+"87",1057,2013,"Kaithal","Gulha","Maize",-0.528826495540645
+"88",1058,2013,"Kaithal","Siwan","Maize",-0.528826495540645
+"89",1059,2013,"Kaithal","Kaithal","Maize",-0.528826495540645
+"90",1060,2013,"Ambala","Ambala-I","Maize",-0.528826495540645
+"91",1061,2013,"Ambala","Ambala-II","Maize",-0.528826495540645
+"92",1062,2013,"Ambala","Barara","Maize",2.49220587247202
+"93",1063,2013,"Ambala","Saha","Maize",2.49220587247202
+"94",1064,2013,"Ambala","Naraingarh","Maize",3.11819241305847
+"95",1065,2013,"Ambala","Sahazadpur","Maize",2.19672804066237
+"96",1066,2013,"Panchkula","Morni","Maize",2.1723587349461
+"97",1067,2013,"Panchkula","Barwala","Maize",1.51895672542887
+"98",1068,2013,"Panchkula","Raipurrani","Maize",2.03680447189941
+"99",1069,2013,"Panchkula","Pinjore","Maize",0.903631756093293
+"100",1070,2013,"Yamuna Nagar","Jagadhari","Maize",1.55779530641416
+"101",1071,2013,"Yamuna Nagar","Bilaspur","Maize",1.43290261461833
+"102",1072,2013,"Yamuna Nagar","Radaur","Maize",-0.528826495540645
+"103",1073,2013,"Yamuna Nagar","Sadaura","Maize",1.55779530641416
+"104",1074,2013,"Yamuna Nagar","Chhachhrauli","Maize",1.84108848536569
+"105",1075,2013,"Yamuna Nagar","Mustafabad","Maize",-0.528826495540645
+"106",1076,2013,"Jind","Jind","Maize",-0.528826495540645
+"107",1077,2013,"Jind","Julana","Maize",-0.528826495540645
+"108",1078,2013,"Jind","Alewa","Maize",-0.528826495540645
+"109",1079,2013,"Jind","Safidon","Maize",-0.528826495540645
+"110",1080,2013,"Jind","Pillukhera","Maize",-0.528826495540645
+"111",1081,2013,"Jind","Uchana","Maize",-0.528826495540645
+"112",1082,2013,"Jind","Narwana","Maize",-0.528826495540645
+"113",1083,2013,"Mahendergarh","Kanina","Maize",-0.528826495540645
+"114",1084,2013,"Mahendergarh","Mahendergarh","Maize",-0.528826495540645
+"115",1085,2013,"Mahendergarh","Ateli","Maize",-0.528826495540645
+"116",1086,2013,"Mahendergarh","Narnaul","Maize",-0.528826495540645
+"117",1087,2013,"Mahendergarh","Nangal Chaudhary","Maize",-0.528826495540645
+"118",1088,2013,"Rewari","Rewari","Maize",-0.528826495540645
+"119",1089,2013,"Rewari","Khol","Maize",-0.528826495540645
+"120",1090,2013,"Rewari","Jatusana","Maize",-0.528826495540645
+"121",1091,2013,"Rewari","Bawal","Maize",-0.528826495540645
+"122",1092,2013,"Rewari","Nahar","Maize",-0.528826495540645
+"123",1932,2014,"Hisar","Hansi I","Maize",-0.528826495540645
+"124",1933,2014,"Hisar","Hansi-II","Maize",-0.528826495540645
+"125",1934,2014,"Hisar","Narnaund","Maize",-0.528826495540645
+"126",1935,2014,"Hisar","Hisar I","Maize",-0.528826495540645
+"127",1936,2014,"Hisar","Hisar II","Maize",-0.528826495540645
+"128",1937,2014,"Hisar","Barwala","Maize",-0.528826495540645
+"129",1938,2014,"Hisar","Uklana","Maize",-0.528826495540645
+"130",1939,2014,"Hisar","Agroha","Maize",-0.528826495540645
+"131",1940,2014,"Hisar","Adampur","Maize",-0.528826495540645
+"132",1941,2014,"Fatehabad","Ratia","Maize",-0.528826495540645
+"133",1942,2014,"Fatehabad","Fatehabad","Maize",-0.528826495540645
+"134",1943,2014,"Fatehabad","Bhattukalan","Maize",-0.528826495540645
+"135",1944,2014,"Fatehabad","Bhuna","Maize",-0.528826495540645
+"136",1945,2014,"Fatehabad","Tohana","Maize",-0.528826495540645
+"137",1946,2014,"Fatehabad","Jakhal","Maize",-0.528826495540645
+"138",1947,2014,"Sirsa","Sirsa","Maize",-0.528826495540645
+"139",1948,2014,"Sirsa","Nathusari","Maize",-0.528826495540645
+"140",1949,2014,"Sirsa","Baragudha","Maize",-0.528826495540645
+"141",1950,2014,"Sirsa","Rania","Maize",-0.528826495540645
+"142",1951,2014,"Sirsa","Ellenabad","Maize",-0.528826495540645
+"143",1952,2014,"Sirsa","Dabwali","Maize",-0.528826495540645
+"144",1953,2014,"Sirsa","Odhan","Maize",-0.528826495540645
+"145",1954,2014,"Bhiwani","Loharu","Maize",-0.528826495540645
+"146",1955,2014,"Bhiwani","Bhiwani","Maize",-0.528826495540645
+"147",1956,2014,"Bhiwani","Tosham","Maize",-0.528826495540645
+"148",1957,2014,"Bhiwani","Bawani Khera","Maize",-0.528826495540645
+"149",1958,2014,"Bhiwani","Dadri-I","Maize",-0.528826495540645
+"150",1959,2014,"Bhiwani","Dadri-II","Maize",-0.528826495540645
+"151",1960,2014,"Bhiwani","Badhra","Maize",-0.528826495540645
+"152",1961,2014,"Bhiwani","Siwani","Maize",-0.528826495540645
+"153",1962,2014,"Bhiwani","Kairu","Maize",-0.528826495540645
+"154",1963,2014,"Bhiwani","Behal","Maize",-0.528826495540645
+"155",1964,2014,"Rohtak","Lakhan Majra","Maize",1.18464031263392
+"156",1965,2014,"Rohtak","Rohtak","Maize",1.18464031263392
+"157",1966,2014,"Rohtak","Sampla","Maize",-0.528826495540645
+"158",1967,2014,"Rohtak","Meham","Maize",-0.528826495540645
+"159",1968,2014,"Rohtak","Kalanaur","Maize",1.18464031263392
+"160",1969,2014,"Jhajjar","Jhajjar","Maize",-0.528826495540645
+"161",1970,2014,"Jhajjar","Beri","Maize",-0.528826495540645
+"162",1971,2014,"Jhajjar","Salhawas","Maize",-0.528826495540645
+"163",1972,2014,"Jhajjar","Matanhail","Maize",-0.528826495540645
+"164",1973,2014,"Jhajjar","Bahadurgarh","Maize",1.18464031263392
+"165",1974,2014,"Sonepat","Sonepat","Maize",1.18464031263392
+"166",1975,2014,"Sonepat","Rai","Maize",1.18464031263392
+"167",1976,2014,"Sonepat","Kharkhoda","Maize",1.18464031263392
+"168",1977,2014,"Sonepat","Gohana","Maize",-0.528826495540645
+"169",1978,2014,"Sonepat","Kathura","Maize",1.18464031263392
+"170",1979,2014,"Sonepat","Mundlana","Maize",-0.528826495540645
+"171",1980,2014,"Sonepat","Ganaur","Maize",-0.528826495540645
+"172",1981,2014,"Gurgaon","Gurgaon","Maize",-0.528826495540645
+"173",1982,2014,"Gurgaon","Farrukh Nagar","Maize",-0.528826495540645
+"174",1983,2014,"Gurgaon","Sohna","Maize",-0.528826495540645
+"175",1984,2014,"Gurgaon","Pataudi","Maize",-0.528826495540645
+"176",1985,2014,"Mewat","Nuh","Maize",-0.528826495540645
+"177",1986,2014,"Mewat","Tauru","Maize",-0.528826495540645
+"178",1987,2014,"Mewat","Ferozpur Jhirka","Maize",-0.528826495540645
+"179",1988,2014,"Mewat","Nagina","Maize",-0.528826495540645
+"180",1989,2014,"Mewat","Punhana","Maize",-0.528826495540645
+"181",1990,2014,"Faridabad","Faridabad","Maize",-0.528826495540645
+"182",1991,2014,"Faridabad","B/garh","Maize",-0.528826495540645
+"183",1992,2014,"Palwal","Palwal","Maize",-0.528826495540645
+"184",1993,2014,"Palwal","Hodal","Maize",-0.528826495540645
+"185",1994,2014,"Palwal","Hassanpur","Maize",-0.528826495540645
+"186",1995,2014,"Palwal","Hathin","Maize",-0.528826495540645
+"187",1996,2014,"Panipat","Panipat","Maize",-0.528826495540645
+"188",1997,2014,"Panipat","Samalkha","Maize",-0.528826495540645
+"189",1998,2014,"Panipat","Matlauda","Maize",-0.528826495540645
+"190",1999,2014,"Panipat","Bapoli","Maize",-0.528826495540645
+"191",2000,2014,"Panipat","Israna","Maize",-0.528826495540645
+"192",2001,2014,"Karnal","Karnal","Maize",1.18464031263392
+"193",2002,2014,"Karnal","Nissing","Maize",-0.528826495540645
+"194",2003,2014,"Karnal","Indri","Maize",-0.528826495540645
+"195",2004,2014,"Karnal","Gharaunda","Maize",1.18464031263392
+"196",2005,2014,"Karnal","Assandh","Maize",-0.528826495540645
+"197",2006,2014,"Karnal","Nilokheri","Maize",-0.528826495540645
+"198",2007,2014,"Kurukshetra","Thanesar","Maize",-0.528826495540645
+"199",2008,2014,"Kurukshetra","Shahabad","Maize",-0.528826495540645
+"200",2009,2014,"Kurukshetra","Pehowa","Maize",-0.528826495540645
+"201",2010,2014,"Kurukshetra","Ladwa","Maize",-0.528826495540645
+"202",2011,2014,"Kurukshetra","Babain","Maize",-0.528826495540645
+"203",2012,2014,"Kaithal","Kaithal","Maize",1.18464031263392
+"204",2013,2014,"Kaithal","Pundri","Maize",-0.528826495540645
+"205",2014,2014,"Kaithal","Kalayat","Maize",-0.528826495540645
+"206",2015,2014,"Kaithal","Rajound","Maize",-0.528826495540645
+"207",2016,2014,"Kaithal","Gulha","Maize",-0.528826495540645
+"208",2017,2014,"Kaithal","Siwan","Maize",-0.528826495540645
+"209",2018,2014,"Ambala","Ambala-I","Maize",-0.528826495540645
+"210",2019,2014,"Ambala","Ambala-II","Maize",-0.528826495540645
+"211",2020,2014,"Ambala","Barara","Maize",2.3056283755819
+"212",2021,2014,"Ambala","Saha","Maize",-0.528826495540645
+"213",2022,2014,"Ambala","Naraingarh","Maize",2.7328527664201
+"214",2023,2014,"Ambala","Sahazadpur","Maize",2.03985063511394
+"215",2024,2014,"Panchkula","Morni","Maize",1.68878032463906
+"216",2025,2014,"Panchkula","Barwala","Maize",0.771885197064759
+"217",2026,2014,"Panchkula","Raipurrani","Maize",1.00110897895833
+"218",2027,2014,"Panchkula","Pinjore","Maize",0.816054563675481
+"219",2028,2014,"Yamuna Nagar","Jagadhari","Maize",-0.528826495540645
+"220",2029,2014,"Yamuna Nagar","Bilaspur","Maize",1.10010928343064
+"221",2030,2014,"Yamuna Nagar","Radaur","Maize",-0.528826495540645
+"222",2031,2014,"Yamuna Nagar","Sadaura","Maize",1.12828629316507
+"223",2032,2014,"Yamuna Nagar","Chhachhrauli","Maize",1.22500197522648
+"224",2033,2014,"Yamuna Nagar","Mustafabad","Maize",-0.528826495540645
+"225",2034,2014,"Jind","Jind","Maize",-0.528826495540645
+"226",2035,2014,"Jind","Julana","Maize",-0.528826495540645
+"227",2036,2014,"Jind","Alewa","Maize",-0.528826495540645
+"228",2037,2014,"Jind","Safidon","Maize",-0.528826495540645
+"229",2038,2014,"Jind","Pillukhera","Maize",-0.528826495540645
+"230",2039,2014,"Jind","Uchana","Maize",-0.528826495540645
+"231",2040,2014,"Jind","Narwana","Maize",-0.528826495540645
+"232",2041,2014,"Mahendergarh","Kanina","Maize",-0.528826495540645
+"233",2042,2014,"Mahendergarh","Mahendergarh","Maize",-0.528826495540645
+"234",2043,2014,"Mahendergarh","Ateli","Maize",-0.528826495540645
+"235",2044,2014,"Mahendergarh","Narnaul","Maize",-0.528826495540645
+"236",2045,2014,"Mahendergarh","Nangal Chaudhary","Maize",-0.528826495540645
+"237",2046,2014,"Rewari","Rewari","Maize",-0.528826495540645
+"238",2047,2014,"Rewari","Khol","Maize",-0.528826495540645
+"239",2048,2014,"Rewari","Jatusana","Maize",-0.528826495540645
+"240",2049,2014,"Rewari","Bawal","Maize",-0.528826495540645
+"241",2050,2014,"Rewari","Nahar","Maize",-0.528826495540645
+"242",2899,2015,"Hisar","Hansi I","Maize",-0.528826495540645
+"243",2900,2015,"Hisar","Hansi-II","Maize",-0.528826495540645
+"244",2901,2015,"Hisar","Narnaund","Maize",-0.528826495540645
+"245",2902,2015,"Hisar","Hisar I","Maize",-0.528826495540645
+"246",2903,2015,"Hisar","Hisar II","Maize",-0.528826495540645
+"247",2904,2015,"Hisar","Barwala","Maize",-0.528826495540645
+"248",2905,2015,"Hisar","Uklana","Maize",-0.528826495540645
+"249",2906,2015,"Hisar","Agroha","Maize",-0.528826495540645
+"250",2907,2015,"Hisar","Adampur","Maize",-0.528826495540645
+"251",2908,2015,"Fatehabad","Ratia","Maize",-0.528826495540645
+"252",2909,2015,"Fatehabad","Fatehabad","Maize",-0.528826495540645
+"253",2910,2015,"Fatehabad","Bhattukalan","Maize",-0.528826495540645
+"254",2911,2015,"Fatehabad","Bhuna","Maize",-0.528826495540645
+"255",2912,2015,"Fatehabad","Tohana","Maize",-0.528826495540645
+"256",2913,2015,"Fatehabad","Jakhal","Maize",-0.528826495540645
+"257",2914,2015,"Sirsa","Sirsa","Maize",-0.528826495540645
+"258",2915,2015,"Sirsa","Nathusari","Maize",-0.528826495540645
+"259",2916,2015,"Sirsa","Baragudha","Maize",-0.528826495540645
+"260",2917,2015,"Sirsa","Rania","Maize",-0.528826495540645
+"261",2918,2015,"Sirsa","Ellenabad","Maize",-0.528826495540645
+"262",2919,2015,"Sirsa","Dabwali","Maize",-0.528826495540645
+"263",2920,2015,"Sirsa","Odhan","Maize",-0.528826495540645
+"264",2921,2015,"Bhiwani","Loharu","Maize",-0.528826495540645
+"265",2922,2015,"Bhiwani","Bhiwani","Maize",-0.528826495540645
+"266",2923,2015,"Bhiwani","Tosham","Maize",-0.528826495540645
+"267",2924,2015,"Bhiwani","Bawani Khera","Maize",-0.528826495540645
+"268",2925,2015,"Bhiwani","Dadri-I","Maize",-0.528826495540645
+"269",2926,2015,"Bhiwani","Dadri-II","Maize",-0.528826495540645
+"270",2927,2015,"Bhiwani","Badhra","Maize",-0.528826495540645
+"271",2928,2015,"Bhiwani","Siwani","Maize",-0.528826495540645
+"272",2929,2015,"Bhiwani","Kairu","Maize",-0.528826495540645
+"273",2930,2015,"Bhiwani","Behal","Maize",-0.528826495540645
+"274",2931,2015,"Rohtak","Lakhan Majra","Maize",1.62861860115204
+"275",2932,2015,"Rohtak","Rohtak","Maize",1.62861860115204
+"276",2933,2015,"Rohtak","Sampla","Maize",-0.528826495540645
+"277",2934,2015,"Rohtak","Meham","Maize",1.62861860115204
+"278",2935,2015,"Rohtak","Kalanaur","Maize",1.62861860115204
+"279",2936,2015,"Jhajjar","Jhajjar","Maize",1.62861860115204
+"280",2937,2015,"Jhajjar","Beri","Maize",-0.528826495540645
+"281",2938,2015,"Jhajjar","Salhawas","Maize",-0.528826495540645
+"282",2939,2015,"Jhajjar","Matanhail","Maize",-0.528826495540645
+"283",2940,2015,"Jhajjar","Bahadurgarh","Maize",1.62861860115204
+"284",2941,2015,"Sonepat","Sonepat","Maize",1.62861860115204
+"285",2942,2015,"Sonepat","Rai","Maize",-0.528826495540645
+"286",2943,2015,"Sonepat","Kharkhoda","Maize",-0.528826495540645
+"287",2944,2015,"Sonepat","Gohana","Maize",-0.528826495540645
+"288",2945,2015,"Sonepat","Kathura","Maize",-0.528826495540645
+"289",2946,2015,"Sonepat","Mundlana","Maize",-0.528826495540645
+"290",2947,2015,"Sonepat","Ganaur","Maize",-0.528826495540645
+"291",2948,2015,"Gurgaon","Gurgaon","Maize",-0.528826495540645
+"292",2949,2015,"Gurgaon","Farrukh Nagar","Maize",-0.528826495540645
+"293",2950,2015,"Gurgaon","Sohna","Maize",-0.528826495540645
+"294",2951,2015,"Gurgaon","Pataudi","Maize",-0.528826495540645
+"295",2952,2015,"Mewat","Nuh","Maize",-0.528826495540645
+"296",2953,2015,"Mewat","Tauru","Maize",-0.528826495540645
+"297",2954,2015,"Mewat","Ferozpur Jhirka","Maize",-0.528826495540645
+"298",2955,2015,"Mewat","Nagina","Maize",-0.528826495540645
+"299",2956,2015,"Mewat","Punhana","Maize",-0.528826495540645
+"300",2957,2015,"Faridabad","Faridabad","Maize",-0.528826495540645
+"301",2958,2015,"Faridabad","B/garh","Maize",-0.528826495540645
+"302",2959,2015,"Palwal","Palwal","Maize",-0.528826495540645
+"303",2960,2015,"Palwal","Hodal","Maize",-0.528826495540645
+"304",2961,2015,"Palwal","Hassanpur","Maize",-0.528826495540645
+"305",2962,2015,"Palwal","Hathin","Maize",-0.528826495540645
+"306",2963,2015,"Panipat","Panipat","Maize",-0.528826495540645
+"307",2964,2015,"Panipat","Samalkha","Maize",-0.528826495540645
+"308",2965,2015,"Panipat","Matlauda","Maize",-0.528826495540645
+"309",2966,2015,"Panipat","Bapoli","Maize",-0.528826495540645
+"310",2967,2015,"Panipat","Israna","Maize",-0.528826495540645
+"311",2968,2015,"Karnal","Karnal","Maize",-0.528826495540645
+"312",2969,2015,"Karnal","Nissing","Maize",-0.528826495540645
+"313",2970,2015,"Karnal","Indri","Maize",-0.528826495540645
+"314",2971,2015,"Karnal","Gharaunda","Maize",1.62861860115204
+"315",2972,2015,"Karnal","Assandh","Maize",-0.528826495540645
+"316",2973,2015,"Karnal","Nilokheri","Maize",-0.528826495540645
+"317",2974,2015,"Kurukshetra","Thanesar","Maize",2.09011232815373
+"318",2975,2015,"Kurukshetra","Shahabad","Maize",1.87459628072555
+"319",2976,2015,"Kurukshetra","Pehowa","Maize",2.16626640851704
+"320",2977,2015,"Kurukshetra","Ladwa","Maize",1.35674853425501
+"321",2978,2015,"Kurukshetra","Babain","Maize",2.11524317467362
+"322",2979,2015,"Kaithal","Kaithal","Maize",-0.528826495540645
+"323",2980,2015,"Kaithal","Pundri","Maize",-0.528826495540645
+"324",2981,2015,"Kaithal","Kalayat","Maize",-0.528826495540645
+"325",2982,2015,"Kaithal","Rajound","Maize",-0.528826495540645
+"326",2983,2015,"Kaithal","Gulha","Maize",-0.528826495540645
+"327",2984,2015,"Kaithal","Siwan","Maize",-0.528826495540645
+"328",2985,2015,"Ambala","Ambala-I","Maize",1.30267913719706
+"329",2986,2015,"Ambala","Ambala-II","Maize",1.30267913719706
+"330",2987,2015,"Ambala","Barara","Maize",1.30267913719706
+"331",2988,2015,"Ambala","Saha","Maize",1.30267913719706
+"332",2989,2015,"Ambala","Naraingarh","Maize",1.26764826022993
+"333",2990,2015,"Ambala","Sahazadpur","Maize",1.38949478881124
+"334",2991,2015,"Panchkula","Morni","Maize",1.92942721858713
+"335",2992,2015,"Panchkula","Barwala","Maize",1.74818050732245
+"336",2993,2015,"Panchkula","Raipurrani","Maize",2.85393775419777
+"337",2994,2015,"Panchkula","Pinjore","Maize",1.89058863760184
+"338",2995,2015,"Yamuna Nagar","Jagadhari","Maize",1.77178827223507
+"339",2996,2015,"Yamuna Nagar","Bilaspur","Maize",1.15950946611403
+"340",2997,2015,"Yamuna Nagar","Radaur","Maize",1.77178827223507
+"341",2998,2015,"Yamuna Nagar","Sadaura","Maize",1.77178827223507
+"342",2999,2015,"Yamuna Nagar","Chhachhrauli","Maize",2.62852167632236
+"343",3000,2015,"Yamuna Nagar","Mustafabad","Maize",1.77178827223507
+"344",3001,2015,"Jind","Jind","Maize",-0.528826495540645
+"345",3002,2015,"Jind","Julana","Maize",1.62861860115204
+"346",3003,2015,"Jind","Alewa","Maize",-0.528826495540645
+"347",3004,2015,"Jind","Safidon","Maize",-0.528826495540645
+"348",3005,2015,"Jind","Pillukhera","Maize",-0.528826495540645
+"349",3006,2015,"Jind","Uchana","Maize",-0.528826495540645
+"350",3007,2015,"Jind","Narwana","Maize",-0.528826495540645
+"351",3008,2015,"Mahendergarh","Kanina","Maize",-0.528826495540645
+"352",3009,2015,"Mahendergarh","Sihma","Maize",-0.528826495540645
+"353",3010,2015,"Mahendergarh","Nijampur","Maize",-0.528826495540645
+"354",3011,2015,"Mahendergarh","Mahendergarh","Maize",-0.528826495540645
+"355",3012,2015,"Mahendergarh","Satnali","Maize",-0.528826495540645
+"356",3013,2015,"Mahendergarh","Ateli","Maize",-0.528826495540645
+"357",3014,2015,"Mahendergarh","Narnaul","Maize",-0.528826495540645
+"358",3015,2015,"Mahendergarh","Nangal Chaudhary","Maize",-0.528826495540645
+"359",3016,2015,"Rewari","Rewari","Maize",-0.528826495540645
+"360",3017,2015,"Rewari","Khol","Maize",-0.528826495540645
+"361",3018,2015,"Rewari","Jatusana","Maize",-0.528826495540645
+"362",3019,2015,"Rewari","Bawal","Maize",-0.528826495540645
+"363",3020,2015,"Rewari","Nahar","Maize",-0.528826495540645
+"364",3875,2016,"Hisar","Hansi I","Maize",-0.528826495540645
+"365",3876,2016,"Hisar","Hansi-II","Maize",-0.528826495540645
+"366",3877,2016,"Hisar","Narnaund","Maize",-0.528826495540645
+"367",3878,2016,"Hisar","Hisar I","Maize",2.72066811356197
+"368",3879,2016,"Hisar","Hisar II","Maize",0.955416530740346
+"369",3880,2016,"Hisar","Barwala","Maize",-0.528826495540645
+"370",3881,2016,"Hisar","Uklana","Maize",2.04213525752484
+"371",3882,2016,"Hisar","Agroha","Maize",2.12971244994265
+"372",3883,2016,"Hisar","Adampur","Maize",2.61405240105333
+"373",3884,2016,"Fatehabad","Ratia","Maize",-0.528826495540645
+"374",3885,2016,"Fatehabad","Fatehabad","Maize",-0.528826495540645
+"375",3886,2016,"Fatehabad","Bhattukalan","Maize",2.13504323556808
+"376",3887,2016,"Fatehabad","Bhuna","Maize",-0.528826495540645
+"377",3888,2016,"Fatehabad","Tohana","Maize",-0.528826495540645
+"378",3889,2016,"Fatehabad","Jakhal","Maize",-0.528826495540645
+"379",3890,2016,"Sirsa","Sirsa","Maize",1.55094143918146
+"380",3891,2016,"Sirsa","Nathusari","Maize",1.71771887517712
+"381",3892,2016,"Sirsa","Baragudha","Maize",3.1098154642185
+"382",3893,2016,"Sirsa","Rania","Maize",2.13352015396081
+"383",3894,2016,"Sirsa","Ellenabad","Maize",1.2646020970154
+"384",3895,2016,"Sirsa","Dabwali","Maize",1.63318784597384
+"385",3896,2016,"Sirsa","Odhan","Maize",1.45879500194185
+"386",3897,2016,"Bhiwani","Loharu","Maize",-0.528826495540645
+"387",3898,2016,"Bhiwani","Bhiwani","Maize",2.27440520263295
+"388",3899,2016,"Bhiwani","Tosham","Maize",-0.528826495540645
+"389",3900,2016,"Bhiwani","Bawani Khera","Maize",2.9719765787609
+"390",3901,2016,"Bhiwani","Dadri-I","Maize",-0.528826495540645
+"391",3902,2016,"Bhiwani","Dadri-II","Maize",-0.528826495540645
+"392",3903,2016,"Bhiwani","Badhra","Maize",-0.528826495540645
+"393",3904,2016,"Bhiwani","Siwani","Maize",-0.528826495540645
+"394",3905,2016,"Bhiwani","Kairu","Maize",-0.528826495540645
+"395",3906,2016,"Bhiwani","Behal","Maize",-0.528826495540645
+"396",3907,2016,"Rohtak","Lakhan Majra","Maize",2.06041223681203
+"397",3908,2016,"Rohtak","Rohtak","Maize",2.06041223681203
+"398",3909,2016,"Rohtak","Sampla","Maize",-0.528826495540645
+"399",3910,2016,"Rohtak","Meham","Maize",2.06041223681203
+"400",3911,2016,"Rohtak","Kalanaur","Maize",2.06041223681203
+"401",3912,2016,"Jhajjar","Jhajjar","Maize",2.06041223681203
+"402",3913,2016,"Jhajjar","Beri","Maize",-0.528826495540645
+"403",3914,2016,"Jhajjar","Salhawas","Maize",-0.528826495540645
+"404",3915,2016,"Jhajjar","Matanhail","Maize",-0.528826495540645
+"405",3916,2016,"Jhajjar","Bahadurgarh","Maize",2.06041223681203
+"406",3917,2016,"Sonepat","Sonepat","Maize",2.9993920476917
+"407",3918,2016,"Sonepat","Rai","Maize",3.23699277842524
+"408",3919,2016,"Sonepat","Kharkhoda","Maize",3.11286162743303
+"409",3920,2016,"Sonepat","Gohana","Maize",-0.528826495540645
+"410",3921,2016,"Sonepat","Kathura","Maize",-0.528826495540645
+"411",3922,2016,"Sonepat","Mundlana","Maize",-0.528826495540645
+"412",3923,2016,"Sonepat","Ganaur","Maize",-0.528826495540645
+"413",3924,2016,"Gurgaon","Gurgaon","Maize",-0.528826495540645
+"414",3925,2016,"Gurgaon","Farrukh Nagar","Maize",-0.528826495540645
+"415",3926,2016,"Gurgaon","Sohna","Maize",-0.528826495540645
+"416",3927,2016,"Gurgaon","Pataudi","Maize",-0.528826495540645
+"417",3928,2016,"Mewat","Nuh","Maize",-0.528826495540645
+"418",3929,2016,"Mewat","Tauru","Maize",-0.528826495540645
+"419",3930,2016,"Mewat","Ferozpur Jhirka","Maize",-0.528826495540645
+"420",3931,2016,"Mewat","Nagina","Maize",-0.528826495540645
+"421",3932,2016,"Mewat","Punhana","Maize",-0.528826495540645
+"422",3933,2016,"Faridabad","Faridabad","Maize",-0.528826495540645
+"423",3934,2016,"Faridabad","B/garh","Maize",-0.528826495540645
+"424",3935,2016,"Palwal","Palwal","Maize",-0.528826495540645
+"425",3936,2016,"Palwal","Hodal","Maize",-0.528826495540645
+"426",3937,2016,"Palwal","Hassanpur","Maize",-0.528826495540645
+"427",3938,2016,"Palwal","Hathin","Maize",-0.528826495540645
+"428",3939,2016,"Panipat","Panipat","Maize",-0.528826495540645
+"429",3940,2016,"Panipat","Samalkha","Maize",-0.528826495540645
+"430",3941,2016,"Panipat","Matlauda","Maize",-0.528826495540645
+"431",3942,2016,"Panipat","Bapoli","Maize",-0.528826495540645
+"432",3943,2016,"Panipat","Israna","Maize",-0.528826495540645
+"433",3944,2016,"Karnal","Karnal","Maize",2.06041223681203
+"434",3945,2016,"Karnal","Nissing","Maize",-0.528826495540645
+"435",3946,2016,"Karnal","Indri","Maize",-0.528826495540645
+"436",3947,2016,"Karnal","Gharaunda","Maize",-0.528826495540645
+"437",3948,2016,"Karnal","Assandh","Maize",-0.528826495540645
+"438",3949,2016,"Karnal","Nilokheri","Maize",-0.528826495540645
+"439",3950,2016,"Kurukshetra","Thanesar","Maize",-0.528826495540645
+"440",3951,2016,"Kurukshetra","Shahabad","Maize",-0.528826495540645
+"441",3952,2016,"Kurukshetra","Pehowa","Maize",-0.528826495540645
+"442",3953,2016,"Kurukshetra","Ladwa","Maize",-0.528826495540645
+"443",3954,2016,"Kurukshetra","Babain","Maize",-0.528826495540645
+"444",3955,2016,"Kaithal","Kaithal","Maize",-0.528826495540645
+"445",3956,2016,"Kaithal","Pundri","Maize",-0.528826495540645
+"446",3957,2016,"Kaithal","Kalayat","Maize",-0.528826495540645
+"447",3958,2016,"Kaithal","Rajound","Maize",-0.528826495540645
+"448",3959,2016,"Kaithal","Gulha","Maize",-0.528826495540645
+"449",3960,2016,"Kaithal","Siwan","Maize",-0.528826495540645
+"450",3961,2016,"Ambala","Ambala-I","Maize",-0.528826495540645
+"451",3962,2016,"Ambala","Ambala-II","Maize",-0.528826495540645
+"452",3963,2016,"Ambala","Barara","Maize",-0.528826495540645
+"453",3964,2016,"Ambala","Saha","Maize",1.16179408852493
+"454",3965,2016,"Ambala","Naraingarh","Maize",1.16179408852493
+"455",3966,2016,"Ambala","Sahazadpur","Maize",1.16179408852493
+"456",3967,2016,"Panchkula","Morni","Maize",1.6552725292792
+"457",3968,2016,"Panchkula","Barwala","Maize",2.09163540976099
+"458",3969,2016,"Panchkula","Raipurrani","Maize",1.94313495305253
+"459",3970,2016,"Panchkula","Pinjore","Maize",1.531141378287
+"460",3971,2016,"Yamuna Nagar","Jagadhari","Maize",-0.528826495540645
+"461",3972,2016,"Yamuna Nagar","Bilaspur","Maize",-0.528826495540645
+"462",3973,2016,"Yamuna Nagar","Radaur","Maize",-0.528826495540645
+"463",3974,2016,"Yamuna Nagar","Sadaura","Maize",2.06041223681203
+"464",3975,2016,"Yamuna Nagar","Chhachhrauli","Maize",-0.528826495540645
+"465",3976,2016,"Yamuna Nagar","Mustafabad","Maize",-0.528826495540645
+"466",3977,2016,"Jind","Jind","Maize",0.0080597710207194
+"467",3978,2016,"Jind","Julana","Maize",2.06041223681203
+"468",3979,2016,"Jind","Alewa","Maize",2.37645167031979
+"469",3980,2016,"Jind","Safidon","Maize",-0.528826495540645
+"470",3981,2016,"Jind","Pillukhera","Maize",-0.528826495540645
+"471",3982,2016,"Jind","Uchana","Maize",0.368268571139195
+"472",3983,2016,"Jind","Narwana","Maize",1.0026320605656
+"473",3984,2016,"Mahendergarh","Kanina","Maize",-0.528826495540645
+"474",3985,2016,"Mahendergarh","Mahendergarh","Maize",-0.528826495540645
+"475",3986,2016,"Mahendergarh","Satnali","Maize",-0.528826495540645
+"476",3987,2016,"Mahendergarh","Ateli","Maize",-0.528826495540645
+"477",3988,2016,"Mahendergarh","Narnaul","Maize",-0.528826495540645
+"478",3989,2016,"Mahendergarh","Nijampur","Maize",-0.528826495540645
+"479",3990,2016,"Mahendergarh","Sihma","Maize",-0.528826495540645
+"480",3991,2016,"Mahendergarh","Nangal Chaudhary","Maize",-0.528826495540645
+"481",3992,2016,"Rewari","Rewari","Maize",-0.528826495540645
+"482",3993,2016,"Rewari","Khol","Maize",-0.528826495540645
+"483",3994,2016,"Rewari","Jatusana","Maize",-0.528826495540645
+"484",3995,2016,"Rewari","Bawal","Maize",-0.528826495540645
+"485",3996,2016,"Rewari","Nahar","Maize",-0.528826495540645

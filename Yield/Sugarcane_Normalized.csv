@@ -1,0 +1,388 @@
+"","X","Year","District","Block","Crop","Yield"
+"1",1093,2013,"Hisar","Hansi I","Sugarcane",0.627664779136629
+"2",1094,2013,"Hisar","Hansi-II","Sugarcane",2.4461853628638
+"3",1095,2013,"Hisar","Narnaund","Sugarcane",0.432765761748686
+"4",1096,2013,"Hisar","Hisar I","Sugarcane",0.859073805291459
+"5",1097,2013,"Hisar","Hisar II","Sugarcane",-1.31219789255108
+"6",1098,2013,"Hisar","Barwala","Sugarcane",-1.31219789255108
+"7",1099,2013,"Hisar","Uklana","Sugarcane",-1.31219789255108
+"8",1100,2013,"Hisar","Agroha","Sugarcane",-1.31219789255108
+"9",1101,2013,"Hisar","Adampur","Sugarcane",-1.31219789255108
+"10",1102,2013,"Fatehabad","Ratia","Sugarcane",-1.31219789255108
+"11",1103,2013,"Fatehabad","Fatehabad","Sugarcane",0.808979925615715
+"12",1104,2013,"Fatehabad","Bhattukalan","Sugarcane",-1.31219789255108
+"13",1105,2013,"Fatehabad","Bhuna","Sugarcane",-1.31219789255108
+"14",1106,2013,"Fatehabad","Tohana","Sugarcane",-1.31219789255108
+"15",1107,2013,"Fatehabad","Jakhal","Sugarcane",-1.31219789255108
+"16",1108,2013,"Sirsa","Sirsa","Sugarcane",0.661490228435363
+"17",1109,2013,"Sirsa","Nathusari","Sugarcane",-1.31219789255108
+"18",1110,2013,"Sirsa","Baragudha","Sugarcane",-1.31219789255108
+"19",1111,2013,"Sirsa","Rania","Sugarcane",-1.31219789255108
+"20",1112,2013,"Sirsa","Ellenabad","Sugarcane",-1.31219789255108
+"21",1113,2013,"Sirsa","Dabwali","Sugarcane",-1.31219789255108
+"22",1114,2013,"Sirsa","Odhan","Sugarcane",-1.31219789255108
+"23",1115,2013,"Sirsa","Sirsa","Sugarcane",-1.31219789255108
+"24",1116,2013,"Bhiwani","Loharu","Sugarcane",-1.31219789255108
+"25",1117,2013,"Bhiwani","Bhiwani","Sugarcane",0.416658404939765
+"26",1118,2013,"Bhiwani","Tosham","Sugarcane",-1.31219789255108
+"27",1119,2013,"Bhiwani","Bawani Khera","Sugarcane",0.776389373672332
+"28",1120,2013,"Bhiwani","Dadri-I","Sugarcane",0.716443160748464
+"29",1121,2013,"Bhiwani","Dadri-II","Sugarcane",0.716443160748464
+"30",1122,2013,"Bhiwani","Badhra","Sugarcane",-1.31219789255108
+"31",1123,2013,"Bhiwani","Siwani","Sugarcane",-1.31219789255108
+"32",1124,2013,"Bhiwani","Kairu","Sugarcane",-1.31219789255108
+"33",1125,2013,"Bhiwani","Behal","Sugarcane",-1.31219789255108
+"34",1126,2013,"Rohtak","Lakhan Majra","Sugarcane",0.523691790935044
+"35",1127,2013,"Rohtak","Rohtak","Sugarcane",0.274994201805306
+"36",1128,2013,"Rohtak","Sampla","Sugarcane",0.471691874036911
+"37",1129,2013,"Rohtak","Meham","Sugarcane",0.305866635689071
+"38",1130,2013,"Rohtak","Kalanaur","Sugarcane",0.451852979567257
+"39",1131,2013,"Jhajjar","Jhajjar","Sugarcane",0.958939417506769
+"40",1132,2013,"Jhajjar","Beri","Sugarcane",0.858536893397828
+"41",1133,2013,"Jhajjar","Salhawas","Sugarcane",0.887234834112389
+"42",1134,2013,"Jhajjar","Matanhail","Sugarcane",0.887234834112389
+"43",1135,2013,"Jhajjar","Bahadurgarh","Sugarcane",0.887234834112389
+"44",1136,2013,"Sonepat","Sonepat","Sugarcane",1.00189236899722
+"45",1137,2013,"Sonepat","Rai","Sugarcane",1.0609526772966
+"46",1138,2013,"Sonepat","Kharkhoda","Sugarcane",0.833140960829096
+"47",1139,2013,"Sonepat","Gohana","Sugarcane",0.694053934784064
+"48",1140,2013,"Sonepat","Kathura","Sugarcane",0.513973685660329
+"49",1141,2013,"Sonepat","Mundlana","Sugarcane",0.622080895442869
+"50",1142,2013,"Sonepat","Ganaur","Sugarcane",1.06900635570106
+"51",1143,2013,"Gurgaon","Gurgaon","Sugarcane",-1.31219789255108
+"52",1144,2013,"Gurgaon","Farrukh Nagar","Sugarcane",-1.31219789255108
+"53",1145,2013,"Gurgaon","Sohna","Sugarcane",-1.31219789255108
+"54",1146,2013,"Gurgaon","Pataudi","Sugarcane",-1.31219789255108
+"55",1147,2013,"Mewat","Nuh","Sugarcane",0.661490228435363
+"56",1148,2013,"Mewat","Tauru","Sugarcane",-1.31219789255108
+"57",1149,2013,"Mewat","Ferozpur Jhirka","Sugarcane",-1.31219789255108
+"58",1150,2013,"Mewat","Nagina","Sugarcane",0.661490228435363
+"59",1151,2013,"Mewat","Punhana","Sugarcane",0.661490228435363
+"60",1152,2013,"Mewat","Mewat","Sugarcane",-1.31219789255108
+"61",1153,2013,"Faridabad","Faridabad","Sugarcane",-1.31219789255108
+"62",1154,2013,"Faridabad","B/garh","Sugarcane",0.416658404939765
+"63",1155,2013,"Palwal","Palwal","Sugarcane",-0.00868319719447315
+"64",1156,2013,"Palwal","Hodal","Sugarcane",0.255584836850556
+"65",1157,2013,"Palwal","Hassanpur","Sugarcane",0.424712083344225
+"66",1158,2013,"Palwal","Hathin","Sugarcane",0.0211422584967121
+"67",1159,2013,"Panipat","Panipat","Sugarcane",0.651369439240424
+"68",1160,2013,"Panipat","Samalkha","Sugarcane",0.720013624841109
+"69",1161,2013,"Panipat","Matlauda","Sugarcane",1.0144292617135
+"70",1162,2013,"Panipat","Bapoli","Sugarcane",0.822912789255432
+"71",1163,2013,"Panipat","Israna","Sugarcane",0.651100983293609
+"72",1164,2013,"Karnal","Karnal","Sugarcane",0.995637345436427
+"73",1165,2013,"Karnal","Nissing","Sugarcane",0.335396789838759
+"74",1166,2013,"Karnal","Indri","Sugarcane",0.919556930108957
+"75",1167,2013,"Karnal","Gharaunda","Sugarcane",0.762966576331564
+"76",1168,2013,"Karnal","Assandh","Sugarcane",1.09048283144629
+"77",1169,2013,"Karnal","Nilokheri","Sugarcane",0.599745360667833
+"78",1170,2013,"Kurukshetra","Thanesar","Sugarcane",0.704067341600277
+"79",1171,2013,"Kurukshetra","Shahabad","Sugarcane",0.685973410784922
+"80",1172,2013,"Kurukshetra","Pehowa","Sugarcane",0.890617379042263
+"81",1173,2013,"Kurukshetra","Ladwa","Sugarcane",0.613705069902231
+"82",1174,2013,"Kurukshetra","Babain","Sugarcane",0.703584120896009
+"83",1175,2013,"Kaithal","Kaithal","Sugarcane",0.822966480444795
+"84",1176,2013,"Kaithal","Pundri","Sugarcane",0.986321924081934
+"85",1177,2013,"Kaithal","Kalayat","Sugarcane",-0.0696763883109203
+"86",1178,2013,"Kaithal","Rajound","Sugarcane",-0.0697032339056018
+"87",1179,2013,"Kaithal","Gulha","Sugarcane",0.945731384923454
+"88",1180,2013,"Kaithal","Siwan","Sugarcane",0.674376113882499
+"89",1181,2013,"Kaithal","Kaithal","Sugarcane",-1.31219789255108
+"90",1182,2013,"Ambala","Ambala-I","Sugarcane",0.793382635105743
+"91",1183,2013,"Ambala","Ambala-II","Sugarcane",0.782107485339499
+"92",1184,2013,"Ambala","Barara","Sugarcane",0.595020536003882
+"93",1185,2013,"Ambala","Saha","Sugarcane",0.598537308907164
+"94",1186,2013,"Ambala","Naraingarh","Sugarcane",0.456577804231207
+"95",1187,2013,"Ambala","Sahazadpur","Sugarcane",0.411691969923681
+"96",1188,2013,"Panchkula","Morni","Sugarcane",-1.31219789255108
+"97",1189,2013,"Panchkula","Barwala","Sugarcane",0.384443691321923
+"98",1190,2013,"Panchkula","Raipurrani","Sugarcane",0.363853120201186
+"99",1191,2013,"Panchkula","Pinjore","Sugarcane",-1.31219789255108
+"100",1192,2013,"Yamuna Nagar","Jagadhari","Sugarcane",0.636389597408128
+"101",1193,2013,"Yamuna Nagar","Bilaspur","Sugarcane",0.588980277200537
+"102",1194,2013,"Yamuna Nagar","Radaur","Sugarcane",0.660953316541732
+"103",1195,2013,"Yamuna Nagar","Sadaura","Sugarcane",0.53112802066183
+"104",1196,2013,"Yamuna Nagar","Chhachhrauli","Sugarcane",0.22189361552523
+"105",1197,2013,"Yamuna Nagar","Mustafabad","Sugarcane",0.752604176784492
+"106",1198,2013,"Jind","Jind","Sugarcane",0.848120802661393
+"107",1199,2013,"Jind","Julana","Sugarcane",0.794295385324916
+"108",1200,2013,"Jind","Alewa","Sugarcane",0.561624616220053
+"109",1201,2013,"Jind","Safidon","Sugarcane",0.939261596605204
+"110",1202,2013,"Jind","Pillukhera","Sugarcane",0.985785012188304
+"111",1203,2013,"Jind","Uchana","Sugarcane",0.961623976974922
+"112",1204,2013,"Jind","Narwana","Sugarcane",0.636792281328351
+"113",1205,2013,"Mahendergarh","Kanina","Sugarcane",-1.31219789255108
+"114",1206,2013,"Mahendergarh","Mahendergarh","Sugarcane",-1.31219789255108
+"115",1207,2013,"Mahendergarh","Ateli","Sugarcane",-1.31219789255108
+"116",1208,2013,"Mahendergarh","Narnaul","Sugarcane",-1.31219789255108
+"117",1209,2013,"Mahendergarh","Nangal Chaudhary","Sugarcane",-1.31219789255108
+"118",1210,2013,"Rewari","Rewari","Sugarcane",-1.31219789255108
+"119",1211,2013,"Rewari","Khol","Sugarcane",-1.31219789255108
+"120",1212,2013,"Rewari","Jatusana","Sugarcane",-1.31219789255108
+"121",1213,2013,"Rewari","Bawal","Sugarcane",-1.31219789255108
+"122",1214,2013,"Rewari","Nahar","Sugarcane",-1.31219789255108
+"123",2051,2014,"Hisar","Hansi I","Sugarcane",0.644255356649817
+"124",2052,2014,"Hisar","Hansi-II","Sugarcane",0.83915437403776
+"125",2053,2014,"Hisar","Narnaund","Sugarcane",0.701221708564034
+"126",2054,2014,"Hisar","Hisar I","Sugarcane",-0.361863840824746
+"127",2055,2014,"Hisar","Hisar II","Sugarcane",0.996523250060917
+"128",2056,2014,"Hisar","Barwala","Sugarcane",-0.85045366402868
+"129",2057,2014,"Hisar","Uklana","Sugarcane",0.837060417652601
+"130",2058,2014,"Hisar","Agroha","Sugarcane",0.379074572385616
+"131",2059,2014,"Hisar","Adampur","Sugarcane",-1.31219789255108
+"132",2086,2014,"Rohtak","Meham","Sugarcane",0.490349562340578
+"133",2118,2014,"Panipat","Bapoli","Sugarcane",-1.31219789255108
+"134",2160,2014,"Mahendergarh","Kanina","Sugarcane",-1.31219789255108
+"135",2161,2014,"Mahendergarh","Mahendergarh","Sugarcane",-1.31219789255108
+"136",2162,2014,"Mahendergarh","Ateli","Sugarcane",-1.31219789255108
+"137",2163,2014,"Mahendergarh","Narnaul","Sugarcane",-1.31219789255108
+"138",2164,2014,"Mahendergarh","Nangal Chaudhary","Sugarcane",-1.31219789255108
+"139",2165,2014,"Rewari","Rewari","Sugarcane",-1.31219789255108
+"140",2166,2014,"Rewari","Khol","Sugarcane",-1.31219789255108
+"141",2167,2014,"Rewari","Jatusana","Sugarcane",-1.31219789255108
+"142",2168,2014,"Rewari","Bawal","Sugarcane",-1.31219789255108
+"143",2169,2014,"Rewari","Nahar","Sugarcane",-1.31219789255108
+"144",3021,2015,"Hisar","Hansi I","Sugarcane",0.389490663122052
+"145",3022,2015,"Hisar","Hansi-II","Sugarcane",0.352228977704081
+"146",3023,2015,"Hisar","Narnaund","Sugarcane",0.525839438509567
+"147",3024,2015,"Hisar","Hisar I","Sugarcane",0.409356403186387
+"148",3025,2015,"Hisar","Hisar II","Sugarcane",0.56699373515636
+"149",3026,2015,"Hisar","Barwala","Sugarcane",0.409356403186387
+"150",3027,2015,"Hisar","Uklana","Sugarcane",0.110618625570268
+"151",3028,2015,"Hisar","Agroha","Sugarcane",0.588470210901588
+"152",3029,2015,"Hisar","Adampur","Sugarcane",-1.31219789255108
+"153",3030,2015,"Fatehabad","Ratia","Sugarcane",0.945516620166001
+"154",3031,2015,"Fatehabad","Fatehabad","Sugarcane",0.473839521611434
+"155",3032,2015,"Fatehabad","Bhattukalan","Sugarcane",0.576201774132126
+"156",3033,2015,"Fatehabad","Bhuna","Sugarcane",0.500416660346154
+"157",3034,2015,"Fatehabad","Tohana","Sugarcane",0.710886122649387
+"158",3035,2015,"Fatehabad","Jakhal","Sugarcane",0.218001004296407
+"159",3036,2015,"Sirsa","Sirsa","Sugarcane",-1.31219789255108
+"160",3037,2015,"Sirsa","Nathusari","Sugarcane",-1.31219789255108
+"161",3038,2015,"Sirsa","Baragudha","Sugarcane",-1.31219789255108
+"162",3039,2015,"Sirsa","Rania","Sugarcane",-1.31219789255108
+"163",3040,2015,"Sirsa","Ellenabad","Sugarcane",-1.31219789255108
+"164",3041,2015,"Sirsa","Dabwali","Sugarcane",-1.31219789255108
+"165",3042,2015,"Sirsa","Odhan","Sugarcane",-1.31219789255108
+"166",3043,2015,"Bhiwani","Loharu","Sugarcane",-1.31219789255108
+"167",3044,2015,"Bhiwani","Bhiwani","Sugarcane",0.593839329837895
+"168",3045,2015,"Bhiwani","Tosham","Sugarcane",-1.31219789255108
+"169",3046,2015,"Bhiwani","Bawani Khera","Sugarcane",0.576201774132126
+"170",3047,2015,"Bhiwani","Dadri-I","Sugarcane",0.616658085317199
+"171",3048,2015,"Bhiwani","Dadri-II","Sugarcane",0.616658085317199
+"172",3049,2015,"Bhiwani","Badhra","Sugarcane",0.616658085317199
+"173",3050,2015,"Bhiwani","Siwani","Sugarcane",-1.31219789255108
+"174",3051,2015,"Bhiwani","Kairu","Sugarcane",-1.31219789255108
+"175",3052,2015,"Bhiwani","Behal","Sugarcane",-1.31219789255108
+"176",3053,2015,"Rohtak","Lakhan Majra","Sugarcane",0.859288570048911
+"177",3054,2015,"Rohtak","Rohtak","Sugarcane",0.429275834440086
+"178",3055,2015,"Rohtak","Sampla","Sugarcane",0.439208704472254
+"179",3056,2015,"Rohtak","Meham","Sugarcane",0.624389616585482
+"180",3057,2015,"Rohtak","Kalanaur","Sugarcane",0.29080625707273
+"181",3058,2015,"Jhajjar","Jhajjar","Sugarcane",0.62873860292389
+"182",3059,2015,"Jhajjar","Beri","Sugarcane",0.801704769457019
+"183",3060,2015,"Jhajjar","Salhawas","Sugarcane",0.0971958282295003
+"184",3061,2015,"Jhajjar","Matanhail","Sugarcane",0.738563930766049
+"185",3062,2015,"Jhajjar","Bahadurgarh","Sugarcane",1.18087194873902
+"186",3063,2015,"Sonepat","Sonepat","Sugarcane",1.13700624702939
+"187",3064,2015,"Sonepat","Rai","Sugarcane",0.99604002935665
+"188",3065,2015,"Sonepat","Kharkhoda","Sugarcane",0.277061312595784
+"189",3066,2015,"Sonepat","Gohana","Sugarcane",0.137464220251803
+"190",3067,2015,"Sonepat","Kathura","Sugarcane",0.669006994946192
+"191",3068,2015,"Sonepat","Mundlana","Sugarcane",0.405920167067151
+"192",3069,2015,"Sonepat","Ganaur","Sugarcane",1.14387871926786
+"193",3070,2015,"Gurgaon","Gurgaon","Sugarcane",-1.31219789255108
+"194",3071,2015,"Gurgaon","Farrukh Nagar","Sugarcane",-1.31219789255108
+"195",3072,2015,"Gurgaon","Sohna","Sugarcane",-1.31219789255108
+"196",3073,2015,"Gurgaon","Pataudi","Sugarcane",-1.31219789255108
+"197",3074,2015,"Mewat","Nuh","Sugarcane",0.706134452390755
+"198",3075,2015,"Mewat","Tauru","Sugarcane",-1.31219789255108
+"199",3076,2015,"Mewat","Ferozpur Jhirka","Sugarcane",-1.31219789255108
+"200",3077,2015,"Mewat","Nagina","Sugarcane",-1.31219789255108
+"201",3078,2015,"Mewat","Punhana","Sugarcane",-1.31219789255108
+"202",3079,2015,"Faridabad","Faridabad","Sugarcane",-1.31219789255108
+"203",3080,2015,"Faridabad","B/garh","Sugarcane",-1.31219789255108
+"204",3081,2015,"Palwal","Palwal","Sugarcane",-0.114213229887587
+"205",3082,2015,"Palwal","Hodal","Sugarcane",0.162054784980088
+"206",3083,2015,"Palwal","Hassanpur","Sugarcane",-0.179313796990309
+"207",3084,2015,"Palwal","Hathin","Sugarcane",0.0605784370838867
+"208",3085,2015,"Panipat","Panipat","Sugarcane",0.842751683725086
+"209",3086,2015,"Panipat","Samalkha","Sugarcane",0.760282016863411
+"210",3087,2015,"Panipat","Matlauda","Sugarcane",1.45289835964701
+"211",3088,2015,"Panipat","Bapoli","Sugarcane",0.740604195961846
+"212",3089,2015,"Panipat","Israna","Sugarcane",1.06275133214026
+"213",3090,2015,"Karnal","Karnal","Sugarcane",1.01740912272315
+"214",3091,2015,"Karnal","Nissing","Sugarcane",1.89853523136049
+"215",3092,2015,"Karnal","Indri","Sugarcane",0.879744913196241
+"216",3093,2015,"Karnal","Gharaunda","Sugarcane",0.741865938911878
+"217",3094,2015,"Karnal","Assandh","Sugarcane",0.191155409614872
+"218",3095,2015,"Karnal","Nilokheri","Sugarcane",0.989355476280948
+"219",3096,2015,"Kurukshetra","Thanesar","Sugarcane",1.14318073380614
+"220",3097,2015,"Kurukshetra","Shahabad","Sugarcane",0.623772167907806
+"221",3098,2015,"Kurukshetra","Pehowa","Sugarcane",0.950885739102308
+"222",3099,2015,"Kurukshetra","Ladwa","Sugarcane",1.09531503848897
+"223",3100,2015,"Kurukshetra","Babain","Sugarcane",0.706590827500341
+"224",3101,2015,"Kaithal","Kaithal","Sugarcane",1.22430812093374
+"225",3102,2015,"Kaithal","Pundri","Sugarcane",1.34403947321339
+"226",3103,2015,"Kaithal","Kalayat","Sugarcane",1.14787871287541
+"227",3104,2015,"Kaithal","Rajound","Sugarcane",1.37773069453871
+"228",3105,2015,"Kaithal","Gulha","Sugarcane",1.14787871287541
+"229",3106,2015,"Kaithal","Siwan","Sugarcane",0.683959991183807
+"230",3107,2015,"Ambala","Ambala-I","Sugarcane",0.499315990964211
+"231",3108,2015,"Ambala","Ambala-II","Sugarcane",0.481973736799939
+"232",3109,2015,"Ambala","Barara","Sugarcane",0.621463446765194
+"233",3110,2015,"Ambala","Saha","Sugarcane",0.443826146757478
+"234",3111,2015,"Ambala","Naraingarh","Sugarcane",0.546859539145209
+"235",3112,2015,"Ambala","Sahazadpur","Sugarcane",0.38981281025823
+"236",3113,2015,"Panchkula","Morni","Sugarcane",-1.31219789255108
+"237",3114,2015,"Panchkula","Barwala","Sugarcane",0.195450704763918
+"238",3115,2015,"Panchkula","Raipurrani","Sugarcane",0.583101091965281
+"239",3116,2015,"Panchkula","Pinjore","Sugarcane",-1.31219789255108
+"240",3117,2015,"Yamuna Nagar","Jagadhari","Sugarcane",0.564953469960563
+"241",3118,2015,"Yamuna Nagar","Bilaspur","Sugarcane",0.547879671743107
+"242",3119,2015,"Yamuna Nagar","Radaur","Sugarcane",0.941758236910586
+"243",3120,2015,"Yamuna Nagar","Sadaura","Sugarcane",0.609356083563822
+"244",3121,2015,"Yamuna Nagar","Chhachhrauli","Sugarcane",0.215316444828254
+"245",3122,2015,"Yamuna Nagar","Mustafabad","Sugarcane",0.537919956116258
+"246",3123,2015,"Jind","Jind","Sugarcane",0.659235198482114
+"247",3124,2015,"Jind","Julana","Sugarcane",0.584899746808944
+"248",3125,2015,"Jind","Alewa","Sugarcane",0.056927436207198
+"249",3126,2015,"Jind","Safidon","Sugarcane",1.11786533802145
+"250",3127,2015,"Jind","Pillukhera","Sugarcane",0.295853228872858
+"251",3128,2015,"Jind","Uchana","Sugarcane",0.972362214847536
+"252",3129,2015,"Jind","Narwana","Sugarcane",0.325383383022546
+"253",3130,2015,"Mahendergarh","Kanina","Sugarcane",-1.31219789255108
+"254",3131,2015,"Mahendergarh","Sihma","Sugarcane",-1.31219789255108
+"255",3132,2015,"Mahendergarh","Nijampur","Sugarcane",-1.31219789255108
+"256",3133,2015,"Mahendergarh","Mahendergarh","Sugarcane",-1.31219789255108
+"257",3134,2015,"Mahendergarh","Satnali","Sugarcane",-1.31219789255108
+"258",3135,2015,"Mahendergarh","Ateli","Sugarcane",-1.31219789255108
+"259",3136,2015,"Mahendergarh","Narnaul","Sugarcane",-1.31219789255108
+"260",3137,2015,"Mahendergarh","Nangal Chaudhary","Sugarcane",-1.31219789255108
+"261",3138,2015,"Rewari","Rewari","Sugarcane",-1.31219789255108
+"262",3139,2015,"Rewari","Khol","Sugarcane",-1.31219789255108
+"263",3140,2015,"Rewari","Jatusana","Sugarcane",-1.31219789255108
+"264",3141,2015,"Rewari","Bawal","Sugarcane",-1.31219789255108
+"265",3142,2015,"Rewari","Nahar","Sugarcane",-1.31219789255108
+"266",3997,2016,"Hisar","Hansi I","Sugarcane",0.545517259411132
+"267",3998,2016,"Hisar","Hansi-II","Sugarcane",0.616067482234206
+"268",3999,2016,"Hisar","Narnaund","Sugarcane",0.2126318853601
+"269",4000,2016,"Hisar","Hisar I","Sugarcane",0.489732113662903
+"270",4001,2016,"Hisar","Hisar II","Sugarcane",0.489732113662903
+"271",4002,2016,"Hisar","Barwala","Sugarcane",0.228739242169021
+"272",4003,2016,"Hisar","Uklana","Sugarcane",0.489732113662903
+"273",4004,2016,"Hisar","Agroha","Sugarcane",0.489732113662903
+"274",4005,2016,"Hisar","Adampur","Sugarcane",-1.31219789255108
+"275",4006,2016,"Fatehabad","Ratia","Sugarcane",-1.31219789255108
+"276",4007,2016,"Fatehabad","Fatehabad","Sugarcane",0.332363237639746
+"277",4008,2016,"Fatehabad","Bhattukalan","Sugarcane",-1.31219789255108
+"278",4009,2016,"Fatehabad","Bhuna","Sugarcane",0.332363237639746
+"279",4010,2016,"Fatehabad","Tohana","Sugarcane",0.332363237639746
+"280",4011,2016,"Fatehabad","Jakhal","Sugarcane",-1.31219789255108
+"281",4012,2016,"Sirsa","Sirsa","Sugarcane",-1.31219789255108
+"282",4013,2016,"Sirsa","Nathusari","Sugarcane",0.851932877106171
+"283",4014,2016,"Sirsa","Baragudha","Sugarcane",-1.31219789255108
+"284",4015,2016,"Sirsa","Rania","Sugarcane",-1.31219789255108
+"285",4016,2016,"Sirsa","Ellenabad","Sugarcane",-1.31219789255108
+"286",4017,2016,"Sirsa","Dabwali","Sugarcane",-1.31219789255108
+"287",4018,2016,"Sirsa","Odhan","Sugarcane",-1.31219789255108
+"288",4019,2016,"Bhiwani","Loharu","Sugarcane",0.416658404939765
+"289",4020,2016,"Bhiwani","Bhiwani","Sugarcane",0.365114863151218
+"290",4021,2016,"Bhiwani","Tosham","Sugarcane",-1.31219789255108
+"291",4022,2016,"Bhiwani","Bawani Khera","Sugarcane",0.604577567710509
+"292",4023,2016,"Bhiwani","Dadri-I","Sugarcane",0.0719609692288575
+"293",4024,2016,"Bhiwani","Dadri-II","Sugarcane",0.365114863151218
+"294",4025,2016,"Bhiwani","Badhra","Sugarcane",-1.31219789255108
+"295",4026,2016,"Bhiwani","Siwani","Sugarcane",-1.31219789255108
+"296",4027,2016,"Bhiwani","Kairu","Sugarcane",-1.31219789255108
+"297",4028,2016,"Bhiwani","Behal","Sugarcane",-1.31219789255108
+"298",4029,2016,"Rohtak","Lakhan Majra","Sugarcane",0.643208378457237
+"299",4030,2016,"Rohtak","Rohtak","Sugarcane",0.538161566468392
+"300",4031,2016,"Rohtak","Sampla","Sugarcane",0.765651135799718
+"301",4032,2016,"Rohtak","Meham","Sugarcane",0.549651480992088
+"302",4033,2016,"Rohtak","Kalanaur","Sugarcane",0.599208448774202
+"303",4034,2016,"Jhajjar","Jhajjar","Sugarcane",1.02873796367876
+"304",4035,2016,"Jhajjar","Beri","Sugarcane",0.784979963970423
+"305",4036,2016,"Jhajjar","Salhawas","Sugarcane",-0.630319787640094
+"306",4037,2016,"Jhajjar","Matanhail","Sugarcane",0.717678058103815
+"307",4038,2016,"Jhajjar","Bahadurgarh","Sugarcane",0.378537660491985
+"308",4039,2016,"Sonepat","Sonepat","Sugarcane",1.07896607132791
+"309",4040,2016,"Sonepat","Rai","Sugarcane",1.37236157560241
+"310",4041,2016,"Sonepat","Kharkhoda","Sugarcane",1.00124807472487
+"311",4042,2016,"Sonepat","Gohana","Sugarcane",0.937462941761541
+"312",4043,2016,"Sonepat","Kathura","Sugarcane",0.51276563389966
+"313",4044,2016,"Sonepat","Mundlana","Sugarcane",0.98310045272015
+"314",4045,2016,"Sonepat","Ganaur","Sugarcane",1.34468376748574
+"315",4046,2016,"Gurgaon","Gurgaon","Sugarcane",-1.31219789255108
+"316",4047,2016,"Gurgaon","Farrukh Nagar","Sugarcane",-1.31219789255108
+"317",4048,2016,"Gurgaon","Sohna","Sugarcane",-1.31219789255108
+"318",4049,2016,"Gurgaon","Pataudi","Sugarcane",-1.31219789255108
+"319",4050,2016,"Mewat","Nuh","Sugarcane",0.851932877106171
+"320",4051,2016,"Mewat","Tauru","Sugarcane",-1.31219789255108
+"321",4052,2016,"Mewat","Ferozpur Jhirka","Sugarcane",-1.31219789255108
+"322",4053,2016,"Mewat","Nagina","Sugarcane",-1.31219789255108
+"323",4054,2016,"Mewat","Punhana","Sugarcane",0.851932877106171
+"324",4055,2016,"Faridabad","Faridabad","Sugarcane",-1.31219789255108
+"325",4056,2016,"Faridabad","B/garh","Sugarcane",0.851932877106171
+"326",4057,2016,"Palwal","Palwal","Sugarcane",-0.109434714034273
+"327",4058,2016,"Palwal","Hodal","Sugarcane",0.0435046388664306
+"328",4059,2016,"Palwal","Hassanpur","Sugarcane",0.488067686792648
+"329",4060,2016,"Palwal","Hathin","Sugarcane",0.0411422265344555
+"330",4061,2016,"Panipat","Panipat","Sugarcane",0.969677655379383
+"331",4062,2016,"Panipat","Samalkha","Sugarcane",0.520604547546668
+"332",4063,2016,"Panipat","Matlauda","Sugarcane",1.20167728461721
+"333",4064,2016,"Panipat","Bapoli","Sugarcane",0.798456452500553
+"334",4065,2016,"Panipat","Israna","Sugarcane",1.12068412546302
+"335",4066,2016,"Karnal","Karnal","Sugarcane",1.06363723676475
+"336",4067,2016,"Karnal","Nissing","Sugarcane",1.19518065070428
+"337",4068,2016,"Karnal","Indri","Sugarcane",1.32001266597341
+"338",4069,2016,"Karnal","Gharaunda","Sugarcane",1.18065718398156
+"339",4070,2016,"Karnal","Assandh","Sugarcane",1.30793214836672
+"340",4071,2016,"Karnal","Nilokheri","Sugarcane",1.19832158528201
+"341",4072,2016,"Kurukshetra","Thanesar","Sugarcane",1.28887177614283
+"342",4073,2016,"Kurukshetra","Shahabad","Sugarcane",0.885060340943185
+"343",4074,2016,"Kurukshetra","Pehowa","Sugarcane",0.726993479458308
+"344",4075,2016,"Kurukshetra","Ladwa","Sugarcane",1.2309121372254
+"345",4076,2016,"Kurukshetra","Babain","Sugarcane",0.985409173862762
+"346",4077,2016,"Kaithal","Kaithal","Sugarcane",1.25727451120267
+"347",4078,2016,"Kaithal","Pundri","Sugarcane",1.18664375159555
+"348",4079,2016,"Kaithal","Kalayat","Sugarcane",1.2918247915578
+"349",4080,2016,"Kaithal","Rajound","Sugarcane",1.42605276496548
+"350",4081,2016,"Kaithal","Gulha","Sugarcane",1.23824098457346
+"351",4082,2016,"Kaithal","Siwan","Sugarcane",1.23824098457346
+"352",4083,2016,"Ambala","Ambala-I","Sugarcane",0.605168170793503
+"353",4084,2016,"Ambala","Ambala-II","Sugarcane",0.785194728727875
+"354",4085,2016,"Ambala","Barara","Sugarcane",0.814590654904156
+"355",4086,2016,"Ambala","Saha","Sugarcane",0.835530218755753
+"356",4087,2016,"Ambala","Naraingarh","Sugarcane",1.20323432910874
+"357",4088,2016,"Ambala","Sahazadpur","Sugarcane",0.473034153770988
+"358",4089,2016,"Panchkula","Morni","Sugarcane",-1.31219789255108
+"359",4090,2016,"Panchkula","Barwala","Sugarcane",1.1396102697135
+"360",4091,2016,"Panchkula","Raipurrani","Sugarcane",1.06632179623291
+"361",4092,2016,"Panchkula","Pinjore","Sugarcane",-1.31219789255108
+"362",4093,2016,"Yamuna Nagar","Jagadhari","Sugarcane",0.672013701550524
+"363",4094,2016,"Yamuna Nagar","Bilaspur","Sugarcane",0.713516990928177
+"364",4095,2016,"Yamuna Nagar","Radaur","Sugarcane",1.06581172993396
+"365",4096,2016,"Yamuna Nagar","Sadaura","Sugarcane",1.14495254305512
+"366",4097,2016,"Yamuna Nagar","Chhachhrauli","Sugarcane",0.774349108476535
+"367",4098,2016,"Yamuna Nagar","Mustafabad","Sugarcane",0.708872703048272
+"368",4099,2016,"Jind","Jind","Sugarcane",0.795691356248355
+"369",4100,2016,"Jind","Julana","Sugarcane",0.527262255027688
+"370",4101,2016,"Jind","Alewa","Sugarcane",0.647530519200964
+"371",4102,2016,"Jind","Safidon","Sugarcane",0.68855058787435
+"372",4103,2016,"Jind","Pillukhera","Sugarcane",0.962966256708999
+"373",4104,2016,"Jind","Uchana","Sugarcane",-1.31219789255108
+"374",4105,2016,"Jind","Narwana","Sugarcane",0.412631565737535
+"375",4106,2016,"Mahendergarh","Kanina","Sugarcane",-1.31219789255108
+"376",4107,2016,"Mahendergarh","Mahendergarh","Sugarcane",-1.31219789255108
+"377",4108,2016,"Mahendergarh","Satnali","Sugarcane",-1.31219789255108
+"378",4109,2016,"Mahendergarh","Ateli","Sugarcane",-1.31219789255108
+"379",4110,2016,"Mahendergarh","Narnaul","Sugarcane",-1.31219789255108
+"380",4111,2016,"Mahendergarh","Nijampur","Sugarcane",-1.31219789255108
+"381",4112,2016,"Mahendergarh","Sihma","Sugarcane",-1.31219789255108
+"382",4113,2016,"Mahendergarh","Nangal Chaudhary","Sugarcane",-1.31219789255108
+"383",4114,2016,"Rewari","Rewari","Sugarcane",-1.31219789255108
+"384",4115,2016,"Rewari","Khol","Sugarcane",-1.31219789255108
+"385",4116,2016,"Rewari","Jatusana","Sugarcane",-1.31219789255108
+"386",4117,2016,"Rewari","Bawal","Sugarcane",-1.31219789255108
+"387",4118,2016,"Rewari","Nahar","Sugarcane",-1.31219789255108

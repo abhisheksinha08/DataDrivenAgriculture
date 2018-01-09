@@ -1,0 +1,58 @@
+---
+title: "Soil Nutrient EDA"
+author: "Abhishek Sinha"
+date: "January 9, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(data.table)
+library(ggplot2)
+library(plotly)
+```
+
+## Loading Data
+
+```{r cache=TRUE}
+soil_df <- fread("../Soil_Nutrient_Year.csv", header = T, stringsAsFactors = F, showProgress = T)
+soil_df$V1 <- NULL
+soil_df$SampleNo <- NULL
+```
+
+## PH
+
+
+```{r}
+table(is.na(soil_df$SoilPh))
+table(soil_df$SoilPh>14) # 1652 records have incorrect data (<1%)
+```
+
+6319 is missing data (<1%).  
+1652 rows have incorrect data, >14.
+
+Average value: {mean(soil_df$SoilPh, na.rm = T)}
+
+```{r}
+ggplotly(ggplot(data=soil_df[soil_df$SoilPh<=14,], aes(x=Year, y=SoilPh, fill=Year)) + geom_boxplot())
+```
+
+
+## Electrical Conductivty
+
+```{r}
+table(is.na(soil_df$ElectricalConductivity)) 
+```
+
+7917 missing value in EC (~1#). 
+
+```{r}
+ggplotly(ggplot(data=soil_df, aes(x=Year, y=ElectricalConductivity, fill=Year)) + geom_boxplot())
+```
+
+
+Looking at the historgram
+
+```{r}
+ggplotly(ggplot(soil_df) + aes(x = ElectricalConductivity) + geom_histogram(bins = 5, colour ="black", fill="#FF6666"))
+```

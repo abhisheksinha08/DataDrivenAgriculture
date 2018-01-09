@@ -13,7 +13,7 @@ table(soil_df$Year)
 
 soil_df$Year <- as.integer(soil_df$Year)
 ################################
-# Fixing Data on the basis of EDA - Soil_Nutrient_EDA1
+# Fixing Data on the basis of EDA - Soil_Nutrient_EDA1 (http://rpubs.com/abhishek08/348055)
 ################################
 
 ###Soil PH

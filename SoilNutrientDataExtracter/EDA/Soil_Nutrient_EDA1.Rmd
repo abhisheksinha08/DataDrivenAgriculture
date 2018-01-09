@@ -17,9 +17,13 @@ library(plotly)
 ```{r cache=TRUE}
 soil_df <- fread("../Soil_Nutrient_Year.csv", header = T, stringsAsFactors = F, showProgress = T)
 soil_df$V1 <- NULL
-soil_df$SampleNo <- NULL
 ```
 
+## Summary of Soil Nutrient Data Set
+
+```{r}
+summary(soil_df)
+```
 ## PH
 
 
@@ -31,10 +35,10 @@ table(soil_df$SoilPh>14) # 1652 records have incorrect data (<1%)
 6319 is missing data (<1%).  
 1652 rows have incorrect data, >14.
 
-Average value: {mean(soil_df$SoilPh, na.rm = T)}
+Average value: `r mean(soil_df$SoilPh, na.rm = T)`
 
 ```{r}
-ggplotly(ggplot(data=soil_df[soil_df$SoilPh<=14,], aes(x=Year, y=SoilPh, fill=Year)) + geom_boxplot())
+ggplot(data=soil_df[soil_df$SoilPh<=14,], aes(x=Year, y=SoilPh, fill=as.factor(Year))) + geom_boxplot()
 ```
 
 
@@ -44,15 +48,113 @@ ggplotly(ggplot(data=soil_df[soil_df$SoilPh<=14,], aes(x=Year, y=SoilPh, fill=Ye
 table(is.na(soil_df$ElectricalConductivity)) 
 ```
 
-7917 missing value in EC (~1#). 
+7917 missing value in EC (~1%). 
 
 ```{r}
-ggplotly(ggplot(data=soil_df, aes(x=Year, y=ElectricalConductivity, fill=Year)) + geom_boxplot())
+ggplot(data=soil_df, aes(x=as.factor(Year), y=ElectricalConductivity, fill=as.factor(Year))) + geom_boxplot()
 ```
 
 
 Looking at the historgram
 
 ```{r}
-ggplotly(ggplot(soil_df) + aes(x = ElectricalConductivity) + geom_histogram(bins = 5, colour ="black", fill="#FF6666"))
+ggplot(soil_df) + aes(x = ElectricalConductivity) + geom_histogram(bins = 5, colour ="black", fill="#FF6666")
 ```
+
+
+## Organic Compund
+
+Missing values
+```{r}
+table(is.na(soil_df$OrganicCarbon))
+```
+
+1093 missing vales. Mean value: `r mean(soil_df$OrganicCarbon, na.rm=T) `.
+
+OC above 1 vs less than 1
+```{r}
+table(soil_df$OrganicCarbon<=1)
+```
+
+Only `r 100*(4850/(679535+4850))`% of OC value is above 1. Some treatment is required.
+
+```{r}
+temp <- soil_df[soil_df$OrganicCarbon<=1,]
+ggplot(data=temp, aes(x=as.factor(Year), y=OrganicCarbon, fill=as.factor(Year))) + geom_boxplot()
+rm(temp)
+```
+
+
+## Nitrogen
+
+Missing Values
+```{r}
+table(is.na(soil_df$Nitrogen))
+```
+
+Majority of data is missing for Nitrogen. (`r 659896*100/(659896+25582)`%)
+
+HYPOTHESIS: Organic Compound (OC) can be used as the proxy variable for Nitrogen.
+
+### Bi-variate analysis of OC and N
+```{r}
+data_nit_oc <- soil_df[is.na(soil_df$Nitrogen)==F & is.na(soil_df$OrganicCarbon)==F,]
+summary(lm(Nitrogen ~ OrganicCarbon, data_nit_oc))
+```
+
+
+Correlation value: `r cor(data_nit_oc$Nitrogen, data_nit_oc$OrganicCarbon)`.  
+
+Both R Square and Correlation clearly suggests that Nitrogen Value and OC values are not correlated.
+
+Clearly, the hypothesis is incorrect.
+
+With a very high missing values for Nitrogen, we can easily remove the variable.
+
+
+## Phosphorous
+
+Missing Values
+```{r}
+table(is.na(soil_df$Phosphorous))
+```
+
+Low Missing Value `r 100*2639/(685478)`%.
+
+Mean `r mean(soil_df$Phosphorous, na.rm = T) `.
+
+Box Plot
+```{r}
+ggplot(data=soil_df[is.na(soil_df$Phosphorous)==F,], aes(x=as.factor(Year), y=Phosphorous, fill=as.factor(Year))) + geom_boxplot()
+```
+
+```{r}
+upper_lmt <- 14.49 + (1.5*IQR(soil_df$Phosphorous, na.rm = T)) #Taken from Summary
+table(soil_df$Phosphorous<=upper_lmt)
+```
+
+Approximately, 11% of above the outlier range, which is very high. 
+
+Box Plot on log transformation
+```{r}
+ggplot(data=soil_df[is.na(soil_df$Phosphorous)==F,], aes(x=as.factor(Year), y=log(Phosphorous), fill=as.factor(Year))) + geom_boxplot()
+```
+
+The data looks normally distributed on log transformation. 
+
+
+## Potassium
+
+## Sulphur
+
+## Zinc
+
+## Iron
+
+## Copper
+
+## Magnesium
+
+## Boron
+
+

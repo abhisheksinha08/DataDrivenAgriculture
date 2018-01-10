@@ -145,16 +145,161 @@ The data looks normally distributed on log transformation.
 
 ## Potassium
 
+Missing Values
+```{r}
+table(is.na(soil_df$Potassium))
+```
+
+Low Missing Value `r 100*2643/(685478)`%.
+
+Mean `r mean(soil_df$Potassium, na.rm = T) `.
+
+Box Plot
+```{r}
+ggplot(data=soil_df[is.na(soil_df$Potassium)==F,], aes(x=as.factor(Year), y=Potassium, fill=as.factor(Year))) + geom_boxplot()
+```
+
+Box Plot on log transformation
+```{r}
+ggplot(data=soil_df[is.na(soil_df$Potassium)==F,], aes(x=as.factor(Year), y=log(Potassium), fill=as.factor(Year))) + geom_boxplot()
+```
+
+Log transformation is highly normal distributed.
+
 ## Sulphur
+
+Missing Values
+```{r}
+table(is.na(soil_df$Sulphur))
+```
+
+Low Missing Value `r 100*30037/(685478)`%.
+
+Mean `r mean(soil_df$Sulphur, na.rm = T) `.
+
+Box Plot
+```{r}
+ggplot(data=soil_df[is.na(soil_df$Sulphur)==F,], aes(x=as.factor(Year), y=Sulphur, fill=as.factor(Year))) + geom_boxplot()
+```
+
+Box Plot on log transformation
+```{r}
+ggplot(data=soil_df[is.na(soil_df$Sulphur)==F,], aes(x=as.factor(Year), y=log(Sulphur), fill=as.factor(Year))) + geom_boxplot()
+```
+
+Log transformation is normal distributed with a lttle skewness on left side.
 
 ## Zinc
 
+Missing Values
+```{r}
+table(is.na(soil_df$Zinc))
+```
+
+Low Missing Value `r 100*5764/(685478)`%.
+
+Mean `r mean(soil_df$Zinc, na.rm = T) `.
+
+Box Plot
+```{r}
+ggplot(data=soil_df[is.na(soil_df$Zinc)==F,], aes(x=as.factor(Year), y=Zinc, fill=as.factor(Year))) + geom_boxplot()
+```
+
+Lot of outliers.
+
+Box Plot on log transformation
+```{r}
+ggplot(data=soil_df[is.na(soil_df$Zinc)==F,], aes(x=as.factor(Year), y=log(Zinc), fill=as.factor(Year))) + geom_boxplot()
+```
+
+Log transformation is normal distributed.
+
+
 ## Iron
+
+
+Missing Values
+```{r}
+table(is.na(soil_df$Iron))
+```
+
+Low Missing Value `r 100*5647/(685478)`%.
+
+Mean `r mean(soil_df$Iron, na.rm = T) `.
+
+Box Plot
+```{r}
+ggplot(data=soil_df[is.na(soil_df$Iron)==F,], aes(x=as.factor(Year), y=Iron, fill=as.factor(Year))) + geom_boxplot()
+```
+
+Again lot of outliers.
+
+Box Plot on log transformation
+```{r}
+ggplot(data=soil_df[is.na(soil_df$Iron)==F,], aes(x=as.factor(Year), y=log(Iron), fill=as.factor(Year))) + geom_boxplot()
+```
+
+Log transformation is normal distributed.
+
 
 ## Copper
 
+Missing Values
+```{r}
+table(is.na(soil_df$Copper))
+```
+
+Very high Missing Value `r 100*352636/(685478)`%. 
+
+NEED TO DISCUSS
+
+
+Mean `r mean(soil_df$Copper, na.rm = T) `.
+
+Box Plot
+```{r}
+ggplot(data=soil_df[is.na(soil_df$Copper)==F,], aes(x=as.factor(Year), y=Copper, fill=as.factor(Year))) + geom_boxplot()
+```
+
+Again lot of outliers.
+
+Box Plot on log transformation
+```{r}
+ggplot(data=soil_df[is.na(soil_df$Copper)==F,], aes(x=as.factor(Year), y=log(Copper), fill=as.factor(Year))) + geom_boxplot()
+```
+
+Log transformation is normal distributed.
+
 ## Magnesium
+
+Missing Values
+```{r}
+table(is.na(soil_df$Magnesium))
+```
+
+Missing Value of `r 100*9963/(685478)`% is a little high but impuation should be fine. NEED TO DISCUSS.
+
+Mean `r mean(soil_df$Magnesium, na.rm = T) `.
+
+Box Plot
+```{r}
+ggplot(data=soil_df[is.na(soil_df$Magnesium)==F,], aes(x=as.factor(Year), y=Magnesium, fill=as.factor(Year))) + geom_boxplot()
+```
+
+Again lot of outliers.
+
+Box Plot on log transformation
+```{r}
+ggplot(data=soil_df[is.na(soil_df$Magnesium)==F,], aes(x=as.factor(Year), y=log(Magnesium), fill=as.factor(Year))) + geom_boxplot()
+```
+
+Log transformation is normal distributed.
 
 ## Boron
 
+Missing Values
+```{r}
+table(is.na(soil_df$Boron))
+```
 
+Almost all values are missing. Missing Value in `r 100*680505/(685478)`% of data. NEED TO REMOVE THIS feature.

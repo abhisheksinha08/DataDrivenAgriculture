@@ -1,0 +1,606 @@
+"","X","Year","District","Block","Crop","Yield"
+"1",241,2012,"Hisar","Hansi I","Barley",0.443379136798826
+"2",242,2012,"Hisar","Bas","Barley",-0.49213950222683
+"3",243,2012,"Hisar","Narnaund","Barley",0.728248776430062
+"4",244,2012,"Hisar","Hisar I","Barley",-0.00499556226572264
+"5",245,2012,"Hisar","Hisar II","Barley",-0.515176297542177
+"6",246,2012,"Hisar","Barwala","Barley",0.1163690179322
+"7",247,2012,"Hisar","Uklana","Barley",0.7215062997524
+"8",248,2012,"Hisar","Agroha","Barley",-0.0594972487434936
+"9",249,2012,"Hisar","Adampur","Barley",-0.255590945452175
+"10",250,2012,"Fatehabad","Ratia","Barley",1.09178064396736
+"11",251,2012,"Fatehabad","Fatehabad","Barley",0.328195160222094
+"12",252,2012,"Fatehabad","Bhattukalan","Barley",0.379887481417505
+"13",253,2012,"Fatehabad","Bhuna","Barley",1.00525219327069
+"14",254,2012,"Fatehabad","Tohana","Barley",1.09178064396736
+"15",255,2012,"Fatehabad","Jakhal","Barley",-1.13941726328242
+"16",256,2012,"Sirsa","Sirsa","Barley",1.00131908187539
+"17",257,2012,"Sirsa","Nathusari","Barley",0.347860717198609
+"18",258,2012,"Sirsa","Baragudha","Barley",1.21988770084294
+"19",259,2012,"Sirsa","Rania","Barley",1.07829569061203
+"20",260,2012,"Sirsa","Ellenabad","Barley",0.849613356627985
+"21",261,2012,"Sirsa","Dabwali","Barley",1.03559333832017
+"22",262,2012,"Sirsa","Odhan","Barley",1.32889107379849
+"23",263,2012,"Bhiwani","Loharu","Barley",0.699593250549997
+"24",264,2012,"Bhiwani","Bhiwani","Barley",0.931646822872877
+"25",265,2012,"Bhiwani","Tosham","Barley",0.433827294838804
+"26",266,2012,"Bhiwani","Bawani Khera","Barley",0.824329069086751
+"27",267,2012,"Bhiwani","Dadri-I","Barley",0.658576517427551
+"28",268,2012,"Bhiwani","Dadri-II","Barley",0.502937680784844
+"29",269,2012,"Bhiwani","Badhra","Barley",0.909733773670474
+"30",270,2012,"Bhiwani","Siwani","Barley",0.463044693775341
+"31",271,2012,"Bhiwani","Kairu","Barley",0.683298931912313
+"32",272,2012,"Bhiwani","Behal","Barley",0.836690276329132
+"33",273,2012,"Rohtak","Lakhan Majra","Barley",0.368650020288068
+"34",274,2012,"Rohtak","Rohtak","Barley",0.0652385697932606
+"35",275,2012,"Rohtak","Sampla","Barley",0.368650020288068
+"36",276,2012,"Rohtak","Meham","Barley",0.0399542822520266
+"37",277,2012,"Rohtak","Kalanaur","Barley",0.633292229886317
+"38",278,2012,"Jhajjar","Jhajjar","Barley",0.938951172607011
+"39",279,2012,"Jhajjar","Beri","Barley",-0.0583735026305499
+"40",280,2012,"Jhajjar","Salhawas","Barley",0.970416063769436
+"41",281,2012,"Jhajjar","Matanhail","Barley",1.44688441565758
+"42",282,2012,"Jhajjar","Bahadurgarh","Barley",0.874897644169219
+"43",283,2012,"Sonepat","Sonepat","Barley",1.02323213107779
+"44",284,2012,"Sonepat","Rai","Barley",-1.13941726328242
+"45",285,2012,"Sonepat","Kharkhoda","Barley",0.772074874834867
+"46",286,2012,"Sonepat","Gohana","Barley",0.614750419022745
+"47",287,2012,"Sonepat","Kathura","Barley",-1.13941726328242
+"48",288,2012,"Sonepat","Mundlana","Barley",0.815339100183201
+"49",289,2012,"Sonepat","Ganaur","Barley",-1.13941726328242
+"50",290,2012,"Gurgaon","Gurgaon","Barley",1.48284429127178
+"51",291,2012,"Gurgaon","Farrukh Nagar","Barley",1.75029586615239
+"52",292,2012,"Gurgaon","Sohna","Barley",1.48284429127178
+"53",293,2012,"Gurgaon","Pataudi","Barley",1.34968037688795
+"54",294,2012,"Mewat","Nuh","Barley",1.24123887698888
+"55",295,2012,"Mewat","Tauru","Barley",0.509680157462506
+"56",296,2012,"Mewat","Ferozpur Jhirka","Barley",0.74285747589833
+"57",297,2012,"Mewat","Nagina","Barley",0.61924540347452
+"58",298,2012,"Mewat","Punhana","Barley",0.714763823074737
+"59",299,2012,"Mewat","Mewat","Barley",-1.13941726328242
+"60",300,2012,"Faridabad","Faridabad","Barley",0.367526274175124
+"61",301,2012,"Faridabad","B/garh","Barley",0.826576561312638
+"62",302,2012,"Palwal","Palwal","Barley",0.738924364503027
+"63",303,2012,"Palwal","Hodal","Barley",0.44450288291177
+"64",304,2012,"Palwal","Hassanpur","Barley",0.772074874834867
+"65",305,2012,"Palwal","Hathin","Barley",0.815339100183201
+"66",306,2012,"Panipat","Panipat","Barley",-1.13941726328242
+"67",307,2012,"Panipat","Samalkha","Barley",-1.13941726328242
+"68",308,2012,"Panipat","Matlauda","Barley",-1.13941726328242
+"69",309,2012,"Panipat","Bapoli","Barley",-1.13941726328242
+"70",310,2012,"Panipat","Israna","Barley",-1.13941726328242
+"71",311,2012,"Karnal","Karnal","Barley",-1.13941726328242
+"72",312,2012,"Karnal","Nissing","Barley",-1.13941726328242
+"73",313,2012,"Karnal","Indri","Barley",-1.13941726328242
+"74",314,2012,"Karnal","Gharaunda","Barley",0.815339100183201
+"75",315,2012,"Karnal","Assandh","Barley",-1.13941726328242
+"76",316,2012,"Karnal","Nilokheri","Barley",-1.13941726328242
+"77",317,2012,"Kurukshetra","Thanesar","Barley",-1.13941726328242
+"78",318,2012,"Kurukshetra","Shahabad","Barley",-1.13941726328242
+"79",319,2012,"Kurukshetra","Pehowa","Barley",-1.13941726328242
+"80",320,2012,"Kurukshetra","Ladwa","Barley",-1.13941726328242
+"81",321,2012,"Kurukshetra","Babain","Barley",-1.13941726328242
+"82",322,2012,"Kaithal","Kaithal","Barley",-1.13941726328242
+"83",323,2012,"Kaithal","Pundri","Barley",-1.13941726328242
+"84",324,2012,"Kaithal","Kalayat","Barley",-1.13941726328242
+"85",325,2012,"Kaithal","Rajound","Barley",-1.13941726328242
+"86",326,2012,"Kaithal","Gulha","Barley",-1.13941726328242
+"87",327,2012,"Kaithal","Siwan","Barley",-1.13941726328242
+"88",328,2012,"Ambala","Ambala-I","Barley",-1.13941726328242
+"89",329,2012,"Ambala","Ambala-II","Barley",-1.13941726328242
+"90",330,2012,"Ambala","Barara","Barley",-1.13941726328242
+"91",331,2012,"Ambala","Saha","Barley",-1.13941726328242
+"92",332,2012,"Ambala","Naraingarh","Barley",-1.13941726328242
+"93",333,2012,"Ambala","Sahazadpur","Barley",-1.13941726328242
+"94",334,2012,"Panchkula","Morni","Barley",-1.13941726328242
+"95",335,2012,"Panchkula","Barwala","Barley",-1.13941726328242
+"96",336,2012,"Panchkula","Raipurrani","Barley",-1.13941726328242
+"97",337,2012,"Panchkula","Pinjore","Barley",-1.13941726328242
+"98",338,2012,"Yamuna Nagar","Jagadhari","Barley",-1.13941726328242
+"99",339,2012,"Yamuna Nagar","Bilaspur","Barley",-1.13941726328242
+"100",340,2012,"Yamuna Nagar","Radaur","Barley",-1.13941726328242
+"101",341,2012,"Yamuna Nagar","Sadaura","Barley",-1.13941726328242
+"102",342,2012,"Yamuna Nagar","Chhachhrauli","Barley",-1.13941726328242
+"103",343,2012,"Yamuna Nagar","Mustafabad","Barley",-1.13941726328242
+"104",344,2012,"Jind","Jind","Barley",1.11032245483093
+"105",345,2012,"Jind","Julana","Barley",1.11032245483093
+"106",346,2012,"Jind","Alewa","Barley",-1.13941726328242
+"107",347,2012,"Jind","Safidon","Barley",-1.13941726328242
+"108",348,2012,"Jind","Pillukhera","Barley",-1.13941726328242
+"109",349,2012,"Jind","Uchana","Barley",1.06143949891788
+"110",350,2012,"Jind","Narwana","Barley",1.15976728380045
+"111",351,2012,"Mahendergarh","Kanina","Barley",0.941198664832899
+"112",352,2012,"Mahendergarh","Mahendergarh","Barley",0.673747089952291
+"113",353,2012,"Mahendergarh","Ateli","Barley",-1.13941726328242
+"114",354,2012,"Mahendergarh","Narnaul","Barley",0.800730400714933
+"115",355,2012,"Mahendergarh","Nangal Chaudhary","Barley",0.800730400714933
+"116",356,2012,"Rewari","Rewari","Barley",0.740609983672443
+"117",357,2012,"Rewari","Khol","Barley",0.0618673314544294
+"118",358,2012,"Rewari","Jatusana","Barley",0.990081620745951
+"119",359,2012,"Rewari","Bawal","Barley",1.11594118539565
+"120",360,2012,"Rewari","Nahar","Barley",0.960864221809414
+"121",605,2013,"Hisar","Hansi I","Barley",1.13616861542864
+"122",606,2013,"Hisar","Hansi-II","Barley",0.766456144270149
+"123",607,2013,"Hisar","Narnaund","Barley",0.782750462907833
+"124",608,2013,"Hisar","Hisar I","Barley",1.21426897027823
+"125",609,2013,"Hisar","Hisar II","Barley",0.924342473138743
+"126",610,2013,"Hisar","Barwala","Barley",0.948503014567033
+"127",611,2013,"Hisar","Uklana","Barley",0.41135237257993
+"128",612,2013,"Hisar","Agroha","Barley",0.16749946607114
+"129",613,2013,"Hisar","Adampur","Barley",1.22157332001236
+"130",614,2013,"Fatehabad","Ratia","Barley",1.2328107811418
+"131",615,2013,"Fatehabad","Fatehabad","Barley",1.23786763865004
+"132",616,2013,"Fatehabad","Bhattukalan","Barley",1.48902489489297
+"133",617,2013,"Fatehabad","Bhuna","Barley",1.22325893918178
+"134",618,2013,"Fatehabad","Tohana","Barley",1.2328107811418
+"135",619,2013,"Fatehabad","Jakhal","Barley",-1.13941726328242
+"136",620,2013,"Sirsa","Sirsa","Barley",1.17044287187342
+"137",621,2013,"Sirsa","Nathusari","Barley",0.895686947258678
+"138",622,2013,"Sirsa","Baragudha","Barley",1.38732587167156
+"139",623,2013,"Sirsa","Rania","Barley",1.72725907083704
+"140",624,2013,"Sirsa","Ellenabad","Barley",1.39575396751864
+"141",625,2013,"Sirsa","Dabwali","Barley",1.22157332001236
+"142",626,2013,"Sirsa","Odhan","Barley",1.4024964441963
+"143",627,2013,"Sirsa","Sirsa","Barley",-1.13941726328242
+"144",628,2013,"Bhiwani","Loharu","Barley",1.06312511808729
+"145",629,2013,"Bhiwani","Bhiwani","Barley",0.604636704006251
+"146",630,2013,"Bhiwani","Tosham","Barley",0.724315665034759
+"147",631,2013,"Bhiwani","Bawani Khera","Barley",1.34687101160559
+"148",632,2013,"Bhiwani","Dadri-I","Barley",1.24685760755359
+"149",633,2013,"Bhiwani","Dadri-II","Barley",1.43059009701989
+"150",634,2013,"Bhiwani","Badhra","Barley",0.869840786660972
+"151",635,2013,"Bhiwani","Siwani","Barley",0.915914377291665
+"152",636,2013,"Bhiwani","Kairu","Barley",1.07380070616026
+"153",637,2013,"Bhiwani","Behal","Barley",1.08110505589439
+"154",638,2013,"Rohtak","Lakhan Majra","Barley",1.05582076835316
+"155",639,2013,"Rohtak","Rohtak","Barley",0.956369237357639
+"156",640,2013,"Rohtak","Sampla","Barley",1.05582076835316
+"157",641,2013,"Rohtak","Meham","Barley",0.746790587293633
+"158",642,2013,"Rohtak","Kalanaur","Barley",0.801854146827876
+"159",643,2013,"Jhajjar","Jhajjar","Barley",1.1867371905111
+"160",644,2013,"Jhajjar","Beri","Barley",0.575419305069715
+"161",645,2013,"Jhajjar","Salhawas","Barley",0.76083741370543
+"162",646,2013,"Jhajjar","Matanhail","Barley",1.52105165911186
+"163",647,2013,"Jhajjar","Bahadurgarh","Barley",1.08391442117675
+"164",648,2013,"Sonepat","Sonepat","Barley",0.462482820718869
+"165",649,2013,"Sonepat","Rai","Barley",-1.13941726328242
+"166",650,2013,"Sonepat","Kharkhoda","Barley",0.433265421782332
+"167",651,2013,"Sonepat","Gohana","Barley",0.298977761285557
+"168",652,2013,"Sonepat","Kathura","Barley",0.320890810487959
+"169",653,2013,"Sonepat","Mundlana","Barley",-1.13941726328242
+"170",654,2013,"Sonepat","Ganaur","Barley",-1.13941726328242
+"171",655,2013,"Gurgaon","Gurgaon","Barley",1.52386102439422
+"172",656,2013,"Gurgaon","Farrukh Nagar","Barley",1.20527900137468
+"173",657,2013,"Gurgaon","Sohna","Barley",1.52386102439422
+"174",658,2013,"Gurgaon","Pataudi","Barley",1.8418811743573
+"175",659,2013,"Mewat","Nuh","Barley",0.957492983470583
+"176",660,2013,"Mewat","Tauru","Barley",0.968168571543549
+"177",661,2013,"Mewat","Ferozpur Jhirka","Barley",1.19797465164054
+"178",662,2013,"Mewat","Nagina","Barley",1.05582076835316
+"179",663,2013,"Mewat","Punhana","Barley",1.1648241413087
+"180",664,2013,"Mewat","Mewat","Barley",-1.13941726328242
+"181",665,2013,"Faridabad","Faridabad","Barley",1.07773381755556
+"182",666,2013,"Faridabad","B/garh","Barley",1.08335254812028
+"183",667,2013,"Palwal","Palwal","Barley",0.334937636899756
+"184",668,2013,"Palwal","Hodal","Barley",0.651834040749888
+"185",669,2013,"Palwal","Hassanpur","Barley",0.886696978355128
+"186",670,2013,"Palwal","Hathin","Barley",1.05020203778844
+"187",671,2013,"Panipat","Panipat","Barley",-1.13941726328242
+"188",672,2013,"Panipat","Samalkha","Barley",-1.13941726328242
+"189",673,2013,"Panipat","Matlauda","Barley",-1.13941726328242
+"190",674,2013,"Panipat","Bapoli","Barley",-1.13941726328242
+"191",675,2013,"Panipat","Israna","Barley",-1.13941726328242
+"192",676,2013,"Karnal","Karnal","Barley",-1.13941726328242
+"193",677,2013,"Karnal","Nissing","Barley",-1.13941726328242
+"194",678,2013,"Karnal","Indri","Barley",-1.13941726328242
+"195",679,2013,"Karnal","Gharaunda","Barley",-1.13941726328242
+"196",680,2013,"Karnal","Assandh","Barley",-1.13941726328242
+"197",681,2013,"Karnal","Nilokheri","Barley",-1.13941726328242
+"198",682,2013,"Kurukshetra","Thanesar","Barley",-1.13941726328242
+"199",683,2013,"Kurukshetra","Shahabad","Barley",-1.13941726328242
+"200",684,2013,"Kurukshetra","Pehowa","Barley",-1.13941726328242
+"201",685,2013,"Kurukshetra","Ladwa","Barley",-1.13941726328242
+"202",686,2013,"Kurukshetra","Babain","Barley",-1.13941726328242
+"203",687,2013,"Kaithal","Kaithal","Barley",-1.13941726328242
+"204",688,2013,"Kaithal","Pundri","Barley",-1.13941726328242
+"205",689,2013,"Kaithal","Kalayat","Barley",-1.13941726328242
+"206",690,2013,"Kaithal","Rajound","Barley",-1.13941726328242
+"207",691,2013,"Kaithal","Gulha","Barley",-1.13941726328242
+"208",692,2013,"Kaithal","Siwan","Barley",-1.13941726328242
+"209",693,2013,"Kaithal","Kaithal","Barley",-1.13941726328242
+"210",694,2013,"Ambala","Ambala-I","Barley",-1.13941726328242
+"211",695,2013,"Ambala","Ambala-II","Barley",-1.13941726328242
+"212",696,2013,"Ambala","Barara","Barley",-1.13941726328242
+"213",697,2013,"Ambala","Saha","Barley",-1.13941726328242
+"214",698,2013,"Ambala","Naraingarh","Barley",-1.13941726328242
+"215",699,2013,"Ambala","Sahazadpur","Barley",-1.13941726328242
+"216",700,2013,"Panchkula","Morni","Barley",-1.13941726328242
+"217",701,2013,"Panchkula","Barwala","Barley",-1.13941726328242
+"218",702,2013,"Panchkula","Raipurrani","Barley",-1.13941726328242
+"219",703,2013,"Panchkula","Pinjore","Barley",-1.13941726328242
+"220",704,2013,"Yamuna Nagar","Jagadhari","Barley",-1.13941726328242
+"221",705,2013,"Yamuna Nagar","Bilaspur","Barley",-1.13941726328242
+"222",706,2013,"Yamuna Nagar","Radaur","Barley",-1.13941726328242
+"223",707,2013,"Yamuna Nagar","Sadaura","Barley",-1.13941726328242
+"224",708,2013,"Yamuna Nagar","Chhachhrauli","Barley",-1.13941726328242
+"225",709,2013,"Yamuna Nagar","Mustafabad","Barley",-1.13941726328242
+"226",710,2013,"Jind","Jind","Barley",0.719820680582984
+"227",711,2013,"Jind","Julana","Barley",0.719820680582984
+"228",712,2013,"Jind","Alewa","Barley",-1.13941726328242
+"229",713,2013,"Jind","Safidon","Barley",-1.13941726328242
+"230",714,2013,"Jind","Pillukhera","Barley",-1.13941726328242
+"231",715,2013,"Jind","Uchana","Barley",0.684422678025256
+"232",716,2013,"Jind","Narwana","Barley",0.700716996662941
+"233",717,2013,"Mahendergarh","Kanina","Barley",0.706335727227659
+"234",718,2013,"Mahendergarh","Mahendergarh","Barley",0.706335727227659
+"235",719,2013,"Mahendergarh","Ateli","Barley",-1.13941726328242
+"236",720,2013,"Mahendergarh","Narnaul","Barley",-1.13941726328242
+"237",721,2013,"Mahendergarh","Nangal Chaudhary","Barley",0.706335727227659
+"238",722,2013,"Rewari","Rewari","Barley",1.28899808678898
+"239",723,2013,"Rewari","Khol","Barley",1.31765361266905
+"240",724,2013,"Rewari","Jatusana","Barley",1.39575396751864
+"241",725,2013,"Rewari","Bawal","Barley",1.23224890808533
+"242",726,2013,"Rewari","Nahar","Barley",1.03840270360253
+"243",1575,2014,"Hisar","Hansi I","Barley",0.61924540347452
+"244",1576,2014,"Hisar","Hansi-II","Barley",0.683860804968785
+"245",1577,2014,"Hisar","Narnaund","Barley",0.575419305069715
+"246",1578,2014,"Hisar","Hisar I","Barley",0.456302217097679
+"247",1579,2014,"Hisar","Hisar II","Barley",0.0455730128167453
+"248",1580,2014,"Hisar","Barwala","Barley",0.831071545764413
+"249",1581,2014,"Hisar","Uklana","Barley",0.542268794737874
+"250",1582,2014,"Hisar","Agroha","Barley",1.12155991596037
+"251",1583,2014,"Hisar","Adampur","Barley",1.03727895748959
+"252",1584,2014,"Fatehabad","Ratia","Barley",-1.13941726328242
+"253",1585,2014,"Fatehabad","Fatehabad","Barley",0.733867506994781
+"254",1586,2014,"Fatehabad","Bhattukalan","Barley",1.35080412300089
+"255",1587,2014,"Fatehabad","Bhuna","Barley",0.672061470782875
+"256",1588,2014,"Fatehabad","Tohana","Barley",1.18842280968052
+"257",1589,2014,"Fatehabad","Jakhal","Barley",-1.13941726328242
+"258",1590,2014,"Sirsa","Sirsa","Barley",0.902991296992812
+"259",1591,2014,"Sirsa","Nathusari","Barley",0.800730400714933
+"260",1592,2014,"Sirsa","Baragudha","Barley",1.13785423459805
+"261",1593,2014,"Sirsa","Rania","Barley",1.3345098043632
+"262",1594,2014,"Sirsa","Ellenabad","Barley",0.198402484177093
+"263",1595,2014,"Sirsa","Dabwali","Barley",1.02323213107779
+"264",1596,2014,"Sirsa","Odhan","Barley",0.575419305069715
+"265",1597,2014,"Bhiwani","Loharu","Barley",0.657452771314607
+"266",1598,2014,"Bhiwani","Bhiwani","Barley",0.248971059259561
+"267",1599,2014,"Bhiwani","Tosham","Barley",1.00412844715775
+"268",1600,2014,"Bhiwani","Bawani Khera","Barley",0.83612840327266
+"269",1601,2014,"Bhiwani","Dadri-I","Barley",0.063552950623845
+"270",1602,2014,"Bhiwani","Dadri-II","Barley",0.44450288291177
+"271",1603,2014,"Bhiwani","Badhra","Barley",0.844556499119738
+"272",1604,2014,"Bhiwani","Siwani","Barley",0.0877134920521352
+"273",1605,2014,"Bhiwani","Kairu","Barley",0.416971103144648
+"274",1606,2014,"Bhiwani","Behal","Barley",1.04739267250608
+"275",1607,2014,"Rohtak","Lakhan Majra","Barley",0.084342253713304
+"276",1608,2014,"Rohtak","Rohtak","Barley",-0.465731468572652
+"277",1609,2014,"Rohtak","Sampla","Barley",0.084342253713304
+"278",1610,2014,"Rohtak","Meham","Barley",0.575419305069715
+"279",1611,2014,"Rohtak","Kalanaur","Barley",0.128730225174581
+"280",1612,2014,"Jhajjar","Jhajjar","Barley",-0.0325273420328441
+"281",1613,2014,"Jhajjar","Beri","Barley",0.138282067134603
+"282",1614,2014,"Jhajjar","Salhawas","Barley",0.591713623707399
+"283",1615,2014,"Jhajjar","Matanhail","Barley",1.19966027080996
+"284",1616,2014,"Jhajjar","Bahadurgarh","Barley",0.154576385772287
+"285",1617,2014,"Sonepat","Sonepat","Barley",1.1648241413087
+"286",1618,2014,"Sonepat","Rai","Barley",-1.13941726328242
+"287",1619,2014,"Sonepat","Kharkhoda","Barley",0.477091520187138
+"288",1620,2014,"Sonepat","Gohana","Barley",0.124797113779278
+"289",1621,2014,"Sonepat","Kathura","Barley",-1.13941726328242
+"290",1622,2014,"Sonepat","Mundlana","Barley",-1.13941726328242
+"291",1623,2014,"Sonepat","Ganaur","Barley",-1.13941726328242
+"292",1624,2014,"Gurgaon","Gurgaon","Barley",1.06481073725671
+"293",1625,2014,"Gurgaon","Farrukh Nagar","Barley",0.677118328291122
+"294",1626,2014,"Gurgaon","Sohna","Barley",1.06481073725671
+"295",1627,2014,"Gurgaon","Pataudi","Barley",1.4525031462223
+"296",1628,2014,"Mewat","Nuh","Barley",0.471472789622419
+"297",1629,2014,"Mewat","Tauru","Barley",0.930523076759934
+"298",1630,2014,"Mewat","Ferozpur Jhirka","Barley",0.293359030720838
+"299",1631,2014,"Mewat","Nagina","Barley",0.0292786941790612
+"300",1632,2014,"Mewat","Punhana","Barley",0.0073656449766584
+"301",1633,2014,"Faridabad","Faridabad","Barley",0.55912498643203
+"302",1634,2014,"Faridabad","B/garh","Barley",-0.37470803342421
+"303",1635,2014,"Palwal","Palwal","Barley",0.629920991547485
+"304",1636,2014,"Palwal","Hodal","Barley",-0.276380248541634
+"305",1637,2014,"Palwal","Hassanpur","Barley",0.258522901219582
+"306",1638,2014,"Palwal","Hathin","Barley",1.50363359436124
+"307",1639,2014,"Panipat","Panipat","Barley",-1.13941726328242
+"308",1640,2014,"Panipat","Samalkha","Barley",-1.13941726328242
+"309",1641,2014,"Panipat","Matlauda","Barley",-1.13941726328242
+"310",1642,2014,"Panipat","Bapoli","Barley",-1.13941726328242
+"311",1643,2014,"Panipat","Israna","Barley",-1.13941726328242
+"312",1644,2014,"Karnal","Karnal","Barley",-1.13941726328242
+"313",1645,2014,"Karnal","Nissing","Barley",-1.13941726328242
+"314",1646,2014,"Karnal","Indri","Barley",-1.13941726328242
+"315",1647,2014,"Karnal","Gharaunda","Barley",-1.13941726328242
+"316",1648,2014,"Karnal","Assandh","Barley",-1.13941726328242
+"317",1649,2014,"Karnal","Nilokheri","Barley",-1.13941726328242
+"318",1650,2014,"Kurukshetra","Thanesar","Barley",-1.13941726328242
+"319",1651,2014,"Kurukshetra","Shahabad","Barley",-1.13941726328242
+"320",1652,2014,"Kurukshetra","Pehowa","Barley",-1.13941726328242
+"321",1653,2014,"Kurukshetra","Ladwa","Barley",-1.13941726328242
+"322",1654,2014,"Kurukshetra","Babain","Barley",-1.13941726328242
+"323",1655,2014,"Kaithal","Kaithal","Barley",-1.13941726328242
+"324",1656,2014,"Kaithal","Pundri","Barley",-1.13941726328242
+"325",1657,2014,"Kaithal","Kalayat","Barley",-1.13941726328242
+"326",1658,2014,"Kaithal","Rajound","Barley",-1.13941726328242
+"327",1659,2014,"Kaithal","Gulha","Barley",-1.13941726328242
+"328",1660,2014,"Kaithal","Siwan","Barley",-1.13941726328242
+"329",1661,2014,"Ambala","Ambala-I","Barley",-1.13941726328242
+"330",1662,2014,"Ambala","Ambala-II","Barley",-1.13941726328242
+"331",1663,2014,"Ambala","Barara","Barley",-1.13941726328242
+"332",1664,2014,"Ambala","Saha","Barley",-1.13941726328242
+"333",1665,2014,"Ambala","Naraingarh","Barley",-1.13941726328242
+"334",1666,2014,"Ambala","Sahazadpur","Barley",-1.13941726328242
+"335",1667,2014,"Panchkula","Morni","Barley",-1.13941726328242
+"336",1668,2014,"Panchkula","Barwala","Barley",-1.13941726328242
+"337",1669,2014,"Panchkula","Raipurrani","Barley",0.648462802411057
+"338",1670,2014,"Panchkula","Pinjore","Barley",-1.13941726328242
+"339",1671,2014,"Yamuna Nagar","Jagadhari","Barley",-1.13941726328242
+"340",1672,2014,"Yamuna Nagar","Bilaspur","Barley",-1.13941726328242
+"341",1673,2014,"Yamuna Nagar","Radaur","Barley",-1.13941726328242
+"342",1674,2014,"Yamuna Nagar","Sadaura","Barley",-1.13941726328242
+"343",1675,2014,"Yamuna Nagar","Chhachhrauli","Barley",-1.13941726328242
+"344",1676,2014,"Yamuna Nagar","Mustafabad","Barley",-1.13941726328242
+"345",1677,2014,"Jind","Jind","Barley",0.201211849459452
+"346",1678,2014,"Jind","Julana","Barley",0.201211849459452
+"347",1679,2014,"Jind","Alewa","Barley",-1.13941726328242
+"348",1680,2014,"Jind","Safidon","Barley",-1.13941726328242
+"349",1681,2014,"Jind","Pillukhera","Barley",-1.13941726328242
+"350",1682,2014,"Jind","Uchana","Barley",0.201211849459452
+"351",1683,2014,"Jind","Narwana","Barley",0.201211849459452
+"352",1684,2014,"Mahendergarh","Kanina","Barley",-1.13941726328242
+"353",1685,2014,"Mahendergarh","Mahendergarh","Barley",-0.243791611266266
+"354",1686,2014,"Mahendergarh","Ateli","Barley",-1.13941726328242
+"355",1687,2014,"Mahendergarh","Narnaul","Barley",-1.13941726328242
+"356",1688,2014,"Mahendergarh","Nangal Chaudhary","Barley",-0.243791611266266
+"357",1689,2014,"Rewari","Rewari","Barley",0.383258719756336
+"358",1690,2014,"Rewari","Khol","Barley",0.684422678025256
+"359",1691,2014,"Rewari","Jatusana","Barley",0.789492939585495
+"360",1692,2014,"Rewari","Bawal","Barley",-0.0802865518329526
+"361",1693,2014,"Rewari","Nahar","Barley",-0.14883506472252
+"362",2533,2015,"Hisar","Hansi I","Barley",0.961987967922358
+"363",2534,2015,"Hisar","Hansi-II","Barley",0.770389255665452
+"364",2535,2015,"Hisar","Narnaund","Barley",0.612502926796858
+"365",2536,2015,"Hisar","Hisar I","Barley",0.907486281444587
+"366",2537,2015,"Hisar","Hisar II","Barley",0.702964488888828
+"367",2538,2015,"Hisar","Barwala","Barley",0.96873044460002
+"368",2539,2015,"Hisar","Uklana","Barley",1.10863683566151
+"369",2540,2015,"Hisar","Agroha","Barley",0.909171900614003
+"370",2541,2015,"Hisar","Adampur","Barley",0.301787126567916
+"371",2542,2015,"Fatehabad","Ratia","Barley",0.465292186001229
+"372",2543,2015,"Fatehabad","Fatehabad","Barley",0.771513001778396
+"373",2544,2015,"Fatehabad","Bhattukalan","Barley",0.255713535937223
+"374",2545,2015,"Fatehabad","Bhuna","Barley",0.442255390685882
+"375",2546,2015,"Fatehabad","Tohana","Barley",0.465292186001229
+"376",2547,2015,"Fatehabad","Jakhal","Barley",-1.13941726328242
+"377",2548,2015,"Sirsa","Sirsa","Barley",1.17269036409931
+"378",2549,2015,"Sirsa","Nathusari","Barley",0.706897600284131
+"379",2550,2015,"Sirsa","Baragudha","Barley",1.22775392363355
+"380",2551,2015,"Sirsa","Rania","Barley",1.0030047010448
+"381",2552,2015,"Sirsa","Ellenabad","Barley",0.940636791776427
+"382",2553,2015,"Sirsa","Dabwali","Barley",0.316957699092656
+"383",2554,2015,"Sirsa","Odhan","Barley",1.01143279689188
+"384",2555,2015,"Bhiwani","Loharu","Barley",0.649024675467529
+"385",2556,2015,"Bhiwani","Bhiwani","Barley",0.227058010057158
+"386",2557,2015,"Bhiwani","Tosham","Barley",0.645653437128698
+"387",2558,2015,"Bhiwani","Bawani Khera","Barley",0.463606566831813
+"388",2559,2015,"Bhiwani","Dadri-I","Barley",0.48664336214716
+"389",2560,2015,"Bhiwani","Dadri-II","Barley",0.510242030518978
+"390",2561,2015,"Bhiwani","Badhra","Barley",0.843994626063266
+"391",2562,2015,"Bhiwani","Siwani","Barley",0.239419217299539
+"392",2563,2015,"Bhiwani","Kairu","Barley",-0.326948823624102
+"393",2564,2015,"Bhiwani","Behal","Barley",0.871526405830388
+"394",2565,2015,"Rohtak","Lakhan Majra","Barley",0.252904170654864
+"395",2566,2015,"Rohtak","Rohtak","Barley",0.307405857132635
+"396",2567,2015,"Rohtak","Sampla","Barley",0.252904170654864
+"397",2568,2015,"Rohtak","Meham","Barley",0.507432665236619
+"398",2569,2015,"Rohtak","Kalanaur","Barley",-0.340995650035898
+"399",2570,2015,"Jhajjar","Jhajjar","Barley",0.403486149789324
+"400",2571,2015,"Jhajjar","Beri","Barley",0.854670214136232
+"401",2572,2015,"Jhajjar","Salhawas","Barley",1.11144620094387
+"402",2573,2015,"Jhajjar","Matanhail","Barley",1.29012183290193
+"403",2574,2015,"Jhajjar","Bahadurgarh","Barley",0.840623387724435
+"404",2575,2015,"Sonepat","Sonepat","Barley",-1.13941726328242
+"405",2576,2015,"Sonepat","Rai","Barley",-1.13941726328242
+"406",2577,2015,"Sonepat","Kharkhoda","Barley",-1.13941726328242
+"407",2578,2015,"Sonepat","Gohana","Barley",-1.13941726328242
+"408",2579,2015,"Sonepat","Kathura","Barley",-1.13941726328242
+"409",2580,2015,"Sonepat","Mundlana","Barley",-1.13941726328242
+"410",2581,2015,"Sonepat","Ganaur","Barley",-1.13941726328242
+"411",2582,2015,"Gurgaon","Gurgaon","Barley",1.1608910299134
+"412",2583,2015,"Gurgaon","Farrukh Nagar","Barley",1.22943954280297
+"413",2584,2015,"Gurgaon","Sohna","Barley",1.1608910299134
+"414",2585,2015,"Gurgaon","Pataudi","Barley",1.12942613875097
+"415",2586,2015,"Mewat","Nuh","Barley",1.13392112320275
+"416",2587,2015,"Mewat","Tauru","Barley",1.00075720881892
+"417",2588,2015,"Mewat","Ferozpur Jhirka","Barley",0.728810649486534
+"418",2589,2015,"Mewat","Nagina","Barley",0.484957742977744
+"419",2590,2015,"Mewat","Punhana","Barley",0.807472877392595
+"420",2591,2015,"Faridabad","Faridabad","Barley",0.77881735151253
+"421",2592,2015,"Faridabad","B/garh","Barley",0.77881735151253
+"422",2593,2015,"Palwal","Palwal","Barley",0.584971147029736
+"423",2594,2015,"Palwal","Hodal","Barley",0.806349131279651
+"424",2595,2015,"Palwal","Hassanpur","Barley",0.806349131279651
+"425",2596,2015,"Palwal","Hathin","Barley",0.523726983874303
+"426",2597,2015,"Panipat","Panipat","Barley",-1.13941726328242
+"427",2598,2015,"Panipat","Samalkha","Barley",-1.13941726328242
+"428",2599,2015,"Panipat","Matlauda","Barley",-1.13941726328242
+"429",2600,2015,"Panipat","Bapoli","Barley",-1.13941726328242
+"430",2601,2015,"Panipat","Israna","Barley",-1.13941726328242
+"431",2602,2015,"Karnal","Karnal","Barley",-1.13941726328242
+"432",2603,2015,"Karnal","Nissing","Barley",-1.13941726328242
+"433",2604,2015,"Karnal","Indri","Barley",-1.13941726328242
+"434",2605,2015,"Karnal","Gharaunda","Barley",-1.13941726328242
+"435",2606,2015,"Karnal","Assandh","Barley",-1.13941726328242
+"436",2607,2015,"Karnal","Nilokheri","Barley",-1.13941726328242
+"437",2608,2015,"Kurukshetra","Thanesar","Barley",-1.13941726328242
+"438",2609,2015,"Kurukshetra","Shahabad","Barley",-1.13941726328242
+"439",2610,2015,"Kurukshetra","Pehowa","Barley",-1.13941726328242
+"440",2611,2015,"Kurukshetra","Ladwa","Barley",-1.13941726328242
+"441",2612,2015,"Kurukshetra","Babain","Barley",-1.13941726328242
+"442",2613,2015,"Kaithal","Kaithal","Barley",-1.13941726328242
+"443",2614,2015,"Kaithal","Pundri","Barley",-1.13941726328242
+"444",2615,2015,"Kaithal","Kalayat","Barley",-1.13941726328242
+"445",2616,2015,"Kaithal","Rajound","Barley",-1.13941726328242
+"446",2617,2015,"Kaithal","Gulha","Barley",-1.13941726328242
+"447",2618,2015,"Kaithal","Siwan","Barley",-1.13941726328242
+"448",2619,2015,"Ambala","Ambala-I","Barley",-1.13941726328242
+"449",2620,2015,"Ambala","Ambala-II","Barley",-1.13941726328242
+"450",2621,2015,"Ambala","Barara","Barley",-1.13941726328242
+"451",2622,2015,"Ambala","Saha","Barley",-1.13941726328242
+"452",2623,2015,"Ambala","Naraingarh","Barley",-1.13941726328242
+"453",2624,2015,"Ambala","Sahazadpur","Barley",-1.13941726328242
+"454",2625,2015,"Panchkula","Morni","Barley",-1.13941726328242
+"455",2626,2015,"Panchkula","Barwala","Barley",-1.13941726328242
+"456",2627,2015,"Panchkula","Raipurrani","Barley",-1.13941726328242
+"457",2628,2015,"Panchkula","Pinjore","Barley",-1.13941726328242
+"458",2629,2015,"Yamuna Nagar","Jagadhari","Barley",-1.13941726328242
+"459",2630,2015,"Yamuna Nagar","Bilaspur","Barley",-1.13941726328242
+"460",2631,2015,"Yamuna Nagar","Radaur","Barley",-1.13941726328242
+"461",2632,2015,"Yamuna Nagar","Sadaura","Barley",-1.13941726328242
+"462",2633,2015,"Yamuna Nagar","Chhachhrauli","Barley",-1.13941726328242
+"463",2634,2015,"Yamuna Nagar","Mustafabad","Barley",-1.13941726328242
+"464",2635,2015,"Jind","Jind","Barley",-1.13941726328242
+"465",2636,2015,"Jind","Julana","Barley",0.806349131279651
+"466",2637,2015,"Jind","Alewa","Barley",-1.13941726328242
+"467",2638,2015,"Jind","Safidon","Barley",-1.13941726328242
+"468",2639,2015,"Jind","Pillukhera","Barley",-1.13941726328242
+"469",2640,2015,"Jind","Uchana","Barley",0.806349131279651
+"470",2641,2015,"Jind","Narwana","Barley",0.806349131279651
+"471",2642,2015,"Mahendergarh","Kanina","Barley",-1.13941726328242
+"472",2643,2015,"Mahendergarh","Sihma","Barley",-1.13941726328242
+"473",2644,2015,"Mahendergarh","Nijampur","Barley",-1.13941726328242
+"474",2645,2015,"Mahendergarh","Mahendergarh","Barley",0.792864177924326
+"475",2646,2015,"Mahendergarh","Satnali","Barley",0.792864177924326
+"476",2647,2015,"Mahendergarh","Ateli","Barley",-1.13941726328242
+"477",2648,2015,"Mahendergarh","Narnaul","Barley",-1.13941726328242
+"478",2649,2015,"Mahendergarh","Nangal Chaudhary","Barley",-1.13941726328242
+"479",2650,2015,"Rewari","Rewari","Barley",0.224248644774799
+"480",2651,2015,"Rewari","Khol","Barley",0.795673543206686
+"481",2652,2015,"Rewari","Jatusana","Barley",1.36091783801738
+"482",2653,2015,"Rewari","Bawal","Barley",0.889506343637487
+"483",2654,2015,"Rewari","Nahar","Barley",0.795673543206686
+"484",3509,2016,"Hisar","Hansi I","Barley",0.674308963008763
+"485",3510,2016,"Hisar","Hansi-II","Barley",0.549011271415537
+"486",3511,2016,"Hisar","Narnaund","Barley",0.486081489090688
+"487",3512,2016,"Hisar","Hisar I","Barley",1.12043616984742
+"488",3513,2016,"Hisar","Hisar II","Barley",1.05469702224022
+"489",3514,2016,"Hisar","Barwala","Barley",0.883325740016297
+"490",3515,2016,"Hisar","Uklana","Barley",0.866469548322141
+"491",3516,2016,"Hisar","Agroha","Barley",1.22101144695589
+"492",3517,2016,"Hisar","Adampur","Barley",0.988957874633008
+"493",3518,2016,"Fatehabad","Ratia","Barley",1.10133248592738
+"494",3519,2016,"Fatehabad","Fatehabad","Barley",1.04851641861903
+"495",3520,2016,"Fatehabad","Bhattukalan","Barley",0.918723742574024
+"496",3521,2016,"Fatehabad","Bhuna","Barley",0.943446157058786
+"497",3522,2016,"Fatehabad","Tohana","Barley",0.970416063769436
+"498",3523,2016,"Fatehabad","Jakhal","Barley",0.645653437128698
+"499",3524,2016,"Sirsa","Sirsa","Barley",1.12155991596037
+"500",3525,2016,"Sirsa","Nathusari","Barley",0.67037585161346
+"501",3526,2016,"Sirsa","Baragudha","Barley",1.17606160243814
+"502",3527,2016,"Sirsa","Rania","Barley",1.0530114030708
+"503",3528,2016,"Sirsa","Ellenabad","Barley",1.0209846388519
+"504",3529,2016,"Sirsa","Dabwali","Barley",0.76083741370543
+"505",3530,2016,"Sirsa","Odhan","Barley",1.04289768805431
+"506",3531,2016,"Bhiwani","Loharu","Barley",1.04121206888489
+"507",3532,2016,"Bhiwani","Bhiwani","Barley",0.531593206664909
+"508",3533,2016,"Bhiwani","Tosham","Barley",0.804663512110236
+"509",3534,2016,"Bhiwani","Bawani Khera","Barley",1.13111175792039
+"510",3535,2016,"Bhiwani","Dadri-I","Barley",0.818710338522032
+"511",3536,2016,"Bhiwani","Dadri-II","Barley",1.13616861542864
+"512",3537,2016,"Bhiwani","Badhra","Barley",1.30135929403136
+"513",3538,2016,"Bhiwani","Siwani","Barley",0.355726939989215
+"514",3539,2016,"Bhiwani","Kairu","Barley",0.615874165135689
+"515",3540,2016,"Bhiwani","Behal","Barley",0.947941141510561
+"516",3541,2016,"Rohtak","Lakhan Majra","Barley",-0.321891966115855
+"517",3542,2016,"Rohtak","Rohtak","Barley",0.428208564274086
+"518",3543,2016,"Rohtak","Sampla","Barley",0.846803991345626
+"519",3544,2016,"Rohtak","Meham","Barley",0.247847313146617
+"520",3545,2016,"Rohtak","Kalanaur","Barley",0.589466131481511
+"521",3546,2016,"Jhajjar","Jhajjar","Barley",1.05919200669199
+"522",3547,2016,"Jhajjar","Beri","Barley",0.723753791978287
+"523",3548,2016,"Jhajjar","Salhawas","Barley",1.44463692343169
+"524",3549,2016,"Jhajjar","Matanhail","Barley",1.52723226273305
+"525",3550,2016,"Jhajjar","Bahadurgarh","Barley",0.999071589649501
+"526",3551,2016,"Sonepat","Sonepat","Barley",-1.13941726328242
+"527",3552,2016,"Sonepat","Rai","Barley",1.04964016473197
+"528",3553,2016,"Sonepat","Kharkhoda","Barley",1.04964016473197
+"529",3554,2016,"Sonepat","Gohana","Barley",-1.13941726328242
+"530",3555,2016,"Sonepat","Kathura","Barley",-1.13941726328242
+"531",3556,2016,"Sonepat","Mundlana","Barley",-1.13941726328242
+"532",3557,2016,"Sonepat","Ganaur","Barley",-1.13941726328242
+"533",3558,2016,"Gurgaon","Gurgaon","Barley",0.769265509552508
+"534",3559,2016,"Gurgaon","Farrukh Nagar","Barley",1.80086444123485
+"535",3560,2016,"Gurgaon","Sohna","Barley",0.779379224569002
+"536",3561,2016,"Gurgaon","Pataudi","Barley",1.92672400588455
+"537",3562,2016,"Mewat","Nuh","Barley",0.661947755766382
+"538",3563,2016,"Mewat","Tauru","Barley",1.09346626313677
+"539",3564,2016,"Mewat","Ferozpur Jhirka","Barley",0.711392584735906
+"540",3565,2016,"Mewat","Nagina","Barley",0.691727027759391
+"541",3566,2016,"Mewat","Punhana","Barley",1.13953985376747
+"542",3567,2016,"Faridabad","Faridabad","Barley",0.915914377291665
+"543",3568,2016,"Faridabad","B/garh","Barley",0.915914377291665
+"544",3569,2016,"Palwal","Palwal","Barley",0.706335727227659
+"545",3570,2016,"Palwal","Hodal","Barley",1.01648965440013
+"546",3571,2016,"Palwal","Hassanpur","Barley",0.526536349156662
+"547",3572,2016,"Palwal","Hathin","Barley",0.163566354675837
+"548",3573,2016,"Panipat","Panipat","Barley",-1.13941726328242
+"549",3574,2016,"Panipat","Samalkha","Barley",-1.13941726328242
+"550",3575,2016,"Panipat","Matlauda","Barley",-1.13941726328242
+"551",3576,2016,"Panipat","Bapoli","Barley",-1.13941726328242
+"552",3577,2016,"Panipat","Israna","Barley",-1.13941726328242
+"553",3578,2016,"Karnal","Karnal","Barley",-1.13941726328242
+"554",3579,2016,"Karnal","Nissing","Barley",-1.13941726328242
+"555",3580,2016,"Karnal","Indri","Barley",-1.13941726328242
+"556",3581,2016,"Karnal","Gharaunda","Barley",0.915914377291665
+"557",3582,2016,"Karnal","Assandh","Barley",-1.13941726328242
+"558",3583,2016,"Karnal","Nilokheri","Barley",-1.13941726328242
+"559",3584,2016,"Kurukshetra","Thanesar","Barley",-1.13941726328242
+"560",3585,2016,"Kurukshetra","Shahabad","Barley",-1.13941726328242
+"561",3586,2016,"Kurukshetra","Pehowa","Barley",-1.13941726328242
+"562",3587,2016,"Kurukshetra","Ladwa","Barley",-1.13941726328242
+"563",3588,2016,"Kurukshetra","Babain","Barley",-1.13941726328242
+"564",3589,2016,"Kaithal","Kaithal","Barley",-1.13941726328242
+"565",3590,2016,"Kaithal","Pundri","Barley",-1.13941726328242
+"566",3591,2016,"Kaithal","Kalayat","Barley",-1.13941726328242
+"567",3592,2016,"Kaithal","Rajound","Barley",0.551258763641424
+"568",3593,2016,"Kaithal","Gulha","Barley",0.455740344041207
+"569",3594,2016,"Kaithal","Siwan","Barley",-1.13941726328242
+"570",3595,2016,"Ambala","Ambala-I","Barley",-1.13941726328242
+"571",3596,2016,"Ambala","Ambala-II","Barley",-1.13941726328242
+"572",3597,2016,"Ambala","Barara","Barley",-1.13941726328242
+"573",3598,2016,"Ambala","Saha","Barley",-1.13941726328242
+"574",3599,2016,"Ambala","Naraingarh","Barley",-1.13941726328242
+"575",3600,2016,"Ambala","Sahazadpur","Barley",-1.13941726328242
+"576",3601,2016,"Panchkula","Morni","Barley",-1.13941726328242
+"577",3602,2016,"Panchkula","Barwala","Barley",-1.13941726328242
+"578",3603,2016,"Panchkula","Raipurrani","Barley",-1.13941726328242
+"579",3604,2016,"Panchkula","Pinjore","Barley",-0.816902128867568
+"580",3605,2016,"Yamuna Nagar","Jagadhari","Barley",-1.13941726328242
+"581",3606,2016,"Yamuna Nagar","Bilaspur","Barley",-1.13941726328242
+"582",3607,2016,"Yamuna Nagar","Radaur","Barley",-1.13941726328242
+"583",3608,2016,"Yamuna Nagar","Sadaura","Barley",-1.13941726328242
+"584",3609,2016,"Yamuna Nagar","Chhachhrauli","Barley",-1.13941726328242
+"585",3610,2016,"Yamuna Nagar","Mustafabad","Barley",-1.13941726328242
+"586",3611,2016,"Jind","Jind","Barley",0.965359206261189
+"587",3612,2016,"Jind","Julana","Barley",0.916476250348137
+"588",3613,2016,"Jind","Alewa","Barley",-1.13941726328242
+"589",3614,2016,"Jind","Safidon","Barley",-1.13941726328242
+"590",3615,2016,"Jind","Pillukhera","Barley",-1.13941726328242
+"591",3616,2016,"Jind","Uchana","Barley",1.0350314652637
+"592",3617,2016,"Jind","Narwana","Barley",1.00693781244011
+"593",3618,2016,"Mahendergarh","Kanina","Barley",1.08335254812028
+"594",3619,2016,"Mahendergarh","Mahendergarh","Barley",0.618683530418048
+"595",3620,2016,"Mahendergarh","Satnali","Barley",0.702964488888828
+"596",3621,2016,"Mahendergarh","Ateli","Barley",1.25921881479597
+"597",3622,2016,"Mahendergarh","Narnaul","Barley",0.86309830998331
+"598",3623,2016,"Mahendergarh","Nijampur","Barley",-1.13941726328242
+"599",3624,2016,"Mahendergarh","Sihma","Barley",-1.13941726328242
+"600",3625,2016,"Mahendergarh","Nangal Chaudhary","Barley",0.389439323377527
+"601",3626,2016,"Rewari","Rewari","Barley",1.65252995432628
+"602",3627,2016,"Rewari","Khol","Barley",0.751285571745408
+"603",3628,2016,"Rewari","Jatusana","Barley",1.5542021694437
+"604",3629,2016,"Rewari","Bawal","Barley",1.3524897421703
+"605",3630,2016,"Rewari","Nahar","Barley",1.53566035858013

@@ -1,0 +1,486 @@
+"","X","Year","District","Block","Crop","Yield"
+"1",849,2013,"Hisar","Hansi I","Bajra",0.0290743639578496
+"2",850,2013,"Hisar","Hansi-II","Bajra",0.109593563160725
+"3",851,2013,"Hisar","Narnaund","Bajra",0.817255257563458
+"4",852,2013,"Hisar","Hisar I","Bajra",0.498580680436586
+"5",853,2013,"Hisar","Hisar II","Bajra",1.11098022366972
+"6",854,2013,"Hisar","Barwala","Bajra",0.856947820550791
+"7",855,2013,"Hisar","Uklana","Bajra",0.511055485946891
+"8",856,2013,"Hisar","Agroha","Bajra",0.868288552832886
+"9",857,2013,"Hisar","Adampur","Bajra",0.0823758056836965
+"10",858,2013,"Fatehabad","Ratia","Bajra",0.841070795355858
+"11",859,2013,"Fatehabad","Fatehabad","Bajra",0.691373129232203
+"12",860,2013,"Fatehabad","Bhattukalan","Bajra",0.0914483915093726
+"13",861,2013,"Fatehabad","Bhuna","Bajra",0.649412419788451
+"14",862,2013,"Fatehabad","Tohana","Bajra",0.240011984404818
+"15",863,2013,"Fatehabad","Jakhal","Bajra",-1.69131472323598
+"16",864,2013,"Sirsa","Sirsa","Bajra",0.292179352902456
+"17",865,2013,"Sirsa","Nathusari","Bajra",-0.0106181990294832
+"18",866,2013,"Sirsa","Baragudha","Bajra",-1.69131472323598
+"19",867,2013,"Sirsa","Rania","Bajra",0.580233952867671
+"20",868,2013,"Sirsa","Ellenabad","Bajra",0.567759147357366
+"21",869,2013,"Sirsa","Dabwali","Bajra",0.213928300156
+"22",870,2013,"Sirsa","Odhan","Bajra",-1.69131472323598
+"23",871,2013,"Sirsa","Sirsa","Bajra",-1.69131472323598
+"24",872,2013,"Bhiwani","Loharu","Bajra",0.0562921214348778
+"25",873,2013,"Bhiwani","Bhiwani","Bajra",0.0370128765553162
+"26",874,2013,"Bhiwani","Tosham","Bajra",-0.24990765018169
+"27",875,2013,"Bhiwani","Bawani Khera","Bajra",0.67549610403727
+"28",876,2013,"Bhiwani","Dadri-I","Bajra",0.607451710344699
+"29",877,2013,"Bhiwani","Dadri-II","Bajra",0.524664364685405
+"30",878,2013,"Bhiwani","Badhra","Bajra",-0.311147604505003
+"31",879,2013,"Bhiwani","Siwani","Bajra",0.114129856073563
+"32",880,2013,"Bhiwani","Kairu","Bajra",0.00866104585007846
+"33",881,2013,"Bhiwani","Behal","Bajra",0.103923197019677
+"34",882,2013,"Rohtak","Lakhan Majra","Bajra",-0.222689892704661
+"35",883,2013,"Rohtak","Rohtak","Bajra",0.0846439521401155
+"36",884,2013,"Rohtak","Sampla","Bajra",-0.98818932174608
+"37",885,2013,"Rohtak","Meham","Bajra",-0.112684789568339
+"38",886,2013,"Rohtak","Kalanaur","Bajra",0.362491893051445
+"39",887,2013,"Jhajjar","Jhajjar","Bajra",0.76622196229403
+"40",888,2013,"Jhajjar","Beri","Bajra",-0.114952936024758
+"41",889,2013,"Jhajjar","Salhawas","Bajra",0.621060589083213
+"42",890,2013,"Jhajjar","Matanhail","Bajra",0.44414516548253
+"43",891,2013,"Jhajjar","Bahadurgarh","Bajra",0.415793334777292
+"44",892,2013,"Sonepat","Sonepat","Bajra",0.996438827620561
+"45",893,2013,"Sonepat","Rai","Bajra",0.660753152070546
+"46",894,2013,"Sonepat","Kharkhoda","Bajra",1.34913560159372
+"47",895,2013,"Sonepat","Gohana","Bajra",0.641473907190984
+"48",896,2013,"Sonepat","Kathura","Bajra",0.721993106393859
+"49",897,2013,"Sonepat","Mundlana","Bajra",0.398782236354149
+"50",898,2013,"Sonepat","Ganaur","Bajra",0.9057129693638
+"51",899,2013,"Gurgaon","Gurgaon","Bajra",0.652814639473079
+"52",900,2013,"Gurgaon","Farrukh Nagar","Bajra",0.646010200103822
+"53",901,2013,"Gurgaon","Sohna","Bajra",0.347748941084722
+"54",902,2013,"Gurgaon","Pataudi","Bajra",1.02592473155401
+"55",903,2013,"Mewat","Nuh","Bajra",0.821791550476296
+"56",904,2013,"Mewat","Tauru","Bajra",1.41604592205808
+"57",905,2013,"Mewat","Ferozpur Jhirka","Bajra",0.297849719043503
+"58",906,2013,"Mewat","Nagina","Bajra",0.241146057633028
+"59",907,2013,"Mewat","Punhana","Bajra",0.584770245780509
+"60",908,2013,"Mewat","Mewat","Bajra",-1.69131472323598
+"61",909,2013,"Faridabad","Faridabad","Bajra",0.310324524553808
+"62",910,2013,"Faridabad","B/garh","Bajra",0.411257041864454
+"63",911,2013,"Palwal","Palwal","Bajra",0.652814639473079
+"64",912,2013,"Palwal","Hodal","Bajra",0.286508986761408
+"65",913,2013,"Palwal","Hassanpur","Bajra",1.06788544099776
+"66",914,2013,"Palwal","Hathin","Bajra",0.85921596700721
+"67",915,2013,"Panipat","Panipat","Bajra",-1.69131472323598
+"68",916,2013,"Panipat","Samalkha","Bajra",0.641473907190984
+"69",917,2013,"Panipat","Matlauda","Bajra",-1.69131472323598
+"70",918,2013,"Panipat","Bapoli","Bajra",0.641473907190984
+"71",919,2013,"Panipat","Israna","Bajra",0.641473907190984
+"72",920,2013,"Karnal","Karnal","Bajra",-1.69131472323598
+"73",921,2013,"Karnal","Nissing","Bajra",0.641473907190984
+"74",922,2013,"Karnal","Indri","Bajra",-1.69131472323598
+"75",923,2013,"Karnal","Gharaunda","Bajra",0.641473907190984
+"76",924,2013,"Karnal","Assandh","Bajra",0.641473907190984
+"77",925,2013,"Karnal","Nilokheri","Bajra",-1.69131472323598
+"78",926,2013,"Kurukshetra","Thanesar","Bajra",-1.69131472323598
+"79",927,2013,"Kurukshetra","Shahabad","Bajra",-1.69131472323598
+"80",928,2013,"Kurukshetra","Pehowa","Bajra",0.641473907190984
+"81",929,2013,"Kurukshetra","Ladwa","Bajra",-1.69131472323598
+"82",930,2013,"Kurukshetra","Babain","Bajra",-1.69131472323598
+"83",931,2013,"Kaithal","Kaithal","Bajra",1.1087120772133
+"84",932,2013,"Kaithal","Pundri","Bajra",1.08943283233374
+"85",933,2013,"Kaithal","Kalayat","Bajra",1.37975557875537
+"86",934,2013,"Kaithal","Rajound","Bajra",0.843338941812277
+"87",935,2013,"Kaithal","Gulha","Bajra",-1.69131472323598
+"88",936,2013,"Kaithal","Siwan","Bajra",-1.69131472323598
+"89",937,2013,"Kaithal","Kaithal","Bajra",-1.69131472323598
+"90",938,2013,"Ambala","Ambala-I","Bajra",-1.69131472323598
+"91",939,2013,"Ambala","Ambala-II","Bajra",-1.69131472323598
+"92",940,2013,"Ambala","Barara","Bajra",-1.69131472323598
+"93",941,2013,"Ambala","Saha","Bajra",-1.69131472323598
+"94",942,2013,"Ambala","Naraingarh","Bajra",0.641473907190984
+"95",943,2013,"Ambala","Sahazadpur","Bajra",0.641473907190984
+"96",944,2013,"Panchkula","Morni","Bajra",-1.69131472323598
+"97",945,2013,"Panchkula","Barwala","Bajra",0.641473907190984
+"98",946,2013,"Panchkula","Raipurrani","Bajra",0.641473907190984
+"99",947,2013,"Panchkula","Pinjore","Bajra",-1.69131472323598
+"100",948,2013,"Yamuna Nagar","Jagadhari","Bajra",-1.69131472323598
+"101",949,2013,"Yamuna Nagar","Bilaspur","Bajra",0.641473907190984
+"102",950,2013,"Yamuna Nagar","Radaur","Bajra",-1.69131472323598
+"103",951,2013,"Yamuna Nagar","Sadaura","Bajra",0.641473907190984
+"104",952,2013,"Yamuna Nagar","Chhachhrauli","Bajra",0.641473907190984
+"105",953,2013,"Yamuna Nagar","Mustafabad","Bajra",-1.69131472323598
+"106",954,2013,"Jind","Jind","Bajra",0.689104982775784
+"107",955,2013,"Jind","Julana","Bajra",1.01571807250012
+"108",956,2013,"Jind","Alewa","Bajra",0.750344937099097
+"109",957,2013,"Jind","Safidon","Bajra",0.598379124519023
+"110",958,2013,"Jind","Pillukhera","Bajra",0.0154654852193355
+"111",959,2013,"Jind","Uchana","Bajra",1.08716468587732
+"112",960,2013,"Jind","Narwana","Bajra",1.75853603697735
+"113",961,2013,"Mahendergarh","Kanina","Bajra",1.36274448033223
+"114",962,2013,"Mahendergarh","Mahendergarh","Bajra",0.533736950511081
+"115",963,2013,"Mahendergarh","Ateli","Bajra",1.42965480079659
+"116",964,2013,"Mahendergarh","Narnaul","Bajra",1.02138843864117
+"117",965,2013,"Mahendergarh","Nangal Chaudhary","Bajra",1.1087120772133
+"118",966,2013,"Rewari","Rewari","Bajra",0.783233060717173
+"119",967,2013,"Rewari","Khol","Bajra",0.92839443392799
+"120",968,2013,"Rewari","Jatusana","Bajra",1.39223038426568
+"121",969,2013,"Rewari","Bawal","Bajra",0.978293655969208
+"122",970,2013,"Rewari","Nahar","Bajra",0.689104982775784
+"123",1813,2014,"Hisar","Hansi I","Bajra",-0.0174226383987402
+"124",1814,2014,"Hisar","Hansi-II","Bajra",0.151554272604477
+"125",1815,2014,"Hisar","Narnaund","Bajra",0.187844615907181
+"126",1816,2014,"Hisar","Hisar I","Bajra",0.684568689862946
+"127",1817,2014,"Hisar","Hisar II","Bajra",-0.603738497383056
+"128",1818,2014,"Hisar","Barwala","Bajra",0.609719856801118
+"129",1819,2014,"Hisar","Uklana","Bajra",0.44414516548253
+"130",1820,2014,"Hisar","Agroha","Bajra",0.245682350545866
+"131",1821,2014,"Hisar","Adampur","Bajra",-0.395069023392507
+"132",1822,2014,"Fatehabad","Ratia","Bajra",1.2516053039677
+"133",1823,2014,"Fatehabad","Fatehabad","Bajra",0.655082785929498
+"134",1824,2014,"Fatehabad","Bhattukalan","Bajra",0.590440611921556
+"135",1825,2014,"Fatehabad","Bhuna","Bajra",0.221866812753466
+"136",1826,2014,"Fatehabad","Tohana","Bajra",1.71430718107718
+"137",1827,2014,"Fatehabad","Jakhal","Bajra",-1.69131472323598
+"138",1828,2014,"Sirsa","Sirsa","Bajra",0.0574261946630873
+"139",1829,2014,"Sirsa","Nathusari","Bajra",0.0642306340323444
+"140",1830,2014,"Sirsa","Baragudha","Bajra",-1.69131472323598
+"141",1831,2014,"Sirsa","Rania","Bajra",-0.198874354912262
+"142",1832,2014,"Sirsa","Ellenabad","Bajra",0.333005989117998
+"143",1833,2014,"Sirsa","Dabwali","Bajra",0.676630177265479
+"144",1834,2014,"Sirsa","Odhan","Bajra",-1.69131472323598
+"145",1835,2014,"Bhiwani","Loharu","Bajra",0.331871915889788
+"146",1836,2014,"Bhiwani","Bhiwani","Bajra",0.209392007243162
+"147",1837,2014,"Bhiwani","Tosham","Bajra",-0.66497845170637
+"148",1838,2014,"Bhiwani","Bawani Khera","Bajra",0.439608872569692
+"149",1839,2014,"Bhiwani","Dadri-I","Bajra",-0.0854670320913108
+"150",1840,2014,"Bhiwani","Dadri-II","Bajra",0.244548277317656
+"151",1841,2014,"Bhiwani","Badhra","Bajra",-0.547034835972581
+"152",1842,2014,"Bhiwani","Siwani","Bajra",-0.891793097348272
+"153",1843,2014,"Bhiwani","Kairu","Bajra",-0.146706986414624
+"154",1844,2014,"Bhiwani","Behal","Bajra",-0.0310315171372543
+"155",1845,2014,"Rohtak","Lakhan Majra","Bajra",-0.181863256489119
+"156",1846,2014,"Rohtak","Rohtak","Bajra",0.667557591439803
+"157",1847,2014,"Rohtak","Sampla","Bajra",0.245682350545866
+"158",1848,2014,"Rohtak","Meham","Bajra",0.333005989117998
+"159",1849,2014,"Rohtak","Kalanaur","Bajra",0.345480794628303
+"160",1850,2014,"Jhajjar","Jhajjar","Bajra",0.126604661583867
+"161",1851,2014,"Jhajjar","Beri","Bajra",-0.359912753318012
+"162",1852,2014,"Jhajjar","Salhawas","Bajra",0.672093884352641
+"163",1853,2014,"Jhajjar","Matanhail","Bajra",0.254754936371542
+"164",1854,2014,"Jhajjar","Bahadurgarh","Bajra",0.727663472534907
+"165",1855,2014,"Sonepat","Sonepat","Bajra",0.5121895591751
+"166",1856,2014,"Sonepat","Rai","Bajra",0.69704349537325
+"167",1857,2014,"Sonepat","Kharkhoda","Bajra",0.794573792999268
+"168",1858,2014,"Sonepat","Gohana","Bajra",0.429402213515806
+"169",1859,2014,"Sonepat","Kathura","Bajra",0.909115189048428
+"170",1860,2014,"Sonepat","Mundlana","Bajra",-0.0729922265810062
+"171",1861,2014,"Sonepat","Ganaur","Bajra",0.213928300156
+"172",1862,2014,"Gurgaon","Gurgaon","Bajra",0.756015303240145
+"173",1863,2014,"Gurgaon","Farrukh Nagar","Bajra",-0.0310315171372543
+"174",1864,2014,"Gurgaon","Sohna","Bajra",-0.396203096620716
+"175",1865,2014,"Gurgaon","Pataudi","Bajra",0.971489216599951
+"176",1866,2014,"Mewat","Nuh","Bajra",-0.0491766887886065
+"177",1867,2014,"Mewat","Tauru","Bajra",0.623328735539632
+"178",1868,2014,"Mewat","Ferozpur Jhirka","Bajra",0.0426832426963637
+"179",1869,2014,"Mewat","Nagina","Bajra",-0.172790670663443
+"180",1870,2014,"Mewat","Punhana","Bajra",0.78890342685822
+"181",1871,2014,"Faridabad","Faridabad","Bajra",0.684568689862946
+"182",1872,2014,"Faridabad","B/garh","Bajra",0.00299067970903091
+"183",1873,2014,"Palwal","Palwal","Bajra",1.03613139060789
+"184",1874,2014,"Palwal","Hodal","Bajra",0.141347613550591
+"185",1875,2014,"Palwal","Hassanpur","Bajra",0.25815715605617
+"186",1876,2014,"Palwal","Hathin","Bajra",0.278570474163942
+"187",1877,2014,"Panipat","Panipat","Bajra",-1.69131472323598
+"188",1878,2014,"Panipat","Samalkha","Bajra",0.292179352902456
+"189",1879,2014,"Panipat","Matlauda","Bajra",-1.69131472323598
+"190",1880,2014,"Panipat","Bapoli","Bajra",-1.69131472323598
+"191",1881,2014,"Panipat","Israna","Bajra",0.292179352902456
+"192",1882,2014,"Karnal","Karnal","Bajra",-1.69131472323598
+"193",1883,2014,"Karnal","Nissing","Bajra",-1.69131472323598
+"194",1884,2014,"Karnal","Indri","Bajra",-1.69131472323598
+"195",1885,2014,"Karnal","Gharaunda","Bajra",0.292179352902456
+"196",1886,2014,"Karnal","Assandh","Bajra",0.292179352902456
+"197",1887,2014,"Karnal","Nilokheri","Bajra",-1.69131472323598
+"198",1888,2014,"Kurukshetra","Thanesar","Bajra",-1.69131472323598
+"199",1889,2014,"Kurukshetra","Shahabad","Bajra",-1.69131472323598
+"200",1890,2014,"Kurukshetra","Pehowa","Bajra",-1.69131472323598
+"201",1891,2014,"Kurukshetra","Ladwa","Bajra",-1.69131472323598
+"202",1892,2014,"Kurukshetra","Babain","Bajra",-1.69131472323598
+"203",1893,2014,"Kaithal","Kaithal","Bajra",0.802512305596735
+"204",1894,2014,"Kaithal","Pundri","Bajra",0.9295285071562
+"205",1895,2014,"Kaithal","Kalayat","Bajra",1.41264370237345
+"206",1896,2014,"Kaithal","Rajound","Bajra",0.734467911904164
+"207",1897,2014,"Kaithal","Gulha","Bajra",-1.69131472323598
+"208",1898,2014,"Kaithal","Siwan","Bajra",-1.69131472323598
+"209",1899,2014,"Ambala","Ambala-I","Bajra",-1.69131472323598
+"210",1900,2014,"Ambala","Ambala-II","Bajra",-1.69131472323598
+"211",1901,2014,"Ambala","Barara","Bajra",0.292179352902456
+"212",1902,2014,"Ambala","Saha","Bajra",-1.69131472323598
+"213",1903,2014,"Ambala","Naraingarh","Bajra",0.292179352902456
+"214",1904,2014,"Ambala","Sahazadpur","Bajra",0.292179352902456
+"215",1905,2014,"Panchkula","Morni","Bajra",-1.69131472323598
+"216",1906,2014,"Panchkula","Barwala","Bajra",0.292179352902456
+"217",1907,2014,"Panchkula","Raipurrani","Bajra",0.292179352902456
+"218",1908,2014,"Panchkula","Pinjore","Bajra",-1.69131472323598
+"219",1909,2014,"Yamuna Nagar","Jagadhari","Bajra",-1.69131472323598
+"220",1910,2014,"Yamuna Nagar","Bilaspur","Bajra",0.292179352902456
+"221",1911,2014,"Yamuna Nagar","Radaur","Bajra",-1.69131472323598
+"222",1912,2014,"Yamuna Nagar","Sadaura","Bajra",0.292179352902456
+"223",1913,2014,"Yamuna Nagar","Chhachhrauli","Bajra",0.292179352902456
+"224",1914,2014,"Yamuna Nagar","Mustafabad","Bajra",-1.69131472323598
+"225",1915,2014,"Jind","Jind","Bajra",0.499714753664796
+"226",1916,2014,"Jind","Julana","Bajra",-0.187533622630167
+"227",1917,2014,"Jind","Alewa","Bajra",0.5121895591751
+"228",1918,2014,"Jind","Safidon","Bajra",0.659619078842337
+"229",1919,2014,"Jind","Pillukhera","Bajra",0.664155371755174
+"230",1920,2014,"Jind","Uchana","Bajra",1.10530985752867
+"231",1921,2014,"Jind","Narwana","Bajra",0.837668575671229
+"232",1922,2014,"Mahendergarh","Kanina","Bajra",0.791171573314639
+"233",1923,2014,"Mahendergarh","Mahendergarh","Bajra",0.483837728469863
+"234",1924,2014,"Mahendergarh","Ateli","Bajra",0.42032962769013
+"235",1925,2014,"Mahendergarh","Narnaul","Bajra",-0.159181791924929
+"236",1926,2014,"Mahendergarh","Nangal Chaudhary","Bajra",-0.293002432853651
+"237",1927,2014,"Rewari","Rewari","Bajra",0.898908529994543
+"238",1928,2014,"Rewari","Khol","Bajra",0.46682663004672
+"239",1929,2014,"Rewari","Jatusana","Bajra",1.07582395359523
+"240",1930,2014,"Rewari","Bawal","Bajra",1.18356091027513
+"241",1931,2014,"Rewari","Nahar","Bajra",1.11665058981077
+"242",2777,2015,"Hisar","Hansi I","Bajra",-0.459711197400449
+"243",2778,2015,"Hisar","Hansi-II","Bajra",0.395380016669521
+"244",2779,2015,"Hisar","Narnaund","Bajra",0.353419307225769
+"245",2780,2015,"Hisar","Hisar I","Bajra",0.780964914260754
+"246",2781,2015,"Hisar","Hisar II","Bajra",0.338676355259045
+"247",2782,2015,"Hisar","Barwala","Bajra",0.79003750008643
+"248",2783,2015,"Hisar","Uklana","Bajra",0.361357819823236
+"249",2784,2015,"Hisar","Agroha","Bajra",-0.277125407658718
+"250",2785,2015,"Hisar","Adampur","Bajra",-0.466515636769706
+"251",2786,2015,"Fatehabad","Ratia","Bajra",1.79142416059543
+"252",2787,2015,"Fatehabad","Fatehabad","Bajra",0.579099879639461
+"253",2788,2015,"Fatehabad","Bhattukalan","Bajra",-0.00154561320380712
+"254",2789,2015,"Fatehabad","Bhuna","Bajra",-0.300940945451117
+"255",2790,2015,"Fatehabad","Tohana","Bajra",0.497446607208377
+"256",2791,2015,"Fatehabad","Jakhal","Bajra",-1.69131472323598
+"257",2792,2015,"Sirsa","Sirsa","Bajra",-1.69131472323598
+"258",2793,2015,"Sirsa","Nathusari","Bajra",-0.218153599791823
+"259",2794,2015,"Sirsa","Baragudha","Bajra",-1.69131472323598
+"260",2795,2015,"Sirsa","Rania","Bajra",-0.00381375966022614
+"261",2796,2015,"Sirsa","Ellenabad","Bajra",0.310324524553808
+"262",2797,2015,"Sirsa","Dabwali","Bajra",-0.903133829630367
+"263",2798,2015,"Sirsa","Odhan","Bajra",-1.69131472323598
+"264",2799,2015,"Bhiwani","Loharu","Bajra",-0.122891448622225
+"265",2800,2015,"Bhiwani","Bhiwani","Bajra",-0.290734286397232
+"266",2801,2015,"Bhiwani","Tosham","Bajra",-0.666112524934579
+"267",2802,2015,"Bhiwani","Bawani Khera","Bajra",0.252486789915123
+"268",2803,2015,"Bhiwani","Dadri-I","Bajra",0.530334730826452
+"269",2804,2015,"Bhiwani","Dadri-II","Bajra",0.229805325350933
+"270",2805,2015,"Bhiwani","Badhra","Bajra",-0.0140204187141117
+"271",2806,2015,"Bhiwani","Siwani","Bajra",-0.533425957234067
+"272",2807,2015,"Bhiwani","Kairu","Bajra",-0.59579998478559
+"273",2808,2015,"Bhiwani","Behal","Bajra",-0.677453257216674
+"274",2809,2015,"Rohtak","Lakhan Majra","Bajra",-0.366717192687269
+"275",2810,2015,"Rohtak","Rohtak","Bajra",0.741272351273421
+"276",2811,2015,"Rohtak","Sampla","Bajra",0.802512305596735
+"277",2812,2015,"Rohtak","Meham","Bajra",-0.333829069069193
+"278",2813,2015,"Rohtak","Kalanaur","Bajra",0.301251938728132
+"279",2814,2015,"Jhajjar","Jhajjar","Bajra",1.01571807250012
+"280",2815,2015,"Jhajjar","Beri","Bajra",1.15180685988526
+"281",2816,2015,"Jhajjar","Salhawas","Bajra",1.29129786695503
+"282",2817,2015,"Jhajjar","Matanhail","Bajra",0.168565371027619
+"283",2818,2015,"Jhajjar","Bahadurgarh","Bajra",1.07809210005165
+"284",2819,2015,"Sonepat","Sonepat","Bajra",0.960148484317856
+"285",2820,2015,"Sonepat","Rai","Bajra",0.655082785929498
+"286",2821,2015,"Sonepat","Kharkhoda","Bajra",0.657350932385917
+"287",2822,2015,"Sonepat","Gohana","Bajra",0.504251046577634
+"288",2823,2015,"Sonepat","Kathura","Bajra",0.795707866227477
+"289",2824,2015,"Sonepat","Mundlana","Bajra",1.33099042994237
+"290",2825,2015,"Sonepat","Ganaur","Bajra",0.474765142644187
+"291",2826,2015,"Gurgaon","Gurgaon","Bajra",0.596110978062604
+"292",2827,2015,"Gurgaon","Farrukh Nagar","Bajra",0.684568689862946
+"293",2828,2015,"Gurgaon","Sohna","Bajra",-0.0820648124066822
+"294",2829,2015,"Gurgaon","Pataudi","Bajra",0.786635280401801
+"295",2830,2015,"Mewat","Nuh","Bajra",0.384039284387426
+"296",2831,2015,"Mewat","Tauru","Bajra",1.17789054413408
+"297",2832,2015,"Mewat","Ferozpur Jhirka","Bajra",0.0925824647375821
+"298",2833,2015,"Mewat","Nagina","Bajra",0.297849719043503
+"299",2834,2015,"Mewat","Punhana","Bajra",0.516725852087938
+"300",2835,2015,"Faridabad","Faridabad","Bajra",0.65054649301666
+"301",2836,2015,"Faridabad","B/garh","Bajra",0.173101663940457
+"302",2837,2015,"Palwal","Palwal","Bajra",-0.34176758166666
+"303",2838,2015,"Palwal","Hodal","Bajra",-0.223823965932871
+"304",2839,2015,"Palwal","Hassanpur","Bajra",-0.139902547045367
+"305",2840,2015,"Palwal","Hathin","Bajra",0.596110978062604
+"306",2841,2015,"Panipat","Panipat","Bajra",-1.69131472323598
+"307",2842,2015,"Panipat","Samalkha","Bajra",0.306922304869179
+"308",2843,2015,"Panipat","Matlauda","Bajra",-1.69131472323598
+"309",2844,2015,"Panipat","Bapoli","Bajra",-1.69131472323598
+"310",2845,2015,"Panipat","Israna","Bajra",0.306922304869179
+"311",2846,2015,"Karnal","Karnal","Bajra",-1.69131472323598
+"312",2847,2015,"Karnal","Nissing","Bajra",-1.69131472323598
+"313",2848,2015,"Karnal","Indri","Bajra",-1.69131472323598
+"314",2849,2015,"Karnal","Gharaunda","Bajra",0.306922304869179
+"315",2850,2015,"Karnal","Assandh","Bajra",0.306922304869179
+"316",2851,2015,"Karnal","Nilokheri","Bajra",-1.69131472323598
+"317",2852,2015,"Kurukshetra","Thanesar","Bajra",-1.69131472323598
+"318",2853,2015,"Kurukshetra","Shahabad","Bajra",-1.69131472323598
+"319",2854,2015,"Kurukshetra","Pehowa","Bajra",-1.69131472323598
+"320",2855,2015,"Kurukshetra","Ladwa","Bajra",-1.69131472323598
+"321",2856,2015,"Kurukshetra","Babain","Bajra",-1.69131472323598
+"322",2857,2015,"Kaithal","Kaithal","Bajra",0.893238163853495
+"323",2858,2015,"Kaithal","Pundri","Bajra",0.893238163853495
+"324",2859,2015,"Kaithal","Kalayat","Bajra",1.49429697480453
+"325",2860,2015,"Kaithal","Rajound","Bajra",0.35115116076935
+"326",2861,2015,"Kaithal","Gulha","Bajra",-1.69131472323598
+"327",2862,2015,"Kaithal","Siwan","Bajra",-1.69131472323598
+"328",2863,2015,"Ambala","Ambala-I","Bajra",-1.69131472323598
+"329",2864,2015,"Ambala","Ambala-II","Bajra",-1.69131472323598
+"330",2865,2015,"Ambala","Barara","Bajra",-1.69131472323598
+"331",2866,2015,"Ambala","Saha","Bajra",-1.69131472323598
+"332",2867,2015,"Ambala","Naraingarh","Bajra",-1.69131472323598
+"333",2868,2015,"Ambala","Sahazadpur","Bajra",-1.69131472323598
+"334",2869,2015,"Panchkula","Morni","Bajra",-1.69131472323598
+"335",2870,2015,"Panchkula","Barwala","Bajra",0.306922304869179
+"336",2871,2015,"Panchkula","Raipurrani","Bajra",0.306922304869179
+"337",2872,2015,"Panchkula","Pinjore","Bajra",0.306922304869179
+"338",2873,2015,"Yamuna Nagar","Jagadhari","Bajra",-1.69131472323598
+"339",2874,2015,"Yamuna Nagar","Bilaspur","Bajra",-1.69131472323598
+"340",2875,2015,"Yamuna Nagar","Radaur","Bajra",-1.69131472323598
+"341",2876,2015,"Yamuna Nagar","Sadaura","Bajra",-1.69131472323598
+"342",2877,2015,"Yamuna Nagar","Chhachhrauli","Bajra",-1.69131472323598
+"343",2878,2015,"Yamuna Nagar","Mustafabad","Bajra",-1.69131472323598
+"344",2879,2015,"Jind","Jind","Bajra",0.62899910168068
+"345",2880,2015,"Jind","Julana","Bajra",-0.148975132871043
+"346",2881,2015,"Jind","Alewa","Bajra",0.280838620620361
+"347",2882,2015,"Jind","Safidon","Bajra",0.564356927672738
+"348",2883,2015,"Jind","Pillukhera","Bajra",0.398782236354149
+"349",2884,2015,"Jind","Uchana","Bajra",1.24933715751128
+"350",2885,2015,"Jind","Narwana","Bajra",0.126604661583867
+"351",2886,2015,"Mahendergarh","Kanina","Bajra",0.750344937099097
+"352",2887,2015,"Mahendergarh","Sihma","Bajra",0.0528899017502493
+"353",2888,2015,"Mahendergarh","Nijampur","Bajra",0.456619970992834
+"354",2889,2015,"Mahendergarh","Mahendergarh","Bajra",-0.646833280055018
+"355",2890,2015,"Mahendergarh","Satnali","Bajra",-0.334963142297403
+"356",2891,2015,"Mahendergarh","Ateli","Bajra",0.0551580482066683
+"357",2892,2015,"Mahendergarh","Narnaul","Bajra",0.0551580482066683
+"358",2893,2015,"Mahendergarh","Nangal Chaudhary","Bajra",0.0551580482066683
+"359",2894,2015,"Rewari","Rewari","Bajra",0.60518356388828
+"360",2895,2015,"Rewari","Khol","Bajra",0.136811320637753
+"361",2896,2015,"Rewari","Jatusana","Bajra",1.29243194018324
+"362",2897,2015,"Rewari","Bawal","Bajra",0.53713917019571
+"363",2898,2015,"Rewari","Nahar","Bajra",1.19036534964439
+"364",3753,2016,"Hisar","Hansi I","Bajra",0.272900108022894
+"365",3754,2016,"Hisar","Hansi-II","Bajra",0.263827522197218
+"366",3755,2016,"Hisar","Narnaund","Bajra",0.0426832426963637
+"367",3756,2016,"Hisar","Hisar I","Bajra",0.545077682793176
+"368",3757,2016,"Hisar","Hisar II","Bajra",0.382905211159216
+"369",3758,2016,"Hisar","Barwala","Bajra",0.709518300883555
+"370",3759,2016,"Hisar","Uklana","Bajra",0.763953815837611
+"371",3760,2016,"Hisar","Agroha","Bajra",0.885299651256029
+"372",3761,2016,"Hisar","Adampur","Bajra",0.78890342685822
+"373",3762,2016,"Fatehabad","Ratia","Bajra",0.245682350545866
+"374",3763,2016,"Fatehabad","Fatehabad","Bajra",1.16541573862378
+"375",3764,2016,"Fatehabad","Bhattukalan","Bajra",1.08603061264911
+"376",3765,2016,"Fatehabad","Bhuna","Bajra",0.830864136301972
+"377",3766,2016,"Fatehabad","Tohana","Bajra",1.3355267228552
+"378",3767,2016,"Fatehabad","Jakhal","Bajra",0.818389330791668
+"379",3768,2016,"Sirsa","Sirsa","Bajra",0.572295440270204
+"380",3769,2016,"Sirsa","Nathusari","Bajra",0.593842831606185
+"381",3770,2016,"Sirsa","Baragudha","Bajra",0.980561802425627
+"382",3771,2016,"Sirsa","Rania","Bajra",1.20964459452395
+"383",3772,2016,"Sirsa","Ellenabad","Bajra",0.708384227655345
+"384",3773,2016,"Sirsa","Dabwali","Bajra",1.6451287141564
+"385",3774,2016,"Sirsa","Odhan","Bajra",1.42738665434017
+"386",3775,2016,"Bhiwani","Loharu","Bajra",0.494044387523748
+"387",3776,2016,"Bhiwani","Bhiwani","Bajra",0.117532075758191
+"388",3777,2016,"Bhiwani","Tosham","Bajra",-0.103612203742663
+"389",3778,2016,"Bhiwani","Bawani Khera","Bajra",0.511055485946891
+"390",3779,2016,"Bhiwani","Dadri-I","Bajra",0.751479010327307
+"391",3780,2016,"Bhiwani","Dadri-II","Bajra",0.404452602495197
+"392",3781,2016,"Bhiwani","Badhra","Bajra",0.367028185964283
+"393",3782,2016,"Bhiwani","Siwani","Bajra",-0.339499435210241
+"394",3783,2016,"Bhiwani","Kairu","Bajra",0.1901127623636
+"395",3784,2016,"Bhiwani","Behal","Bajra",-0.260114309235575
+"396",3785,2016,"Rohtak","Lakhan Majra","Bajra",0.323933403292322
+"397",3786,2016,"Rohtak","Rohtak","Bajra",0.634669467821727
+"398",3787,2016,"Rohtak","Sampla","Bajra",0.656216859157708
+"399",3788,2016,"Rohtak","Meham","Bajra",0.28197269384857
+"400",3789,2016,"Rohtak","Kalanaur","Bajra",0.413525188320873
+"401",3790,2016,"Jhajjar","Jhajjar","Bajra",0.856947820550791
+"402",3791,2016,"Jhajjar","Beri","Bajra",1.46707921732751
+"403",3792,2016,"Jhajjar","Salhawas","Bajra",0.456619970992834
+"404",3793,2016,"Jhajjar","Matanhail","Bajra",0.103923197019677
+"405",3794,2016,"Jhajjar","Bahadurgarh","Bajra",1.02252251186938
+"406",3795,2016,"Sonepat","Sonepat","Bajra",0.635803541049937
+"407",3796,2016,"Sonepat","Rai","Bajra",0.783233060717173
+"408",3797,2016,"Sonepat","Kharkhoda","Bajra",0.746942717414469
+"409",3798,2016,"Sonepat","Gohana","Bajra",0.267229741881846
+"410",3799,2016,"Sonepat","Kathura","Bajra",0.556418415075271
+"411",3800,2016,"Sonepat","Mundlana","Bajra",0.141347613550591
+"412",3801,2016,"Sonepat","Ganaur","Bajra",0.726529399306697
+"413",3802,2016,"Gurgaon","Gurgaon","Bajra",0.737870131588793
+"414",3803,2016,"Gurgaon","Farrukh Nagar","Bajra",0.757149376468354
+"415",3804,2016,"Gurgaon","Sohna","Bajra",-0.0367018832783019
+"416",3805,2016,"Gurgaon","Pataudi","Bajra",1.01118177958728
+"417",3806,2016,"Mewat","Nuh","Bajra",0.60631763711649
+"418",3807,2016,"Mewat","Tauru","Bajra",0.824059696932715
+"419",3808,2016,"Mewat","Ferozpur Jhirka","Bajra",0.440742945797901
+"420",3809,2016,"Mewat","Nagina","Bajra",0.343212648171884
+"421",3810,2016,"Mewat","Punhana","Bajra",0.700445715057879
+"422",3811,2016,"Faridabad","Faridabad","Bajra",1.3117111850628
+"423",3812,2016,"Faridabad","B/garh","Bajra",0.322799330064112
+"424",3813,2016,"Palwal","Palwal","Bajra",0.387441504072054
+"425",3814,2016,"Palwal","Hodal","Bajra",0.133409100953124
+"426",3815,2016,"Palwal","Hassanpur","Bajra",0.28197269384857
+"427",3816,2016,"Palwal","Hathin","Bajra",0.702713861514298
+"428",3817,2016,"Panipat","Panipat","Bajra",-1.69131472323598
+"429",3818,2016,"Panipat","Samalkha","Bajra",-0.452906758031192
+"430",3819,2016,"Panipat","Matlauda","Bajra",0.60518356388828
+"431",3820,2016,"Panipat","Bapoli","Bajra",-0.0367018832783019
+"432",3821,2016,"Panipat","Israna","Bajra",0.543943609564967
+"433",3822,2016,"Karnal","Karnal","Bajra",-1.69131472323598
+"434",3823,2016,"Karnal","Nissing","Bajra",-1.69131472323598
+"435",3824,2016,"Karnal","Indri","Bajra",-1.69131472323598
+"436",3825,2016,"Karnal","Gharaunda","Bajra",-1.69131472323598
+"437",3826,2016,"Karnal","Assandh","Bajra",0.596110978062604
+"438",3827,2016,"Karnal","Nilokheri","Bajra",-1.69131472323598
+"439",3828,2016,"Kurukshetra","Thanesar","Bajra",-1.69131472323598
+"440",3829,2016,"Kurukshetra","Shahabad","Bajra",-1.69131472323598
+"441",3830,2016,"Kurukshetra","Pehowa","Bajra",-1.69131472323598
+"442",3831,2016,"Kurukshetra","Ladwa","Bajra",-1.69131472323598
+"443",3832,2016,"Kurukshetra","Babain","Bajra",-1.69131472323598
+"444",3833,2016,"Kaithal","Kaithal","Bajra",0.334140062346207
+"445",3834,2016,"Kaithal","Pundri","Bajra",-0.126293668306853
+"446",3835,2016,"Kaithal","Kalayat","Bajra",0.517859925316148
+"447",3836,2016,"Kaithal","Rajound","Bajra",0.9057129693638
+"448",3837,2016,"Kaithal","Gulha","Bajra",0.65054649301666
+"449",3838,2016,"Kaithal","Siwan","Bajra",-1.69131472323598
+"450",3839,2016,"Ambala","Ambala-I","Bajra",-1.69131472323598
+"451",3840,2016,"Ambala","Ambala-II","Bajra",-1.69131472323598
+"452",3841,2016,"Ambala","Barara","Bajra",-1.69131472323598
+"453",3842,2016,"Ambala","Saha","Bajra",-1.69131472323598
+"454",3843,2016,"Ambala","Naraingarh","Bajra",-1.69131472323598
+"455",3844,2016,"Ambala","Sahazadpur","Bajra",-1.69131472323598
+"456",3845,2016,"Panchkula","Morni","Bajra",-1.69131472323598
+"457",3846,2016,"Panchkula","Barwala","Bajra",2.56032580932147
+"458",3847,2016,"Panchkula","Raipurrani","Bajra",1.20170608192648
+"459",3848,2016,"Panchkula","Pinjore","Bajra",-0.238566917899594
+"460",3849,2016,"Yamuna Nagar","Jagadhari","Bajra",-1.69131472323598
+"461",3850,2016,"Yamuna Nagar","Bilaspur","Bajra",-1.69131472323598
+"462",3851,2016,"Yamuna Nagar","Radaur","Bajra",-1.69131472323598
+"463",3852,2016,"Yamuna Nagar","Sadaura","Bajra",-1.69131472323598
+"464",3853,2016,"Yamuna Nagar","Chhachhrauli","Bajra",-1.69131472323598
+"465",3854,2016,"Yamuna Nagar","Mustafabad","Bajra",-1.69131472323598
+"466",3855,2016,"Jind","Jind","Bajra",0.37383262533354
+"467",3856,2016,"Jind","Julana","Bajra",0.202587567873904
+"468",3857,2016,"Jind","Alewa","Bajra",-0.0117522722576927
+"469",3858,2016,"Jind","Safidon","Bajra",0.834266355986601
+"470",3859,2016,"Jind","Pillukhera","Bajra",0.317128963923065
+"471",3860,2016,"Jind","Uchana","Bajra",0.208257934014952
+"472",3861,2016,"Jind","Narwana","Bajra",0.495178460751958
+"473",3862,2016,"Mahendergarh","Kanina","Bajra",1.07468988036702
+"474",3863,2016,"Mahendergarh","Mahendergarh","Bajra",0.501982900121215
+"475",3864,2016,"Mahendergarh","Satnali","Bajra",1.11211429689793
+"476",3865,2016,"Mahendergarh","Ateli","Bajra",1.13706390791854
+"477",3866,2016,"Mahendergarh","Narnaul","Bajra",0.966952923687113
+"478",3867,2016,"Mahendergarh","Nijampur","Bajra",0.917053701645895
+"479",3868,2016,"Mahendergarh","Sihma","Bajra",0.917053701645895
+"480",3869,2016,"Mahendergarh","Nangal Chaudhary","Bajra",0.917053701645895
+"481",3870,2016,"Rewari","Rewari","Bajra",0.906847042592009
+"482",3871,2016,"Rewari","Khol","Bajra",0.407854822179826
+"483",3872,2016,"Rewari","Jatusana","Bajra",1.0724217339106
+"484",3873,2016,"Rewari","Bawal","Bajra",0.762819742609402
+"485",3874,2016,"Rewari","Nahar","Bajra",0.682300543406527

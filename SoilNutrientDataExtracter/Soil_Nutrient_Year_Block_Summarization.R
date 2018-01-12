@@ -2,7 +2,7 @@ library(data.table)
 library(dplyr)
 
 
-soil_df <- fread("Soil_Nutrient_Year.csv", header = T, stringsAsFactors = F, showProgress = T)
+soil_df <- fread("SoilNutrientDataExtracter/Soil_Nutrient_Year.csv", header = T, stringsAsFactors = F, showProgress = T)
 
 str(soil_df)
 
@@ -42,4 +42,54 @@ soil_summarized <- as.data.frame(soil_summarized)
 
 str(soil_summarized)
 
+
+
+soil_summarized$BlockName[soil_summarized$BlockName=='Ambala-Ii'] <-'Ambala-II'
+soil_summarized$BlockName[soil_summarized$BlockName=='Shahzadpur'] <-'Sahazadpur'
+soil_summarized$BlockName[soil_summarized$BlockName=='Jagadhri'] <-'Jagadhari'
+soil_summarized$BlockName[soil_summarized$BlockName=='Sadaura (Part)'] <-'Sadaura'
+soil_summarized$BlockName[soil_summarized$BlockName=='Shahbad'] <-'Shahabad'
+soil_summarized$BlockName[soil_summarized$BlockName=='Guhla'] <-'Gulha'
+soil_summarized$BlockName[soil_summarized$BlockName=='Gharaunda (Part)'] <-'Gharaunda'
+soil_summarized$BlockName[soil_summarized$BlockName=='Nissing At Chirao'] <-'Nissing'
+
+soil_summarized$BlockName[soil_summarized$BlockName=='Madlauda'] <-'Matlauda'
+soil_summarized$BlockName[soil_summarized$BlockName=='Gannaur'] <-'Ganaur'
+soil_summarized$BlockName[soil_summarized$BlockName=='Sonipat'] <-'Sonepat'
+soil_summarized$BlockName[soil_summarized$BlockName=='Bhattu Kalan'] <-'Bhattukalan'
+soil_summarized$BlockName[soil_summarized$BlockName=='Nathusari Chopta'] <-'Nathusari'
+soil_summarized$BlockName[soil_summarized$BlockName=='Hansi-I'] <-'Hansi I'
+soil_summarized$BlockName[soil_summarized$BlockName=='Hansi-Ii'] <-'Hansi-II'
+soil_summarized$BlockName[soil_summarized$BlockName=='Hisar-I'] <-'Hisar I'
+soil_summarized$BlockName[soil_summarized$BlockName=='Hisar-Ii'] <-'Hisar II'
+soil_summarized$BlockName[soil_summarized$BlockName=='Maham'] <-'Meham'
+soil_summarized$BlockName[soil_summarized$BlockName=='Matannail'] <-'Matanhail'
+soil_summarized$BlockName[soil_summarized$BlockName=='Ateli Nangal'] <-'Ateli'
+soil_summarized$BlockName[soil_summarized$BlockName=='Mahendragarh'] <-'Mahendergarh'
+soil_summarized$BlockName[soil_summarized$BlockName=='Nangal Chaudhry'] <-'Nangal Chaudhary'
+soil_summarized$BlockName[soil_summarized$BlockName=='Nizampur'] <-'Nijampur'
+soil_summarized$BlockName[soil_summarized$BlockName=='Khol At Rewari'] <-'Khol'
+soil_summarized$BlockName[soil_summarized$BlockName=='Ferozepur Jhirka'] <-'Ferozpur Jhirka'
+soil_summarized$BlockName[soil_summarized$BlockName=='Punahana'] <-'Punhana'
+soil_summarized$BlockName[soil_summarized$BlockName=='Taoru'] <-'Tauru'
+
+
+
+# Get District and Block Ids from Master
+distric_master <- xlsx::read.xlsx("Dsitrict_Block_Masters.xlsx", sheetIndex = 1)
+block_master <- xlsx::read.xlsx("Dsitrict_Block_Masters.xlsx", sheetIndex = 2)
+str(distric_master)
+str(block_master)
+
+#Join with District Master 
+temp_df <-  soil_summarized %>% left_join(block_master, by = c("BlockName" = "Block.Name"))
+temp_df <-  temp_df %>% left_join(distric_master, by = c("DistrictName" = "District.Name"))
+
+
+
+soil_summarized <- temp_df %>% select(District.Id, Block.Id, everything()) %>% select(-DistrictId, -DistrictName, -BlockId, -BlockName)
+head(soil_summarized)
+
 write.csv(soil_summarized, "Soil_Nutrient_Summarized.csv", row.names = F, col.names = T)
+
+

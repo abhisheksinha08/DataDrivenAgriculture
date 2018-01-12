@@ -1,0 +1,486 @@
+"","X","Year","District","Block","Crop","Yield"
+"1",1215,2013,"Hisar","Hansi I","Cotton",-0.0343667781986097
+"2",1216,2013,"Hisar","Hansi-II","Cotton",0.430020141809503
+"3",1217,2013,"Hisar","Narnaund","Cotton",0.670220272848182
+"4",1218,2013,"Hisar","Hisar I","Cotton",0.333940089394031
+"5",1219,2013,"Hisar","Hisar II","Cotton",0.962463765611907
+"6",1220,2013,"Hisar","Barwala","Cotton",1.05454048251007
+"7",1221,2013,"Hisar","Uklana","Cotton",0.954457094577285
+"8",1222,2013,"Hisar","Agroha","Cotton",0.718260299055917
+"9",1223,2013,"Hisar","Adampur","Cotton",1.05454048251007
+"10",1224,2013,"Fatehabad","Ratia","Cotton",2.13143773666681
+"11",1225,2013,"Fatehabad","Fatehabad","Cotton",1.68306415872794
+"12",1226,2013,"Fatehabad","Bhattukalan","Cotton",1.19465722561596
+"13",1227,2013,"Fatehabad","Bhuna","Cotton",1.80716755976459
+"14",1228,2013,"Fatehabad","Tohana","Cotton",2.01133767114747
+"15",1229,2013,"Fatehabad","Jakhal","Cotton",1.70708417183181
+"16",1230,2013,"Sirsa","Sirsa","Cotton",1.79515755321266
+"17",1231,2013,"Sirsa","Nathusari","Cotton",1.55495742217398
+"18",1232,2013,"Sirsa","Baragudha","Cotton",1.39482400148153
+"19",1233,2013,"Sirsa","Rania","Cotton",1.39482400148153
+"20",1234,2013,"Sirsa","Ellenabad","Cotton",1.43485735665464
+"21",1235,2013,"Sirsa","Dabwali","Cotton",1.3147572911353
+"22",1236,2013,"Sirsa","Odhan","Cotton",1.41083734355077
+"23",1237,2013,"Sirsa","Sirsa","Cotton",-1.31943747925554
+"24",1238,2013,"Bhiwani","Loharu","Cotton",1.39482400148153
+"25",1239,2013,"Bhiwani","Bhiwani","Cotton",1.17464054802941
+"26",1240,2013,"Bhiwani","Tosham","Cotton",0.317926747324786
+"27",1241,2013,"Bhiwani","Bawani Khera","Cotton",1.00650045630233
+"28",1242,2013,"Bhiwani","Dadri-I","Cotton",0.42201347077488
+"29",1243,2013,"Bhiwani","Dadri-II","Cotton",0.72626697009054
+"30",1244,2013,"Bhiwani","Badhra","Cotton",-0.0543834557851662
+"31",1245,2013,"Bhiwani","Siwani","Cotton",1.16263054147747
+"32",1246,2013,"Bhiwani","Kairu","Cotton",0.674223608365493
+"33",1247,2013,"Bhiwani","Behal","Cotton",1.04653381147544
+"34",1248,2013,"Rohtak","Lakhan Majra","Cotton",0.373973444567144
+"35",1249,2013,"Rohtak","Rohtak","Cotton",-0.110430153027525
+"36",1250,2013,"Rohtak","Sampla","Cotton",0.0937399583553524
+"37",1251,2013,"Rohtak","Meham","Cotton",0.0456999321476166
+"38",1252,2013,"Rohtak","Kalanaur","Cotton",0.149786655597711
+"39",1253,2013,"Jhajjar","Jhajjar","Cotton",0.426016806292191
+"40",1254,2013,"Jhajjar","Beri","Cotton",0.426016806292191
+"41",1255,2013,"Jhajjar","Salhawas","Cotton",0.426016806292191
+"42",1256,2013,"Jhajjar","Matanhail","Cotton",0.426016806292191
+"43",1257,2013,"Jhajjar","Bahadurgarh","Cotton",0.426016806292191
+"44",1258,2013,"Sonepat","Sonepat","Cotton",1.01450712733695
+"45",1259,2013,"Sonepat","Rai","Cotton",1.01450712733695
+"46",1260,2013,"Sonepat","Kharkhoda","Cotton",1.01450712733695
+"47",1261,2013,"Sonepat","Gohana","Cotton",0.32993675387672
+"48",1262,2013,"Sonepat","Kathura","Cotton",1.2426972518237
+"49",1263,2013,"Sonepat","Mundlana","Cotton",1.31876062665261
+"50",1264,2013,"Sonepat","Ganaur","Cotton",1.01450712733695
+"51",1265,2013,"Gurgaon","Gurgaon","Cotton",-1.31943747925554
+"52",1266,2013,"Gurgaon","Farrukh Nagar","Cotton",-1.31943747925554
+"53",1267,2013,"Gurgaon","Sohna","Cotton",-1.31943747925554
+"54",1268,2013,"Gurgaon","Pataudi","Cotton",1.11459051526974
+"55",1269,2013,"Mewat","Nuh","Cotton",1.11459051526974
+"56",1270,2013,"Mewat","Tauru","Cotton",-1.31943747925554
+"57",1271,2013,"Mewat","Ferozpur Jhirka","Cotton",-1.31943747925554
+"58",1272,2013,"Mewat","Nagina","Cotton",-1.31943747925554
+"59",1273,2013,"Mewat","Punhana","Cotton",-1.31943747925554
+"60",1274,2013,"Mewat","Mewat","Cotton",-1.31943747925554
+"61",1275,2013,"Faridabad","Faridabad","Cotton",-1.31943747925554
+"62",1276,2013,"Faridabad","B/garh","Cotton",1.11459051526974
+"63",1277,2013,"Palwal","Palwal","Cotton",1.11459051526974
+"64",1278,2013,"Palwal","Hodal","Cotton",1.11459051526974
+"65",1279,2013,"Palwal","Hassanpur","Cotton",1.11459051526974
+"66",1280,2013,"Palwal","Hathin","Cotton",1.11459051526974
+"67",1281,2013,"Panipat","Panipat","Cotton",-1.31943747925554
+"68",1282,2013,"Panipat","Samalkha","Cotton",-1.31943747925554
+"69",1283,2013,"Panipat","Matlauda","Cotton",-1.31943747925554
+"70",1284,2013,"Panipat","Bapoli","Cotton",-1.31943747925554
+"71",1285,2013,"Panipat","Israna","Cotton",-1.31943747925554
+"72",1286,2013,"Karnal","Karnal","Cotton",-1.31943747925554
+"73",1287,2013,"Karnal","Nissing","Cotton",-1.31943747925554
+"74",1288,2013,"Karnal","Indri","Cotton",-1.31943747925554
+"75",1289,2013,"Karnal","Gharaunda","Cotton",-1.31943747925554
+"76",1290,2013,"Karnal","Assandh","Cotton",-1.31943747925554
+"77",1291,2013,"Karnal","Nilokheri","Cotton",-1.31943747925554
+"78",1292,2013,"Kurukshetra","Thanesar","Cotton",-1.31943747925554
+"79",1293,2013,"Kurukshetra","Shahabad","Cotton",-1.31943747925554
+"80",1294,2013,"Kurukshetra","Pehowa","Cotton",-1.31943747925554
+"81",1295,2013,"Kurukshetra","Ladwa","Cotton",-1.31943747925554
+"82",1296,2013,"Kurukshetra","Babain","Cotton",-1.31943747925554
+"83",1297,2013,"Kaithal","Kaithal","Cotton",1.47088737631044
+"84",1298,2013,"Kaithal","Pundri","Cotton",1.58698410631247
+"85",1299,2013,"Kaithal","Kalayat","Cotton",1.5629640932086
+"86",1300,2013,"Kaithal","Rajound","Cotton",1.71509084286643
+"87",1301,2013,"Kaithal","Gulha","Cotton",-1.31943747925554
+"88",1302,2013,"Kaithal","Siwan","Cotton",-1.31943747925554
+"89",1303,2013,"Kaithal","Kaithal","Cotton",-1.31943747925554
+"90",1304,2013,"Ambala","Ambala-I","Cotton",-1.31943747925554
+"91",1305,2013,"Ambala","Ambala-II","Cotton",-1.31943747925554
+"92",1306,2013,"Ambala","Barara","Cotton",-1.31943747925554
+"93",1307,2013,"Ambala","Saha","Cotton",-1.31943747925554
+"94",1308,2013,"Ambala","Naraingarh","Cotton",-1.31943747925554
+"95",1309,2013,"Ambala","Sahazadpur","Cotton",-1.31943747925554
+"96",1310,2013,"Panchkula","Morni","Cotton",-1.31943747925554
+"97",1311,2013,"Panchkula","Barwala","Cotton",-1.31943747925554
+"98",1312,2013,"Panchkula","Raipurrani","Cotton",-1.31943747925554
+"99",1313,2013,"Panchkula","Pinjore","Cotton",-1.31943747925554
+"100",1314,2013,"Yamuna Nagar","Jagadhari","Cotton",-1.31943747925554
+"101",1315,2013,"Yamuna Nagar","Bilaspur","Cotton",-1.31943747925554
+"102",1316,2013,"Yamuna Nagar","Radaur","Cotton",-1.31943747925554
+"103",1317,2013,"Yamuna Nagar","Sadaura","Cotton",-1.31943747925554
+"104",1318,2013,"Yamuna Nagar","Chhachhrauli","Cotton",-1.31943747925554
+"105",1319,2013,"Yamuna Nagar","Mustafabad","Cotton",-1.31943747925554
+"106",1320,2013,"Jind","Jind","Cotton",0.78631700285021
+"107",1321,2013,"Jind","Julana","Cotton",0.23786003697856
+"108",1322,2013,"Jind","Alewa","Cotton",0.78631700285021
+"109",1323,2013,"Jind","Safidon","Cotton",0.830353693540634
+"110",1324,2013,"Jind","Pillukhera","Cotton",1.47088737631044
+"111",1325,2013,"Jind","Uchana","Cotton",1.04253047595813
+"112",1326,2013,"Jind","Narwana","Cotton",1.43485735665464
+"113",1327,2013,"Mahendergarh","Kanina","Cotton",0.642196924227002
+"114",1328,2013,"Mahendergarh","Mahendergarh","Cotton",0.642196924227002
+"115",1329,2013,"Mahendergarh","Ateli","Cotton",0.642196924227002
+"116",1330,2013,"Mahendergarh","Narnaul","Cotton",0.642196924227002
+"117",1331,2013,"Mahendergarh","Nangal Chaudhary","Cotton",0.642196924227002
+"118",1332,2013,"Rewari","Rewari","Cotton",-1.31943747925554
+"119",1333,2013,"Rewari","Khol","Cotton",0.626183582157757
+"120",1334,2013,"Rewari","Jatusana","Cotton",0.918427074921483
+"121",1335,2013,"Rewari","Bawal","Cotton",-1.31943747925554
+"122",1336,2013,"Rewari","Nahar","Cotton",0.566133549398087
+"123",2170,2014,"Hisar","Hansi I","Cotton",0.0817299518034184
+"124",2171,2014,"Hisar","Hansi-II","Cotton",0.00966991249181478
+"125",2172,2014,"Hisar","Narnaund","Cotton",0.0537066031822392
+"126",2173,2014,"Hisar","Hisar I","Cotton",-1.31943747925554
+"127",2174,2014,"Hisar","Hisar II","Cotton",0.02568325456106
+"128",2175,2014,"Hisar","Barwala","Cotton",0.630186917675068
+"129",2176,2014,"Hisar","Uklana","Cotton",0.145783320080399
+"130",2177,2014,"Hisar","Agroha","Cotton",0.882397055265681
+"131",2178,2014,"Hisar","Adampur","Cotton",0.109753300424598
+"132",2179,2014,"Fatehabad","Ratia","Cotton",1.58298077079516
+"133",2180,2014,"Fatehabad","Fatehabad","Cotton",1.490904053897
+"134",2181,2014,"Fatehabad","Bhattukalan","Cotton",1.27472393596219
+"135",2182,2014,"Fatehabad","Bhuna","Cotton",1.51892740251818
+"136",2183,2014,"Fatehabad","Tohana","Cotton",1.2066672321679
+"137",2184,2014,"Fatehabad","Jakhal","Cotton",0.774306996298276
+"138",2185,2014,"Sirsa","Sirsa","Cotton",1.56696742872592
+"139",2186,2014,"Sirsa","Nathusari","Cotton",1.15862720596016
+"140",2187,2014,"Sirsa","Baragudha","Cotton",1.01450712733695
+"141",2188,2014,"Sirsa","Rania","Cotton",1.1706372125121
+"142",2189,2014,"Sirsa","Ellenabad","Cotton",1.24670058734101
+"143",2190,2014,"Sirsa","Dabwali","Cotton",0.998493785267709
+"144",2191,2014,"Sirsa","Odhan","Cotton",1.02651713388889
+"145",2192,2014,"Bhiwani","Loharu","Cotton",1.1025805087178
+"146",2193,2014,"Bhiwani","Bhiwani","Cotton",-0.294583586823845
+"147",2194,2014,"Bhiwani","Tosham","Cotton",0.197826681805447
+"148",2195,2014,"Bhiwani","Bawani Khera","Cotton",0.0296865900783714
+"149",2196,2014,"Bhiwani","Dadri-I","Cotton",0.414006799740257
+"150",2197,2014,"Bhiwani","Dadri-II","Cotton",0.854373706644502
+"151",2198,2014,"Bhiwani","Badhra","Cotton",0.470053496982616
+"152",2199,2014,"Bhiwani","Siwani","Cotton",0.385983451119078
+"153",2200,2014,"Bhiwani","Kairu","Cotton",0.289903398703607
+"154",2201,2014,"Bhiwani","Behal","Cotton",0.72626697009054
+"155",2202,2014,"Rohtak","Lakhan Majra","Cotton",-0.354633619583515
+"156",2203,2014,"Rohtak","Rohtak","Cotton",0.48206350353455
+"157",2204,2014,"Rohtak","Sampla","Cotton",0.0296865900783714
+"158",2205,2014,"Rohtak","Meham","Cotton",-0.230530218546864
+"159",2206,2014,"Rohtak","Kalanaur","Cotton",0.506083516638418
+"160",2207,2014,"Jhajjar","Jhajjar","Cotton",0.686233614917427
+"161",2208,2014,"Jhajjar","Beri","Cotton",0.686233614917427
+"162",2209,2014,"Jhajjar","Salhawas","Cotton",0.686233614917427
+"163",2210,2014,"Jhajjar","Matanhail","Cotton",0.686233614917427
+"164",2211,2014,"Jhajjar","Bahadurgarh","Cotton",0.686233614917427
+"165",2212,2014,"Sonepat","Sonepat","Cotton",0.610170240088512
+"166",2213,2014,"Sonepat","Rai","Cotton",0.610170240088512
+"167",2214,2014,"Sonepat","Kharkhoda","Cotton",0.610170240088512
+"168",2215,2014,"Sonepat","Gohana","Cotton",0.682230279400115
+"169",2216,2014,"Sonepat","Kathura","Cotton",1.03852714044082
+"170",2217,2014,"Sonepat","Mundlana","Cotton",0.113756635941909
+"171",2218,2014,"Sonepat","Ganaur","Cotton",0.610170240088512
+"172",2219,2014,"Gurgaon","Gurgaon","Cotton",-1.31943747925554
+"173",2220,2014,"Gurgaon","Farrukh Nagar","Cotton",0.722263634573229
+"174",2221,2014,"Gurgaon","Sohna","Cotton",-1.31943747925554
+"175",2222,2014,"Gurgaon","Pataudi","Cotton",0.722263634573229
+"176",2223,2014,"Mewat","Nuh","Cotton",0.722263634573229
+"177",2224,2014,"Mewat","Tauru","Cotton",0.722263634573229
+"178",2225,2014,"Mewat","Ferozpur Jhirka","Cotton",0.722263634573229
+"179",2226,2014,"Mewat","Nagina","Cotton",-1.31943747925554
+"180",2227,2014,"Mewat","Punhana","Cotton",0.722263634573229
+"181",2228,2014,"Faridabad","Faridabad","Cotton",-1.31943747925554
+"182",2229,2014,"Faridabad","B/garh","Cotton",0.722263634573229
+"183",2230,2014,"Palwal","Palwal","Cotton",0.722263634573229
+"184",2231,2014,"Palwal","Hodal","Cotton",0.722263634573229
+"185",2232,2014,"Palwal","Hassanpur","Cotton",0.722263634573229
+"186",2233,2014,"Palwal","Hathin","Cotton",0.722263634573229
+"187",2234,2014,"Panipat","Panipat","Cotton",-1.31943747925554
+"188",2235,2014,"Panipat","Samalkha","Cotton",-1.31943747925554
+"189",2236,2014,"Panipat","Matlauda","Cotton",-1.31943747925554
+"190",2237,2014,"Panipat","Bapoli","Cotton",-1.31943747925554
+"191",2238,2014,"Panipat","Israna","Cotton",-1.31943747925554
+"192",2239,2014,"Karnal","Karnal","Cotton",-1.31943747925554
+"193",2240,2014,"Karnal","Nissing","Cotton",-1.31943747925554
+"194",2241,2014,"Karnal","Indri","Cotton",-1.31943747925554
+"195",2242,2014,"Karnal","Gharaunda","Cotton",-1.31943747925554
+"196",2243,2014,"Karnal","Assandh","Cotton",-1.31943747925554
+"197",2244,2014,"Karnal","Nilokheri","Cotton",-1.31943747925554
+"198",2245,2014,"Kurukshetra","Thanesar","Cotton",-1.31943747925554
+"199",2246,2014,"Kurukshetra","Shahabad","Cotton",-1.31943747925554
+"200",2247,2014,"Kurukshetra","Pehowa","Cotton",-1.31943747925554
+"201",2248,2014,"Kurukshetra","Ladwa","Cotton",-1.31943747925554
+"202",2249,2014,"Kurukshetra","Babain","Cotton",-1.31943747925554
+"203",2250,2014,"Kaithal","Kaithal","Cotton",0.570136884915399
+"204",2251,2014,"Kaithal","Pundri","Cotton",0.914423739404172
+"205",2252,2014,"Kaithal","Kalayat","Cotton",1.02251379837158
+"206",2253,2014,"Kaithal","Rajound","Cotton",1.07856049561394
+"207",2254,2014,"Kaithal","Gulha","Cotton",-1.31943747925554
+"208",2255,2014,"Kaithal","Siwan","Cotton",-1.31943747925554
+"209",2256,2014,"Ambala","Ambala-I","Cotton",-1.31943747925554
+"210",2257,2014,"Ambala","Ambala-II","Cotton",-1.31943747925554
+"211",2258,2014,"Ambala","Barara","Cotton",-1.31943747925554
+"212",2259,2014,"Ambala","Saha","Cotton",-1.31943747925554
+"213",2260,2014,"Ambala","Naraingarh","Cotton",-1.31943747925554
+"214",2261,2014,"Ambala","Sahazadpur","Cotton",-1.31943747925554
+"215",2262,2014,"Panchkula","Morni","Cotton",-1.31943747925554
+"216",2263,2014,"Panchkula","Barwala","Cotton",-1.31943747925554
+"217",2264,2014,"Panchkula","Raipurrani","Cotton",-1.31943747925554
+"218",2265,2014,"Panchkula","Pinjore","Cotton",-1.31943747925554
+"219",2266,2014,"Yamuna Nagar","Jagadhari","Cotton",-1.31943747925554
+"220",2267,2014,"Yamuna Nagar","Bilaspur","Cotton",-1.31943747925554
+"221",2268,2014,"Yamuna Nagar","Radaur","Cotton",-1.31943747925554
+"222",2269,2014,"Yamuna Nagar","Sadaura","Cotton",-1.31943747925554
+"223",2270,2014,"Yamuna Nagar","Chhachhrauli","Cotton",-1.31943747925554
+"224",2271,2014,"Yamuna Nagar","Mustafabad","Cotton",-1.31943747925554
+"225",2272,2014,"Jind","Jind","Cotton",-0.230530218546864
+"226",2273,2014,"Jind","Julana","Cotton",0.205833352840069
+"227",2274,2014,"Jind","Alewa","Cotton",0.502080181121106
+"228",2275,2014,"Jind","Safidon","Cotton",0.594156898019267
+"229",2276,2014,"Jind","Pillukhera","Cotton",0.622180246640446
+"230",2277,2014,"Jind","Uchana","Cotton",0.91042040388686
+"231",2278,2014,"Jind","Narwana","Cotton",1.15062053492554
+"232",2279,2014,"Mahendergarh","Kanina","Cotton",0.838360364575257
+"233",2280,2014,"Mahendergarh","Mahendergarh","Cotton",0.838360364575257
+"234",2281,2014,"Mahendergarh","Ateli","Cotton",0.838360364575257
+"235",2282,2014,"Mahendergarh","Narnaul","Cotton",0.838360364575257
+"236",2283,2014,"Mahendergarh","Nangal Chaudhary","Cotton",0.838360364575257
+"237",2284,2014,"Rewari","Rewari","Cotton",0.42201347077488
+"238",2285,2014,"Rewari","Khol","Cotton",0.42201347077488
+"239",2286,2014,"Rewari","Jatusana","Cotton",1.01050379181964
+"240",2287,2014,"Rewari","Bawal","Cotton",0.42201347077488
+"241",2288,2014,"Rewari","Nahar","Cotton",0.305916740772852
+"242",3143,2015,"Hisar","Hansi I","Cotton",-0.238536889581487
+"243",3144,2015,"Hisar","Hansi-II","Cotton",-0.590830415104882
+"244",3145,2015,"Hisar","Narnaund","Cotton",-0.578820408552948
+"245",3146,2015,"Hisar","Hisar I","Cotton",-0.470730349585543
+"246",3147,2015,"Hisar","Hisar II","Cotton",-0.194500198891062
+"247",3148,2015,"Hisar","Barwala","Cotton",0.385983451119078
+"248",3149,2015,"Hisar","Uklana","Cotton",0.558126878363465
+"249",3150,2015,"Hisar","Agroha","Cotton",-0.418686987860496
+"250",3151,2015,"Hisar","Adampur","Cotton",-0.418686987860496
+"251",3152,2015,"Fatehabad","Ratia","Cotton",-0.722940487176156
+"252",3153,2015,"Fatehabad","Fatehabad","Cotton",-0.210513540960307
+"253",3154,2015,"Fatehabad","Bhattukalan","Cotton",-0.362640290618137
+"254",3155,2015,"Fatehabad","Bhuna","Cotton",-0.110430153027525
+"255",3156,2015,"Fatehabad","Tohana","Cotton",-0.646877112347241
+"256",3157,2015,"Fatehabad","Jakhal","Cotton",-0.839037217178184
+"257",3158,2015,"Sirsa","Sirsa","Cotton",-0.114433488544836
+"258",3159,2015,"Sirsa","Nathusari","Cotton",-0.190496863373751
+"259",3160,2015,"Sirsa","Baragudha","Cotton",-0.0864101399236567
+"260",3161,2015,"Sirsa","Rania","Cotton",0.401996793188324
+"261",3162,2015,"Sirsa","Ellenabad","Cotton",-0.0784034688890341
+"262",3163,2015,"Sirsa","Dabwali","Cotton",-0.498753698206722
+"263",3164,2015,"Sirsa","Odhan","Cotton",-0.414683652343184
+"264",3165,2015,"Bhiwani","Loharu","Cotton",0.822347022506011
+"265",3166,2015,"Bhiwani","Bhiwani","Cotton",-0.362640290618137
+"266",3167,2015,"Bhiwani","Tosham","Cotton",-0.226526883029553
+"267",3168,2015,"Bhiwani","Bawani Khera","Cotton",-0.843040552695495
+"268",3169,2015,"Bhiwani","Dadri-I","Cotton",-0.262556902685355
+"269",3170,2015,"Bhiwani","Dadri-II","Cotton",-0.114433488544836
+"270",3171,2015,"Bhiwani","Badhra","Cotton",0.261880050082428
+"271",3172,2015,"Bhiwani","Siwani","Cotton",0.462046825947993
+"272",3173,2015,"Bhiwani","Kairu","Cotton",0.0176765835264374
+"273",3174,2015,"Bhiwani","Behal","Cotton",-0.0103467650947418
+"274",3175,2015,"Rohtak","Lakhan Majra","Cotton",0.17781000421889
+"275",3176,2015,"Rohtak","Rohtak","Cotton",0.470053496982616
+"276",3177,2015,"Rohtak","Sampla","Cotton",-0.0583867913024776
+"277",3178,2015,"Rohtak","Meham","Cotton",-0.666893789933797
+"278",3179,2015,"Rohtak","Kalanaur","Cotton",-0.198503534408374
+"279",3180,2015,"Jhajjar","Jhajjar","Cotton",0.417609801705838
+"280",3181,2015,"Jhajjar","Beri","Cotton",0.417609801705838
+"281",3182,2015,"Jhajjar","Salhawas","Cotton",0.417609801705838
+"282",3183,2015,"Jhajjar","Matanhail","Cotton",0.417609801705838
+"283",3184,2015,"Jhajjar","Bahadurgarh","Cotton",0.417609801705838
+"284",3185,2015,"Sonepat","Sonepat","Cotton",0.297910069738229
+"285",3186,2015,"Sonepat","Rai","Cotton",0.297910069738229
+"286",3187,2015,"Sonepat","Kharkhoda","Cotton",0.297910069738229
+"287",3188,2015,"Sonepat","Gohana","Cotton",-0.242540225098798
+"288",3189,2015,"Sonepat","Kathura","Cotton",0.850370371127191
+"289",3190,2015,"Sonepat","Mundlana","Cotton",0.289903398703607
+"290",3191,2015,"Sonepat","Ganaur","Cotton",0.297910069738229
+"291",3192,2015,"Gurgaon","Gurgaon","Cotton",-0.222523547512241
+"292",3193,2015,"Gurgaon","Farrukh Nagar","Cotton",-0.222523547512241
+"293",3194,2015,"Gurgaon","Sohna","Cotton",-0.222523547512241
+"294",3195,2015,"Gurgaon","Pataudi","Cotton",-0.222523547512241
+"295",3196,2015,"Mewat","Nuh","Cotton",-0.222523547512241
+"296",3197,2015,"Mewat","Tauru","Cotton",-0.222523547512241
+"297",3198,2015,"Mewat","Ferozpur Jhirka","Cotton",-0.222523547512241
+"298",3199,2015,"Mewat","Nagina","Cotton",-0.222523547512241
+"299",3200,2015,"Mewat","Punhana","Cotton",-0.222523547512241
+"300",3201,2015,"Faridabad","Faridabad","Cotton",-0.222523547512241
+"301",3202,2015,"Faridabad","B/garh","Cotton",-0.222523547512241
+"302",3203,2015,"Palwal","Palwal","Cotton",-0.222523547512241
+"303",3204,2015,"Palwal","Hodal","Cotton",-0.222523547512241
+"304",3205,2015,"Palwal","Hassanpur","Cotton",-0.222523547512241
+"305",3206,2015,"Palwal","Hathin","Cotton",-0.222523547512241
+"306",3207,2015,"Panipat","Panipat","Cotton",-0.222523547512241
+"307",3208,2015,"Panipat","Samalkha","Cotton",-0.222523547512241
+"308",3209,2015,"Panipat","Matlauda","Cotton",-0.222523547512241
+"309",3210,2015,"Panipat","Bapoli","Cotton",-0.222523547512241
+"310",3211,2015,"Panipat","Israna","Cotton",-0.222523547512241
+"311",3212,2015,"Karnal","Karnal","Cotton",-0.222523547512241
+"312",3213,2015,"Karnal","Nissing","Cotton",-0.222523547512241
+"313",3214,2015,"Karnal","Indri","Cotton",-0.222523547512241
+"314",3215,2015,"Karnal","Gharaunda","Cotton",-0.222523547512241
+"315",3216,2015,"Karnal","Assandh","Cotton",-0.222523547512241
+"316",3217,2015,"Karnal","Nilokheri","Cotton",-0.222523547512241
+"317",3218,2015,"Kurukshetra","Thanesar","Cotton",-0.222523547512241
+"318",3219,2015,"Kurukshetra","Shahabad","Cotton",-0.222523547512241
+"319",3220,2015,"Kurukshetra","Pehowa","Cotton",-0.222523547512241
+"320",3221,2015,"Kurukshetra","Ladwa","Cotton",-0.222523547512241
+"321",3222,2015,"Kurukshetra","Babain","Cotton",-0.222523547512241
+"322",3223,2015,"Kaithal","Kaithal","Cotton",0.00966991249181478
+"323",3224,2015,"Kaithal","Pundri","Cotton",-0.486743691654788
+"324",3225,2015,"Kaithal","Kalayat","Cotton",-0.622857099243373
+"325",3226,2015,"Kaithal","Rajound","Cotton",-0.550797059931769
+"326",3227,2015,"Kaithal","Gulha","Cotton",-0.486743691654788
+"327",3228,2015,"Kaithal","Siwan","Cotton",-0.486743691654788
+"328",3229,2015,"Ambala","Ambala-I","Cotton",-1.31943747925554
+"329",3230,2015,"Ambala","Ambala-II","Cotton",-1.31943747925554
+"330",3231,2015,"Ambala","Barara","Cotton",-1.31943747925554
+"331",3232,2015,"Ambala","Saha","Cotton",-1.31943747925554
+"332",3233,2015,"Ambala","Naraingarh","Cotton",-1.31943747925554
+"333",3234,2015,"Ambala","Sahazadpur","Cotton",-1.31943747925554
+"334",3235,2015,"Panchkula","Morni","Cotton",-1.31943747925554
+"335",3236,2015,"Panchkula","Barwala","Cotton",-1.31943747925554
+"336",3237,2015,"Panchkula","Raipurrani","Cotton",-1.31943747925554
+"337",3238,2015,"Panchkula","Pinjore","Cotton",-1.31943747925554
+"338",3239,2015,"Yamuna Nagar","Jagadhari","Cotton",-1.31943747925554
+"339",3240,2015,"Yamuna Nagar","Bilaspur","Cotton",-1.31943747925554
+"340",3241,2015,"Yamuna Nagar","Radaur","Cotton",-1.31943747925554
+"341",3242,2015,"Yamuna Nagar","Sadaura","Cotton",-1.31943747925554
+"342",3243,2015,"Yamuna Nagar","Chhachhrauli","Cotton",-1.31943747925554
+"343",3244,2015,"Yamuna Nagar","Mustafabad","Cotton",-1.31943747925554
+"344",3245,2015,"Jind","Jind","Cotton",-0.622857099243373
+"345",3246,2015,"Jind","Julana","Cotton",-0.37064696165276
+"346",3247,2015,"Jind","Alewa","Cotton",-0.382656968204694
+"347",3248,2015,"Jind","Safidon","Cotton",-0.610847092691439
+"348",3249,2015,"Jind","Pillukhera","Cotton",-0.714933816141533
+"349",3250,2015,"Jind","Uchana","Cotton",-0.722940487176156
+"350",3251,2015,"Jind","Narwana","Cotton",-0.903090585455165
+"351",3252,2015,"Mahendergarh","Kanina","Cotton",0.0697199452514845
+"352",3253,2015,"Mahendergarh","Sihma","Cotton",0.0697199452514845
+"353",3254,2015,"Mahendergarh","Nijampur","Cotton",0.0697199452514845
+"354",3255,2015,"Mahendergarh","Mahendergarh","Cotton",0.0697199452514845
+"355",3256,2015,"Mahendergarh","Satnali","Cotton",0.0697199452514845
+"356",3257,2015,"Mahendergarh","Ateli","Cotton",0.0697199452514845
+"357",3258,2015,"Mahendergarh","Narnaul","Cotton",0.0697199452514845
+"358",3259,2015,"Mahendergarh","Nangal Chaudhary","Cotton",0.0697199452514845
+"359",3260,2015,"Rewari","Rewari","Cotton",-0.562807066483703
+"360",3261,2015,"Rewari","Khol","Cotton",-0.562807066483703
+"361",3262,2015,"Rewari","Jatusana","Cotton",-0.434700329929741
+"362",3263,2015,"Rewari","Bawal","Cotton",-0.562807066483703
+"363",3264,2015,"Rewari","Nahar","Cotton",-0.586827079587571
+"364",4119,2016,"Hisar","Hansi I","Cotton",0.830353693540634
+"365",4120,2016,"Hisar","Hansi-II","Cotton",1.02251379837158
+"366",4121,2016,"Hisar","Narnaund","Cotton",0.285900063186295
+"367",4122,2016,"Hisar","Hisar I","Cotton",1.17864388354672
+"368",4123,2016,"Hisar","Hisar II","Cotton",1.46688404079313
+"369",4124,2016,"Hisar","Barwala","Cotton",1.4548740342412
+"370",4125,2016,"Hisar","Uklana","Cotton",1.47889404734507
+"371",4126,2016,"Hisar","Agroha","Cotton",1.42685068562002
+"372",4127,2016,"Hisar","Adampur","Cotton",1.5949907773471
+"373",4128,2016,"Fatehabad","Ratia","Cotton",1.30675062010068
+"374",4129,2016,"Fatehabad","Fatehabad","Cotton",1.39082066596422
+"375",4130,2016,"Fatehabad","Bhattukalan","Cotton",1.58698410631247
+"376",4131,2016,"Fatehabad","Bhuna","Cotton",1.91125428321469
+"377",4132,2016,"Fatehabad","Tohana","Cotton",1.08656716664856
+"378",4133,2016,"Fatehabad","Jakhal","Cotton",1.28273060699681
+"379",4134,2016,"Sirsa","Sirsa","Cotton",1.65103747458945
+"380",4135,2016,"Sirsa","Nathusari","Cotton",1.1706372125121
+"381",4136,2016,"Sirsa","Baragudha","Cotton",1.55095408665667
+"382",4137,2016,"Sirsa","Rania","Cotton",1.39882733699884
+"383",4138,2016,"Sirsa","Ellenabad","Cotton",1.12259718630436
+"384",4139,2016,"Sirsa","Dabwali","Cotton",1.57897743527785
+"385",4140,2016,"Sirsa","Odhan","Cotton",1.70708417183181
+"386",4141,2016,"Bhiwani","Loharu","Cotton",0.778310331815587
+"387",4142,2016,"Bhiwani","Bhiwani","Cotton",0.530103529742286
+"388",4143,2016,"Bhiwani","Tosham","Cotton",1.24670058734101
+"389",4144,2016,"Bhiwani","Bawani Khera","Cotton",0.746283647677097
+"390",4145,2016,"Bhiwani","Dadri-I","Cotton",0.750286983194408
+"391",4146,2016,"Bhiwani","Dadri-II","Cotton",0.93844375250804
+"392",4147,2016,"Bhiwani","Badhra","Cotton",0.450036819396059
+"393",4148,2016,"Bhiwani","Siwani","Cotton",1.11459051526974
+"394",4149,2016,"Bhiwani","Kairu","Cotton",0.48206350353455
+"395",4150,2016,"Bhiwani","Behal","Cotton",0.670220272848182
+"396",4151,2016,"Rohtak","Lakhan Majra","Cotton",-0.138453501648704
+"397",4152,2016,"Rohtak","Rohtak","Cotton",0.654206930778936
+"398",4153,2016,"Rohtak","Sampla","Cotton",0.678226943882804
+"399",4154,2016,"Rohtak","Meham","Cotton",-0.378653632687383
+"400",4155,2016,"Rohtak","Kalanaur","Cotton",0.0456999321476166
+"401",4156,2016,"Jhajjar","Jhajjar","Cotton",0.698243621469361
+"402",4157,2016,"Jhajjar","Beri","Cotton",1.08656716664856
+"403",4158,2016,"Jhajjar","Salhawas","Cotton",1.27472393596219
+"404",4159,2016,"Jhajjar","Matanhail","Cotton",0.594156898019267
+"405",4160,2016,"Jhajjar","Bahadurgarh","Cotton",0.618176911123134
+"406",4161,2016,"Sonepat","Sonepat","Cotton",1.26271392941026
+"407",4162,2016,"Sonepat","Rai","Cotton",1.19065389009865
+"408",4163,2016,"Sonepat","Kharkhoda","Cotton",1.04653381147544
+"409",4164,2016,"Sonepat","Gohana","Cotton",1.05053714699276
+"410",4165,2016,"Sonepat","Kathura","Cotton",0.850370371127191
+"411",4166,2016,"Sonepat","Mundlana","Cotton",1.24670058734101
+"412",4167,2016,"Sonepat","Ganaur","Cotton",1.09457383768318
+"413",4168,2016,"Gurgaon","Gurgaon","Cotton",-1.31943747925554
+"414",4169,2016,"Gurgaon","Farrukh Nagar","Cotton",-0.638870441312618
+"415",4170,2016,"Gurgaon","Sohna","Cotton",0.305916740772852
+"416",4171,2016,"Gurgaon","Pataudi","Cotton",-0.230530218546864
+"417",4172,2016,"Mewat","Nuh","Cotton",0.658210266296248
+"418",4173,2016,"Mewat","Tauru","Cotton",0.121763306976532
+"419",4174,2016,"Mewat","Ferozpur Jhirka","Cotton",-0.418686987860496
+"420",4175,2016,"Mewat","Nagina","Cotton",1.53894408010474
+"421",4176,2016,"Mewat","Punhana","Cotton",0.526100194224974
+"422",4177,2016,"Faridabad","Faridabad","Cotton",-1.31943747925554
+"423",4178,2016,"Faridabad","B/garh","Cotton",2.69590804460771
+"424",4179,2016,"Palwal","Palwal","Cotton",0.994490449750398
+"425",4180,2016,"Palwal","Hodal","Cotton",0.333940089394031
+"426",4181,2016,"Palwal","Hassanpur","Cotton",0.874390384231059
+"427",4182,2016,"Palwal","Hathin","Cotton",0.650203595261625
+"428",4183,2016,"Panipat","Panipat","Cotton",-1.31943747925554
+"429",4184,2016,"Panipat","Samalkha","Cotton",-1.31943747925554
+"430",4185,2016,"Panipat","Matlauda","Cotton",-1.31943747925554
+"431",4186,2016,"Panipat","Bapoli","Cotton",-1.31943747925554
+"432",4187,2016,"Panipat","Israna","Cotton",-1.31943747925554
+"433",4188,2016,"Karnal","Karnal","Cotton",-1.31943747925554
+"434",4189,2016,"Karnal","Nissing","Cotton",-1.31943747925554
+"435",4190,2016,"Karnal","Indri","Cotton",-1.31943747925554
+"436",4191,2016,"Karnal","Gharaunda","Cotton",-1.31943747925554
+"437",4192,2016,"Karnal","Assandh","Cotton",1.11859385078705
+"438",4193,2016,"Karnal","Nilokheri","Cotton",-1.31943747925554
+"439",4194,2016,"Kurukshetra","Thanesar","Cotton",-1.31943747925554
+"440",4195,2016,"Kurukshetra","Shahabad","Cotton",-1.31943747925554
+"441",4196,2016,"Kurukshetra","Pehowa","Cotton",-1.31943747925554
+"442",4197,2016,"Kurukshetra","Ladwa","Cotton",-1.31943747925554
+"443",4198,2016,"Kurukshetra","Babain","Cotton",-1.31943747925554
+"444",4199,2016,"Kaithal","Kaithal","Cotton",-0.558803730966392
+"445",4200,2016,"Kaithal","Pundri","Cotton",0.998493785267709
+"446",4201,2016,"Kaithal","Kalayat","Cotton",0.830353693540634
+"447",4202,2016,"Kaithal","Rajound","Cotton",0.373973444567144
+"448",4203,2016,"Kaithal","Gulha","Cotton",-1.31943747925554
+"449",4204,2016,"Kaithal","Siwan","Cotton",-1.31943747925554
+"450",4205,2016,"Ambala","Ambala-I","Cotton",-1.31943747925554
+"451",4206,2016,"Ambala","Ambala-II","Cotton",-1.31943747925554
+"452",4207,2016,"Ambala","Barara","Cotton",-1.31943747925554
+"453",4208,2016,"Ambala","Saha","Cotton",-1.31943747925554
+"454",4209,2016,"Ambala","Naraingarh","Cotton",-1.31943747925554
+"455",4210,2016,"Ambala","Sahazadpur","Cotton",-1.31943747925554
+"456",4211,2016,"Panchkula","Morni","Cotton",-1.31943747925554
+"457",4212,2016,"Panchkula","Barwala","Cotton",-1.31943747925554
+"458",4213,2016,"Panchkula","Raipurrani","Cotton",-1.31943747925554
+"459",4214,2016,"Panchkula","Pinjore","Cotton",-1.31943747925554
+"460",4215,2016,"Yamuna Nagar","Jagadhari","Cotton",-1.31943747925554
+"461",4216,2016,"Yamuna Nagar","Bilaspur","Cotton",-1.31943747925554
+"462",4217,2016,"Yamuna Nagar","Radaur","Cotton",-1.31943747925554
+"463",4218,2016,"Yamuna Nagar","Sadaura","Cotton",-1.31943747925554
+"464",4219,2016,"Yamuna Nagar","Chhachhrauli","Cotton",-1.31943747925554
+"465",4220,2016,"Yamuna Nagar","Mustafabad","Cotton",-1.31943747925554
+"466",4221,2016,"Jind","Jind","Cotton",0.261880050082428
+"467",4222,2016,"Jind","Julana","Cotton",0.618176911123134
+"468",4223,2016,"Jind","Alewa","Cotton",0.397993457671012
+"469",4224,2016,"Jind","Safidon","Cotton",0.281896727668984
+"470",4225,2016,"Jind","Pillukhera","Cotton",0.257876714565116
+"471",4226,2016,"Jind","Uchana","Cotton",1.00249712078502
+"472",4227,2016,"Jind","Narwana","Cotton",1.3147572911353
+"473",4228,2016,"Mahendergarh","Kanina","Cotton",1.07856049561394
+"474",4229,2016,"Mahendergarh","Mahendergarh","Cotton",0.862380377679125
+"475",4230,2016,"Mahendergarh","Satnali","Cotton",1.31876062665261
+"476",4231,2016,"Mahendergarh","Ateli","Cotton",1.47489071182776
+"477",4232,2016,"Mahendergarh","Narnaul","Cotton",1.07055382457931
+"478",4233,2016,"Mahendergarh","Nijampur","Cotton",1.03452380492351
+"479",4234,2016,"Mahendergarh","Sihma","Cotton",1.03452380492351
+"480",4235,2016,"Mahendergarh","Nangal Chaudhary","Cotton",1.03452380492351
+"481",4236,2016,"Rewari","Rewari","Cotton",0.454040154913371
+"482",4237,2016,"Rewari","Khol","Cotton",0.410003464222946
+"483",4238,2016,"Rewari","Jatusana","Cotton",0.458043490430682
+"484",4239,2016,"Rewari","Bawal","Cotton",0.962463765611907
+"485",4240,2016,"Rewari","Nahar","Cotton",0.51409018767304

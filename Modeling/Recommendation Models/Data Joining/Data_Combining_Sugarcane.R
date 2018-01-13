@@ -5,20 +5,20 @@ soil_df <- read.csv("Modeling/Recommendation Models/Soil_Nutrient_Summarized.csv
 weather_df <- read.csv("Modeling/Recommendation Models/SummarizedTidyWeather2012_2017.csv")
 water_df <- read.csv("Modeling/Recommendation Models/Summarized_Water_Depth.csv")
 
-crop_df <- read.csv("Modeling/Recommendation Models/Yield/Wheat_Normalized.csv")
+crop_df <- read.csv("Modeling/Recommendation Models/Yield/Sugarcane_Normalized.csv")
 
 str(soil_df)
 str(weather_df)
 str(water_df)
 str(crop_df)
 
-#Wheat Sowing Time is November
+#Sugarcane Sowing Time is Feb-March. For simplicity taking march weather
 
-# Taking only November Month's weather in consideration
-weather_df <- weather_df[weather_df$month==11,]
+# Taking only March Month's weather in consideration
+weather_df <- weather_df[weather_df$month==3,]
 
-#Taking Water Depth of November Quarter
-water_df <- water_df[water_df$Month == 'November',]
+#Taking Water Depth of May Quarter
+water_df <- water_df[water_df$Month == 'May',]
 
 crop_df$X.1 <- NULL
 crop_df$X <- NULL
@@ -40,6 +40,6 @@ data_df$Block <- NULL
 
 str(data_df)
 
-write.csv(data_df, "Modeling/Recommendation Models/Final Data/wheat_final.csv", row.names = F)
+write.csv(data_df, "Modeling/Recommendation Models/Final Data/sugarcane_final.csv", row.names = F)
 
 rm(list = ls())

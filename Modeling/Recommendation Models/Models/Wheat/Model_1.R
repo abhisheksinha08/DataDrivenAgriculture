@@ -48,10 +48,3 @@ set.seed(12321)
 rm1 <- randomForest(y = y_train, x = train_df, ntree = 10)
 rmse(predict(rm1), y_train)
 rmse(predict(rm1, valid_df), y_valid)
-
-
-set.seed(123)
-rm2 <- randomForest(y = y_train, x = train_df, ntree = 500, verbose = T)
-rmse(predict(rm2), y_train)
-rmse(predict(rm2, valid_df), y_valid)
-

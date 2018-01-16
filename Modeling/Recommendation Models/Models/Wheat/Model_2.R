@@ -1,6 +1,6 @@
 library(dplyr)
 library(caret)
-
+library(ggplot2)
 
 data_df <- read.csv("Modeling/Recommendation Models/Final Data/wheat_final.csv", stringsAsFactors = F)
 
@@ -29,14 +29,63 @@ rmse <- function(x, y){
 }
 
 
-
+#1. Random Forest
 library(randomForest)
 set.seed(123)
 tc <- trainControl(method = "repeatedcv", number = 5, repeats = 3)
-rm2 <- train(y = y_train, x = x_train, method = "rf", trControl = tc)
+rm2 <- train(y = y_train, x = x_train, method = "rf", trControl = tc, ntree=1500)
+
+plot(rm2)
 
 
+#2. Neural Net
 library(nnet)
 set.seed(123)
 tc <- trainControl(method = "repeatedcv", number = 5, repeats = 3)
 nn1 <- train(y = y_train, x = x_train, method = "nnet", trControl = tc, preProcess = c('center', 'scale'), verbose =T)
+
+
+
+
+# Add Grid Search
+gbmGrid <-  expand.grid(interaction.depth = c(1, 5, 9, 13, 17), #Num Predictors
+                        n.trees = (1:30)*50, 
+                        shrinkage = 0.1,
+                        n.minobsinnode = 20)
+
+nrow(gbmGrid)
+
+#3. GBM
+set.seed(825)
+gbmFit2 <- train(y=y_train, x = x_train, 
+                 method = "gbm", 
+                 trControl = tc, 
+                 verbose = FALSE, 
+                 ## Now specify the exact models 
+                 ## to evaluate:
+                 tuneGrid = gbmGrid)
+gbmFit2
+
+# Plot RMSE
+trellis.par.set(caretTheme())
+plot(gbmFit2)
+
+#Variable IMportance
+varImp(gbmFit2, scale = T)
+filterVarImp(x = x_train[, -ncol(x_train)], y = y_train)
+
+
+
+#Learning Curve
+bag_data <- learing_curve_dat(dat = train_df, outcome = "Yield",
+                              test_prop = 1/4, 
+                              ## `train` arguments
+                              method = "rf", 
+                              trControl = tc,
+                              ## `bagging` arguments
+                              nbagg = 100)
+
+
+ggplot(bag_data, aes(x = Training_Size, y = RMSE, color = Data)) + 
+    geom_smooth(method = loess, span = .8) + 
+    theme_bw()

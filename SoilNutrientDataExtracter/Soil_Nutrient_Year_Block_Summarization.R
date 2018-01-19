@@ -33,7 +33,7 @@ soil_df_selected[,5:14] <- as.data.frame(sapply(soil_df_selected[,5:14], mean_rm
 
 str(soil_df_selected)
 
-soil_summarized <- soil_df_selected %>% group_by(DistrictId, DistrictName, BlockId, BlockName, Year) %>% 
+soil_summarized <- soil_df_selected %>% group_by(DistrictId, DistrictName, BlockId, BlockName, Year) %>%
     summarize(SoilPh = mean(as.numeric(SoilPh), na.rm = T),
               ElectricalConductivity = mean(ElectricalConductivity), OrganicCarbon=mean(OrganicCarbon),
                   Phosphorous = mean(Phosphorous), Potassium = mean(Potassium), Sulphur = mean(Sulphur), Zinc = mean(Zinc),
@@ -76,20 +76,23 @@ soil_summarized$BlockName[soil_summarized$BlockName=='Taoru'] <-'Tauru'
 
 
 # Get District and Block Ids from Master
-distric_master <- xlsx::read.xlsx("Dsitrict_Block_Masters.xlsx", sheetIndex = 1)
-block_master <- xlsx::read.xlsx("Dsitrict_Block_Masters.xlsx", sheetIndex = 2)
+distric_master <- read.csv("Dsitrict_Masters.csv")
+block_master <- read.csv("Block_Masters.csv")
 str(distric_master)
 str(block_master)
+colnames(distric_master) <-c("District.Id","District.Name")
+colnames(block_master) <-c("Block.Id","Block.Name")
 
 #Join with District Master 
 temp_df <-  soil_summarized %>% left_join(block_master, by = c("BlockName" = "Block.Name"))
 temp_df <-  temp_df %>% left_join(distric_master, by = c("DistrictName" = "District.Name"))
 
-
+str(temp_df)
 
 soil_summarized <- temp_df %>% select(District.Id, Block.Id, everything()) %>% select(-DistrictId, -DistrictName, -BlockId, -BlockName)
 head(soil_summarized)
 
-write.csv(soil_summarized, "Soil_Nutrient_Summarized.csv", row.names = F, col.names = T)
+write.csv(soil_summarized, "SoilNutrientDataExtracter/Soil_Nutrient_Summarized.csv", row.names = F)
 
+rm(list = ls())
 

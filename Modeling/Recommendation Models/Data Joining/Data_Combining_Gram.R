@@ -32,7 +32,7 @@ data_df <- soil_df %>% inner_join(weather_df, by = c("District.Id"="District.Id"
 data_df <- data_df %>% inner_join(water_df, by = c("District.Id"="District.Id","Year"="Year"))
 
 #3. Joi with Crop
-data_df <- data_df %>% inner_join(crop_df, by = c("District.Id"="District","Year"="Year"))
+data_df <- data_df %>% inner_join(crop_df, by = c("Block.Id"="Block","Year"="Year"))
 head(data_df)
 
 data_df$Month <- NULL

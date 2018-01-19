@@ -7,7 +7,7 @@ data_df <- read.csv("Modeling/Recommendation Models/Final Data/wheat_final.csv",
 
 str(data_df)
 
-data_df <- select(data_df, -District.Id, -Block.Id, -Year, -month)
+data_df <- select(data_df, -District.Id, -Block.Id, -Year, -month, -District)
 
 #Splitting into train and test, 80:20
 set.seed(12321)

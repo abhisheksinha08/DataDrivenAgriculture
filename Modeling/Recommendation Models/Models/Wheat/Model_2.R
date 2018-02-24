@@ -36,6 +36,7 @@ tc <- trainControl(method = "repeatedcv", number = 5, repeats = 3)
 rm2 <- train(y = y_train, x = x_train, method = "rf", trControl = tc, ntree=1500)
 
 plot(rm2)
+#RMSE: 0.5815
 
 
 #2. Neural Net
@@ -43,7 +44,7 @@ library(nnet)
 set.seed(123)
 tc <- trainControl(method = "repeatedcv", number = 5, repeats = 3)
 nn1 <- train(y = y_train, x = x_train, method = "nnet", trControl = tc, preProcess = c('center', 'scale'), verbose =T)
-
+#RMSE: 0.76
 
 
 
@@ -69,6 +70,7 @@ gbmFit2
 # Plot RMSE
 trellis.par.set(caretTheme())
 plot(gbmFit2)
+#RMSE: 0.62
 
 #Variable IMportance
 varImp(gbmFit2, scale = T)
@@ -89,3 +91,5 @@ bag_data <- learing_curve_dat(dat = train_df, outcome = "Yield",
 ggplot(bag_data, aes(x = Training_Size, y = RMSE, color = Data)) + 
     geom_smooth(method = loess, span = .8) + 
     theme_bw()
+
+#RMSE: 0.38 - BEST SO FAR

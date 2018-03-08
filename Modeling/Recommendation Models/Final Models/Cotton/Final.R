@@ -41,8 +41,9 @@ bag_data <- learing_curve_dat(dat = train_df, outcome = "Yield",
                               nbagg = 100)
 
 
-ggplot(bag_data, aes(x = Training_Size, y = RMSE, color = Data)) + 
+g<-ggplot(bag_data, aes(x = Training_Size, y = RMSE, color = Data)) + 
     geom_smooth(method = loess, span = .8) + 
     theme_bw()
-
+library(plotly)
+ggplotly(g)
 #RMSE: 0.36

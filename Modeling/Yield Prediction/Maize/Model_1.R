@@ -70,7 +70,7 @@ tc <- trainControl(method = "repeatedcv", number = 5, repeats = 3)
 
 #Learning Curve
 bag_data <- learing_curve_dat(dat = train_df, outcome = "Yield",
-                              test_prop = 1/4, 
+                              test_prop = 1/5, 
                               ## `train` arguments
                               method = "rf", 
                               trControl = tc,
@@ -94,3 +94,21 @@ rmse(y_test, predict(rf1, x_test))
 
 #Final Model
 finalModel <- rf1
+
+
+ggp <- function(expected, predicted, cropName){
+    
+    data<-as.data.frame(predicted)
+    data$expected <- expected
+    rownames(data)<-NULL
+    data$SampleNum <- as.integer(rownames(data))
+    
+    g <- ggplot(data, aes(x = SampleNum, group=1)) + 
+        geom_line(aes(y = expected, colour = "Expected")) + 
+        geom_line(aes(y = predicted, colour = "Predicted")) +
+        xlab("Sample Number") + ylab("Yield") + ggtitle(paste0(cropName, " Expected vs Predicted"))
+    ggsave(paste0("Plots/Expected_Predicted/",cropName,"_Exp_Pred.png"), plot = g)
+}
+
+
+ggp(y_test, predict(finalModel, x_test),"Maize")

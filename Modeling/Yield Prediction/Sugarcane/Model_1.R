@@ -112,3 +112,21 @@ gbmFit2
 
 #Final Model
 finalModel <- gbmFit2
+
+
+ggp <- function(expected, predicted, cropName){
+    
+    data<-as.data.frame(predicted)
+    data$expected <- expected
+    rownames(data)<-NULL
+    data$SampleNum <- as.integer(rownames(data))
+    
+    g <- ggplot(data, aes(x = SampleNum, group=1)) + 
+        geom_line(aes(y = expected, colour = "Expected")) + 
+        geom_line(aes(y = predicted, colour = "Predicted")) +
+        xlab("Sample Number") + ylab("Yield") + ggtitle(paste0(cropName, " Expected vs Predicted"))
+    ggsave(paste0("Plots/Expected_Predicted/",cropName,"_Exp_Pred.png"), plot = g)
+}
+
+
+ggp(y_test, predict(finalModel, x_test),"Sugarcane")
